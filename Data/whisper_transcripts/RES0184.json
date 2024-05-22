@@ -1,0 +1,4611 @@
+{
+    "text": "How may I help you? Hi there. So I've had this runny nose for the past five days, and it doesn't seem to be going away, so I thought I should get some help. OK. And with the runny nose, could you describe the discharge? Yeah, it's pretty clear. OK. And have you had any nasal obstruction or feeling as though one of your nostrils is plugged when you're breathing in? Yeah, I have that feeling. OK. Have you had any pain on your face? Pain? No, nothing like that. OK. How about a change to your sense of smell, like loss of smell? No, I haven't had that. No, I haven't. OK. Have you had any discharge from your eyes, or eye redness, or any eye pain? No. All right. Have you had a sore throat? No sore throat. Have you had a cough? No. OK. Have you had any headaches? Just a slight headache. OK. Have you experienced headaches like this in the past? Yeah, usually when I get sick, I get a headache. OK. OK. Describe where you feel the headache the most, and is it pulsating, or kind of always there? It's kind of always there. And it's just on the sides of my head. OK. Have you tried anything for it? Just some Tylenol, which seems to have helped. OK. And have you had a cough? No cough, like now. No, I did have a slight cough last week. OK, and it went away? Mm-hmm. Was it dry, or were you bringing up any sputum or phlegm? No, it was pretty dry. OK. And do you have a sore throat? No. OK. And have you had any wheezing or shortness of breath? No. OK. And have you had any chest pain? No. How about any fainting or dizziness? Oh, no, nothing like that. OK. Have you had any heart palpitations or feeling like your heart's racing? No. OK. And have you had any abdominal pain? I have had some, like, diarrhea. So I think my stomach hurt a little bit during that time, but I don't have that anymore. OK. When did you have diarrhea? Last week as well. OK. Was there any blood in the stool? No. OK. Have you had any changes to your urinary habits, like any pain or frequency? No. All right. And have you had any nausea or vomiting? No. How about any fevers or chills? I know. Have you had any night sweats? Nope, nothing like that. I see. OK. And have you had any weight loss recently? No. All right. Have you had any rashes or skin rashes? No. And how about any muscle aches or body pains? Oh, no. All right. And how has your energy been? Have you had fatigue? A little bit. OK, a little bit of fatigue. And how has your appetite been? Appetite's been OK. I'm still eating. All right. And have you been diagnosed with any medical conditions before? No. I've been pretty healthy. OK, great. And so do you take any medications regularly, either over-the-counter or prescribed? No. OK. And do you have any allergies? No, I don't. OK. And any hospitalizations in the past or any prior surgeries? No. Actually, I had my appendix taken out when I was younger, but that was a long time ago. OK, I see. And can you tell me about where you're living now and who you're living with? I'm living by myself. I'm a student. I live in an apartment. OK. And are you going to classes in person right now? No, they're all online. OK. And have you been around anybody who's been sick? No, not that I can think of. OK. Have you traveled anywhere recently? No. OK. And do you smoke cigarettes? I don't. And do you smoke cannabis or use any cannabis products? Occasionally, I will. OK. How often? I will maybe smoke once a week. OK. And do you use any recreational drugs like cocaine or opioids? Oh, gosh, no. OK. And do you drink alcohol? Yeah, occasionally. OK. How many drinks would you say you have per week? I'll have like a bottle of wine a week. OK. And are there any heart or lung conditions that run in the family? No. OK. How about any cancers? I think like colon cancer runs in the family. OK. All right. So that was everything that I think I wanted to ask about on the history today. I was wondering if there was anything else that you wanted to mention that I maybe forgot to ask about. No, nothing else. I was just wondering what I could do to feel better or make this go away. Yeah, certainly. So it sounds like you have the common cold or a viral illness, which it could be caused by something like adenovirus or there are others as well. However, the symptoms do overlap with covid as you can can be non-specific symptoms of just having kind of just like a runny nose like you do here. And so we will do a covid swab and await those results. But in the meantime, it's mostly supportive care. So it means just trying to stay hydrated, stay rested and just monitor your symptoms, because if things do get worse, it'll be important to go to the emergency room. OK. All right. So we'll get the swab now and get that testing started. OK, that sounds great. Thank you. Thank you.",
+    "duration": 554.2000122070312,
+    "words": [
+        {
+            "word": "How",
+            "start": 0.0,
+            "end": 0.20000000298023224
+        },
+        {
+            "word": "may",
+            "start": 0.20000000298023224,
+            "end": 0.36000001430511475
+        },
+        {
+            "word": "I",
+            "start": 0.36000001430511475,
+            "end": 0.6000000238418579
+        },
+        {
+            "word": "help",
+            "start": 0.6000000238418579,
+            "end": 0.6800000071525574
+        },
+        {
+            "word": "you",
+            "start": 0.6800000071525574,
+            "end": 1.0800000429153442
+        },
+        {
+            "word": "Hi",
+            "start": 2.5199999809265137,
+            "end": 2.5199999809265137
+        },
+        {
+            "word": "there",
+            "start": 2.5199999809265137,
+            "end": 2.9000000953674316
+        },
+        {
+            "word": "So",
+            "start": 3.2799999713897705,
+            "end": 3.700000047683716
+        },
+        {
+            "word": "I've",
+            "start": 3.700000047683716,
+            "end": 4.0
+        },
+        {
+            "word": "had",
+            "start": 4.0,
+            "end": 4.21999979019165
+        },
+        {
+            "word": "this",
+            "start": 4.21999979019165,
+            "end": 4.599999904632568
+        },
+        {
+            "word": "runny",
+            "start": 4.599999904632568,
+            "end": 5.099999904632568
+        },
+        {
+            "word": "nose",
+            "start": 5.099999904632568,
+            "end": 5.480000019073486
+        },
+        {
+            "word": "for",
+            "start": 5.480000019073486,
+            "end": 5.760000228881836
+        },
+        {
+            "word": "the",
+            "start": 5.760000228881836,
+            "end": 6.5
+        },
+        {
+            "word": "past",
+            "start": 6.5,
+            "end": 6.5
+        },
+        {
+            "word": "five",
+            "start": 6.5,
+            "end": 7.860000133514404
+        },
+        {
+            "word": "days",
+            "start": 7.860000133514404,
+            "end": 8.0600004196167
+        },
+        {
+            "word": "and",
+            "start": 8.0600004196167,
+            "end": 8.220000267028809
+        },
+        {
+            "word": "it",
+            "start": 8.220000267028809,
+            "end": 8.399999618530273
+        },
+        {
+            "word": "doesn't",
+            "start": 8.399999618530273,
+            "end": 8.619999885559082
+        },
+        {
+            "word": "seem",
+            "start": 8.619999885559082,
+            "end": 8.800000190734863
+        },
+        {
+            "word": "to",
+            "start": 8.800000190734863,
+            "end": 8.9399995803833
+        },
+        {
+            "word": "be",
+            "start": 8.9399995803833,
+            "end": 9.119999885559082
+        },
+        {
+            "word": "going",
+            "start": 9.119999885559082,
+            "end": 9.279999732971191
+        },
+        {
+            "word": "away",
+            "start": 9.279999732971191,
+            "end": 9.600000381469727
+        },
+        {
+            "word": "so",
+            "start": 9.699999809265137,
+            "end": 9.819999694824219
+        },
+        {
+            "word": "I",
+            "start": 9.819999694824219,
+            "end": 10.039999961853027
+        },
+        {
+            "word": "thought",
+            "start": 10.039999961853027,
+            "end": 10.0600004196167
+        },
+        {
+            "word": "I",
+            "start": 10.0600004196167,
+            "end": 10.199999809265137
+        },
+        {
+            "word": "should",
+            "start": 10.199999809265137,
+            "end": 10.34000015258789
+        },
+        {
+            "word": "get",
+            "start": 10.34000015258789,
+            "end": 10.5600004196167
+        },
+        {
+            "word": "some",
+            "start": 10.5600004196167,
+            "end": 10.819999694824219
+        },
+        {
+            "word": "help",
+            "start": 10.819999694824219,
+            "end": 11.260000228881836
+        },
+        {
+            "word": "OK",
+            "start": 12.859999656677246,
+            "end": 13.260000228881836
+        },
+        {
+            "word": "And",
+            "start": 13.859999656677246,
+            "end": 14.539999961853027
+        },
+        {
+            "word": "with",
+            "start": 14.539999961853027,
+            "end": 16.760000228881836
+        },
+        {
+            "word": "the",
+            "start": 16.760000228881836,
+            "end": 16.979999542236328
+        },
+        {
+            "word": "runny",
+            "start": 16.979999542236328,
+            "end": 17.139999389648438
+        },
+        {
+            "word": "nose",
+            "start": 17.139999389648438,
+            "end": 17.420000076293945
+        },
+        {
+            "word": "could",
+            "start": 17.540000915527344,
+            "end": 17.65999984741211
+        },
+        {
+            "word": "you",
+            "start": 17.65999984741211,
+            "end": 17.84000015258789
+        },
+        {
+            "word": "describe",
+            "start": 17.84000015258789,
+            "end": 18.18000030517578
+        },
+        {
+            "word": "the",
+            "start": 18.18000030517578,
+            "end": 18.579999923706055
+        },
+        {
+            "word": "discharge",
+            "start": 18.579999923706055,
+            "end": 18.8799991607666
+        },
+        {
+            "word": "Yeah",
+            "start": 20.260000228881836,
+            "end": 21.18000030517578
+        },
+        {
+            "word": "it's",
+            "start": 21.18000030517578,
+            "end": 21.520000457763672
+        },
+        {
+            "word": "pretty",
+            "start": 21.520000457763672,
+            "end": 21.739999771118164
+        },
+        {
+            "word": "clear",
+            "start": 21.739999771118164,
+            "end": 22.280000686645508
+        },
+        {
+            "word": "OK",
+            "start": 24.020000457763672,
+            "end": 24.639999389648438
+        },
+        {
+            "word": "And",
+            "start": 25.020000457763672,
+            "end": 26.31999969482422
+        },
+        {
+            "word": "have",
+            "start": 26.31999969482422,
+            "end": 26.520000457763672
+        },
+        {
+            "word": "you",
+            "start": 26.520000457763672,
+            "end": 26.65999984741211
+        },
+        {
+            "word": "had",
+            "start": 26.65999984741211,
+            "end": 26.899999618530273
+        },
+        {
+            "word": "any",
+            "start": 26.899999618530273,
+            "end": 27.799999237060547
+        },
+        {
+            "word": "nasal",
+            "start": 27.799999237060547,
+            "end": 28.6200008392334
+        },
+        {
+            "word": "obstruction",
+            "start": 28.6200008392334,
+            "end": 29.15999984741211
+        },
+        {
+            "word": "or",
+            "start": 29.15999984741211,
+            "end": 29.479999542236328
+        },
+        {
+            "word": "feeling",
+            "start": 29.479999542236328,
+            "end": 29.920000076293945
+        },
+        {
+            "word": "as",
+            "start": 29.920000076293945,
+            "end": 30.260000228881836
+        },
+        {
+            "word": "though",
+            "start": 30.260000228881836,
+            "end": 30.579999923706055
+        },
+        {
+            "word": "one",
+            "start": 30.579999923706055,
+            "end": 31.5
+        },
+        {
+            "word": "of",
+            "start": 31.5,
+            "end": 31.700000762939453
+        },
+        {
+            "word": "your",
+            "start": 31.700000762939453,
+            "end": 33.20000076293945
+        },
+        {
+            "word": "nostrils",
+            "start": 33.20000076293945,
+            "end": 33.58000183105469
+        },
+        {
+            "word": "is",
+            "start": 33.58000183105469,
+            "end": 34.2400016784668
+        },
+        {
+            "word": "plugged",
+            "start": 34.2400016784668,
+            "end": 34.2400016784668
+        },
+        {
+            "word": "when",
+            "start": 34.2400016784668,
+            "end": 34.84000015258789
+        },
+        {
+            "word": "you're",
+            "start": 34.84000015258789,
+            "end": 34.939998626708984
+        },
+        {
+            "word": "breathing",
+            "start": 34.939998626708984,
+            "end": 35.2400016784668
+        },
+        {
+            "word": "in",
+            "start": 35.2400016784668,
+            "end": 36.119998931884766
+        },
+        {
+            "word": "Yeah",
+            "start": 36.959999084472656,
+            "end": 37.65999984741211
+        },
+        {
+            "word": "I",
+            "start": 37.65999984741211,
+            "end": 38.599998474121094
+        },
+        {
+            "word": "have",
+            "start": 38.599998474121094,
+            "end": 38.7599983215332
+        },
+        {
+            "word": "that",
+            "start": 38.7599983215332,
+            "end": 39.20000076293945
+        },
+        {
+            "word": "feeling",
+            "start": 39.20000076293945,
+            "end": 39.5
+        },
+        {
+            "word": "OK",
+            "start": 40.380001068115234,
+            "end": 41.2599983215332
+        },
+        {
+            "word": "Have",
+            "start": 42.040000915527344,
+            "end": 42.68000030517578
+        },
+        {
+            "word": "you",
+            "start": 42.68000030517578,
+            "end": 42.7400016784668
+        },
+        {
+            "word": "had",
+            "start": 42.7400016784668,
+            "end": 42.959999084472656
+        },
+        {
+            "word": "any",
+            "start": 42.959999084472656,
+            "end": 43.279998779296875
+        },
+        {
+            "word": "pain",
+            "start": 43.279998779296875,
+            "end": 43.52000045776367
+        },
+        {
+            "word": "on",
+            "start": 43.52000045776367,
+            "end": 43.880001068115234
+        },
+        {
+            "word": "your",
+            "start": 43.880001068115234,
+            "end": 44.220001220703125
+        },
+        {
+            "word": "face",
+            "start": 44.220001220703125,
+            "end": 44.29999923706055
+        },
+        {
+            "word": "Pain",
+            "start": 45.79999923706055,
+            "end": 45.97999954223633
+        },
+        {
+            "word": "No",
+            "start": 46.20000076293945,
+            "end": 46.7400016784668
+        },
+        {
+            "word": "nothing",
+            "start": 46.84000015258789,
+            "end": 47.040000915527344
+        },
+        {
+            "word": "like",
+            "start": 47.040000915527344,
+            "end": 47.380001068115234
+        },
+        {
+            "word": "that",
+            "start": 47.380001068115234,
+            "end": 47.939998626708984
+        },
+        {
+            "word": "OK",
+            "start": 48.68000030517578,
+            "end": 49.720001220703125
+        },
+        {
+            "word": "How",
+            "start": 49.91999816894531,
+            "end": 50.18000030517578
+        },
+        {
+            "word": "about",
+            "start": 50.18000030517578,
+            "end": 50.29999923706055
+        },
+        {
+            "word": "a",
+            "start": 50.29999923706055,
+            "end": 50.47999954223633
+        },
+        {
+            "word": "change",
+            "start": 50.47999954223633,
+            "end": 50.720001220703125
+        },
+        {
+            "word": "to",
+            "start": 50.720001220703125,
+            "end": 51.0
+        },
+        {
+            "word": "your",
+            "start": 51.0,
+            "end": 51.2400016784668
+        },
+        {
+            "word": "sense",
+            "start": 51.2400016784668,
+            "end": 51.41999816894531
+        },
+        {
+            "word": "of",
+            "start": 51.41999816894531,
+            "end": 51.939998626708984
+        },
+        {
+            "word": "smell",
+            "start": 51.939998626708984,
+            "end": 51.939998626708984
+        },
+        {
+            "word": "like",
+            "start": 52.41999816894531,
+            "end": 52.779998779296875
+        },
+        {
+            "word": "loss",
+            "start": 52.779998779296875,
+            "end": 53.08000183105469
+        },
+        {
+            "word": "of",
+            "start": 53.08000183105469,
+            "end": 53.459999084472656
+        },
+        {
+            "word": "smell",
+            "start": 53.459999084472656,
+            "end": 53.459999084472656
+        },
+        {
+            "word": "No",
+            "start": 53.900001525878906,
+            "end": 54.939998626708984
+        },
+        {
+            "word": "I",
+            "start": 55.0,
+            "end": 55.31999969482422
+        },
+        {
+            "word": "haven't",
+            "start": 55.31999969482422,
+            "end": 55.41999816894531
+        },
+        {
+            "word": "had",
+            "start": 55.41999816894531,
+            "end": 55.63999938964844
+        },
+        {
+            "word": "that",
+            "start": 55.63999938964844,
+            "end": 56.02000045776367
+        },
+        {
+            "word": "No",
+            "start": 56.459999084472656,
+            "end": 57.220001220703125
+        },
+        {
+            "word": "I",
+            "start": 57.97999954223633,
+            "end": 57.97999954223633
+        },
+        {
+            "word": "haven't",
+            "start": 57.97999954223633,
+            "end": 57.97999954223633
+        },
+        {
+            "word": "OK",
+            "start": 57.97999954223633,
+            "end": 57.97999954223633
+        },
+        {
+            "word": "Have",
+            "start": 59.13999938964844,
+            "end": 60.86000061035156
+        },
+        {
+            "word": "you",
+            "start": 60.86000061035156,
+            "end": 60.97999954223633
+        },
+        {
+            "word": "had",
+            "start": 60.97999954223633,
+            "end": 61.220001220703125
+        },
+        {
+            "word": "any",
+            "start": 61.220001220703125,
+            "end": 61.560001373291016
+        },
+        {
+            "word": "discharge",
+            "start": 61.560001373291016,
+            "end": 63.880001068115234
+        },
+        {
+            "word": "from",
+            "start": 63.880001068115234,
+            "end": 64.0999984741211
+        },
+        {
+            "word": "your",
+            "start": 64.0999984741211,
+            "end": 64.5
+        },
+        {
+            "word": "eyes",
+            "start": 64.5,
+            "end": 64.69999694824219
+        },
+        {
+            "word": "or",
+            "start": 64.91999816894531,
+            "end": 65.22000122070312
+        },
+        {
+            "word": "eye",
+            "start": 65.22000122070312,
+            "end": 65.45999908447266
+        },
+        {
+            "word": "redness",
+            "start": 65.45999908447266,
+            "end": 65.95999908447266
+        },
+        {
+            "word": "or",
+            "start": 66.0999984741211,
+            "end": 66.18000030517578
+        },
+        {
+            "word": "any",
+            "start": 66.18000030517578,
+            "end": 66.4000015258789
+        },
+        {
+            "word": "eye",
+            "start": 66.4000015258789,
+            "end": 66.69999694824219
+        },
+        {
+            "word": "pain",
+            "start": 66.69999694824219,
+            "end": 66.94000244140625
+        },
+        {
+            "word": "No",
+            "start": 68.31999969482422,
+            "end": 68.91999816894531
+        },
+        {
+            "word": "All",
+            "start": 70.18000030517578,
+            "end": 70.9000015258789
+        },
+        {
+            "word": "right",
+            "start": 70.9000015258789,
+            "end": 70.9000015258789
+        },
+        {
+            "word": "Have",
+            "start": 71.36000061035156,
+            "end": 71.55999755859375
+        },
+        {
+            "word": "you",
+            "start": 71.55999755859375,
+            "end": 71.63999938964844
+        },
+        {
+            "word": "had",
+            "start": 71.63999938964844,
+            "end": 71.73999786376953
+        },
+        {
+            "word": "a",
+            "start": 71.73999786376953,
+            "end": 72.16000366210938
+        },
+        {
+            "word": "sore",
+            "start": 72.16000366210938,
+            "end": 72.16000366210938
+        },
+        {
+            "word": "throat",
+            "start": 72.16000366210938,
+            "end": 72.4000015258789
+        },
+        {
+            "word": "No",
+            "start": 74.04000091552734,
+            "end": 74.73999786376953
+        },
+        {
+            "word": "sore",
+            "start": 74.73999786376953,
+            "end": 74.9800033569336
+        },
+        {
+            "word": "throat",
+            "start": 74.9800033569336,
+            "end": 75.36000061035156
+        },
+        {
+            "word": "Have",
+            "start": 76.83999633789062,
+            "end": 77.04000091552734
+        },
+        {
+            "word": "you",
+            "start": 77.04000091552734,
+            "end": 77.18000030517578
+        },
+        {
+            "word": "had",
+            "start": 77.18000030517578,
+            "end": 77.31999969482422
+        },
+        {
+            "word": "a",
+            "start": 77.31999969482422,
+            "end": 77.86000061035156
+        },
+        {
+            "word": "cough",
+            "start": 77.86000061035156,
+            "end": 77.86000061035156
+        },
+        {
+            "word": "No",
+            "start": 79.5199966430664,
+            "end": 80.18000030517578
+        },
+        {
+            "word": "OK",
+            "start": 81.0,
+            "end": 82.33999633789062
+        },
+        {
+            "word": "Have",
+            "start": 84.22000122070312,
+            "end": 84.91999816894531
+        },
+        {
+            "word": "you",
+            "start": 84.91999816894531,
+            "end": 85.0
+        },
+        {
+            "word": "had",
+            "start": 85.0,
+            "end": 85.22000122070312
+        },
+        {
+            "word": "any",
+            "start": 85.22000122070312,
+            "end": 85.95999908447266
+        },
+        {
+            "word": "headaches",
+            "start": 85.95999908447266,
+            "end": 85.95999908447266
+        },
+        {
+            "word": "Just",
+            "start": 87.4000015258789,
+            "end": 88.0
+        },
+        {
+            "word": "a",
+            "start": 88.0,
+            "end": 88.62000274658203
+        },
+        {
+            "word": "slight",
+            "start": 88.62000274658203,
+            "end": 88.62000274658203
+        },
+        {
+            "word": "headache",
+            "start": 88.62000274658203,
+            "end": 89.13999938964844
+        },
+        {
+            "word": "OK",
+            "start": 91.23999786376953,
+            "end": 91.37999725341797
+        },
+        {
+            "word": "Have",
+            "start": 91.5999984741211,
+            "end": 92.0199966430664
+        },
+        {
+            "word": "you",
+            "start": 92.0199966430664,
+            "end": 92.18000030517578
+        },
+        {
+            "word": "experienced",
+            "start": 92.18000030517578,
+            "end": 92.66000366210938
+        },
+        {
+            "word": "headaches",
+            "start": 92.66000366210938,
+            "end": 92.94000244140625
+        },
+        {
+            "word": "like",
+            "start": 92.94000244140625,
+            "end": 93.22000122070312
+        },
+        {
+            "word": "this",
+            "start": 93.22000122070312,
+            "end": 93.44000244140625
+        },
+        {
+            "word": "in",
+            "start": 93.44000244140625,
+            "end": 93.54000091552734
+        },
+        {
+            "word": "the",
+            "start": 93.54000091552734,
+            "end": 93.95999908447266
+        },
+        {
+            "word": "past",
+            "start": 93.95999908447266,
+            "end": 93.95999908447266
+        },
+        {
+            "word": "Yeah",
+            "start": 94.81999969482422,
+            "end": 95.54000091552734
+        },
+        {
+            "word": "usually",
+            "start": 95.54000091552734,
+            "end": 96.05999755859375
+        },
+        {
+            "word": "when",
+            "start": 96.05999755859375,
+            "end": 96.27999877929688
+        },
+        {
+            "word": "I",
+            "start": 96.27999877929688,
+            "end": 96.44000244140625
+        },
+        {
+            "word": "get",
+            "start": 96.44000244140625,
+            "end": 96.68000030517578
+        },
+        {
+            "word": "sick",
+            "start": 96.68000030517578,
+            "end": 97.08000183105469
+        },
+        {
+            "word": "I",
+            "start": 97.08000183105469,
+            "end": 97.77999877929688
+        },
+        {
+            "word": "get",
+            "start": 97.77999877929688,
+            "end": 98.08000183105469
+        },
+        {
+            "word": "a",
+            "start": 98.08000183105469,
+            "end": 98.54000091552734
+        },
+        {
+            "word": "headache",
+            "start": 98.54000091552734,
+            "end": 98.91999816894531
+        },
+        {
+            "word": "OK",
+            "start": 100.63999938964844,
+            "end": 101.4800033569336
+        },
+        {
+            "word": "OK",
+            "start": 102.55999755859375,
+            "end": 104.12000274658203
+        },
+        {
+            "word": "Describe",
+            "start": 104.12000274658203,
+            "end": 104.30000305175781
+        },
+        {
+            "word": "where",
+            "start": 104.30000305175781,
+            "end": 104.5199966430664
+        },
+        {
+            "word": "you",
+            "start": 104.5199966430664,
+            "end": 104.66000366210938
+        },
+        {
+            "word": "feel",
+            "start": 104.66000366210938,
+            "end": 104.87999725341797
+        },
+        {
+            "word": "the",
+            "start": 104.87999725341797,
+            "end": 105.23999786376953
+        },
+        {
+            "word": "headache",
+            "start": 105.23999786376953,
+            "end": 105.23999786376953
+        },
+        {
+            "word": "the",
+            "start": 105.23999786376953,
+            "end": 105.45999908447266
+        },
+        {
+            "word": "most",
+            "start": 105.45999908447266,
+            "end": 105.72000122070312
+        },
+        {
+            "word": "and",
+            "start": 105.83999633789062,
+            "end": 106.19999694824219
+        },
+        {
+            "word": "is",
+            "start": 106.19999694824219,
+            "end": 106.68000030517578
+        },
+        {
+            "word": "it",
+            "start": 106.68000030517578,
+            "end": 107.16000366210938
+        },
+        {
+            "word": "pulsating",
+            "start": 107.16000366210938,
+            "end": 107.5
+        },
+        {
+            "word": "or",
+            "start": 107.73999786376953,
+            "end": 108.81999969482422
+        },
+        {
+            "word": "kind",
+            "start": 108.81999969482422,
+            "end": 109.72000122070312
+        },
+        {
+            "word": "of",
+            "start": 109.72000122070312,
+            "end": 109.83999633789062
+        },
+        {
+            "word": "always",
+            "start": 109.83999633789062,
+            "end": 110.0999984741211
+        },
+        {
+            "word": "there",
+            "start": 110.0999984741211,
+            "end": 110.41999816894531
+        },
+        {
+            "word": "It's",
+            "start": 110.87999725341797,
+            "end": 111.31999969482422
+        },
+        {
+            "word": "kind",
+            "start": 111.31999969482422,
+            "end": 111.55999755859375
+        },
+        {
+            "word": "of",
+            "start": 111.55999755859375,
+            "end": 111.77999877929688
+        },
+        {
+            "word": "always",
+            "start": 111.77999877929688,
+            "end": 112.0999984741211
+        },
+        {
+            "word": "there",
+            "start": 112.0999984741211,
+            "end": 112.31999969482422
+        },
+        {
+            "word": "And",
+            "start": 112.58000183105469,
+            "end": 113.26000213623047
+        },
+        {
+            "word": "it's",
+            "start": 113.26000213623047,
+            "end": 113.69999694824219
+        },
+        {
+            "word": "just",
+            "start": 113.69999694824219,
+            "end": 113.87999725341797
+        },
+        {
+            "word": "on",
+            "start": 113.87999725341797,
+            "end": 114.05999755859375
+        },
+        {
+            "word": "the",
+            "start": 114.05999755859375,
+            "end": 114.23999786376953
+        },
+        {
+            "word": "sides",
+            "start": 114.23999786376953,
+            "end": 114.45999908447266
+        },
+        {
+            "word": "of",
+            "start": 114.45999908447266,
+            "end": 114.62000274658203
+        },
+        {
+            "word": "my",
+            "start": 114.62000274658203,
+            "end": 114.86000061035156
+        },
+        {
+            "word": "head",
+            "start": 114.86000061035156,
+            "end": 115.33999633789062
+        },
+        {
+            "word": "OK",
+            "start": 117.26000213623047,
+            "end": 117.26000213623047
+        },
+        {
+            "word": "Have",
+            "start": 117.5,
+            "end": 117.63999938964844
+        },
+        {
+            "word": "you",
+            "start": 117.63999938964844,
+            "end": 117.73999786376953
+        },
+        {
+            "word": "tried",
+            "start": 117.73999786376953,
+            "end": 117.95999908447266
+        },
+        {
+            "word": "anything",
+            "start": 117.95999908447266,
+            "end": 118.27999877929688
+        },
+        {
+            "word": "for",
+            "start": 118.27999877929688,
+            "end": 118.58000183105469
+        },
+        {
+            "word": "it",
+            "start": 118.58000183105469,
+            "end": 119.19999694824219
+        },
+        {
+            "word": "Just",
+            "start": 119.5999984741211,
+            "end": 120.12000274658203
+        },
+        {
+            "word": "some",
+            "start": 120.12000274658203,
+            "end": 120.73999786376953
+        },
+        {
+            "word": "Tylenol",
+            "start": 120.73999786376953,
+            "end": 121.04000091552734
+        },
+        {
+            "word": "which",
+            "start": 121.04000091552734,
+            "end": 121.4000015258789
+        },
+        {
+            "word": "seems",
+            "start": 121.4000015258789,
+            "end": 121.72000122070312
+        },
+        {
+            "word": "to",
+            "start": 121.72000122070312,
+            "end": 121.91999816894531
+        },
+        {
+            "word": "have",
+            "start": 121.91999816894531,
+            "end": 122.27999877929688
+        },
+        {
+            "word": "helped",
+            "start": 122.27999877929688,
+            "end": 122.27999877929688
+        },
+        {
+            "word": "OK",
+            "start": 124.36000061035156,
+            "end": 124.66000366210938
+        },
+        {
+            "word": "And",
+            "start": 127.45999908447266,
+            "end": 128.13999938964844
+        },
+        {
+            "word": "have",
+            "start": 128.13999938964844,
+            "end": 132.39999389648438
+        },
+        {
+            "word": "you",
+            "start": 132.39999389648438,
+            "end": 132.55999755859375
+        },
+        {
+            "word": "had",
+            "start": 132.55999755859375,
+            "end": 132.67999267578125
+        },
+        {
+            "word": "a",
+            "start": 132.67999267578125,
+            "end": 134.5
+        },
+        {
+            "word": "cough",
+            "start": 134.5,
+            "end": 134.5
+        },
+        {
+            "word": "No",
+            "start": 136.10000610351562,
+            "end": 136.89999389648438
+        },
+        {
+            "word": "cough",
+            "start": 136.89999389648438,
+            "end": 137.67999267578125
+        },
+        {
+            "word": "like",
+            "start": 137.77999877929688,
+            "end": 138.39999389648438
+        },
+        {
+            "word": "now",
+            "start": 138.39999389648438,
+            "end": 138.82000732421875
+        },
+        {
+            "word": "No",
+            "start": 138.82000732421875,
+            "end": 138.89999389648438
+        },
+        {
+            "word": "I",
+            "start": 139.1199951171875,
+            "end": 139.63999938964844
+        },
+        {
+            "word": "did",
+            "start": 139.63999938964844,
+            "end": 139.82000732421875
+        },
+        {
+            "word": "have",
+            "start": 139.82000732421875,
+            "end": 140.10000610351562
+        },
+        {
+            "word": "a",
+            "start": 140.10000610351562,
+            "end": 140.4600067138672
+        },
+        {
+            "word": "slight",
+            "start": 140.4600067138672,
+            "end": 141.02000427246094
+        },
+        {
+            "word": "cough",
+            "start": 141.02000427246094,
+            "end": 141.0800018310547
+        },
+        {
+            "word": "last",
+            "start": 141.0800018310547,
+            "end": 141.52000427246094
+        },
+        {
+            "word": "week",
+            "start": 141.52000427246094,
+            "end": 143.0
+        },
+        {
+            "word": "OK",
+            "start": 143.55999755859375,
+            "end": 143.9600067138672
+        },
+        {
+            "word": "and",
+            "start": 144.13999938964844,
+            "end": 144.25999450683594
+        },
+        {
+            "word": "it",
+            "start": 144.25999450683594,
+            "end": 144.3800048828125
+        },
+        {
+            "word": "went",
+            "start": 144.3800048828125,
+            "end": 144.5
+        },
+        {
+            "word": "away",
+            "start": 144.5,
+            "end": 144.8000030517578
+        },
+        {
+            "word": "Mm",
+            "start": 145.27999877929688,
+            "end": 145.82000732421875
+        },
+        {
+            "word": "hmm",
+            "start": 145.82000732421875,
+            "end": 145.82000732421875
+        },
+        {
+            "word": "Was",
+            "start": 146.3000030517578,
+            "end": 146.3800048828125
+        },
+        {
+            "word": "it",
+            "start": 146.3800048828125,
+            "end": 146.6199951171875
+        },
+        {
+            "word": "dry",
+            "start": 146.6199951171875,
+            "end": 147.0
+        },
+        {
+            "word": "or",
+            "start": 147.1199951171875,
+            "end": 147.52000427246094
+        },
+        {
+            "word": "were",
+            "start": 147.52000427246094,
+            "end": 147.9600067138672
+        },
+        {
+            "word": "you",
+            "start": 147.9600067138672,
+            "end": 148.02000427246094
+        },
+        {
+            "word": "bringing",
+            "start": 148.02000427246094,
+            "end": 148.3000030517578
+        },
+        {
+            "word": "up",
+            "start": 148.3000030517578,
+            "end": 148.5399932861328
+        },
+        {
+            "word": "any",
+            "start": 148.5399932861328,
+            "end": 149.05999755859375
+        },
+        {
+            "word": "sputum",
+            "start": 149.05999755859375,
+            "end": 149.05999755859375
+        },
+        {
+            "word": "or",
+            "start": 149.05999755859375,
+            "end": 149.5
+        },
+        {
+            "word": "phlegm",
+            "start": 149.5,
+            "end": 149.5800018310547
+        },
+        {
+            "word": "No",
+            "start": 150.32000732421875,
+            "end": 150.66000366210938
+        },
+        {
+            "word": "it",
+            "start": 150.66000366210938,
+            "end": 150.82000732421875
+        },
+        {
+            "word": "was",
+            "start": 150.82000732421875,
+            "end": 150.82000732421875
+        },
+        {
+            "word": "pretty",
+            "start": 150.82000732421875,
+            "end": 151.05999755859375
+        },
+        {
+            "word": "dry",
+            "start": 151.05999755859375,
+            "end": 151.3800048828125
+        },
+        {
+            "word": "OK",
+            "start": 152.6199951171875,
+            "end": 153.67999267578125
+        },
+        {
+            "word": "And",
+            "start": 154.1999969482422,
+            "end": 157.0800018310547
+        },
+        {
+            "word": "do",
+            "start": 157.0800018310547,
+            "end": 158.6199951171875
+        },
+        {
+            "word": "you",
+            "start": 158.6199951171875,
+            "end": 158.6199951171875
+        },
+        {
+            "word": "have",
+            "start": 158.6199951171875,
+            "end": 158.77999877929688
+        },
+        {
+            "word": "a",
+            "start": 158.77999877929688,
+            "end": 159.16000366210938
+        },
+        {
+            "word": "sore",
+            "start": 159.16000366210938,
+            "end": 159.16000366210938
+        },
+        {
+            "word": "throat",
+            "start": 159.16000366210938,
+            "end": 159.44000244140625
+        },
+        {
+            "word": "No",
+            "start": 160.4600067138672,
+            "end": 161.0399932861328
+        },
+        {
+            "word": "OK",
+            "start": 161.4600067138672,
+            "end": 162.13999938964844
+        },
+        {
+            "word": "And",
+            "start": 162.22000122070312,
+            "end": 162.5
+        },
+        {
+            "word": "have",
+            "start": 162.5,
+            "end": 162.66000366210938
+        },
+        {
+            "word": "you",
+            "start": 162.66000366210938,
+            "end": 162.74000549316406
+        },
+        {
+            "word": "had",
+            "start": 162.74000549316406,
+            "end": 162.8800048828125
+        },
+        {
+            "word": "any",
+            "start": 162.8800048828125,
+            "end": 163.4199981689453
+        },
+        {
+            "word": "wheezing",
+            "start": 163.4199981689453,
+            "end": 163.4600067138672
+        },
+        {
+            "word": "or",
+            "start": 163.4600067138672,
+            "end": 163.74000549316406
+        },
+        {
+            "word": "shortness",
+            "start": 163.74000549316406,
+            "end": 164.05999755859375
+        },
+        {
+            "word": "of",
+            "start": 164.05999755859375,
+            "end": 164.4600067138672
+        },
+        {
+            "word": "breath",
+            "start": 164.4600067138672,
+            "end": 164.4600067138672
+        },
+        {
+            "word": "No",
+            "start": 164.83999633789062,
+            "end": 165.44000244140625
+        },
+        {
+            "word": "OK",
+            "start": 166.63999938964844,
+            "end": 167.32000732421875
+        },
+        {
+            "word": "And",
+            "start": 167.63999938964844,
+            "end": 168.32000732421875
+        },
+        {
+            "word": "have",
+            "start": 168.32000732421875,
+            "end": 168.6999969482422
+        },
+        {
+            "word": "you",
+            "start": 168.6999969482422,
+            "end": 168.83999633789062
+        },
+        {
+            "word": "had",
+            "start": 168.83999633789062,
+            "end": 169.02000427246094
+        },
+        {
+            "word": "any",
+            "start": 169.02000427246094,
+            "end": 169.3000030517578
+        },
+        {
+            "word": "chest",
+            "start": 169.3000030517578,
+            "end": 169.52000427246094
+        },
+        {
+            "word": "pain",
+            "start": 169.52000427246094,
+            "end": 169.77999877929688
+        },
+        {
+            "word": "No",
+            "start": 171.27999877929688,
+            "end": 171.39999389648438
+        },
+        {
+            "word": "How",
+            "start": 171.52000427246094,
+            "end": 172.74000549316406
+        },
+        {
+            "word": "about",
+            "start": 172.74000549316406,
+            "end": 173.0399932861328
+        },
+        {
+            "word": "any",
+            "start": 173.0399932861328,
+            "end": 173.36000061035156
+        },
+        {
+            "word": "fainting",
+            "start": 173.36000061035156,
+            "end": 174.77999877929688
+        },
+        {
+            "word": "or",
+            "start": 174.77999877929688,
+            "end": 175.17999267578125
+        },
+        {
+            "word": "dizziness",
+            "start": 175.17999267578125,
+            "end": 175.52000427246094
+        },
+        {
+            "word": "Oh",
+            "start": 176.6199951171875,
+            "end": 177.32000732421875
+        },
+        {
+            "word": "no",
+            "start": 177.32000732421875,
+            "end": 177.5399932861328
+        },
+        {
+            "word": "nothing",
+            "start": 177.60000610351562,
+            "end": 177.8000030517578
+        },
+        {
+            "word": "like",
+            "start": 177.8000030517578,
+            "end": 178.16000366210938
+        },
+        {
+            "word": "that",
+            "start": 178.16000366210938,
+            "end": 178.75999450683594
+        },
+        {
+            "word": "OK",
+            "start": 179.74000549316406,
+            "end": 180.13999938964844
+        },
+        {
+            "word": "Have",
+            "start": 180.13999938964844,
+            "end": 180.3800048828125
+        },
+        {
+            "word": "you",
+            "start": 180.3800048828125,
+            "end": 180.4600067138672
+        },
+        {
+            "word": "had",
+            "start": 180.4600067138672,
+            "end": 180.6199951171875
+        },
+        {
+            "word": "any",
+            "start": 180.6199951171875,
+            "end": 181.05999755859375
+        },
+        {
+            "word": "heart",
+            "start": 181.05999755859375,
+            "end": 181.33999633789062
+        },
+        {
+            "word": "palpitations",
+            "start": 181.33999633789062,
+            "end": 181.89999389648438
+        },
+        {
+            "word": "or",
+            "start": 181.89999389648438,
+            "end": 182.22000122070312
+        },
+        {
+            "word": "feeling",
+            "start": 182.22000122070312,
+            "end": 182.55999755859375
+        },
+        {
+            "word": "like",
+            "start": 182.55999755859375,
+            "end": 182.77999877929688
+        },
+        {
+            "word": "your",
+            "start": 182.77999877929688,
+            "end": 182.9199981689453
+        },
+        {
+            "word": "heart's",
+            "start": 182.9199981689453,
+            "end": 183.5
+        },
+        {
+            "word": "racing",
+            "start": 183.5,
+            "end": 183.5
+        },
+        {
+            "word": "No",
+            "start": 184.27999877929688,
+            "end": 185.0800018310547
+        },
+        {
+            "word": "OK",
+            "start": 186.67999267578125,
+            "end": 187.82000732421875
+        },
+        {
+            "word": "And",
+            "start": 187.83999633789062,
+            "end": 189.9600067138672
+        },
+        {
+            "word": "have",
+            "start": 189.9600067138672,
+            "end": 190.1199951171875
+        },
+        {
+            "word": "you",
+            "start": 190.1199951171875,
+            "end": 190.22000122070312
+        },
+        {
+            "word": "had",
+            "start": 190.22000122070312,
+            "end": 190.3800048828125
+        },
+        {
+            "word": "any",
+            "start": 190.3800048828125,
+            "end": 190.75999450683594
+        },
+        {
+            "word": "abdominal",
+            "start": 190.75999450683594,
+            "end": 191.0399932861328
+        },
+        {
+            "word": "pain",
+            "start": 191.0399932861328,
+            "end": 191.3800048828125
+        },
+        {
+            "word": "I",
+            "start": 193.82000732421875,
+            "end": 194.74000549316406
+        },
+        {
+            "word": "have",
+            "start": 194.74000549316406,
+            "end": 195.27999877929688
+        },
+        {
+            "word": "had",
+            "start": 195.27999877929688,
+            "end": 195.86000061035156
+        },
+        {
+            "word": "some",
+            "start": 195.86000061035156,
+            "end": 197.94000244140625
+        },
+        {
+            "word": "like",
+            "start": 197.94000244140625,
+            "end": 200.6999969482422
+        },
+        {
+            "word": "diarrhea",
+            "start": 200.6999969482422,
+            "end": 200.6999969482422
+        },
+        {
+            "word": "So",
+            "start": 201.9199981689453,
+            "end": 202.32000732421875
+        },
+        {
+            "word": "I",
+            "start": 202.32000732421875,
+            "end": 203.52000427246094
+        },
+        {
+            "word": "think",
+            "start": 203.52000427246094,
+            "end": 204.1199951171875
+        },
+        {
+            "word": "my",
+            "start": 204.1199951171875,
+            "end": 205.02000427246094
+        },
+        {
+            "word": "stomach",
+            "start": 205.02000427246094,
+            "end": 205.39999389648438
+        },
+        {
+            "word": "hurt",
+            "start": 205.39999389648438,
+            "end": 205.6199951171875
+        },
+        {
+            "word": "a",
+            "start": 205.6199951171875,
+            "end": 205.83999633789062
+        },
+        {
+            "word": "little",
+            "start": 205.83999633789062,
+            "end": 205.97999572753906
+        },
+        {
+            "word": "bit",
+            "start": 205.97999572753906,
+            "end": 206.4199981689453
+        },
+        {
+            "word": "during",
+            "start": 206.4199981689453,
+            "end": 206.6199951171875
+        },
+        {
+            "word": "that",
+            "start": 206.6199951171875,
+            "end": 206.8800048828125
+        },
+        {
+            "word": "time",
+            "start": 206.8800048828125,
+            "end": 207.3800048828125
+        },
+        {
+            "word": "but",
+            "start": 207.3800048828125,
+            "end": 207.83999633789062
+        },
+        {
+            "word": "I",
+            "start": 207.83999633789062,
+            "end": 207.9600067138672
+        },
+        {
+            "word": "don't",
+            "start": 207.9600067138672,
+            "end": 208.10000610351562
+        },
+        {
+            "word": "have",
+            "start": 208.10000610351562,
+            "end": 208.3000030517578
+        },
+        {
+            "word": "that",
+            "start": 208.3000030517578,
+            "end": 208.5
+        },
+        {
+            "word": "anymore",
+            "start": 208.5,
+            "end": 208.97999572753906
+        },
+        {
+            "word": "OK",
+            "start": 210.82000732421875,
+            "end": 211.67999267578125
+        },
+        {
+            "word": "When",
+            "start": 211.86000061035156,
+            "end": 212.66000366210938
+        },
+        {
+            "word": "did",
+            "start": 212.66000366210938,
+            "end": 212.8000030517578
+        },
+        {
+            "word": "you",
+            "start": 212.8000030517578,
+            "end": 212.9600067138672
+        },
+        {
+            "word": "have",
+            "start": 212.9600067138672,
+            "end": 213.63999938964844
+        },
+        {
+            "word": "diarrhea",
+            "start": 213.63999938964844,
+            "end": 213.63999938964844
+        },
+        {
+            "word": "Last",
+            "start": 215.60000610351562,
+            "end": 216.0399932861328
+        },
+        {
+            "word": "week",
+            "start": 216.0399932861328,
+            "end": 216.24000549316406
+        },
+        {
+            "word": "as",
+            "start": 216.24000549316406,
+            "end": 216.5800018310547
+        },
+        {
+            "word": "well",
+            "start": 216.5800018310547,
+            "end": 216.75999450683594
+        },
+        {
+            "word": "OK",
+            "start": 217.97999572753906,
+            "end": 218.5399932861328
+        },
+        {
+            "word": "Was",
+            "start": 220.13999938964844,
+            "end": 221.02000427246094
+        },
+        {
+            "word": "there",
+            "start": 221.02000427246094,
+            "end": 221.17999267578125
+        },
+        {
+            "word": "any",
+            "start": 221.17999267578125,
+            "end": 221.4600067138672
+        },
+        {
+            "word": "blood",
+            "start": 221.4600067138672,
+            "end": 221.60000610351562
+        },
+        {
+            "word": "in",
+            "start": 221.60000610351562,
+            "end": 221.75999450683594
+        },
+        {
+            "word": "the",
+            "start": 221.75999450683594,
+            "end": 221.97999572753906
+        },
+        {
+            "word": "stool",
+            "start": 221.97999572753906,
+            "end": 222.16000366210938
+        },
+        {
+            "word": "No",
+            "start": 224.8800048828125,
+            "end": 225.02000427246094
+        },
+        {
+            "word": "OK",
+            "start": 226.5399932861328,
+            "end": 226.5399932861328
+        },
+        {
+            "word": "Have",
+            "start": 226.86000061035156,
+            "end": 228.75999450683594
+        },
+        {
+            "word": "you",
+            "start": 228.75999450683594,
+            "end": 228.83999633789062
+        },
+        {
+            "word": "had",
+            "start": 228.83999633789062,
+            "end": 228.97999572753906
+        },
+        {
+            "word": "any",
+            "start": 228.97999572753906,
+            "end": 229.25999450683594
+        },
+        {
+            "word": "changes",
+            "start": 229.25999450683594,
+            "end": 229.5
+        },
+        {
+            "word": "to",
+            "start": 229.5,
+            "end": 229.8800048828125
+        },
+        {
+            "word": "your",
+            "start": 229.8800048828125,
+            "end": 230.72000122070312
+        },
+        {
+            "word": "urinary",
+            "start": 230.72000122070312,
+            "end": 230.72000122070312
+        },
+        {
+            "word": "habits",
+            "start": 230.72000122070312,
+            "end": 231.17999267578125
+        },
+        {
+            "word": "like",
+            "start": 231.17999267578125,
+            "end": 231.6199951171875
+        },
+        {
+            "word": "any",
+            "start": 231.6199951171875,
+            "end": 231.94000244140625
+        },
+        {
+            "word": "pain",
+            "start": 231.94000244140625,
+            "end": 232.39999389648438
+        },
+        {
+            "word": "or",
+            "start": 232.39999389648438,
+            "end": 233.67999267578125
+        },
+        {
+            "word": "frequency",
+            "start": 233.67999267578125,
+            "end": 234.17999267578125
+        },
+        {
+            "word": "No",
+            "start": 235.05999755859375,
+            "end": 235.74000549316406
+        },
+        {
+            "word": "All",
+            "start": 236.75999450683594,
+            "end": 237.77999877929688
+        },
+        {
+            "word": "right",
+            "start": 237.77999877929688,
+            "end": 237.97999572753906
+        },
+        {
+            "word": "And",
+            "start": 237.97999572753906,
+            "end": 238.24000549316406
+        },
+        {
+            "word": "have",
+            "start": 238.24000549316406,
+            "end": 238.33999633789062
+        },
+        {
+            "word": "you",
+            "start": 238.33999633789062,
+            "end": 238.44000244140625
+        },
+        {
+            "word": "had",
+            "start": 238.44000244140625,
+            "end": 238.5800018310547
+        },
+        {
+            "word": "any",
+            "start": 238.5800018310547,
+            "end": 239.05999755859375
+        },
+        {
+            "word": "nausea",
+            "start": 239.05999755859375,
+            "end": 239.17999267578125
+        },
+        {
+            "word": "or",
+            "start": 239.17999267578125,
+            "end": 239.66000366210938
+        },
+        {
+            "word": "vomiting",
+            "start": 239.66000366210938,
+            "end": 239.66000366210938
+        },
+        {
+            "word": "No",
+            "start": 240.89999389648438,
+            "end": 241.44000244140625
+        },
+        {
+            "word": "How",
+            "start": 242.33999633789062,
+            "end": 243.02000427246094
+        },
+        {
+            "word": "about",
+            "start": 243.02000427246094,
+            "end": 243.16000366210938
+        },
+        {
+            "word": "any",
+            "start": 243.16000366210938,
+            "end": 243.67999267578125
+        },
+        {
+            "word": "fevers",
+            "start": 243.67999267578125,
+            "end": 243.75999450683594
+        },
+        {
+            "word": "or",
+            "start": 243.75999450683594,
+            "end": 244.1999969482422
+        },
+        {
+            "word": "chills",
+            "start": 244.1999969482422,
+            "end": 244.47999572753906
+        },
+        {
+            "word": "I",
+            "start": 245.10000610351562,
+            "end": 245.94000244140625
+        },
+        {
+            "word": "know",
+            "start": 245.94000244140625,
+            "end": 246.27999877929688
+        },
+        {
+            "word": "Have",
+            "start": 246.67999267578125,
+            "end": 247.32000732421875
+        },
+        {
+            "word": "you",
+            "start": 247.32000732421875,
+            "end": 247.39999389648438
+        },
+        {
+            "word": "had",
+            "start": 247.39999389648438,
+            "end": 247.63999938964844
+        },
+        {
+            "word": "any",
+            "start": 247.63999938964844,
+            "end": 247.83999633789062
+        },
+        {
+            "word": "night",
+            "start": 247.83999633789062,
+            "end": 248.1199951171875
+        },
+        {
+            "word": "sweats",
+            "start": 248.1199951171875,
+            "end": 248.55999755859375
+        },
+        {
+            "word": "Nope",
+            "start": 249.9600067138672,
+            "end": 250.17999267578125
+        },
+        {
+            "word": "nothing",
+            "start": 250.24000549316406,
+            "end": 250.5800018310547
+        },
+        {
+            "word": "like",
+            "start": 250.5800018310547,
+            "end": 250.94000244140625
+        },
+        {
+            "word": "that",
+            "start": 250.94000244140625,
+            "end": 251.86000061035156
+        },
+        {
+            "word": "I",
+            "start": 252.4600067138672,
+            "end": 252.5800018310547
+        },
+        {
+            "word": "see",
+            "start": 252.5800018310547,
+            "end": 252.83999633789062
+        },
+        {
+            "word": "OK",
+            "start": 253.1199951171875,
+            "end": 253.52000427246094
+        },
+        {
+            "word": "And",
+            "start": 253.66000366210938,
+            "end": 253.83999633789062
+        },
+        {
+            "word": "have",
+            "start": 253.83999633789062,
+            "end": 254.0800018310547
+        },
+        {
+            "word": "you",
+            "start": 254.0800018310547,
+            "end": 254.17999267578125
+        },
+        {
+            "word": "had",
+            "start": 254.17999267578125,
+            "end": 254.33999633789062
+        },
+        {
+            "word": "any",
+            "start": 254.33999633789062,
+            "end": 254.74000549316406
+        },
+        {
+            "word": "weight",
+            "start": 254.74000549316406,
+            "end": 254.82000732421875
+        },
+        {
+            "word": "loss",
+            "start": 254.82000732421875,
+            "end": 255.13999938964844
+        },
+        {
+            "word": "recently",
+            "start": 255.13999938964844,
+            "end": 255.5800018310547
+        },
+        {
+            "word": "No",
+            "start": 256.6400146484375,
+            "end": 257.0
+        },
+        {
+            "word": "All",
+            "start": 257.9200134277344,
+            "end": 258.4200134277344
+        },
+        {
+            "word": "right",
+            "start": 258.4200134277344,
+            "end": 258.6000061035156
+        },
+        {
+            "word": "Have",
+            "start": 258.8999938964844,
+            "end": 260.20001220703125
+        },
+        {
+            "word": "you",
+            "start": 260.20001220703125,
+            "end": 260.2799987792969
+        },
+        {
+            "word": "had",
+            "start": 260.2799987792969,
+            "end": 260.44000244140625
+        },
+        {
+            "word": "any",
+            "start": 260.44000244140625,
+            "end": 260.70001220703125
+        },
+        {
+            "word": "rashes",
+            "start": 260.70001220703125,
+            "end": 261.0400085449219
+        },
+        {
+            "word": "or",
+            "start": 261.0400085449219,
+            "end": 262.0
+        },
+        {
+            "word": "skin",
+            "start": 262.0,
+            "end": 262.1600036621094
+        },
+        {
+            "word": "rashes",
+            "start": 262.1600036621094,
+            "end": 262.3599853515625
+        },
+        {
+            "word": "No",
+            "start": 263.3999938964844,
+            "end": 263.8800048828125
+        },
+        {
+            "word": "And",
+            "start": 264.7799987792969,
+            "end": 265.2799987792969
+        },
+        {
+            "word": "how",
+            "start": 265.2799987792969,
+            "end": 265.4800109863281
+        },
+        {
+            "word": "about",
+            "start": 265.4800109863281,
+            "end": 265.6400146484375
+        },
+        {
+            "word": "any",
+            "start": 265.6400146484375,
+            "end": 266.0
+        },
+        {
+            "word": "muscle",
+            "start": 266.0,
+            "end": 266.3399963378906
+        },
+        {
+            "word": "aches",
+            "start": 266.3399963378906,
+            "end": 266.6600036621094
+        },
+        {
+            "word": "or",
+            "start": 266.6600036621094,
+            "end": 267.20001220703125
+        },
+        {
+            "word": "body",
+            "start": 267.20001220703125,
+            "end": 267.6000061035156
+        },
+        {
+            "word": "pains",
+            "start": 267.6000061035156,
+            "end": 267.8999938964844
+        },
+        {
+            "word": "Oh",
+            "start": 268.5199890136719,
+            "end": 269.2799987792969
+        },
+        {
+            "word": "no",
+            "start": 269.2799987792969,
+            "end": 269.6199951171875
+        },
+        {
+            "word": "All",
+            "start": 270.3800048828125,
+            "end": 271.260009765625
+        },
+        {
+            "word": "right",
+            "start": 271.260009765625,
+            "end": 271.260009765625
+        },
+        {
+            "word": "And",
+            "start": 271.2799987792969,
+            "end": 272.0199890136719
+        },
+        {
+            "word": "how",
+            "start": 272.0199890136719,
+            "end": 272.9800109863281
+        },
+        {
+            "word": "has",
+            "start": 272.9800109863281,
+            "end": 273.1600036621094
+        },
+        {
+            "word": "your",
+            "start": 273.1600036621094,
+            "end": 273.3399963378906
+        },
+        {
+            "word": "energy",
+            "start": 273.3399963378906,
+            "end": 273.6000061035156
+        },
+        {
+            "word": "been",
+            "start": 273.6000061035156,
+            "end": 273.94000244140625
+        },
+        {
+            "word": "Have",
+            "start": 273.9800109863281,
+            "end": 274.1199951171875
+        },
+        {
+            "word": "you",
+            "start": 274.1199951171875,
+            "end": 274.20001220703125
+        },
+        {
+            "word": "had",
+            "start": 274.20001220703125,
+            "end": 274.3999938964844
+        },
+        {
+            "word": "fatigue",
+            "start": 274.3999938964844,
+            "end": 274.70001220703125
+        },
+        {
+            "word": "A",
+            "start": 275.8599853515625,
+            "end": 276.4599914550781
+        },
+        {
+            "word": "little",
+            "start": 276.4599914550781,
+            "end": 277.0199890136719
+        },
+        {
+            "word": "bit",
+            "start": 277.0199890136719,
+            "end": 278.1000061035156
+        },
+        {
+            "word": "OK",
+            "start": 279.239990234375,
+            "end": 279.239990234375
+        },
+        {
+            "word": "a",
+            "start": 279.4599914550781,
+            "end": 279.5799865722656
+        },
+        {
+            "word": "little",
+            "start": 279.5799865722656,
+            "end": 279.7200012207031
+        },
+        {
+            "word": "bit",
+            "start": 279.7200012207031,
+            "end": 279.9200134277344
+        },
+        {
+            "word": "of",
+            "start": 279.9200134277344,
+            "end": 280.32000732421875
+        },
+        {
+            "word": "fatigue",
+            "start": 280.32000732421875,
+            "end": 280.32000732421875
+        },
+        {
+            "word": "And",
+            "start": 280.5400085449219,
+            "end": 280.6400146484375
+        },
+        {
+            "word": "how",
+            "start": 280.6400146484375,
+            "end": 280.8999938964844
+        },
+        {
+            "word": "has",
+            "start": 280.8999938964844,
+            "end": 281.1000061035156
+        },
+        {
+            "word": "your",
+            "start": 281.1000061035156,
+            "end": 281.3800048828125
+        },
+        {
+            "word": "appetite",
+            "start": 281.3800048828125,
+            "end": 281.5799865722656
+        },
+        {
+            "word": "been",
+            "start": 281.5799865722656,
+            "end": 282.4200134277344
+        },
+        {
+            "word": "Appetite's",
+            "start": 283.1600036621094,
+            "end": 283.4599914550781
+        },
+        {
+            "word": "been",
+            "start": 283.4599914550781,
+            "end": 283.6000061035156
+        },
+        {
+            "word": "OK",
+            "start": 283.6000061035156,
+            "end": 284.0400085449219
+        },
+        {
+            "word": "I'm",
+            "start": 284.20001220703125,
+            "end": 284.3599853515625
+        },
+        {
+            "word": "still",
+            "start": 284.3599853515625,
+            "end": 284.70001220703125
+        },
+        {
+            "word": "eating",
+            "start": 284.70001220703125,
+            "end": 285.0799865722656
+        },
+        {
+            "word": "All",
+            "start": 286.760009765625,
+            "end": 286.9200134277344
+        },
+        {
+            "word": "right",
+            "start": 286.9200134277344,
+            "end": 287.1400146484375
+        },
+        {
+            "word": "And",
+            "start": 288.20001220703125,
+            "end": 288.55999755859375
+        },
+        {
+            "word": "have",
+            "start": 288.55999755859375,
+            "end": 292.17999267578125
+        },
+        {
+            "word": "you",
+            "start": 292.17999267578125,
+            "end": 292.32000732421875
+        },
+        {
+            "word": "been",
+            "start": 292.32000732421875,
+            "end": 292.5199890136719
+        },
+        {
+            "word": "diagnosed",
+            "start": 292.5199890136719,
+            "end": 292.7799987792969
+        },
+        {
+            "word": "with",
+            "start": 292.7799987792969,
+            "end": 293.1199951171875
+        },
+        {
+            "word": "any",
+            "start": 293.1199951171875,
+            "end": 293.6199951171875
+        },
+        {
+            "word": "medical",
+            "start": 293.6199951171875,
+            "end": 293.6199951171875
+        },
+        {
+            "word": "conditions",
+            "start": 293.6199951171875,
+            "end": 294.0400085449219
+        },
+        {
+            "word": "before",
+            "start": 294.0400085449219,
+            "end": 294.5199890136719
+        },
+        {
+            "word": "No",
+            "start": 296.0,
+            "end": 297.17999267578125
+        },
+        {
+            "word": "I've",
+            "start": 297.20001220703125,
+            "end": 297.4800109863281
+        },
+        {
+            "word": "been",
+            "start": 297.4800109863281,
+            "end": 297.5400085449219
+        },
+        {
+            "word": "pretty",
+            "start": 297.5400085449219,
+            "end": 297.82000732421875
+        },
+        {
+            "word": "healthy",
+            "start": 297.82000732421875,
+            "end": 298.2200012207031
+        },
+        {
+            "word": "OK",
+            "start": 299.70001220703125,
+            "end": 300.1000061035156
+        },
+        {
+            "word": "great",
+            "start": 300.1199951171875,
+            "end": 300.44000244140625
+        },
+        {
+            "word": "And",
+            "start": 300.760009765625,
+            "end": 301.3599853515625
+        },
+        {
+            "word": "so",
+            "start": 301.3599853515625,
+            "end": 301.8800048828125
+        },
+        {
+            "word": "do",
+            "start": 301.8800048828125,
+            "end": 301.9599914550781
+        },
+        {
+            "word": "you",
+            "start": 301.9599914550781,
+            "end": 302.0400085449219
+        },
+        {
+            "word": "take",
+            "start": 302.0400085449219,
+            "end": 302.2200012207031
+        },
+        {
+            "word": "any",
+            "start": 302.2200012207031,
+            "end": 302.4599914550781
+        },
+        {
+            "word": "medications",
+            "start": 302.4599914550781,
+            "end": 302.94000244140625
+        },
+        {
+            "word": "regularly",
+            "start": 302.94000244140625,
+            "end": 303.5199890136719
+        },
+        {
+            "word": "either",
+            "start": 303.8399963378906,
+            "end": 303.9800109863281
+        },
+        {
+            "word": "over",
+            "start": 303.9800109863281,
+            "end": 304.17999267578125
+        },
+        {
+            "word": "the",
+            "start": 304.17999267578125,
+            "end": 304.3599853515625
+        },
+        {
+            "word": "counter",
+            "start": 304.3599853515625,
+            "end": 304.6400146484375
+        },
+        {
+            "word": "or",
+            "start": 304.6400146484375,
+            "end": 305.05999755859375
+        },
+        {
+            "word": "prescribed",
+            "start": 305.05999755859375,
+            "end": 305.5199890136719
+        },
+        {
+            "word": "No",
+            "start": 306.1000061035156,
+            "end": 306.44000244140625
+        },
+        {
+            "word": "OK",
+            "start": 307.5199890136719,
+            "end": 308.0199890136719
+        },
+        {
+            "word": "And",
+            "start": 308.3999938964844,
+            "end": 308.6400146484375
+        },
+        {
+            "word": "do",
+            "start": 308.6400146484375,
+            "end": 308.760009765625
+        },
+        {
+            "word": "you",
+            "start": 308.760009765625,
+            "end": 308.79998779296875
+        },
+        {
+            "word": "have",
+            "start": 308.79998779296875,
+            "end": 308.94000244140625
+        },
+        {
+            "word": "any",
+            "start": 308.94000244140625,
+            "end": 309.3599853515625
+        },
+        {
+            "word": "allergies",
+            "start": 309.3599853515625,
+            "end": 309.6199951171875
+        },
+        {
+            "word": "No",
+            "start": 310.94000244140625,
+            "end": 311.6199951171875
+        },
+        {
+            "word": "I",
+            "start": 311.6199951171875,
+            "end": 311.8599853515625
+        },
+        {
+            "word": "don't",
+            "start": 311.8599853515625,
+            "end": 312.239990234375
+        },
+        {
+            "word": "OK",
+            "start": 313.79998779296875,
+            "end": 314.260009765625
+        },
+        {
+            "word": "And",
+            "start": 314.3599853515625,
+            "end": 314.8399963378906
+        },
+        {
+            "word": "any",
+            "start": 314.8399963378906,
+            "end": 315.9200134277344
+        },
+        {
+            "word": "hospitalizations",
+            "start": 315.9200134277344,
+            "end": 317.260009765625
+        },
+        {
+            "word": "in",
+            "start": 317.260009765625,
+            "end": 317.5
+        },
+        {
+            "word": "the",
+            "start": 317.5,
+            "end": 317.6600036621094
+        },
+        {
+            "word": "past",
+            "start": 317.6600036621094,
+            "end": 318.0
+        },
+        {
+            "word": "or",
+            "start": 318.0,
+            "end": 318.32000732421875
+        },
+        {
+            "word": "any",
+            "start": 318.32000732421875,
+            "end": 318.760009765625
+        },
+        {
+            "word": "prior",
+            "start": 318.760009765625,
+            "end": 318.8999938964844
+        },
+        {
+            "word": "surgeries",
+            "start": 318.8999938964844,
+            "end": 319.29998779296875
+        },
+        {
+            "word": "No",
+            "start": 320.4200134277344,
+            "end": 321.5799865722656
+        },
+        {
+            "word": "Actually",
+            "start": 321.6600036621094,
+            "end": 322.1199951171875
+        },
+        {
+            "word": "I",
+            "start": 322.1199951171875,
+            "end": 322.3800048828125
+        },
+        {
+            "word": "had",
+            "start": 322.3800048828125,
+            "end": 322.5
+        },
+        {
+            "word": "my",
+            "start": 322.5,
+            "end": 323.0199890136719
+        },
+        {
+            "word": "appendix",
+            "start": 323.0199890136719,
+            "end": 323.0400085449219
+        },
+        {
+            "word": "taken",
+            "start": 323.0400085449219,
+            "end": 323.3399963378906
+        },
+        {
+            "word": "out",
+            "start": 323.3399963378906,
+            "end": 323.5400085449219
+        },
+        {
+            "word": "when",
+            "start": 323.5400085449219,
+            "end": 323.67999267578125
+        },
+        {
+            "word": "I",
+            "start": 323.67999267578125,
+            "end": 323.7799987792969
+        },
+        {
+            "word": "was",
+            "start": 323.7799987792969,
+            "end": 324.1199951171875
+        },
+        {
+            "word": "younger",
+            "start": 324.1199951171875,
+            "end": 324.2200012207031
+        },
+        {
+            "word": "but",
+            "start": 324.2799987792969,
+            "end": 324.5400085449219
+        },
+        {
+            "word": "that",
+            "start": 324.5400085449219,
+            "end": 324.67999267578125
+        },
+        {
+            "word": "was",
+            "start": 324.67999267578125,
+            "end": 324.82000732421875
+        },
+        {
+            "word": "a",
+            "start": 324.82000732421875,
+            "end": 325.1199951171875
+        },
+        {
+            "word": "long",
+            "start": 325.1199951171875,
+            "end": 325.1199951171875
+        },
+        {
+            "word": "time",
+            "start": 325.1199951171875,
+            "end": 325.3599853515625
+        },
+        {
+            "word": "ago",
+            "start": 325.3599853515625,
+            "end": 325.6000061035156
+        },
+        {
+            "word": "OK",
+            "start": 326.3599853515625,
+            "end": 327.3999938964844
+        },
+        {
+            "word": "I",
+            "start": 327.44000244140625,
+            "end": 328.0
+        },
+        {
+            "word": "see",
+            "start": 328.0,
+            "end": 328.0
+        },
+        {
+            "word": "And",
+            "start": 331.94000244140625,
+            "end": 332.760009765625
+        },
+        {
+            "word": "can",
+            "start": 332.760009765625,
+            "end": 332.67999267578125
+        },
+        {
+            "word": "you",
+            "start": 332.67999267578125,
+            "end": 333.5799865722656
+        },
+        {
+            "word": "tell",
+            "start": 333.5799865722656,
+            "end": 333.70001220703125
+        },
+        {
+            "word": "me",
+            "start": 333.70001220703125,
+            "end": 333.8599853515625
+        },
+        {
+            "word": "about",
+            "start": 333.8599853515625,
+            "end": 334.0199890136719
+        },
+        {
+            "word": "where",
+            "start": 334.0199890136719,
+            "end": 334.20001220703125
+        },
+        {
+            "word": "you're",
+            "start": 334.20001220703125,
+            "end": 334.4200134277344
+        },
+        {
+            "word": "living",
+            "start": 334.4200134277344,
+            "end": 334.5799865722656
+        },
+        {
+            "word": "now",
+            "start": 334.5799865722656,
+            "end": 334.94000244140625
+        },
+        {
+            "word": "and",
+            "start": 334.94000244140625,
+            "end": 335.1600036621094
+        },
+        {
+            "word": "who",
+            "start": 335.1600036621094,
+            "end": 335.2799987792969
+        },
+        {
+            "word": "you're",
+            "start": 335.2799987792969,
+            "end": 335.55999755859375
+        },
+        {
+            "word": "living",
+            "start": 335.55999755859375,
+            "end": 335.55999755859375
+        },
+        {
+            "word": "with",
+            "start": 335.55999755859375,
+            "end": 336.4200134277344
+        },
+        {
+            "word": "I'm",
+            "start": 337.44000244140625,
+            "end": 338.260009765625
+        },
+        {
+            "word": "living",
+            "start": 338.260009765625,
+            "end": 338.8999938964844
+        },
+        {
+            "word": "by",
+            "start": 338.8999938964844,
+            "end": 341.0400085449219
+        },
+        {
+            "word": "myself",
+            "start": 341.0400085449219,
+            "end": 341.4800109863281
+        },
+        {
+            "word": "I'm",
+            "start": 341.67999267578125,
+            "end": 341.7799987792969
+        },
+        {
+            "word": "a",
+            "start": 341.7799987792969,
+            "end": 342.5
+        },
+        {
+            "word": "student",
+            "start": 342.5,
+            "end": 342.5
+        },
+        {
+            "word": "I",
+            "start": 343.0,
+            "end": 343.0
+        },
+        {
+            "word": "live",
+            "start": 343.0,
+            "end": 343.1000061035156
+        },
+        {
+            "word": "in",
+            "start": 343.1000061035156,
+            "end": 343.2200012207031
+        },
+        {
+            "word": "an",
+            "start": 343.2200012207031,
+            "end": 344.1600036621094
+        },
+        {
+            "word": "apartment",
+            "start": 344.1600036621094,
+            "end": 344.1600036621094
+        },
+        {
+            "word": "OK",
+            "start": 345.9599914550781,
+            "end": 346.6600036621094
+        },
+        {
+            "word": "And",
+            "start": 347.17999267578125,
+            "end": 347.67999267578125
+        },
+        {
+            "word": "are",
+            "start": 347.67999267578125,
+            "end": 347.82000732421875
+        },
+        {
+            "word": "you",
+            "start": 347.82000732421875,
+            "end": 348.0
+        },
+        {
+            "word": "going",
+            "start": 348.0,
+            "end": 348.2799987792969
+        },
+        {
+            "word": "to",
+            "start": 348.2799987792969,
+            "end": 349.1600036621094
+        },
+        {
+            "word": "classes",
+            "start": 349.1600036621094,
+            "end": 349.4599914550781
+        },
+        {
+            "word": "in",
+            "start": 349.4599914550781,
+            "end": 350.0199890136719
+        },
+        {
+            "word": "person",
+            "start": 350.0199890136719,
+            "end": 350.0199890136719
+        },
+        {
+            "word": "right",
+            "start": 350.0199890136719,
+            "end": 350.2799987792969
+        },
+        {
+            "word": "now",
+            "start": 350.2799987792969,
+            "end": 350.4800109863281
+        },
+        {
+            "word": "No",
+            "start": 351.05999755859375,
+            "end": 351.4800109863281
+        },
+        {
+            "word": "they're",
+            "start": 351.4800109863281,
+            "end": 351.739990234375
+        },
+        {
+            "word": "all",
+            "start": 351.739990234375,
+            "end": 352.0799865722656
+        },
+        {
+            "word": "online",
+            "start": 352.0799865722656,
+            "end": 352.4800109863281
+        },
+        {
+            "word": "OK",
+            "start": 353.3999938964844,
+            "end": 353.9200134277344
+        },
+        {
+            "word": "And",
+            "start": 356.94000244140625,
+            "end": 357.739990234375
+        },
+        {
+            "word": "have",
+            "start": 357.739990234375,
+            "end": 358.3800048828125
+        },
+        {
+            "word": "you",
+            "start": 358.3800048828125,
+            "end": 358.5400085449219
+        },
+        {
+            "word": "been",
+            "start": 358.5400085449219,
+            "end": 358.7200012207031
+        },
+        {
+            "word": "around",
+            "start": 358.7200012207031,
+            "end": 359.0
+        },
+        {
+            "word": "anybody",
+            "start": 359.0,
+            "end": 359.3999938964844
+        },
+        {
+            "word": "who's",
+            "start": 359.3999938964844,
+            "end": 359.70001220703125
+        },
+        {
+            "word": "been",
+            "start": 359.70001220703125,
+            "end": 359.94000244140625
+        },
+        {
+            "word": "sick",
+            "start": 359.94000244140625,
+            "end": 360.239990234375
+        },
+        {
+            "word": "No",
+            "start": 361.4599914550781,
+            "end": 361.6000061035156
+        },
+        {
+            "word": "not",
+            "start": 361.7799987792969,
+            "end": 362.29998779296875
+        },
+        {
+            "word": "that",
+            "start": 362.29998779296875,
+            "end": 362.44000244140625
+        },
+        {
+            "word": "I",
+            "start": 362.44000244140625,
+            "end": 362.55999755859375
+        },
+        {
+            "word": "can",
+            "start": 362.55999755859375,
+            "end": 362.760009765625
+        },
+        {
+            "word": "think",
+            "start": 362.760009765625,
+            "end": 362.9800109863281
+        },
+        {
+            "word": "of",
+            "start": 362.9800109863281,
+            "end": 364.0400085449219
+        },
+        {
+            "word": "OK",
+            "start": 364.4599914550781,
+            "end": 365.1199951171875
+        },
+        {
+            "word": "Have",
+            "start": 365.6400146484375,
+            "end": 366.17999267578125
+        },
+        {
+            "word": "you",
+            "start": 366.17999267578125,
+            "end": 366.3800048828125
+        },
+        {
+            "word": "traveled",
+            "start": 366.3800048828125,
+            "end": 366.6400146484375
+        },
+        {
+            "word": "anywhere",
+            "start": 366.6400146484375,
+            "end": 367.0799865722656
+        },
+        {
+            "word": "recently",
+            "start": 367.0799865722656,
+            "end": 367.4800109863281
+        },
+        {
+            "word": "No",
+            "start": 368.17999267578125,
+            "end": 369.1000061035156
+        },
+        {
+            "word": "OK",
+            "start": 370.4800109863281,
+            "end": 371.0799865722656
+        },
+        {
+            "word": "And",
+            "start": 371.3800048828125,
+            "end": 372.9800109863281
+        },
+        {
+            "word": "do",
+            "start": 372.9800109863281,
+            "end": 373.1400146484375
+        },
+        {
+            "word": "you",
+            "start": 373.1400146484375,
+            "end": 373.3599853515625
+        },
+        {
+            "word": "smoke",
+            "start": 373.3599853515625,
+            "end": 373.44000244140625
+        },
+        {
+            "word": "cigarettes",
+            "start": 373.44000244140625,
+            "end": 373.94000244140625
+        },
+        {
+            "word": "I",
+            "start": 374.6000061035156,
+            "end": 375.5199890136719
+        },
+        {
+            "word": "don't",
+            "start": 375.5199890136719,
+            "end": 375.8399963378906
+        },
+        {
+            "word": "And",
+            "start": 376.9599914550781,
+            "end": 377.5
+        },
+        {
+            "word": "do",
+            "start": 377.5,
+            "end": 378.32000732421875
+        },
+        {
+            "word": "you",
+            "start": 378.32000732421875,
+            "end": 378.3999938964844
+        },
+        {
+            "word": "smoke",
+            "start": 378.3999938964844,
+            "end": 378.5799865722656
+        },
+        {
+            "word": "cannabis",
+            "start": 378.5799865722656,
+            "end": 378.82000732421875
+        },
+        {
+            "word": "or",
+            "start": 378.82000732421875,
+            "end": 379.17999267578125
+        },
+        {
+            "word": "use",
+            "start": 379.17999267578125,
+            "end": 379.3800048828125
+        },
+        {
+            "word": "any",
+            "start": 379.3800048828125,
+            "end": 379.9800109863281
+        },
+        {
+            "word": "cannabis",
+            "start": 379.9800109863281,
+            "end": 379.9800109863281
+        },
+        {
+            "word": "products",
+            "start": 379.9800109863281,
+            "end": 380.5
+        },
+        {
+            "word": "Occasionally",
+            "start": 381.70001220703125,
+            "end": 382.6199951171875
+        },
+        {
+            "word": "I",
+            "start": 382.6199951171875,
+            "end": 382.8999938964844
+        },
+        {
+            "word": "will",
+            "start": 382.8999938964844,
+            "end": 383.2799987792969
+        },
+        {
+            "word": "OK",
+            "start": 384.79998779296875,
+            "end": 384.79998779296875
+        },
+        {
+            "word": "How",
+            "start": 384.9599914550781,
+            "end": 385.29998779296875
+        },
+        {
+            "word": "often",
+            "start": 385.29998779296875,
+            "end": 385.70001220703125
+        },
+        {
+            "word": "I",
+            "start": 387.20001220703125,
+            "end": 388.0799865722656
+        },
+        {
+            "word": "will",
+            "start": 388.0799865722656,
+            "end": 388.8599853515625
+        },
+        {
+            "word": "maybe",
+            "start": 388.8599853515625,
+            "end": 389.8399963378906
+        },
+        {
+            "word": "smoke",
+            "start": 389.8399963378906,
+            "end": 389.9200134277344
+        },
+        {
+            "word": "once",
+            "start": 389.9200134277344,
+            "end": 390.1400146484375
+        },
+        {
+            "word": "a",
+            "start": 390.1400146484375,
+            "end": 390.82000732421875
+        },
+        {
+            "word": "week",
+            "start": 390.82000732421875,
+            "end": 390.82000732421875
+        },
+        {
+            "word": "OK",
+            "start": 392.5199890136719,
+            "end": 392.8399963378906
+        },
+        {
+            "word": "And",
+            "start": 393.32000732421875,
+            "end": 395.0
+        },
+        {
+            "word": "do",
+            "start": 395.0,
+            "end": 395.3599853515625
+        },
+        {
+            "word": "you",
+            "start": 395.3599853515625,
+            "end": 395.3599853515625
+        },
+        {
+            "word": "use",
+            "start": 395.3599853515625,
+            "end": 395.5400085449219
+        },
+        {
+            "word": "any",
+            "start": 395.5400085449219,
+            "end": 396.32000732421875
+        },
+        {
+            "word": "recreational",
+            "start": 396.32000732421875,
+            "end": 396.739990234375
+        },
+        {
+            "word": "drugs",
+            "start": 396.739990234375,
+            "end": 397.260009765625
+        },
+        {
+            "word": "like",
+            "start": 397.260009765625,
+            "end": 397.55999755859375
+        },
+        {
+            "word": "cocaine",
+            "start": 397.55999755859375,
+            "end": 398.05999755859375
+        },
+        {
+            "word": "or",
+            "start": 398.05999755859375,
+            "end": 398.8800048828125
+        },
+        {
+            "word": "opioids",
+            "start": 398.8800048828125,
+            "end": 399.29998779296875
+        },
+        {
+            "word": "Oh",
+            "start": 399.8599853515625,
+            "end": 400.20001220703125
+        },
+        {
+            "word": "gosh",
+            "start": 400.20001220703125,
+            "end": 400.4800109863281
+        },
+        {
+            "word": "no",
+            "start": 400.4800109863281,
+            "end": 400.9200134277344
+        },
+        {
+            "word": "OK",
+            "start": 403.3999938964844,
+            "end": 404.0
+        },
+        {
+            "word": "And",
+            "start": 404.3999938964844,
+            "end": 405.20001220703125
+        },
+        {
+            "word": "do",
+            "start": 405.20001220703125,
+            "end": 406.6000061035156
+        },
+        {
+            "word": "you",
+            "start": 406.6000061035156,
+            "end": 406.67999267578125
+        },
+        {
+            "word": "drink",
+            "start": 406.67999267578125,
+            "end": 406.8399963378906
+        },
+        {
+            "word": "alcohol",
+            "start": 406.8399963378906,
+            "end": 407.05999755859375
+        },
+        {
+            "word": "Yeah",
+            "start": 408.3399963378906,
+            "end": 409.17999267578125
+        },
+        {
+            "word": "occasionally",
+            "start": 409.2200012207031,
+            "end": 410.239990234375
+        },
+        {
+            "word": "OK",
+            "start": 412.239990234375,
+            "end": 412.3399963378906
+        },
+        {
+            "word": "How",
+            "start": 412.44000244140625,
+            "end": 412.739990234375
+        },
+        {
+            "word": "many",
+            "start": 412.739990234375,
+            "end": 412.9800109863281
+        },
+        {
+            "word": "drinks",
+            "start": 412.9800109863281,
+            "end": 413.239990234375
+        },
+        {
+            "word": "would",
+            "start": 413.239990234375,
+            "end": 413.5400085449219
+        },
+        {
+            "word": "you",
+            "start": 413.5400085449219,
+            "end": 413.70001220703125
+        },
+        {
+            "word": "say",
+            "start": 413.70001220703125,
+            "end": 413.9800109863281
+        },
+        {
+            "word": "you",
+            "start": 413.9800109863281,
+            "end": 414.5199890136719
+        },
+        {
+            "word": "have",
+            "start": 414.5199890136719,
+            "end": 414.8399963378906
+        },
+        {
+            "word": "per",
+            "start": 414.8399963378906,
+            "end": 415.4599914550781
+        },
+        {
+            "word": "week",
+            "start": 415.4599914550781,
+            "end": 415.8800048828125
+        },
+        {
+            "word": "I'll",
+            "start": 416.94000244140625,
+            "end": 417.79998779296875
+        },
+        {
+            "word": "have",
+            "start": 417.79998779296875,
+            "end": 417.9200134277344
+        },
+        {
+            "word": "like",
+            "start": 417.9200134277344,
+            "end": 418.6600036621094
+        },
+        {
+            "word": "a",
+            "start": 418.6600036621094,
+            "end": 419.05999755859375
+        },
+        {
+            "word": "bottle",
+            "start": 419.05999755859375,
+            "end": 419.17999267578125
+        },
+        {
+            "word": "of",
+            "start": 419.17999267578125,
+            "end": 419.70001220703125
+        },
+        {
+            "word": "wine",
+            "start": 419.70001220703125,
+            "end": 419.70001220703125
+        },
+        {
+            "word": "a",
+            "start": 419.70001220703125,
+            "end": 420.29998779296875
+        },
+        {
+            "word": "week",
+            "start": 420.29998779296875,
+            "end": 420.29998779296875
+        },
+        {
+            "word": "OK",
+            "start": 421.6600036621094,
+            "end": 422.29998779296875
+        },
+        {
+            "word": "And",
+            "start": 422.9800109863281,
+            "end": 424.7200012207031
+        },
+        {
+            "word": "are",
+            "start": 424.7200012207031,
+            "end": 425.3800048828125
+        },
+        {
+            "word": "there",
+            "start": 425.3800048828125,
+            "end": 425.5400085449219
+        },
+        {
+            "word": "any",
+            "start": 425.5400085449219,
+            "end": 425.9599914550781
+        },
+        {
+            "word": "heart",
+            "start": 425.9599914550781,
+            "end": 426.3800048828125
+        },
+        {
+            "word": "or",
+            "start": 426.3800048828125,
+            "end": 426.760009765625
+        },
+        {
+            "word": "lung",
+            "start": 426.760009765625,
+            "end": 426.760009765625
+        },
+        {
+            "word": "conditions",
+            "start": 426.760009765625,
+            "end": 427.1600036621094
+        },
+        {
+            "word": "that",
+            "start": 427.1600036621094,
+            "end": 427.760009765625
+        },
+        {
+            "word": "run",
+            "start": 427.760009765625,
+            "end": 428.8399963378906
+        },
+        {
+            "word": "in",
+            "start": 428.8399963378906,
+            "end": 428.94000244140625
+        },
+        {
+            "word": "the",
+            "start": 428.94000244140625,
+            "end": 429.0400085449219
+        },
+        {
+            "word": "family",
+            "start": 429.0400085449219,
+            "end": 429.239990234375
+        },
+        {
+            "word": "No",
+            "start": 429.9599914550781,
+            "end": 431.1400146484375
+        },
+        {
+            "word": "OK",
+            "start": 432.6400146484375,
+            "end": 433.2200012207031
+        },
+        {
+            "word": "How",
+            "start": 433.94000244140625,
+            "end": 434.5400085449219
+        },
+        {
+            "word": "about",
+            "start": 434.5400085449219,
+            "end": 434.760009765625
+        },
+        {
+            "word": "any",
+            "start": 434.760009765625,
+            "end": 435.05999755859375
+        },
+        {
+            "word": "cancers",
+            "start": 435.05999755859375,
+            "end": 435.6199951171875
+        },
+        {
+            "word": "I",
+            "start": 438.0199890136719,
+            "end": 438.8599853515625
+        },
+        {
+            "word": "think",
+            "start": 438.8599853515625,
+            "end": 439.2799987792969
+        },
+        {
+            "word": "like",
+            "start": 439.2799987792969,
+            "end": 439.9599914550781
+        },
+        {
+            "word": "colon",
+            "start": 439.9599914550781,
+            "end": 440.94000244140625
+        },
+        {
+            "word": "cancer",
+            "start": 440.94000244140625,
+            "end": 441.3999938964844
+        },
+        {
+            "word": "runs",
+            "start": 441.3999938964844,
+            "end": 441.6600036621094
+        },
+        {
+            "word": "in",
+            "start": 441.6600036621094,
+            "end": 441.7799987792969
+        },
+        {
+            "word": "the",
+            "start": 441.7799987792969,
+            "end": 441.8999938964844
+        },
+        {
+            "word": "family",
+            "start": 441.8999938964844,
+            "end": 442.4800109863281
+        },
+        {
+            "word": "OK",
+            "start": 444.7200012207031,
+            "end": 444.7200012207031
+        },
+        {
+            "word": "All",
+            "start": 446.6000061035156,
+            "end": 449.17999267578125
+        },
+        {
+            "word": "right",
+            "start": 449.17999267578125,
+            "end": 449.2799987792969
+        },
+        {
+            "word": "So",
+            "start": 449.2799987792969,
+            "end": 449.4200134277344
+        },
+        {
+            "word": "that",
+            "start": 449.4200134277344,
+            "end": 449.6000061035156
+        },
+        {
+            "word": "was",
+            "start": 449.6000061035156,
+            "end": 449.8599853515625
+        },
+        {
+            "word": "everything",
+            "start": 449.8599853515625,
+            "end": 450.2200012207031
+        },
+        {
+            "word": "that",
+            "start": 450.2200012207031,
+            "end": 450.44000244140625
+        },
+        {
+            "word": "I",
+            "start": 450.44000244140625,
+            "end": 450.5199890136719
+        },
+        {
+            "word": "think",
+            "start": 450.5199890136719,
+            "end": 450.70001220703125
+        },
+        {
+            "word": "I",
+            "start": 450.70001220703125,
+            "end": 450.9200134277344
+        },
+        {
+            "word": "wanted",
+            "start": 450.9200134277344,
+            "end": 451.05999755859375
+        },
+        {
+            "word": "to",
+            "start": 451.05999755859375,
+            "end": 451.8999938964844
+        },
+        {
+            "word": "ask",
+            "start": 451.8999938964844,
+            "end": 452.17999267578125
+        },
+        {
+            "word": "about",
+            "start": 452.17999267578125,
+            "end": 452.5799865722656
+        },
+        {
+            "word": "on",
+            "start": 452.5799865722656,
+            "end": 453.239990234375
+        },
+        {
+            "word": "the",
+            "start": 453.239990234375,
+            "end": 453.5
+        },
+        {
+            "word": "history",
+            "start": 453.5,
+            "end": 453.79998779296875
+        },
+        {
+            "word": "today",
+            "start": 453.79998779296875,
+            "end": 454.3999938964844
+        },
+        {
+            "word": "I",
+            "start": 454.94000244140625,
+            "end": 455.5799865722656
+        },
+        {
+            "word": "was",
+            "start": 455.5799865722656,
+            "end": 455.760009765625
+        },
+        {
+            "word": "wondering",
+            "start": 455.760009765625,
+            "end": 456.0
+        },
+        {
+            "word": "if",
+            "start": 456.0,
+            "end": 456.9800109863281
+        },
+        {
+            "word": "there",
+            "start": 456.9800109863281,
+            "end": 457.1199951171875
+        },
+        {
+            "word": "was",
+            "start": 457.1199951171875,
+            "end": 457.29998779296875
+        },
+        {
+            "word": "anything",
+            "start": 457.29998779296875,
+            "end": 457.5400085449219
+        },
+        {
+            "word": "else",
+            "start": 457.5400085449219,
+            "end": 457.739990234375
+        },
+        {
+            "word": "that",
+            "start": 457.739990234375,
+            "end": 458.0400085449219
+        },
+        {
+            "word": "you",
+            "start": 458.0400085449219,
+            "end": 458.2200012207031
+        },
+        {
+            "word": "wanted",
+            "start": 458.2200012207031,
+            "end": 458.3800048828125
+        },
+        {
+            "word": "to",
+            "start": 458.3800048828125,
+            "end": 458.82000732421875
+        },
+        {
+            "word": "mention",
+            "start": 458.82000732421875,
+            "end": 458.82000732421875
+        },
+        {
+            "word": "that",
+            "start": 458.82000732421875,
+            "end": 459.05999755859375
+        },
+        {
+            "word": "I",
+            "start": 459.05999755859375,
+            "end": 459.94000244140625
+        },
+        {
+            "word": "maybe",
+            "start": 459.94000244140625,
+            "end": 460.1600036621094
+        },
+        {
+            "word": "forgot",
+            "start": 460.1600036621094,
+            "end": 460.4200134277344
+        },
+        {
+            "word": "to",
+            "start": 460.4200134277344,
+            "end": 460.8800048828125
+        },
+        {
+            "word": "ask",
+            "start": 460.8800048828125,
+            "end": 460.8800048828125
+        },
+        {
+            "word": "about",
+            "start": 460.8800048828125,
+            "end": 461.5799865722656
+        },
+        {
+            "word": "No",
+            "start": 463.3599853515625,
+            "end": 463.82000732421875
+        },
+        {
+            "word": "nothing",
+            "start": 463.8999938964844,
+            "end": 464.1600036621094
+        },
+        {
+            "word": "else",
+            "start": 464.1600036621094,
+            "end": 464.7200012207031
+        },
+        {
+            "word": "I",
+            "start": 465.239990234375,
+            "end": 466.1400146484375
+        },
+        {
+            "word": "was",
+            "start": 466.1400146484375,
+            "end": 466.3599853515625
+        },
+        {
+            "word": "just",
+            "start": 466.3599853515625,
+            "end": 466.79998779296875
+        },
+        {
+            "word": "wondering",
+            "start": 466.79998779296875,
+            "end": 466.8399963378906
+        },
+        {
+            "word": "what",
+            "start": 466.8399963378906,
+            "end": 467.44000244140625
+        },
+        {
+            "word": "I",
+            "start": 467.44000244140625,
+            "end": 467.9800109863281
+        },
+        {
+            "word": "could",
+            "start": 467.9800109863281,
+            "end": 468.20001220703125
+        },
+        {
+            "word": "do",
+            "start": 468.20001220703125,
+            "end": 468.5
+        },
+        {
+            "word": "to",
+            "start": 468.5,
+            "end": 470.4200134277344
+        },
+        {
+            "word": "feel",
+            "start": 470.4200134277344,
+            "end": 471.0400085449219
+        },
+        {
+            "word": "better",
+            "start": 471.0400085449219,
+            "end": 471.3800048828125
+        },
+        {
+            "word": "or",
+            "start": 471.3800048828125,
+            "end": 471.9200134277344
+        },
+        {
+            "word": "make",
+            "start": 471.9200134277344,
+            "end": 472.0199890136719
+        },
+        {
+            "word": "this",
+            "start": 472.0199890136719,
+            "end": 472.2200012207031
+        },
+        {
+            "word": "go",
+            "start": 472.2200012207031,
+            "end": 472.5
+        },
+        {
+            "word": "away",
+            "start": 472.5,
+            "end": 472.760009765625
+        },
+        {
+            "word": "Yeah",
+            "start": 474.1600036621094,
+            "end": 475.1600036621094
+        },
+        {
+            "word": "certainly",
+            "start": 475.1600036621094,
+            "end": 475.6600036621094
+        },
+        {
+            "word": "So",
+            "start": 479.79998779296875,
+            "end": 480.94000244140625
+        },
+        {
+            "word": "it",
+            "start": 480.94000244140625,
+            "end": 481.4800109863281
+        },
+        {
+            "word": "sounds",
+            "start": 481.4800109863281,
+            "end": 482.0799865722656
+        },
+        {
+            "word": "like",
+            "start": 482.0799865722656,
+            "end": 482.4800109863281
+        },
+        {
+            "word": "you",
+            "start": 482.4800109863281,
+            "end": 482.9599914550781
+        },
+        {
+            "word": "have",
+            "start": 482.9599914550781,
+            "end": 483.70001220703125
+        },
+        {
+            "word": "the",
+            "start": 483.70001220703125,
+            "end": 485.32000732421875
+        },
+        {
+            "word": "common",
+            "start": 485.32000732421875,
+            "end": 485.4599914550781
+        },
+        {
+            "word": "cold",
+            "start": 485.4599914550781,
+            "end": 485.79998779296875
+        },
+        {
+            "word": "or",
+            "start": 485.79998779296875,
+            "end": 486.260009765625
+        },
+        {
+            "word": "a",
+            "start": 486.260009765625,
+            "end": 486.9800109863281
+        },
+        {
+            "word": "viral",
+            "start": 486.9800109863281,
+            "end": 486.9800109863281
+        },
+        {
+            "word": "illness",
+            "start": 486.9800109863281,
+            "end": 487.4599914550781
+        },
+        {
+            "word": "which",
+            "start": 488.05999755859375,
+            "end": 489.20001220703125
+        },
+        {
+            "word": "it",
+            "start": 489.20001220703125,
+            "end": 489.8800048828125
+        },
+        {
+            "word": "could",
+            "start": 489.8800048828125,
+            "end": 489.94000244140625
+        },
+        {
+            "word": "be",
+            "start": 489.94000244140625,
+            "end": 490.4800109863281
+        },
+        {
+            "word": "caused",
+            "start": 490.4800109863281,
+            "end": 490.4800109863281
+        },
+        {
+            "word": "by",
+            "start": 490.4800109863281,
+            "end": 490.82000732421875
+        },
+        {
+            "word": "something",
+            "start": 490.82000732421875,
+            "end": 491.20001220703125
+        },
+        {
+            "word": "like",
+            "start": 491.20001220703125,
+            "end": 492.1400146484375
+        },
+        {
+            "word": "adenovirus",
+            "start": 492.1400146484375,
+            "end": 492.7799987792969
+        },
+        {
+            "word": "or",
+            "start": 492.7799987792969,
+            "end": 493.3800048828125
+        },
+        {
+            "word": "there",
+            "start": 493.3800048828125,
+            "end": 495.9200134277344
+        },
+        {
+            "word": "are",
+            "start": 495.9200134277344,
+            "end": 496.1400146484375
+        },
+        {
+            "word": "others",
+            "start": 496.1400146484375,
+            "end": 496.4200134277344
+        },
+        {
+            "word": "as",
+            "start": 496.4200134277344,
+            "end": 497.3999938964844
+        },
+        {
+            "word": "well",
+            "start": 497.3999938964844,
+            "end": 497.3999938964844
+        },
+        {
+            "word": "However",
+            "start": 497.9200134277344,
+            "end": 498.55999755859375
+        },
+        {
+            "word": "the",
+            "start": 498.5199890136719,
+            "end": 499.20001220703125
+        },
+        {
+            "word": "symptoms",
+            "start": 499.20001220703125,
+            "end": 499.44000244140625
+        },
+        {
+            "word": "do",
+            "start": 499.44000244140625,
+            "end": 499.8999938964844
+        },
+        {
+            "word": "overlap",
+            "start": 499.8999938964844,
+            "end": 500.260009765625
+        },
+        {
+            "word": "with",
+            "start": 500.260009765625,
+            "end": 500.9800109863281
+        },
+        {
+            "word": "covid",
+            "start": 500.9800109863281,
+            "end": 500.9800109863281
+        },
+        {
+            "word": "as",
+            "start": 500.9800109863281,
+            "end": 503.20001220703125
+        },
+        {
+            "word": "you",
+            "start": 503.20001220703125,
+            "end": 503.3599853515625
+        },
+        {
+            "word": "can",
+            "start": 503.3599853515625,
+            "end": 503.6000061035156
+        },
+        {
+            "word": "can",
+            "start": 503.6000061035156,
+            "end": 504.0
+        },
+        {
+            "word": "be",
+            "start": 504.0,
+            "end": 504.05999755859375
+        },
+        {
+            "word": "non",
+            "start": 504.05999755859375,
+            "end": 504.5199890136719
+        },
+        {
+            "word": "specific",
+            "start": 504.5199890136719,
+            "end": 504.9599914550781
+        },
+        {
+            "word": "symptoms",
+            "start": 504.9599914550781,
+            "end": 507.1000061035156
+        },
+        {
+            "word": "of",
+            "start": 507.1000061035156,
+            "end": 507.3599853515625
+        },
+        {
+            "word": "just",
+            "start": 507.3599853515625,
+            "end": 507.5
+        },
+        {
+            "word": "having",
+            "start": 507.5,
+            "end": 507.79998779296875
+        },
+        {
+            "word": "kind",
+            "start": 507.79998779296875,
+            "end": 508.2200012207031
+        },
+        {
+            "word": "of",
+            "start": 508.2200012207031,
+            "end": 508.29998779296875
+        },
+        {
+            "word": "just",
+            "start": 508.29998779296875,
+            "end": 508.4599914550781
+        },
+        {
+            "word": "like",
+            "start": 508.4599914550781,
+            "end": 508.6199951171875
+        },
+        {
+            "word": "a",
+            "start": 508.6199951171875,
+            "end": 508.9599914550781
+        },
+        {
+            "word": "runny",
+            "start": 508.9599914550781,
+            "end": 509.20001220703125
+        },
+        {
+            "word": "nose",
+            "start": 509.20001220703125,
+            "end": 509.4200134277344
+        },
+        {
+            "word": "like",
+            "start": 509.4200134277344,
+            "end": 509.67999267578125
+        },
+        {
+            "word": "you",
+            "start": 509.67999267578125,
+            "end": 509.94000244140625
+        },
+        {
+            "word": "do",
+            "start": 509.94000244140625,
+            "end": 510.1600036621094
+        },
+        {
+            "word": "here",
+            "start": 510.1600036621094,
+            "end": 510.5400085449219
+        },
+        {
+            "word": "And",
+            "start": 510.7200012207031,
+            "end": 511.4599914550781
+        },
+        {
+            "word": "so",
+            "start": 511.4599914550781,
+            "end": 511.67999267578125
+        },
+        {
+            "word": "we",
+            "start": 511.67999267578125,
+            "end": 512.1400146484375
+        },
+        {
+            "word": "will",
+            "start": 512.1400146484375,
+            "end": 512.2999877929688
+        },
+        {
+            "word": "do",
+            "start": 512.2999877929688,
+            "end": 512.47998046875
+        },
+        {
+            "word": "a",
+            "start": 512.47998046875,
+            "end": 513.260009765625
+        },
+        {
+            "word": "covid",
+            "start": 513.260009765625,
+            "end": 513.6400146484375
+        },
+        {
+            "word": "swab",
+            "start": 513.6400146484375,
+            "end": 513.9600219726562
+        },
+        {
+            "word": "and",
+            "start": 513.9600219726562,
+            "end": 514.7000122070312
+        },
+        {
+            "word": "await",
+            "start": 514.7000122070312,
+            "end": 515.3800048828125
+        },
+        {
+            "word": "those",
+            "start": 515.3800048828125,
+            "end": 515.760009765625
+        },
+        {
+            "word": "results",
+            "start": 515.760009765625,
+            "end": 516.0800170898438
+        },
+        {
+            "word": "But",
+            "start": 516.0800170898438,
+            "end": 516.3599853515625
+        },
+        {
+            "word": "in",
+            "start": 516.3599853515625,
+            "end": 516.5399780273438
+        },
+        {
+            "word": "the",
+            "start": 516.5399780273438,
+            "end": 516.9000244140625
+        },
+        {
+            "word": "meantime",
+            "start": 516.9000244140625,
+            "end": 517.3800048828125
+        },
+        {
+            "word": "it's",
+            "start": 517.47998046875,
+            "end": 518.5399780273438
+        },
+        {
+            "word": "mostly",
+            "start": 518.5399780273438,
+            "end": 519.0800170898438
+        },
+        {
+            "word": "supportive",
+            "start": 519.0800170898438,
+            "end": 521.0800170898438
+        },
+        {
+            "word": "care",
+            "start": 521.0800170898438,
+            "end": 521.7000122070312
+        },
+        {
+            "word": "So",
+            "start": 521.739990234375,
+            "end": 521.9199829101562
+        },
+        {
+            "word": "it",
+            "start": 521.9199829101562,
+            "end": 522.1199951171875
+        },
+        {
+            "word": "means",
+            "start": 522.1199951171875,
+            "end": 522.3400268554688
+        },
+        {
+            "word": "just",
+            "start": 522.3400268554688,
+            "end": 522.5999755859375
+        },
+        {
+            "word": "trying",
+            "start": 522.5999755859375,
+            "end": 522.780029296875
+        },
+        {
+            "word": "to",
+            "start": 522.780029296875,
+            "end": 523.0599975585938
+        },
+        {
+            "word": "stay",
+            "start": 523.0599975585938,
+            "end": 523.1799926757812
+        },
+        {
+            "word": "hydrated",
+            "start": 523.1799926757812,
+            "end": 523.719970703125
+        },
+        {
+            "word": "stay",
+            "start": 524.1400146484375,
+            "end": 524.739990234375
+        },
+        {
+            "word": "rested",
+            "start": 524.739990234375,
+            "end": 525.4000244140625
+        },
+        {
+            "word": "and",
+            "start": 525.4000244140625,
+            "end": 527.5599975585938
+        },
+        {
+            "word": "just",
+            "start": 527.5599975585938,
+            "end": 529.02001953125
+        },
+        {
+            "word": "monitor",
+            "start": 529.02001953125,
+            "end": 529.4000244140625
+        },
+        {
+            "word": "your",
+            "start": 529.4000244140625,
+            "end": 530.6599731445312
+        },
+        {
+            "word": "symptoms",
+            "start": 530.6599731445312,
+            "end": 530.6599731445312
+        },
+        {
+            "word": "because",
+            "start": 530.7999877929688,
+            "end": 531.3400268554688
+        },
+        {
+            "word": "if",
+            "start": 531.3400268554688,
+            "end": 531.6799926757812
+        },
+        {
+            "word": "things",
+            "start": 531.6799926757812,
+            "end": 531.719970703125
+        },
+        {
+            "word": "do",
+            "start": 531.719970703125,
+            "end": 532.0
+        },
+        {
+            "word": "get",
+            "start": 532.0,
+            "end": 532.239990234375
+        },
+        {
+            "word": "worse",
+            "start": 532.239990234375,
+            "end": 532.5800170898438
+        },
+        {
+            "word": "it'll",
+            "start": 532.7999877929688,
+            "end": 533.2000122070312
+        },
+        {
+            "word": "be",
+            "start": 533.2000122070312,
+            "end": 533.5800170898438
+        },
+        {
+            "word": "important",
+            "start": 533.5800170898438,
+            "end": 533.6799926757812
+        },
+        {
+            "word": "to",
+            "start": 533.6799926757812,
+            "end": 534.7000122070312
+        },
+        {
+            "word": "go",
+            "start": 534.7000122070312,
+            "end": 536.7999877929688
+        },
+        {
+            "word": "to",
+            "start": 536.7999877929688,
+            "end": 536.9000244140625
+        },
+        {
+            "word": "the",
+            "start": 536.9000244140625,
+            "end": 537.3800048828125
+        },
+        {
+            "word": "emergency",
+            "start": 537.3800048828125,
+            "end": 537.3800048828125
+        },
+        {
+            "word": "room",
+            "start": 537.3800048828125,
+            "end": 537.6400146484375
+        },
+        {
+            "word": "OK",
+            "start": 538.52001953125,
+            "end": 538.739990234375
+        },
+        {
+            "word": "All",
+            "start": 541.3200073242188,
+            "end": 541.9400024414062
+        },
+        {
+            "word": "right",
+            "start": 541.9400024414062,
+            "end": 542.0
+        },
+        {
+            "word": "So",
+            "start": 542.0599975585938,
+            "end": 542.239990234375
+        },
+        {
+            "word": "we'll",
+            "start": 542.239990234375,
+            "end": 542.3599853515625
+        },
+        {
+            "word": "get",
+            "start": 542.3599853515625,
+            "end": 542.5399780273438
+        },
+        {
+            "word": "the",
+            "start": 542.5399780273438,
+            "end": 542.780029296875
+        },
+        {
+            "word": "swab",
+            "start": 542.780029296875,
+            "end": 542.9600219726562
+        },
+        {
+            "word": "now",
+            "start": 542.9600219726562,
+            "end": 543.4199829101562
+        },
+        {
+            "word": "and",
+            "start": 543.4199829101562,
+            "end": 543.9199829101562
+        },
+        {
+            "word": "get",
+            "start": 543.9199829101562,
+            "end": 545.1400146484375
+        },
+        {
+            "word": "that",
+            "start": 545.1400146484375,
+            "end": 547.0599975585938
+        },
+        {
+            "word": "testing",
+            "start": 547.0599975585938,
+            "end": 547.3599853515625
+        },
+        {
+            "word": "started",
+            "start": 547.3599853515625,
+            "end": 547.760009765625
+        },
+        {
+            "word": "OK",
+            "start": 548.9000244140625,
+            "end": 549.02001953125
+        },
+        {
+            "word": "that",
+            "start": 549.02001953125,
+            "end": 549.4400024414062
+        },
+        {
+            "word": "sounds",
+            "start": 549.4400024414062,
+            "end": 549.5
+        },
+        {
+            "word": "great",
+            "start": 549.5,
+            "end": 549.8200073242188
+        },
+        {
+            "word": "Thank",
+            "start": 549.9600219726562,
+            "end": 550.0999755859375
+        },
+        {
+            "word": "you",
+            "start": 550.0999755859375,
+            "end": 550.5599975585938
+        },
+        {
+            "word": "Thank",
+            "start": 551.6599731445312,
+            "end": 552.9199829101562
+        },
+        {
+            "word": "you",
+            "start": 552.9199829101562,
+            "end": 553.0800170898438
+        }
+    ]
+}
