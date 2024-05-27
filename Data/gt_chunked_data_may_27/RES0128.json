@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "How can I help you Hi so I brought my six year old son in today because yesterday during soccer practice he developed this pretty severe cough and he couldn't catch his breath Okay so this happened yesterday you mentioned Yeah it happened yesterday afternoon Okay",
+        "gt_chunk": "D: How can I help you? \n\nP: Hi so I brought my 6 year old son in today because yesterday during soccer practice, he he developed this pretty severe cough and he couldn't catch his breath.\n\nD: OK, so this happened yesterday, you mentioned?\n\nP: Yeah, it happened yesterday afternoon.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "so you mentioned a cough is it a harsh barky cough or is it more like a muffled cough I would say it's more muffled Okay and is it a dry cough or is he bringing up any phlegm Dry Dry okay so no blood with the coughing No blood Okay and does he sound wheezy to you He does yeah he's still sounding a little bit wheezy",
+        "gt_chunk": "D: so you mentioned a cough. Is it a harsh barky cough, or is it more like a muffled cough?\n\nP: I would say it's more muffled.\n\nD: OK, and is it a dry cough or is it bringing up any phlegm?\n\nP: Dry \n\nD: Dry OK. So no blood in the with the coughing? \n\nP: No blood.\n\nD: And does he sound wheezy to you?\n\nP: He does, yeah, he's still sounding a little bit wheezy"
+    },
+    {
+        "whisper_chunk": "now It's better than last night he was a bit more wheezy last night Okay how about shorter breaths does he sound short of breath at all No that's gotten a bit better That resolved about an hour after he stopped playing but he was short of breath yesterday",
+        "gt_chunk": "P:  it's better than last night. He was a bit more wheezy last night.\n\nD: OK. Uhm how about shorter breath? Does he sound short of breath at all?\n\nP: No, that that's gotten a bit better, that resolved about an hour. Like after he stopped playing but he was, he was short of breath yesterday"
+    },
+    {
+        "whisper_chunk": "Okay and have you tried anything for his cough or his shortness of breath or wheezing No we haven't No okay does he have a fever at all No he doesn't mention anything about feeling hot or having chills either No okay and any rashes that you've noticed",
+        "gt_chunk": "D: OK, and have you tried anything for his cough, for his shortness of breath or wheezing?\n\nP: No, we haven't \n\nD: No OK. Does he have a fever at all?\n\nP: No, he doesn't mention anything about feeling hot or or or having chills either.\n\nD: No OK, and any rashes that you've noticed"
+    },
+    {
+        "whisper_chunk": "No No weight loss over the past few weeks No he's been gaining weight well Okay good Has he had a stuffy nose or runny nose Well sometimes he will get a runny nose and he takes like reactin or claritin or some sort of allergy pill for that sometimes but that's usually like the changing of seasons that'll happen",
+        "gt_chunk": "P: No\n\nD: No, weight loss over the past few weeks?\n\nP: No, he's been gaining weight well. \n\nD: OK good, has he had a stuffy nose or runny nose?\n\nP: Well, sometimes he will get a runny nose. He takes like Reactin or Claritin or some sort of allergy pill for that sometimes, but that's usually like the changing of seasons that will happen"
+    },
+    {
+        "whisper_chunk": "more often Okay okay does he have any allergies Yeah to mostly environmental triggers I'm not sure what the specific things are but I just know it gets worse maybe in the springtime Okay and does he have asthma He's never been diagnosed but",
+        "gt_chunk": "P: more often. \n\nD: OK OK. Does he have any allergies?\n\nP: Yeah, to mostly environmental triggers. I'm not sure if the specific things are, but I just know it gets worse. Maybe in the spring, springtime? \n\nD: OK. And does he have asthma?\n\nP: He's never been diagnosed, but"
+    },
+    {
+        "whisper_chunk": "his sister has asthma Okay okay and have you noticed any changes in his vision or hearing No No okay how about changing his smell or taste No No how about like does he seem like he has any chest pain No he hasn't mentioned anything like",
+        "gt_chunk": "P: his sister has asthma.\n\nD: OK, OK. And has he? Have you noticed any changes in his vision or hearing? \n\nP: No. \n\nD: No, OK. How about change in his smell or taste?\n\nP: No \n\nD: No, how about like does he seem like he has any chest pain?\n\nP: No, he hasn't mentioned anything like"
+    },
+    {
+        "whisper_chunk": "that Okay any dizziness or fainting spells No No confusion or memory loss No Okay how about confusion sorry you said no headaches No headaches No okay any joint pains muscle aches No Okay and how about",
+        "gt_chunk": "P: that.\n\nD: Any dizziness or fainting spells?\n\nP: No \n\nD: No, confusion or memory loss?\n\nP: No. \n\nD: OK, Uhm how about confusion or sorry you said no headaches?\n\nP: No headaches.\n\nD: No, OK, any joint pains, muscle aches?\n\nP: No. \n\nD: OK, and how about"
+    },
+    {
+        "whisper_chunk": "changes to his bowel movements No everything's been normal there Okay how about nausea or vomiting Nothing like that Okay and okay so you mentioned he has asthma he might have asthma he was never formally diagnosed Is he otherwise healthy or does he have any long standing medical conditions",
+        "gt_chunk": "D: changes to his bowel movements?\n\nP: No, everything's been normal there.\n\nD: OK, how about nausea or vomiting?\n\nP: Nothing like that. \n\nD: OK, OK, so you mentioned he has asthma. He might have asthma. He was never formally diagnosed. Does is he otherwise healthy or does he have any longstanding medical conditions"
+    },
+    {
+        "whisper_chunk": "He's been healthy he did have like he would get some itchy skin when he was like a baby but he hasn't needed any creams for that for a long time Okay so he might have something like eczema you think Yeah yeah I think he did Okay okay and is he on any medications right now No he doesn't take anything right",
+        "gt_chunk": "P: He's been healthy. Yeah, I know he did have like he would get some itchy skin when he was a bit when he was like a baby, but he hasn't needed any creams for that for a long time.\n\nD: OK so he might have something like eczema, you think? \n\nP: Yeah, yeah I think he did. \n\nD: OK, OK and is he on any medications right now?\n\nP: No, he doesn't take anything right"
+    },
+    {
+        "whisper_chunk": "now Okay during his mom's pregnancy with him were there any complications No she was healthy and he was born at term with a normal weight and able to go home relatively quickly so there weren't any concerns Okay that's good And was he healthy",
+        "gt_chunk": "D:  during his mom's pregnancy with him, were there any complications?\n\nP: No, she was uhm healthy and he was born at term with a normal weight and able to go home relatively quickly, so there weren't any concerns.\n\nD: OK, that's good and was he healthy"
+    },
+    {
+        "whisper_chunk": "like after birth Yeah so he's done well there weren't really any concerns with development or growth and he's doing well in school Okay okay good So was he a full term baby and was it a vaginal delivery Yes for both Okay any complications during the delivery No Okay and he didn't need any hospitalizations like",
+        "gt_chunk": "D: like after birth?\n\nP: Yeah, so he's he's done well. There weren't really any concerns with development or or growth, and he's doing well in school.\n\nD: OK, OK, good. How about uhm so was he a full term baby and was it a vaginal delivery?\n\nP: Yes. Yes for both\n\nD: OK, any complications during the delivery?\n\nP: No, \n\nD: OK, and he didn't need any hospitalizations like"
+    },
+    {
+        "whisper_chunk": "right after birth as a newborn No No okay good Is he up to date with all his immunizations He is yeah Okay and you mentioned that he may have some seasonal allergies Any other allergies that you know of Not that I know of No okay You mentioned that his sister has asthma Any",
+        "gt_chunk": "D: right after birth as an as a newborn?\n\nP: No \n\nD: No, OK good. Uhm Is he up to date with all his immunizations?\n\nP: He is, yeah\n\nD: OK. And you mentioned that he may have some seasonal allergies. Any other allergies that you know of?\n\nP: Not that I know of. \n\nD: No, OK. You mentioned that his sister has asthma. Any"
+    },
+    {
+        "whisper_chunk": "other lung conditions or heart conditions that run in the family No nothing like that No okay Okay and does anyone at home smoke No No okay Any old carpets dust mold asbestos anything like that at home We took out the carpets and stuff when his sister was diagnosed",
+        "gt_chunk": "D: other lung conditions or heart conditions that run in the family?\n\nP: No, nothing like that. \n\nD: No, OK. OK. Uhm and does anyone at home smoke?\n\nP: No \n\nD: No OK. Any old carpets? Does mold, asbestos, anything like that at home?\n\nP: We we took out the carpets and stuff when his sister was diagnosed"
+    },
+    {
+        "whisper_chunk": "with asthma so it's good from that perspective Okay good And who lives at home with him So it's myself his mom and then his sister Okay okay Any pets at home He's got a fish A fish okay And has",
+        "gt_chunk": "P: with asthma, so it's good from that perspective.\n\nD: OK, good, and who lives at home with him?\n\nP: So it's myself, his mom and then his sister. \n\nD: OK, OK, any pets at home?\n\nP: He's got a fish. \n\nD: A fish, OK. And has"
+    },
+    {
+        "whisper_chunk": "he come into contact with anyone sick recently No I don't think so I mean at school they've been pretty diligent with COVID and everything right now so I think he's been okay Okay Has he traveled anywhere recently No No okay Okay those are",
+        "gt_chunk": "D:  come into contact with anyone sick recently?\n\nP: No, I don't think so. I mean when at school, they've been pretty diligent with I mean covid and everything right now, so I think he's been OK.\n\nD: Ok, uhm has he traveled anywhere recently?\n\nP: No. \n\nD: No, OK. OK, those are"
+    },
+    {
+        "whisper_chunk": "all the questions that I have for you today Did you have any questions of your own for me Yeah I was just wondering if my son had asthma as well and if like we need a prescription for inhalers Yeah so we're going to since he's never been diagnosed before we're going to do some investigations for him just to start So we can start",
+        "gt_chunk": "D: all the questions that I had for you today. Did you have any questions of your own for me?\n\nP: Yeah, I was just wondering if if my son had asthma as well and if like you need a prescription for inhalers.\n\nD: Yeah, so we're gonna since he's never been diagnosed before, we're gonna do some investigations for him just to start so we can"
+    },
+    {
+        "whisper_chunk": "by doing a pulmonary function test for him to see what his lung activity is like So we'll start there and then we'll also because you were saying he's short of breath we'll take his oxygen saturation as well and maybe even do some like some basic blood work for him And if it turns out he has asthma which in this case I do",
+        "gt_chunk": "D: by doing a pulmonary function test for him to see what his lung activity is like uhm so we'll start there and then we'll also, because you're saying he's short of breath, we'll take his oxygen saturation as well, and maybe even do some like some basic blood work for him, and if it turns out he has asthma, which in this case I do"
+    },
+    {
+        "whisper_chunk": "strongly suspect we'll prescribe him some bronchodilators like a short acting beta agonist as well as an inhaled corticosteroid because his symptoms do seem somewhat severe this time around And then I should also mention because some of his symptoms overlap with that of COVID he will also get a COVID swab and you should hear back about that in 24 to 48 hours How does",
+        "gt_chunk": "D: strongly suspect, we'll prescribe him some bronchodilators like a short acting beta agonist as well as an inhaled corticosteroid because his symptoms do seem somewhat severe this time around. And then I should also mention because some of his symptoms overlap with that of COVID, he will also get a covid swab and you should hear back about that in 24 to 48 hours. How does"
+    },
+    {
+        "whisper_chunk": "that sound That sounds good Thank you All right great Thank you",
+        "gt_chunk": "D: that sound?\n\nP: That sounds good, thank you. \n\nD: Alright great, thank you"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "whisper_chunk": "How may I help you Hi yeah so I've had this pain in my left elbow for a couple of weeks now and it's not getting any better So I'm just here to kind of figure out what it is Okay all right Are you feeling this pain on the lateral side of the elbow or on the medial side of the elbow It's on the medial side Okay and sorry when did this pain",
+        "gt_chunk": "D: How may I help you?\n\nP: Hi, yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so. I'm just here to kind of figure out what it is. \n\nD: OK alright are you feeling this pain on the lateral side of the elbow, on the or on the medial side of the elbow?\n\nP: It's on the medial side. \n\nD: OK and sorry, when did this pain"
+    },
+    {
+        "whisper_chunk": "exactly start So it's been ongoing for like the past three months but it's gotten worse over the last I'd say three weeks Okay and has the pain been getting worse any better The pain's been getting worse yeah Okay was there any",
+        "gt_chunk": "D: exactly start?\n\nP: So it's been on going for like the past three months. But it's gotten worse over the last, I'd say three weeks. \n\nD: OK, and. Has the pain been getting worse, any better?\n\nP: Oh the pains been getting worse.\n\nD: Yeah, OK. Was there any"
+    },
+    {
+        "whisper_chunk": "triggers or precipitating events to the pain such as like a fall or any types of trauma to the elbow No no not that I can think of Have you had any pain or injury to the elbow in the past No Could you describe the character of the pain Is it sharp achy or dull It's usually achy but it can be sharp",
+        "gt_chunk": "D: triggers or precipitating events to the pain, such as like a fall or any types of trauma to the elbow?\n\nP: No, no, not that I can think of.\n\nD: Have you had any pain or injury to the elbow in the past?\n\nP: No.\n\nD: Could you describe the character of the pain. Is it sharp, achey or dull?\n\nP: It's usually achey, but it can be sharp"
+    },
+    {
+        "whisper_chunk": "Okay does the pain radiate anywhere No it's pretty much in that one area Okay just on the medial side of the left elbow Yeah Okay and is there anything that you've done to help make the pain go away or any alleviating factors I've taken some NSAIDs that helps with the pain temporarily",
+        "gt_chunk": "D: OK. Does the pain radiate anywhere?\n\nP: No, it's pretty. It's pretty much in that one area.\n\nD: OK, just on the medial side of the left elbow? \n\nP: Yeah.\n\nD: OK, and is there anything that you've done to help make the pain go away, or any alleviating factors? \n\nP: I am taking some NSAIDs that helps with the pain temporarily"
+    },
+    {
+        "whisper_chunk": "Okay and are there any factors that make the pain worse I guess when I like extend my elbow out it gets worse Okay so it's a movement Okay and",
+        "gt_chunk": "D: . Are there any factors that make the pain worse? \n\nP: Um when I. I. I guess when I like extend my elbow out it gets worse.\n\nD: OK, so it's a movement OK, and"
+    },
+    {
+        "whisper_chunk": "straightening the elbow Yeah Okay and what is the severity of the pain on a scale of one to 10 with 10 being the worst pain you've ever felt I'd say about five Okay and so do you have any other symptoms associated with the elbow pain",
+        "gt_chunk": "D: straightening the elbow?\n\nP: Yeah.\n\nD: OK, I mean, what is the severity of the pain on a scale of 1 to 10, with 10 being the worst pain you've ever felt.\n\nP: I'd say about 5. \n\nD: OK. And um. So did you have any other symptoms associated with the elbow pain"
+    },
+    {
+        "whisper_chunk": "No not really I'm otherwise pretty healthy Okay so have you had any fevers or chills No Have you had any night sweats No Any weight loss No Okay have you had any headaches No Any sensory changes like changes to your",
+        "gt_chunk": "P:  not really I. I'm otherwise pretty healthy.\n\nD: OK, so have you had any fevers or chills?\n\nP: No. \n\nD: Have you had any night sweats \n\nP: No \n\nD: Or any any weight loss?\n\nP: No.\n\nD: OK, have you had any any headaches?\n\nP: No. \n\nD: Any sensory changes like changes to your"
+    },
+    {
+        "whisper_chunk": "vision or hearing or even your smell or taste No Okay have you had any eye redness or eye discharge or ear pain No Okay have you had a runny nose or a sore throat No Have you had a cough or shortness of breath No Have you had any wheezing No Okay have you had any chest pain",
+        "gt_chunk": "D: vision or or hearing or even your smell or taste?\n\nP: No.\n\nD: OK, have you had any eye redness or eye discharge or your ear pain? \n\nP: No.\n\nD: OK. Have you had a runny nose or sore throat?\n\nP: No.\n\nD: Have you had a cough or shortness of breath? \n\nP: No.\n\nD: Have you had any wheezing?\n\nP: No.\n\nD: OK. Have you had any chest pain"
+    },
+    {
+        "whisper_chunk": "No Any lightheadedness or dizziness No Have you had any heart palpitations No Okay and have you had any nausea or vomiting No Have you had any abdominal pain No Any diarrhea or constipation No Have you had any urinary problems No Okay have you had any skin rashes No",
+        "gt_chunk": "P: No.\n\nD: Any lightheadedness or dizziness?\n\nP: No.\n\nD: Have you had any heart palpitations?\n\nP: No.\n\nD: OK, and have you had any nausea or vomiting?\n\nP: No. \n\nD: Have you had any abdominal pain?\n\nP: No.\n\nD: Any diarrhea or constipation. \n\nP: No.\n\nD: Have you had any urinary problems?\n\nP: No.\n\nD: OK. Have you had any skin rashes? \n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay have you had any numbness or tingling No And how about any muscle weakness No Okay and any joint pains anywhere else No Okay and any changes to your memory or any confusion No Okay and have you had any fatigue No",
+        "gt_chunk": "D: OK, have you had any numbness or tingling? \n\nP: No.\n\nD: And how about any muscle weakness? \n\nP: No.\n\nD: OK, and any joint pains anywhere else?\n\nP: No.\n\nD: OK, and any changes to your memory or or any confusion?\n\nP: No.\n\nD: OK, and have you had any fatigue?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay and lastly have you had any changes to your appetite No Okay and have you been diagnosed with any medical conditions in the past No Okay so do you take any medications either prescribed or over the counter No I just take some multivitamins Yes Okay and do you have any allergies to medications",
+        "gt_chunk": "D: OK and, have you had any changes to your appetite? \n\nP: No. \n\nD: OK. Are an have you been diagnosed with any medical conditions in the past?\n\nP: No.\n\nD: OK, so do you take any medications, either prescribed or over the counter?\n\nP: Um no, I just take some multivitamins.\n\nD: OK, and do you have any allergies to medications"
+    },
+    {
+        "whisper_chunk": "No Okay and have you had any hospitalizations or prior surgeries I had a fracture when I was younger It was in my humerus bone on the right side Okay so the fracture was on the other arm",
+        "gt_chunk": "P: no.\n\nD: OK, and have you had any hospitalizations or prior surgeries?\n\nP: I I had a fracture when I was younger. It was in my humerus bone on the right side.\n\nD: OK, so it's the to the fracture was on the other arm"
+    },
+    {
+        "whisper_chunk": "Yes Okay and did that heal okay Yes All right and can you tell me about your living situation currently like whereabouts and who you're living with I live with my partner of five years We live in an apartment together Okay and are you working currently I am And what do you do",
+        "gt_chunk": "P: Yes.\n\nD: OK, and did that heal OK?\n\nP: Yes.\n\nD:  Alright then. Can you tell me about your living situation? Currently, like whereabouts and who you're living with?\n\nP: I live with my partner of five years. We live in an apartment together.\n\nD: OK, and are you working currently?\n\nP: I am. \n\nD: And what do you do"
+    },
+    {
+        "whisper_chunk": "I work on the assembly line for Chrysler Okay and do you do repetitive tasks at work I do Okay and do you notice this pain more so after a shift or after a long day Yes",
+        "gt_chunk": "P: I work on the assembly line for Chrysler.\n\nD : OK, uh, and uh. Do you do repetitive tasks at work?\n\nP: I do.\n\nD: OK, yeah, do you notice this, uh pain after, more so after a shift or after after a long day?\n\nP: Yes"
+    },
+    {
+        "whisper_chunk": "definitely Okay and what types of hobbies do you have Like do you play golf or tennis or any kind of like sports I guess Yeah I used to play golf before this pain in my arm in my elbow So I haven't played it in the past like six months Okay okay and",
+        "gt_chunk": "P: definitely.\n\nD: OK, and what types of hobbies do you have, like do you play golf or tennis or or any kind of like, sports I guess?\n\nP: Yeah, I used to play golf before this pain in my arm and my elbow, so I haven't played it in the past like six months. \n\nD: OK,"
+    },
+    {
+        "whisper_chunk": "do you smoke cigarettes I don't And do you drink alcohol I'll have a glass of wine every other day Okay and how about the use of any recreational drugs like cannabis or anything else I'll smoke a joint once a week Okay and",
+        "gt_chunk": "D: do you smoke cigarettes?\n\nP: I don't.\n\nD: And do you drink alcohol? \n\nP: Um I'll have a glass of wine every other day.\n\nD: OK, and how about the use of any recreational drugs like cannabis or or anything else?\n\nP: I'll smoke a joint once a week.\n\nD: OK,"
+    },
+    {
+        "whisper_chunk": "is there any family history of any heart or lung problems No Any musculoskeletal or neurological diseases No Okay how about any autoimmune diseases like thyroid disease or diabetes No Okay and so next I just wanted to walk through a physical",
+        "gt_chunk": "D: Is there any family history of any heart or lung problems?\n\nP: No. \n\nD: Any musculoskeletal or neurological diseases?\n\nP: Um no.\n\nD: OK, I got any autoimmune diseases like thyroid disease or diabetes? \n\nP: No. \n\nD: OK, um and so next I wanted to walk through a physical"
+    },
+    {
+        "whisper_chunk": "exam So when you look at the elbow yourself do you see any swelling or redness No Okay does it look like there is any muscle atrophy either in the forearm or the biceps or triceps No Okay and how about any misalignment or joint deformity No I don't see any of that Okay and are there any scars",
+        "gt_chunk": "D: exam, so when you look at the elbow yourself, do you see any swelling or redness?\n\nP: No.\n\nD: OK, does it look like there is any muscle atrophy either in the forearm or the biceps or triceps?\n\nP: No.\n\nD: OK, and how about any misalignment or joint deformity?\n\nP: No, I don't see any of that.\n\nD: OK, and are there any scars"
+    },
+    {
+        "whisper_chunk": "No Okay and when you press on the medial part of the elbow do you feel pain I do How about over the olecranon or the yeah any pain over the olecranon A little bit Okay and is there any pain over the lateral part of the elbow",
+        "gt_chunk": "P: No.\n\nD: OK, and when you press on the medial part of the the elbow, do you feel pain?\n\nP: I do. \n\nD: How about over the olecranon or the, yea any pain over the olecranon? \n\nP: Um a little bit.\n\nD: OK, and is there any pain over the lateral part of the elbow"
+    },
+    {
+        "whisper_chunk": "No Okay and any pain over the forearm or biceps or triceps muscles No Okay Okay and does the joint feel like it's hot No Okay and any pain with shoulder or elbow movements No Actually",
+        "gt_chunk": "P: No.\n\nD: OK, an any pain over the forearm, or biceps, or triceps muscles?\n\nP: No.\n\nD: OK, and does the joint feel like it's hot?\n\nP: No.\n\nD: OK, and any pain with shoulder or elbow movements?\n\nP: No. \n\nD: OK.\n\nP: Actually"
+    },
+    {
+        "whisper_chunk": "sorry with the elbow when I straighten it out all the way it hurts a little bit Okay when you're straightening it out all the way Okay but no pain with shoulder movements and full range of motion No no pain with shoulder Okay and how about pain with pronation and supination",
+        "gt_chunk": "P: sorry with the elbow when I straighten it out all the way it hurts a little bit.\n\nD: OK, when are you straightening it out all the way OK, But no pain with shoulder movements and full range of motion?\n\nP: No, no pain with shoulder.\n\nD: OK. And how about pain with pronation and supination"
+    },
+    {
+        "whisper_chunk": "With pronation it hurts Okay at the medial side Yes Okay and how about with wrist so with resisted yeah wrist flexion Wrist flexion yeah that hurts too Okay and then how",
+        "gt_chunk": "P: With pronation it hurts.\n\nD: OK, at the medial side? \n\nP: Yes.\n\nD: OK and how about with wrist. So with resisted uh, yeah, wrist flexion?\n\nP: Wrist flexion yeah. That hurts too.\n\nD: OK, and then how"
+    },
+    {
+        "whisper_chunk": "about if you passively extend your wrist as far down as you can go Down yes that hurts too Okay and is there any numbness or tingling anywhere No no numbness",
+        "gt_chunk": "D: about if you passively extend your your wrist as far down as as you can go?\n\nP: Down uh yes. That hurts too. \n\nD: OK. And is there any numbness or tingling anywhere?\n\nP: No, no, no numbness"
+    },
+    {
+        "whisper_chunk": "or tingling Okay okay so that was everything that I wanted to ask about today Was there anything else that you wanted to mention No that was it What do you think I have and how can I fix it Yeah so certainly it sounds like with the medial aspect of",
+        "gt_chunk": "P: or tingling. \n\nD: OK. OK, so that was everything that I wanted to ask about today. Was there anything else that you wanted to mention?\n\nP: No, that was that. What do you think I have and how can I fix it?\n\nD: Yeah, so it. It's certainly it it sounds like with the medial aspect of"
+    },
+    {
+        "whisper_chunk": "your elbow having pain there will last several months and some of the physical exam maneuvers such as passive wrist extension resisted wrist flexion as well as pronation and the point tenderness over the medial elbow this could be a medial epicondylitis or a tendinopathy",
+        "gt_chunk": "D: your elbow having pain there over the last several months and some of the physical exam maneuvers, such as like passive wrist extension, resisted wrist flexion as well as pronation and the point tenderness over the medial elbow this could be a medial epicondylitis or a tendinopathy"
+    },
+    {
+        "whisper_chunk": "in that area And so this is typically treated with activity modification So this could be trying to avoid repetitive movements that cause pain and using medications such as Advil and Tylenol and doing strengthening and stretching exercises which you can",
+        "gt_chunk": "D: in that area. And so this is typically treated with activity modification, so this could be trying to avoid repetitive movements that that cause pain. And using medications such as Advil and Tylenol and doing strengthening and stretching exercises, which you can"
+    },
+    {
+        "whisper_chunk": "learn from a physiotherapist or on your own as well And also other things that the medial side of the elbow that it could be is an ulnar ligament injury or yeah or the other thing to be considering is an ulnar ligament injury And so if the pain isn't going away then we might consider an ultrasound or",
+        "gt_chunk": "D: learn from a physiotherapist or or on your own as well. And also other things that that the medial side of the elbow that it could be is an ulnar ligament injury. Um or yeah, or the other thing to be considering is and ulnar ligament injury and so if the pain isn't going away, then we might consider an ultrasound or"
+    },
+    {
+        "whisper_chunk": "something to look at the structures there Okay that sounds great Thank you",
+        "gt_chunk": "D: something to look at the structures there.\n\nP: OK, that sounds great. Thank you"
+    }
+]

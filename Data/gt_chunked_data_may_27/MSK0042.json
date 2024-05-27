@@ -1,0 +1,122 @@
+[
+    {
+        "whisper_chunk": "How may I help you I am just coming into the clinic today My parents told me to come today I'm noticing this just mass right below or like kind of like a lump and mass below my right knee And it's not painful or anything It's a little bit uncomfortable but I just wanted to check out and see what it might be",
+        "gt_chunk": "D: How may I help you? \n\nP: Uh, I, I'm uh, just coming into the clinic uh, today uh, my parents told me to come today. I don't know what this thing is, just mass right below, or kind of like a lump or mass below my right knee and it's not painful or anything, it's a little bit uncomfortable but I just want to check out and see what it might be"
+    },
+    {
+        "whisper_chunk": "Yeah certainly Okay when did you first notice this mass So I think I noticed it for the first time probably a couple of weeks ago I would say like two weeks ago I noticed it Okay and where specifically is it Where",
+        "gt_chunk": "D: Yeah, certainly. Okay, when, when did you first um, notice this mass?\n\nP: So I think I noticed it um, for the first time um probably a couple weeks ago. I would say like, two weeks ago I, I noticed it.\n\nD: Okay, and uh, where specifically is it, "
+    },
+    {
+        "whisper_chunk": "is it located So it's below my knee right on like I feel it on the big bone right below the knee It's yeah it just feels like a hard lump Okay and is it associated with any pain",
+        "gt_chunk": "D: is it located?\n\nP: So it's, it's uh, below my knee uh, right on like uh, I feel it on the big big bone right below the knee. It's um, yeah, I just feel like uh, like a hard lump.\n\nD: Okay, and uh, okay Um, and uh, is it, is it associated with any pain"
+    },
+    {
+        "whisper_chunk": "No it's not really that painful It's if I press on it it's a little bit uncomfortable but it's not like I wouldn't call it pain Okay and have you had any trauma to the knee or area or any injuries there Okay no not that I can remember",
+        "gt_chunk": "P: No, it's not really, uh, that painful. It's uh, it's, if I press on it, it's a little bit uncomfortable, but it's not like, I wouldn't call it pain.\n\nD: Okay. And have you had any trauma to the, to the knee, or area, or any injuries there?\n\nP: Uh, no, not that I can remember"
+    },
+    {
+        "whisper_chunk": "I don't think I've had any injuries there And this lump is like probably like two to three centimeters It's I don't even know like when it appeared or why it appeared I haven't really injured myself or anything Okay and have you had any fevers or chills No Okay have you had any unexpected weight loss",
+        "gt_chunk": "P: I don't think I've had any injuries there, and this lump is like, probably like 2 to 3 centimetres, it's, I don't even know like, when it appeared or why it appeared. I haven't really injured myself or anything.\n\nD: Okay, um, and have you had any, uh, any fevers or chills?\n\nP: No.\n\nD: Okay, have you had any unexpected weight loss"
+    },
+    {
+        "whisper_chunk": "No not that I can remember Okay and how about any neurological symptoms like numbness tingling sensory loss No I haven't felt any of those Okay and how about any muscle weakness in the lower extremity or upper extremity No no weakness Okay",
+        "gt_chunk": "P: no, not that I can remember.\n\nD: Okay, uh, and how about, um, any neurological symptoms like numbness, tingling, sensory loss?\n\nP: No, I haven't felt any of those.\n\nD: Okay, and how about uh, any muscle weakness in the lower extremity or upper extremity?\n\nP: No, no weakness. \n\nD: Okay"
+    },
+    {
+        "whisper_chunk": "have you had any like fevers or chills No How about night sweats No night sweats Okay and have you had any infectious symptoms like a runny nose or a sore throat No Okay have you had a cough or shortness of breath",
+        "gt_chunk": "D: have you had any, uh, like fevers or chills?\n\nP: No. \n\nD: Uh, how about night sweats?\n\nP: Uh, no night sweats. \n\nD: Okay, and have you had any infectious symptoms, like uh, like a runny nose or a sore throat?\n\nP: No.\n\nD: Okay. Have you had uh, had a cough or shortness of breath"
+    },
+    {
+        "whisper_chunk": "No I've been pretty well recently Okay that's good And how about any memory loss or confusion No nothing like that Okay and any sensory changes like changes to your vision hearing smell or taste No nothing like that Okay have you had any chest pain No How about any heart palpitations or feeling like your",
+        "gt_chunk": "P: No, I've been pretty well recently.\n\nD: Okay, that's good. And how about any memory loss or confusion?\n\nP: No, nothing like that.\n\nD: Okay, and any sensory changes like changes to your vision, hearing, smell or taste?\n\nP: Uh, no, nothing like that.\n\nD: Okay, have you had any chest pain?\n\nP: No.\n\nD: How about any heart palpitations or feeling like your"
+    },
+    {
+        "whisper_chunk": "heart's racing No Okay have you had any lightheadedness or dizziness No nothing like that Okay and have you had any nausea or vomiting No no nausea or vomiting Okay have you had any changes or loss to appetite No How about",
+        "gt_chunk": "D: heart's racing?\n\nP: No.\n\nD: Okay, have you had any lightheadedness or dizziness?\n\nP: No, nothing like that. \n\nD: Okay. Um, and have you had any nausea or vomiting?\n\nP: Um, no, no nausea or vomiting. \n\nD: Okay, uh, have you had any changes or loss to appetite?\n\nP: Nope.\n\nD: How about"
+    },
+    {
+        "whisper_chunk": "any abdominal pain No no abdominal pain All right have you had any changes to your bowel habits like diarrhea constipation or blood in the stool No No Okay and how about any changes to your urinary patterns like pain or frequency No no changes at all Okay and have",
+        "gt_chunk": "D: any abdominal pain?\n\nP; No, no abdominal pain.\n\nD: Alright. Have you had any changes to your bowel habits, like diarrhea, constipation or uh, blood in the stool? \n\nP: Um, no.\n\nD: Okay, and how about any changes to your urinary patterns like pain or, or frequency?\n\nP: No, no changes at all.\n\nD: Okay, and have"
+    },
+    {
+        "whisper_chunk": "you had any changes to your skin like such as rashes or any changes to your hair or nails No not anything that I've noticed All right so then how about your energy Have you had any fatigue No my energy's been fine Okay and have you had any muscle aches or body pains or any joint pains",
+        "gt_chunk": "D: you had any changes to your skin, like such as rashes, or, or any changes to your hair or nails?\n\nP: No, not anything that I've noticed.\n\nD: Alright, so then, how about your energy? Have you had any fatigue?\n\nP: Um, no. My energy's been fine.\n\nD: Okay, and have you had any muscle aches, or body pains or uh, any joint pains"
+    },
+    {
+        "whisper_chunk": "No I mean like all the other joints and other like bones and muscles have been fine It's just even I wouldn't describe this as pain It's just I think my parents got a bit concerned since there was like a lump they were scared I was a little bit scared too so I just came in to check it out Yeah certainly okay And have you",
+        "gt_chunk": "P: No, I mean like all the other joints and other like, bones and muscles have been fine, it's just, even I wouldn't describe this as pain, it's just uh, I think my parents got a bit concerned um, since there was like a lump. They were scared and I was a little bit scared too, so I just came in to check it out.\n\nD: Yeah, certainly. Okay, um, and uh, have you"
+    },
+    {
+        "whisper_chunk": "been diagnosed with any medical conditions in the past or see a doctor for any reason No I've been pretty healthy up until now Okay and do you take any medications regularly over the counter or prescribed No no medications Okay and do you have",
+        "gt_chunk": "D: been diagnosed with any medical conditions in the past? Or see a doctor for any reason?\n\nP: Um, no, I've been pretty healthy up until now. \n\nD: Okay, uh, and do you take any medications regularly, over the counter or prescribed?\n\nP: Uh no, no medications.\n\nD: Okay, uh, and do you have"
+    },
+    {
+        "whisper_chunk": "any allergies No All right and are your immunizations up to date Yeah all my immunizations are up to date Okay and have you had any hospitalizations or surgeries No I haven't had any hospitalizations or surgeries Okay and can you tell me a little bit about your living situation",
+        "gt_chunk": "D: any allergies?\n\nP: No. \n\nD: Alright, and are your immunizations up to date?\n\nP: Yeah, all my immunizations are up to date.\n\nD: Okay, uh, and have you had any hospitalizations or surgeries?\n\nP: No, I haven't had uh, any hospitalizations or surgeries.\n\nD: Okay. Um, and uh, could you tell me a little bit about your living situation"
+    },
+    {
+        "whisper_chunk": "currently like who you're living with and where Yeah so I'm living with my parents and older brother and we live in just a house right outside of the city Okay and are you currently in school and working or working No I don't work",
+        "gt_chunk": "D: currently? Like who you're living with and uh, where.\n\nP: Yeah, so I'm living um, with my parents and older brother, um, and we live in a, just a house um, right outside of the city.\n\nD: Okay, and are you currently in school and working, or, or working?\n\nP: No I, I don't work"
+    },
+    {
+        "whisper_chunk": "I'm currently in school right now So yeah I'm too busy with school and then just extracurricular activities Yeah absolutely okay And have you been around anybody who's been sick No Okay and have you traveled anywhere recently No we've all just been at home",
+        "gt_chunk": "P: I'm currently in school right now. So yeah, too busy with school and then just extracurricular activities.\n\nD: Yeah, absolutely. Okay, um, and uh, have you been around anybody who's been sick? \n\nP: No.\n\nD: Okay, and have you traveled anywhere recently?\n\nP: No, we've all just been at home"
+    },
+    {
+        "whisper_chunk": "Okay okay and do you smoke cigarettes or use any cannabis products No I haven't tried any drugs or anything like that Okay well that's good And are you currently sexually active No No okay Have you been sexually",
+        "gt_chunk": "D: , and do you smoke cigarettes or uh, or use any cannabis products?\n\nP: No, I haven't tried um, any drugs or anything like that.\n\nD: Okay, well that's good. And um, are you currently sexually active?\n\nP: No.\n\nD: No, okay. Have you been sexually"
+    },
+    {
+        "whisper_chunk": "active in the past No I haven't Okay and any concerns for safety at home with either physical violence or verbal abuse either to yourself or anybody in the home No like me and my brother feel safe at home School is going well too I'm pretty",
+        "gt_chunk": "D: active in the past? \n\nP: No I haven't.\n\nD: Okay. Um, and uh, any concerns for safety at home with either physical violence or um, verbal abuse, either to yourself or anybody in the home?\n\nP: Uh no, we, like um, me and my brother, feel safe at home. School is going well too. Um, I'm pretty"
+    },
+    {
+        "whisper_chunk": "athletic at school I have good friends so no bullying or anything like that Feels pretty safe overall Okay well that's good I'm happy to hear that And is there any conditions in the family either like musculoskeletal or neurological things that you can think",
+        "gt_chunk": "P: athletic at school like uh, I have good friends, so no bullying or anything like that. Feels pretty safe overall.\n\nD: Okay, now that's good. I'm happy to hear that. And uh, is there any um, conditions in the, in the family? Uh, either like musculoskeletal or neurological things that you can think"
+    },
+    {
+        "whisper_chunk": "of I don't think anything related to this but I know my dad has diabetes and my mom has some anxiety Okay and anybody in the family ever have any cancer Or any bone tumors or soft",
+        "gt_chunk": "P: , I don't think anything related to this, but um, I know my, my dad has diabetes. Um, and my mom has uh, some anxiety.\n\nD: Okay, and anybody in the family ever um, have any cancers or, or any bone tumours or soft"
+    },
+    {
+        "whisper_chunk": "tissue tumors or growths I don't think anyone's had like a bone tumor or anything like that I know my uncle he does have melanoma which he had to get surgically removed Okay",
+        "gt_chunk": "D: tissue um, tumours or growths?\n\nP: Um, I don't think anyone's had like a bone tumour or anything like that. I, I know my uncle, um he, he does have a, he had like melanoma, which he had to get surgically removed.\n\nD: Okay"
+    },
+    {
+        "whisper_chunk": "and any genetic diseases in the family or congenital diseases Not that I've been told no Okay so next I just want to move on to the physical exam component And firstly are you having any issues with walking No I've been like",
+        "gt_chunk": "D: and any genetic diseases in the family or, or congenital diseases?\n\nP: Um, not that I've been told, no. \n\nD: Okay, um, so um, next I just wanted to move on to the physical exam component and um, firstly, are you having any issues with uh walking?\n\nP: No, I've been like"
+    },
+    {
+        "whisper_chunk": "no no pain no I can walk just fine no issues there Okay excellent So no antelogic gait And when looking at the area are you seeing any swelling or redness or skin discoloration No no nothing like that It's just I can tell there's like a lump there And if I press it I can feel like a hard lump but no changes in the skin",
+        "gt_chunk": "P: no, no pain, no. I can walk just fine, no issues there.\n\nD: Okay, excellent. So no antalgic gait. And when looking at um, the area, are you seeing any swelling or, or redness, or skin discolouration?\n\nP: No, no, nothing like that. It's just, uh, I can tell there's like a lump there, and if I press it, I can feel like the hard lump, but um, no changes in the skin"
+    },
+    {
+        "whisper_chunk": "above it Okay and are you seeing any muscle atrophy around the area No nothing like that Okay and are you seeing any like joint deformities or anything like that No not that I can tell",
+        "gt_chunk": "P: above it.\n\nD: Okay, and are you seeing any um, muscle atrophy around the area?\n\nP: No um, nothing like that.\n\nD: Okay, and are you seeing any, uh, like joint deformities or, or anything like that?\n\nP: Um, no, not that I can tell"
+    },
+    {
+        "whisper_chunk": "Okay and you don't have any pain So if you press on the area or on the knee joint you can just feel the mass and no pain there Yeah it just feels weird I'm not in any pain or anything but it's weird to look at and then weird to feel there as well Okay And",
+        "gt_chunk": "D: Okay, um and, uh you don't have any, any pain, so if you press on the area or on the the knee joint, you can just feel the mass and no pain there?\n\nP: Yeah, it just feels weird. I don't, I'm not in any pain or anything, but it's like, it's weird to look at and then weird to feel uh, as well. \n\nD: Okay. "
+    },
+    {
+        "whisper_chunk": "okay and then no limitations with like range of motion of any of your joints including like hip knee and ankle Yeah I know I can move everything just fine Okay awesome And so that was everything that I wanted to ask today And I check on the physical as well So was there anything else that I maybe",
+        "gt_chunk": "D: okay, then no limitations with uh, with like range of motion of any of your joints including like uh, knee and ankle?\n\nP: Yeah no, I can move everything just fine.\n\nD: Okay, awesome and so that, that was everything that I wanted to ask today and uh, uh check on the physical as well. Um, so was there anything else that I maybe"
+    },
+    {
+        "whisper_chunk": "forgot to ask about or anything you wanted to add Yeah no nothing else I want to add but I think my parents and I were scared about it being like a cancer or like a tumor So I just don't know what I should do if I need to get any tests done or x rays or anything like that Okay yeah So",
+        "gt_chunk": "D: forgot to ask about or anything you wanted to add? \n\nP: Yeah no, I um, nothing else I wanted to add, but I, I think my parents and I were just scared about it being like uh, cancer, or like a tumour, um, so I just don't know what I should do, if I need to get any tests done, or x-rays, or anything like that.\n\nD: Okay, um, yeah,"
+    },
+    {
+        "whisper_chunk": "the first thing we will want to get an x ray of the knee and also of the long bones so of your femur as well as your leg too And because right now the most likely thing is called something an osteochondroma which is the most common primary",
+        "gt_chunk": "D: the first thing we will want to get uh, an x-ray um, of the knee and also of the uh, long bones, so of your femur um, as well as your leg too. Uh, and because right now we, um, most likely think is called something, um, an osteochondroma, um, which is the most common uh, primary"
+    },
+    {
+        "whisper_chunk": "benign bone tumor However there are other things that it could be And so such as like an osteoma or an endochondroma So we will want to get that x ray and",
+        "gt_chunk": "D: benign bone tumour. Um, however, there are other things that it, it could be, um, and so, such as like an osteoma, or um, an endochondroma, um, so we'll, we'll want to um, get that x-ray and"
+    },
+    {
+        "whisper_chunk": "kind of go from there Okay yeah that sounds good All right so we'll get that ordered All right perfect Thank you so much",
+        "gt_chunk": "D: kind of go, go from there.\n\nP: Okay, uh, yeah that, that sounds good.\n\nD: Alright, so we'll get that, we'll get that ordered.\n\nP: Alright perfect, thank you so much"
+    }
+]

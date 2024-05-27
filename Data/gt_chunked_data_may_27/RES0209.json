@@ -1,0 +1,78 @@
+[
+    {
+        "whisper_chunk": "So what brings you in Okay um So I have been coughing a lot over the past week or so and It's been pretty dry but I've been coughing like almost non stop throughout the day and I'm feeling very short of breath and I My bronchodilator helps but I find I'm using it a lot now",
+        "gt_chunk": "D: So what brings you in?\n\nP: OK, I'm so I have been coughing a lot over the past week or so. And it's been pretty dry, but I've been coughing like almost nonstop throughout the day, and I'm feeling very short of breath, and my bronchodilator helps, but I found I'm using it a lot now"
+    },
+    {
+        "whisper_chunk": "Okay how long have you known that you have asthma for I was diagnosed when I was eight You're ten now Mm hmm Okay that's right So you're using your bronchodilator more This is the one that you use kind of as needed Yeah okay and then do you have one that you take every day no matter what",
+        "gt_chunk": "D: OK, how long have you know that you have asthma for?\n\nP: I was diagnosed when I was eight. \n\nD: You're 10 now.\n\nP: That's right. \n\nD: So you're using your bronchodilator more. This is the one that you use, kind of as needed?\n\nP: Yeah. \n\nD: OK and then do you have one that you take every day no matter what"
+    },
+    {
+        "whisper_chunk": "Um No I don't have that one Oh so you just have the one that you take is needed Um Do you take any other medications Um I know I don't take anything else Oh just the one is it a it's a puffer Yes Okay Okay and I You're using it more than normal So how often were you normally using it",
+        "gt_chunk": "P: Uhm? No, I don't have that one.\n\nD: OK. You just have the one that you take is needed. Do you take any other medications?\n\nP: Uh no I don't take anything else.\n\nD: Just the one is it a it's a puffer? \n\nP: Yes. \n\nD: OK, and you're using it more than normal, so how often were you normally using it"
+    },
+    {
+        "whisper_chunk": "Um I was only using it like I don't know maybe once every two weeks or so not very often But now I'm using it like Ever almost every day like five six times a week Okay and are you does it usually Turn out that you need it like during certain times like",
+        "gt_chunk": "P: Um I was only using it like I don't know. Maybe once every two weeks or so. Not very often. But now I'm using it like almost everyday like five six times a week.\n\nD: OK, any are you? Does it usually turned out that you need it like during certain times like"
+    },
+    {
+        "whisper_chunk": "say when you're exercising or when it's cold And I thought I use it more both like when it when it's Right after I like run around after gym during recess And yeah the cold also makes it worse Okay any other triggers that you can think of No no other triggers",
+        "gt_chunk": "D: say when you're exercising or when it's cold?\n\nP: Um I find I use it more, both like when it when it's right after I like, run around after gym during recess. Um and yeah, the cold also makes it worse.\n\nD: OK, any other triggers that you can think of?\n\nP: No, no other triggers"
+    },
+    {
+        "whisper_chunk": "Normally get more in certain seasons Um I Don't know no big changes there I find the cold air makes it worse like winter makes it worse or like Yeah maybe also the spring spring with like Pollen and stuff like that Okay so",
+        "gt_chunk": "D: Normally get more in certain seasons? \n\nP: I. I guess no, no big changes there. I find the cold air makes it worse like winter makes it worse or like. Yeah, maybe also the spring spring with like pollen and stuff like that. \n\nD: OK, so"
+    },
+    {
+        "whisper_chunk": "you have allergies to I Think so I haven't ever been like formally diagnosed Oh Okay I see I see Yeah that would make sense No okay So you say you've had More coughing lately Is that right You said the last two weeks Or the last week last two weeks last week Has your cough been a dry cough Yeah have you",
+        "gt_chunk": "D: you have allergies too?\n\nP: I think, so I haven't ever been like formally diagnosed. \n\nD: OK, I see I see. Yeah, that would make sense. No. OK, uh, so you say you've had more coughing lately, is that right? You said the last two weeks.\nOr the last week \n\nP: Last two weeks.\n\nD: Last two weeks. Is your cough and a dry cough?\n\nP: Yeah. \n\nD: Have you"
+    },
+    {
+        "whisper_chunk": "been bringing up gunk okay dry cough have you noticed any wheezing Oh Yeah I've been wheezing a lot actually Hey and that's Do you use your bronchodilator every time that you're wheezing When it gets really bad like when I get so easy that I find it hard to breathe Okay so you're getting wheezy even more",
+        "gt_chunk": "D: been bringing up gunk OK. Dry cough? Have you noticed any wheezing?\n\nP: Oh yeah, I've been wheezing a lot, actually.\n\nD: OK, uh and that's uh. Do you use your bronchodilator every time that you're wheezing?\n\nP: When it gets really bad, like when I get so easy that I find it hard to breathe.\n\nD: OK, so you're getting Wheezy even more"
+    },
+    {
+        "whisper_chunk": "times then then you're having to use your bronchodilator Yes that's right Are you having any symptoms at night time Yeah Um They don't happen as much as my daytime Symptoms but I've been having it maybe like every other day or like you know every two days or so Okay and When you have these so when you have these",
+        "gt_chunk": "D: times than then you're having to use your bronchodilator.\n\nP: Yes, that's right. \n\nD: OK. Are you having any symptoms at night time?\n\nP: Yeah, how they don't happen as much as my daytime symptoms, but I been having it maybe like every other day or like you know, every two days or so.\n\nD: OK. And when you have these so when you have these"
+    },
+    {
+        "whisper_chunk": "episodes you're coughing you're wheezy Do you feel like you're having a hard time breathing Yeah that's right Do you feel it gets tight in your chest Yes Okay um have you had any any colds lately or any infections No no nothing like that Okay does anyone",
+        "gt_chunk": "D: episodes, you're copping your wheezy. Do you feel like you're having a hard time breathing?\n\nP: Yep, that's right. \n\nD: Do you feel it gets tight in your chest? \n\nP: Yes.\n\nD: OK. OK, have you had any any colds lately? Or any infections? .\n\nP: Um no, no, nothing like that.\n\nD: K, does anyone"
+    },
+    {
+        "whisper_chunk": "that lives with you or anyone that you're around often has anyone been sick No Okay Could you have been in contact with anyone that's sick Oh so you know the side of your clothes No Okay Have you traveled anywhere Nope Have you lost any of your sense of taste or smell No Have you had any fevers No",
+        "gt_chunk": "D: that lives with you or anyone that you're around often, has anyone been sick? \n\nP: No. \n\nD: OK. Could you have been in contact with anyone that sick even outside of your house? \n\nP: No.\n\nD: OK, have you traveled anywhere? \n\nP: Uh no.\n\nD: Have you lost any of your sense of taste or smell?\n\nP: No.\n\nD: Have you had any fevers?"
+    },
+    {
+        "whisper_chunk": "Any um any Nausea or vomiting No Any belly pain No We just ask those questions just because sometimes these things can happen with an infection or after an infection and we just want to make sure That that's not you know what's happening right now We probably will do a COVID swab just because of the",
+        "gt_chunk": "D: Any any? Nausea or vomiting? \n\nP: No.\n\nD: Any belly pain? \n\nP: No.\n\nD: We just ask those questions because sometimes these things can happen with an infection or after an infection and we just want to make sure that that's not, you know what's happening right now. We probably will do a covid swab just because of the"
+    },
+    {
+        "whisper_chunk": "times that we're living in right now But I just want to ask you a few more questions before I go talk to the doctor So do you have besides your asthma do you have any health problems Oh No no Okay and you said besides the bronchodilator you're not taking any medications No",
+        "gt_chunk": "D: times that we're living in right now, but I just want to ask you a few more questions before I go talk to the doctor. So do you have besides your asthma, do you have any health problems?\n\nP: Oh no, no no. \n\nD: OK. And you said, besides the bronchodilator, you're not taking any medications.\n\nP: No"
+    },
+    {
+        "whisper_chunk": "And you think you might have allergies in the spring Do you have allergies to anything else that you know No not that I know of Okay does anyone else in your family have asthma I think my sister has asthma too Does anyone in your family have any other breathing",
+        "gt_chunk": "D: And you think you might have allergies in the spring? Do you have allergies to anything else that you know?\n\nP: Uh no, not that I know of.\n\nD: OK, does anyone else in your family have asthma?\n\nP: I think my sister has asthma too.\n\nD: Anyone in your family have any other breathing"
+    },
+    {
+        "whisper_chunk": "problems No Anyone else in the family have any allergies No I don't think so Okay Sounds good and you live at home Did you say you live with your parents and your sister Yep that's right Well Are you currently going to school online or in person",
+        "gt_chunk": "D: problems?\n\nP: No. \n\nD: Anyone else in the family have any allergies?\n\nP: Uh no, I don't think so. \n\nD: OK. OK, sounds good and you live at home did you say live with your parents and your sister?\n\nP: Yep, that's right. \n\nD: Cool. Are you currently going to school online or in person"
+    },
+    {
+        "whisper_chunk": "Both we do half days Okay How are you finding that It's been okay it's different but it's been working out Okay so far Cool enough I have to get out of your PJs some days Yes that's true Okay do you guys have any pets in the home No pets we",
+        "gt_chunk": "P: both We do half days. \n\nD: OK. How are you finding that?\n\nP: Yeah, it's been OK. It's it's different, but it's been working out OK so far.\n\nD: Cool not to have to get out of your PJS some days.\n\nP: Yes, that's true.\n\nD: OK, did do you guys have any pets in the home?\n\nP: No pets, we"
+    },
+    {
+        "whisper_chunk": "have just like well I guess we have goldfish Okay Those are cool pets Um does anyone in the house smoke No Okay Okay I think that's all my questions that I had for you today Um what do you like to do for fun Oh um I like playing games online with my friends and",
+        "gt_chunk": "P: have just like well I guess we have goldfish.\n\nD: Oh, OK. Those are cool pets. Does anyone in the house smoke? \n\nP: No. \n\nD: OK. OK, I think that's all my questions that I had for you today. What do you like to do for fun?\n\nP: Oh I'm I like playing games online with my friends and"
+    },
+    {
+        "whisper_chunk": "um before COVID we used to get together and have movie nights and um play sports together That sounds really cool Well hopefully um you can get this figured out for you So you don't have any uh you don't have to use your your medications every time you play sports because that's no fun No you should be able to enjoy that So So we're gonna try to get this sorted out for you I'm gonna go um talk to",
+        "gt_chunk": "P:  before covid we used to get together and have movie nights and play sports together.\n\nD: It sounds really cool. Hopefully we can get this figured out for you so you don't have any, you don't have to use your your medications every time you play sports 'cause that's no fun. And \n\nP: No. \n\nD: You should be able to enjoy that. So, so we're going to try to get this sorted out for you. I'm gonna go talk to"
+    },
+    {
+        "whisper_chunk": "the doctor and tell him everything or her everything that you said and uh You know we'll come back and see you shortly Hopefully maybe all you need is a little change to your medications and maybe we'll be better be able to better control your asthma Yeah that sounds great Thank you Okay Well thanks for talking with me We'll see you soon Okay great Thanks",
+        "gt_chunk": "D: the doctor and tell him everything or her everything that you said and yeah we\u2019ll come back and see you shortly, hopefully maybe all you need is a little change to your medications and maybe it will be better be able to better control your asthma.\n\nP: Yeah, that sounds great. Thank you.\n\nD: Thanks talking with me and we'll see you soon.\n\nP: OK, great thanks"
+    }
+]

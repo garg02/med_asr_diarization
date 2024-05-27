@@ -1,0 +1,118 @@
+[
+    {
+        "whisper_chunk": "What brings you in today Yeah so I've had this cough that started within the last day and I've also been particularly short of breath as well Can you tell me about the cough Is it a dry cough or a wet cough It's wet I've been bringing up sputum that",
+        "gt_chunk": "D: What brings you in today?\n\nP: Yeah, so I've had this cough that started within the last day and uhm, I've also been particularly short of breath as well.\n\nD: OK. Can you tell me about the, the cough, how, is it dry cough or wet cough?\n\nP: It's wet, I've been bringing up, uh, sputum that"
+    },
+    {
+        "whisper_chunk": "leaves a really bad taste in my mouth when bringing it up What colour is the sputum It's kind of like yellowish green type colour Have you noticed any blood No I haven't seen any blood And it only started",
+        "gt_chunk": "P: leaves a really bad taste in my mouth when bringing it up.\n\nD: What color is the sputum?\n\nP: It's kind of, uh, like, yellowish green, type color. \n\nD: Havey you noticed any blood?\n\nP: No, I haven't seen any blood.\n\nD: And it only started"
+    },
+    {
+        "whisper_chunk": "yesterday What about the difficulties breathing When did that start Yeah that started really within the last 12 hours or so Can you tell me if it's gotten better or worse since then Yeah it's been getting worse and phlegm also smells really bad",
+        "gt_chunk": "D: yesterday. What about the difficulties breathing, when did that start?\n\nP: Yeah, that started really within the last twelve hours or so.\n\nD: And can you tell me if it's gotten better or worse since then? \n\nP: Yeah, it's been, it's been getting worse, uhm, and the phlegm, also smells really bad"
+    },
+    {
+        "whisper_chunk": "Is there anything that makes the shortness of breath worse Yeah when I was having a cigarette earlier today it got a bit worse and when I went out to get the mail today I just couldn't do it I had to just sit down",
+        "gt_chunk": "D: is there anything that makes the, shortness of breath, worse? \n\nP: Yeah, if I, uhm, when I was having a cigarette earlier today, it got a bit worse and when I went out to get the Mail today I, I just couldn't do it. I, I had to just sit down"
+    },
+    {
+        "whisper_chunk": "And that's not happened to you before right No I usually am able to go out and get the mail no problem Okay And say two days ago were you feeling perfectly fine I was yeah I wasn't sick at all",
+        "gt_chunk": "D: And that what happened to you before, right?\n\np: No, I usually uhm, am able to go out and get the mail, no problem, yeah.\n\nD: OK. Uh, and say two days ago, were you feeling perfectly fine?\n\nP: I was yeah, I wasn't sick at all"
+    },
+    {
+        "whisper_chunk": "Okay So you've had this wet cough and you've had some difficulties breathing since yesterday Have you had a headache at all No no headache Any runny nose No Any congestion No Okay Have you had",
+        "gt_chunk": "D: OK, so you've had this bad cough and you've had some difficulties breathing since yesterday. Have you had a headache at all?\n\nP: No, no headache.\n\nD: Any, uh, runny nose?\n\nP: No, it's really, no.\n\nD: Any congestion?\n\nP: No.\n\nD: No, OK. Have you had"
+    },
+    {
+        "whisper_chunk": "any pain in your chest No pain Were you breathing in or breathing out any pain at that time Or deep breathing No I haven't had any pain Okay Have you had any palpitations or do you feel like your heart's racing Yeah well I do feel like my",
+        "gt_chunk": "D: any pain in your chest? \n\nP: Uh, no pain.\n\nD: When you're breathing in or breathing out any pain at that time? or deep breathing?\n\nP: No, I haven't had any pain.\n\nD: OK, have you had any palpitations or you feel like your heart's racing?\n\nP: Uh, yeah, I do. I feel like my"
+    },
+    {
+        "whisper_chunk": "heart has been beating a little bit faster Okay And any pain in your belly No Nausea or vomiting No but I guess I have felt a little nauseous with a bad taste in my mouth",
+        "gt_chunk": "P: heart has been beating a little bit faster.\n\nD: OK. And any pain in your belly?\n\nP: No.\n\nD: Nausea or vomiting?\n\nP: Uh no, but, well I guess I have felt a little nauseous with the, uhm, bad taste in my mouth"
+    },
+    {
+        "whisper_chunk": "Okay And any diarrhea or constipation No I haven't had anything like that Okay Any sore throat No Okay All right Any other symptoms that I haven't talked about that you've experienced over",
+        "gt_chunk": "D: and any uh diarrhea or Constipation?\n\nP: Uhm no, I haven't anything like that.\n\nD: OK, any sore throat? \n\nP: Uhm, no.\n\nD: OK alright uhm, any other symptoms that I haven't talked about, that you experienced over"
+    },
+    {
+        "whisper_chunk": "the past day No it's really been yeah this cough and bringing up the sputum and being short of breath Okay Can you tell me about your past medical history Do you have any medical conditions Yeah I have high",
+        "gt_chunk": "D: the past day?\n\nP: No, it's really been, uhm, yeah, this cough and bringing up this, this sputum and being short of breath.\n\nD: OK, uhm, can you tell me about your past uh, medical history, do you have any medical conditions?\n\nP: Uh yeah, I have uhm, high"
+    },
+    {
+        "whisper_chunk": "blood pressure I also have acid reflux So GERD I think it's called And high cholesterol as well Okay And I've also had issues with anxiety in the past as well",
+        "gt_chunk": "P: blood pressure.\n\nD: Mhm.\n\nP: I also have acid reflux, so uh, gerd I think, think it's called?\n\nD: Yeah.\n\nP: And, uhm, high cholesterol as well.\n\nD: OK, ok.\n\nP: And I've also been, had issues with anxiety in the past as well"
+    },
+    {
+        "whisper_chunk": "In terms of medications are you taking any Yeah I take an ACE inhibitor a statin and a medication for my stomach I think Pantoprazole Okay And how well has",
+        "gt_chunk": "D: In terms of medications, are you taking any? \n\nP: Yeah, I take uhm, an ACE inhibitor, statin, uhm, and uh, medication for my stomach, I think, like Pantoprazole.\n\nD: OK, and uh, how well has"
+    },
+    {
+        "whisper_chunk": "your GERD been controlled It kind of bugs me most days It's not so bad I mean sometimes I'll get a little bit of heartburn and acid in my mouth but it depends on what I eat So I really try to stay away from some foods So the PPI hasn't completely",
+        "gt_chunk": "D: your gerd been controlled?\n\nP: Uh, it kind of, it bugs me most days, its not so bad, I mean, sometimes I'll get a little bit of heartburn and acid in the, in my mouth, but it depends on what I eat so I really try to stay away from some, some foods.\n\nD: So the PPI hasn't completely"
+    },
+    {
+        "whisper_chunk": "curbed the acid reflux You still get it Yeah I still get it It's definitely helped though It was a lot worse before starting it I've been on it now for a few years Okay And as for your anxiety do you ever get panic attacks No I haven't had any panic attacks Okay All right",
+        "gt_chunk": "D: curbed the, the acid reflux, you still get it?\n\nP: Yeah, I still get it. It's definitely helped though it was a lot worse before, uh starting it. I've been on been on it now for a few years.\n\nD: OK, and as for your anxiety, do you ever get panic attacks?\n\nP: No, I haven't had any, any panic attacks.\n\nD: OK, alright"
+    },
+    {
+        "whisper_chunk": "Do you have any allergies No Okay So you said that these symptoms started yesterday and they were quite sudden Was there anything that you were doing yesterday or the day before that was different or unusual Well yeah I mean yesterday I had a bit more to drink than usual",
+        "gt_chunk": "D: Do you have any allergies?\n\nP: No. \n\nD: OK, so you said that these symptoms started yesterday and they were quite sudden, uh, was there anything that you were doing yesterday or the day before that was different or unusual?\n\nP: Well, yeah, I mean yesterday I, or, yeah, I had a bit more to drink than, uh, usual"
+    },
+    {
+        "whisper_chunk": "More alcohol I mean could that have something to do with it I'm not sure It could potentially Were you drunk Did you pass out Yeah I think so Yeah that's what my friends were saying anyway Okay And talking about alcohol how much do you",
+        "gt_chunk": "P: more alcohol I mean. So, I mean, could that have something to do with it? I'm not sure.\n\nD: It could potentially. Did you, were you, were you drunk and did you pass out?\n\nP: Yeah, I think so. My, my friends, uh yeah, that's what my friends were, were saying anyway.\n\nD: OK, and uh, talking about alcohol, how much do you"
+    },
+    {
+        "whisper_chunk": "usually drink Usually like four to six beers a day But yeah yesterday was certainly more than that Have you considered reducing the amount of alcohol you drink Has it affected you in any way I mean I'm retired now so I don't know I feel like it's been",
+        "gt_chunk": "D: usually drink?\n\nP: I usually, like, like four to six beers a day, but uh, yeah, yesterday was certainly more than that.\n\nD: Have you considered reducing the amount of alcohol you drink? Has it affected you in any way?\n\nP: I mean I, I'm retired now so, uhm, I don't know, I, I feel like it's been"
+    },
+    {
+        "whisper_chunk": "fine maybe Yeah I feel like it's been fine Okay Okay I suppose we could talk a little bit more about that later if you want Four to six beers is quite a lot actually And it can affect your health in certain ways but we can chat more about that later Okay And do you smoke",
+        "gt_chunk": "P: fine maybe, uh, I feel like it's been fine.\n\nD: OK, OK, I suppose we could talk a little bit more about that later if you want uhm, as four to six beers is quite a lot actually, and it can affect your health in certain ways, but we can, we can chat more about that later.\n\nP: OK.\n\nD: And, uh, do you smoke"
+    },
+    {
+        "whisper_chunk": "Yeah I smoke half a pack of cigarettes per day It was well over a pack before so I've cut down a little bit Oh that's great Okay Do you plan on cutting it down further or do you want to stay right there Yeah I have been trying Just too darn expensive these days so I've been trying to cut back Yeah yeah that's fair All right",
+        "gt_chunk": "P: Yeah, I smoke, uhm, a half a pack of cigarettes per day. It was well over a pack before, so I've cut down a little bit.\n\nD: No, that's great. OK, do you plan on cutting it down further or do you wanna stay right there?\n\nP: Yeah I have been, have been trying, just too, too darn expensive these days, so, been trying to cut back.\n\nD: Yeah, yeah, that's fair, alright"
+    },
+    {
+        "whisper_chunk": "What about marijuana Do you consume marijuana No I don't Any recreational drugs No All right Do you have any family history of any medical problems Yeah my father had",
+        "gt_chunk": "D: What about marijuana? Do you consume marijuana?\n\nP: No, I don't.\n\nD: Any recreational drugs?\n\nP: Nope.\n\nD: Alright, do you have any family history of any medical problems?\n\nP: Uh yeah, my, my father had"
+    },
+    {
+        "whisper_chunk": "he ended up having liver disease actually He passed away from that I think And he had heart problems too He was a lifelong smoker and didn't really take care of himself I see Do you have a family doctor I do I haven't seen a family doctor in a number of years now though",
+        "gt_chunk": "P: he ended up having liver disease actually, he passed away from that I think. And he had heart problems too. He was a lifelong smoker and didn't really, didn't really take care of himself.\n\nD: Hmm, I see. Do you, do you have a family doctor?\n\nP: Uh, I do. I haven't seen my family doctor in a number of years now though"
+    },
+    {
+        "whisper_chunk": "Yeah Well you know it's a good idea to see your family doctor on a regular basis especially when you're getting older because sometimes you might need changes in your medications or there might be checkups or screenings that they might want to do So it's for your own benefit You know maybe even just seeing them once a year would be a good idea I would definitely recommend that you book an appointment with them just for a checkup",
+        "gt_chunk": "D: Yeah, well, you know it's, it's a good idea to see your family doctor on a regular basis, specially when you're getting older, because sometimes you might need changes in your medications, or there might be checkups or screenings that they might want to do. It's for your own benefit, you know, maybe even just seeing them once a year would be a good idea. I would definitely recommend that you book an appointment with them just for a checkup"
+    },
+    {
+        "whisper_chunk": "in the next couple of weeks Is there a reason why you don't see your family doctor too often I just haven't been sick and I've been able to refill my prescriptions mostly from just calling in Okay Okay I see All right And do you live alone or do you live with",
+        "gt_chunk": "D: in the next couple of weeks. Is there a reason why you don't see your family doctor too often?\n\nP: I just haven't been, uhm, sick and I've been able to, to refill my prescriptions, mostly from just calling in, so.\n\nD: OK, ok, I see, uhm, alright, and do you live alone or do you live with"
+    },
+    {
+        "whisper_chunk": "other people Yeah I live with my wife Okay All right And are you able to take care of things like groceries or finances or is it shoveling snow or cleaning the house or do you need any assistance with those household activities Yeah we moved actually into an apartment",
+        "gt_chunk": "D: other people?\n\nP: Yeah, I live with my wife.\n\nD: OK, alright, and are you able to take care of things like groceries or finances, or shoveling snow or cleaning the house, or do you need any assistance with those sort of household activities?\n\nP: Yeah, we moved, uhm, actually into an apartment"
+    },
+    {
+        "whisper_chunk": "last year It's made it a lot easier in terms of the housework and that sort of thing But I've been able to yeah I do the grocery shopping and share the chores around the house I'll use a cane sometimes I injured my knee a number of years ago but other than that things are okay Okay Okay Good to hear",
+        "gt_chunk": "P: last year. It's made it a lot easier in terms of the housework and that sort of thing. But I've been able to, uhm, I do the the grocery shopping and share the the chores around, around the house. I do, I'll use a cane sometimes. I, I injured my knee a number of years ago, but other than that, things are OK.\n\nD: OK, OK, good to hear"
+    },
+    {
+        "whisper_chunk": "That reminds me have you had any surgeries in the past Just on my left knee I had a left knee replacement a few years ago Okay All right And have you had any hospitalizations No Okay All right So sounds like you've had a day of this wet cough with",
+        "gt_chunk": "D: That reminds me, have you had any surgeries in the past?\n\nP: Just on my, my left knee. I had a left knee replacement a few years ago.\n\nD: OK alright and have you any had, had any hospitalizations?\n\nP: No.\n\nD: OK, alright, uhm, so sounds like you've had a day of this wet cough with"
+    },
+    {
+        "whisper_chunk": "this bad smelling sort of sputum that's yellowish green in color and you've also had difficulties breathing for the past 12 hours so much so that you can't even go out to get milk",
+        "gt_chunk": "D: this, a bad smelling sort of sputum that's, that's yellowish green in color, and you've also had difficulties breathing for the past twelve hours, uh, so much so that you can't even go out to get mail"
+    },
+    {
+        "whisper_chunk": "Okay Okay Okay Okay Okay Have you recently been on",
+        "gt_chunk": "D:  out to get mail and your hearts been"
+    },
+    {
+        "whisper_chunk": "any antibiotics No I haven't And you don't have any allergies to any correct Correct All right Okay We'll also do a physical exam just to give a listen to your lungs and see how they're doing and then go from there Do you have any questions for me No that sounds good Thank you All",
+        "gt_chunk": "D:  that you might have, and given that you have acid reflux, that you might have accidentally have something go inside your breathing tube from, from your mouth or something that came up from your stomach and sometimes when that happens, food items can or"
+    }
+]

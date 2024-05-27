@@ -1,0 +1,118 @@
+[
+    {
+        "whisper_chunk": "How may I help you Came in here today I usually don't come to the doctor that much unless I absolutely need it Five days ago I started having this pain and swelling in my right knee So and at first I thought it was just like my arthritis acting up but it's been getting more swollen and painful than usual So I just wanted to come in and check it out Okay So when did you first",
+        "gt_chunk": "D: How may I help you?\n\nP: I just came in here today, I usually don't come to the doctor that much unless I absolutely need it. Five days ago I started having this pain and swelling in my right knee. So and at first I thought it was just like my arthritis acting up but it's been getting more swollen and painful than usual, so I just wanted to come in and check it out.\n\nD: OK, so when did you first"
+    },
+    {
+        "whisper_chunk": "notice that pain Like when did it get more swollen and painful than usual So like I would say around five days ago it started getting more and usually I do get pain in some of my joints but I don't really get swelling So that was a bit different Okay And is the joint hot as well or is there a temperature change It is it does feel like if I touch",
+        "gt_chunk": "D: notice that this pain, like when did it get more swollen and painful than usual?\n\nP: So like I would say around 5 days ago it started getting more and usually I do get pain in some of my joints but I I don't really get swelling so that was a bit different.\n\nD: OK, and is the joint hot as well, or is there a temperature change?\n\nP: It is, it does feel like if I touch"
+    },
+    {
+        "whisper_chunk": "the joint it does feel a bit warmer than the surrounding areas Okay And does it look red It definitely it definitely looks more red than my other knee Okay And sorry which knee is it that's bothering you right now It's the right knee Okay And so this",
+        "gt_chunk": "P: the joint it does feel a bit warmer than the surrounding areas.\n\nD: OK, does it look red?\n\nP: It It definitely it definitely looks more red than my other knee.\n\nD: OK, and so what knee is it that, that's bothering you right now?\n\nP: It's the right knee. \n\nD: OK. And so this"
+    },
+    {
+        "whisper_chunk": "pain it's been going on for the last five days Has it been getting better worse or staying the same I think it's getting it's getting it was getting worse but it's like a bit better right now Okay It like yeah It comes and goes in severity though Okay And how would you describe the pain",
+        "gt_chunk": "D: pain has been going on for the last five days. Has it been getting better, worse, or staying the same?\n\nP: I think it's getting a. It's getting it was getting worse, but it's like a bit better right now.\n\nD: OK.\n\nP: Yeah it comes and goes in severity though.\n\nD: OK, and how would you describe the the pain"
+    },
+    {
+        "whisper_chunk": "the character of it Is it sharp dull or achy It's like someone is stabbing me in the knee and it hurts the most when I'm moving the knee Okay And does the pain radiate anywhere I don't think so no Okay So you're feeling it just in the knee and you said moving the knee is painful",
+        "gt_chunk": "D: The character of it, is it sharp, dull, or achy?\n\nP: It's it's like someone is stabbing me in the knee and it hurts the most when I'm moving the knee.\n\nD: OK, and does the pain radiate anywhere?\n\nP: Uhm, I don't think so, no.\n\nD: OK, so you're feeling it just in the knee and you said moving the knees is painful"
+    },
+    {
+        "whisper_chunk": "Is there anything else that makes the pain worse Not really Like resting it definitely helps Yeah but I just have to keep it a bit immobilized Okay And is there anything that makes the pain better that you've tried like maybe medications or any ice packs or anything like that Not really I do",
+        "gt_chunk": "D: Is there anything else that makes the pain worse? \n\nP: Uhm, not really like resting it definitely helps, yeah, but I just have to keep it a bit immobilized.\n\nD: OK, and is there anything that that makes the pain better that you've tried like maybe medications or any ice packs or anything like that?\n\nP: Uh, not really. I do"
+    },
+    {
+        "whisper_chunk": "take some painkillers just some Advil which seems to help a little bit Okay Okay Okay is the pain worse at any particular time of the day Like do you have morning stiffness Yeah usually with",
+        "gt_chunk": "P: take some painkillers, so just some Advil, which seems to help a little bit.\n\nD: OK. And. And um. OK, is the pain worse at any particular time of the day, like do you have morning stiffness?\n\nP: Yeah, usually with"
+    },
+    {
+        "whisper_chunk": "my normal arthritis I do get some morning stiffness but this is completely different It's throughout the day pretty much Okay And did you have any trauma or any injury to the knee No I didn't Okay I did have a steroid injection to the same knee just a week ago but",
+        "gt_chunk": "P: my normal this arthritis I do get some morning stiffness but this is completely different, it's throughout the day pretty much.\n\nD: OK, and did you have any trauma or any injury to the knee?\n\nP: No, I didn't. \n\nD: OK, uh.\n\nP: I I did have like a steroid injection to the same knee just a week ago, but"
+    },
+    {
+        "whisper_chunk": "no I haven't fallen on it I haven't had any operations Okay And have you had any fevers or chills No Okay have you had any changes to any of your senses like vision hearing or your sense of smell or taste No nothing like that Have you had a runny nose or a sore throat No",
+        "gt_chunk": "P:  I haven't fallen on it. I haven't had any operations.\n\nD: OK. Anne. And. Have you had any fevers or chills?\n\nP: No. \n\nD: OK, have you had any changes to any of your senses like vision, hearing or your sense of smell or taste?\n\nP: No, nothing like that.\n\nD: Have you had a runny nose or sore throat?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Have you had any cough or shortness of breath No How about any wheezing Nope Have you had any chest pain or yeah have you had any chest pain No How about any lightheadedness or dizziness No Okay and have you had any nausea or vomiting No All right have you had any loss of appetite",
+        "gt_chunk": "D: Have you had any cough or shortness of breath?\n\nP: No.\n\nD: How about any wheezing? \n\nP: Nope.\n\nD: Have you had any chest pain or yeah, have you had any chest pain? \n\nP: No.\n\nD: How about any lightheadedness or dizziness?\n\nP: No, \n\nD: OK and have you had any nausea or vomiting?\n\nP: Um nope. \n\nD: Alright, have you had any loss of appetite"
+    },
+    {
+        "whisper_chunk": "Nope And have you had any abdominal pain Nope Have you had any changes to your bowel movements such as diarrhea or constipation or incontinence Nope Any urinary problems like painful urination or frequency No not really Have you had any skin changes like rashes anywhere Nope",
+        "gt_chunk": "P: No.\n\nD: And have you had any abdominal pain?\n\nP: No.\n\nD: Have you had any changes to your bowel movements such as diarrhea or constipation, incontinence?\n\nP: No. \n\nD: Any urinary problems like painful urination or frequency.\n\nP: No, not really.\n\nD: Have you had any skin changes like rashes anywhere?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay and any other painful joints or muscle aches or body pains Yeah I just get my general like I have osteoarthritis so it's been a pretty long time though I get some pain in my hips sometimes my knees so that's been going on for a while but this is something I've never experienced though like this significant pain and swelling and redness",
+        "gt_chunk": "D: OK, and any other painful joints or muscle aches or body pains? \n\nP: Yeah, I just got my general like I havee osteoarthritis, so I like It's been a pretty long time though but I get some pain in my hips sometimes my knees, so it's it's that's been going on for awhile, but this is something I've never experienced though like this significant pain and swelling and redness"
+    },
+    {
+        "whisper_chunk": "Okay and have you had any changes to your memory or any confusion Nope Okay and have you had any unexpected weight loss Nope And how about any night sweats Nope Okay in the past have you been diagnosed with any medical conditions Yes I",
+        "gt_chunk": "D: OK. And have you had any changes to your memory or any confusion?\n\nP: Nope.\n\nD: OK, and have you had any unexpected weight loss?\n\nP: No.\n\nD: And how about any night sweats?\n\nP: No.\n\nD: OK, Um in the past have you been diagnosed with any medical conditions?\n\nP: I"
+    },
+    {
+        "whisper_chunk": "do have so I have a couple conditions I have osteoarthritis in both my knees and hips I have high blood pressure I did have a heart attack four years ago and I also have had heart failure and also I'm just a bit on the",
+        "gt_chunk": "P: do have. So I have a couple conditions. I have osteoarthritis in both my knees and hips. I have high blood pressure. I did have a heart attack four years ago and I also have had heart failure. And also I'm just a bit on the"
+    },
+    {
+        "whisper_chunk": "overweight side Okay are you currently taking any medications Yeah so I am taking just a furosemide then a ramipril for my blood pressure but yeah that's about it right now and just painkillers over the counter",
+        "gt_chunk": "P: overweight side.\n\nD: OK, are you currently taking any medications?\n\nP: Yeah, so I am taking just um Furosemide then Ramipril for my blood pressure. But yeah, that's that's about it right now and like just painkillers over the counter"
+    },
+    {
+        "whisper_chunk": "Okay and any allergies to medications Just I have a penicillin allergy Okay and what's the rash or sorry what's the reaction I don't really remember I was a child at that time I don't remember what reaction I really got I see okay and have you had any prior",
+        "gt_chunk": "D: . And any allergies to medications?\n\nP: Um, just to have a penicillin allergy.\n\nD: OK, and what's the rash, or sorry what's the reaction?\n\nP: I don't really remember I was a child at that time. I don't remember what reaction I really got.\n\nD: I see OK and have you had any prior"
+    },
+    {
+        "whisper_chunk": "hospitalizations or surgeries Surgeries I did have my appendix removed when I was young and also I was hospitalized after my heart attack a couple years ago Okay did you have any surgeries on your heart like a CABG or I had a couple of stents put in Okay",
+        "gt_chunk": "D: hospitalizations or surgeries?\n\nP: Surgeries I did have my appendix removed when I was young and also I was hospitalized after my heart attack a couple years ago.\n\nD: OK, did you have any surgeries on your on your heart like a cabbage or?\n\nP: I had a couple a couple of stents put in.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and you take aspirin for that Yeah Okay all right and could you tell me a little bit about where you're living and who you're living with Yeah I live with my wife and daughter and I kind of live in a small little townhouse just in the city Okay",
+        "gt_chunk": "D: and you take aspirin for that?\n\nP: Um yeah. \n\nD: OK. Uhm, Alright, and could you tell me a little bit about where you're living and who you're living with?\n\nP: Yeah, I live with my wife and daughter. And kind of live in a small little townhouse just, in the city.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "are you currently working or are you retired I kind of had to retire after just my past medical history like with a heart attack and then there was just too much stress at work It was too much for me but yeah I'm just at home right now My wife still works Yeah I'm taking it more",
+        "gt_chunk": "D: are you currently working or uh, are you retired?\n\nP: I I kind of had to retire after just my past medical history like the heart attack and then. There was just too much stress at work. It was too much for me. But yeah, I'm just at home right now. My wife still works. Yeah, I'm taking it more"
+    },
+    {
+        "whisper_chunk": "easy now Okay and with being at home are you able to manage the majority of activities of daily living on your own or are you receiving help I'm not receiving any outside help I can do most things myself My wife does most of our shopping and cooking though Okay and",
+        "gt_chunk": "P: easy now.\n\nD: OK. And with being at home, are you able to manage the majority of activities of daily living on your own, or are you receiving help?\n\nP: Oh you're not receiving any outside help. I can do most things myself. My wife does most of our shopping and cooking though.\n\nD: OK. And"
+    },
+    {
+        "whisper_chunk": "do you drink alcohol Yeah I do drink Probably drink like three or four beers a night Okay and do you smoke cigarettes I used to I forced myself to quit after my heart attack Okay well that's good I'm glad that",
+        "gt_chunk": "D: do you drink alcohol?\n\nP: Yeah, I I do. I do drink probably drink like three or four beers a night.\n\nD: OK, Ann, and at the smoke cigarettes?\n\nP: I used to I I forced myself to quit after my heart attack.\n\nD: OK, well that's good. I'm glad that"
+    },
+    {
+        "whisper_chunk": "you quit How long did you smoke for and how much were you smoking during that time Probably smoked for more than 30 years and I was smoking probably one to two packs a day at most Okay and then about your family",
+        "gt_chunk": "D: you quit and how long did you spoke for and how much were you smoking during that time?\n\nP: Probably smoked for more than 30 years and I was smoking only one to two packs a day at most. \n\nD: OK. And. OK, and then I about your um family"
+    },
+    {
+        "whisper_chunk": "history is there anybody in the family that has any heart or lung conditions Yeah so heart disease runs in my family My brother my dad they both have had heart attacks But yeah on my mom's side everyone's pretty healthy though Okay that's good And all right so",
+        "gt_chunk": "D: history. Is there anybody in the family that has any heart or lung conditions?\n\nP: Yeah, so heart disease runs in my family. My brother, my dad, they both both have had heart attacks. But yeah, my on my mom side everyones pretty healthy though.\n\nD: Oh OK, that's good, and Alright, so"
+    },
+    {
+        "whisper_chunk": "just onto the I guess physical exam piece You've already mentioned that it's red it's swollen and is warm to touch compared to the other knee and painful to move Are you having any limping with your gait Yeah I barely I can't really",
+        "gt_chunk": "D:  to the I guess physical exam piece you've already mentioned that it's red, it's swollen and is warm to touch compared to the other knee and um painful to move. Are you having any limping with your gait?\n\nP: Yeah, I barely like I can't really"
+    },
+    {
+        "whisper_chunk": "put too much weight or move that knee around So yeah if I stood up I would have a Okay and is there any instability to either avarice or valgus stress No I don't think so Okay and any instability when testing the ACL or PCL with",
+        "gt_chunk": "P: put too much away or move that knee around. So yeah, if I stood up I would have a limp.\n\nD: OK, uh, and is there any instability to either varus or valgus stress?\n\nP: Uhm, no, I don't think so.\n\nD: OK, and any instability when testing the ACL or PCL with"
+    },
+    {
+        "whisper_chunk": "the anterior and posterior translation test pulling and pushing it No Okay And any I don't think I asked this any muscle weakness No And any numbness tingling No Or burning sensations No Okay",
+        "gt_chunk": "D: the anterior and posterior kind of translation test. Pulling and pushing it?\n\nP: Uhm, no.\n\nD: OK. And any I don't think I asked this any muscle weakness?\n\nP: No.\n\nD: And any numbness, tingling?\n\nP: No.\n\nD: Or burning sensations? \n\nP: No.\n\nD:  OK"
+    },
+    {
+        "whisper_chunk": "All right so that was everything that I wanted to check Was there anything that I maybe missed or any final questions No yeah no I was just I just don't know if this is serious and if I need surgery or something because it's been really painful Yeah certainly So right now the top thing on top two things on the differential would be gout or pseudo",
+        "gt_chunk": "D: Alright, so that was everything that I wanted to check. Was there any anything that I may be missed or any final questions?\n\nP: No, yeah no, I was just I I just don't know if like this is serious and if I need surgery or something because it's been really painful.\n\nD: Yeah, certainly so right now the top thing on top two things on the differential would be gout or pseudogout"
+    },
+    {
+        "whisper_chunk": "gout They do have some risk factors for that including diuretic medication as well as alcohol and obesity are all risk factors for it However you also had a knee injection a week ago which could predispose to an infection So gout and septic arthritis are the two things that we're thinking about",
+        "gt_chunk": "D: they do have some risk factors for that, including a diuretic medication as well as alcohol and obesity are all risk factors for it. However, you also had a knee injection a week ago, which could predispose to an infection. So gout and septic arthritis are the two things that I am thinking about"
+    },
+    {
+        "whisper_chunk": "And so we'll do a knee aspiration and send that off for some investigations and that will help us determine what the cause is and we can choose the appropriate treatment Okay sounds good",
+        "gt_chunk": "D: an, so we'll do a knee aspiration and send that off for some investigations and that will help us determine which what the cause is and we can choose the appropriate appropriate treatment.\n\nP: OK, sounds good"
+    }
+]

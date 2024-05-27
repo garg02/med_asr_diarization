@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "How can I help you today Yeah hi I brought I brought my eight year old daughter here because I noticed that she's been quite wheezy for the past four or five days and now she has a slight cough Sounds like she's a little short of breath so I just wanted to get things checked out OK so for the one at first present about four to",
+        "gt_chunk": "D: How can I help you today?\n\nP: Um yeah hi, I brought I brought my 8 year old daughter here um because I've noticed that she's been quite wheezy um for the past four five days and now she has a slight cough, um sounds like she's a little short of breath, so I just wanted to get things checked out.\n\nD: OK, so for the, when it first presented, about four to"
+    },
+    {
+        "whisper_chunk": "five days ago what did you notice first I noticed that she was wheezy And it's it seemed like she was having some difficulty taking in deep breaths OK now was this with any type of activity or just at rest Yeah she was playing tag with one of her cousins and she she was quite out of breath after",
+        "gt_chunk": "D: five days ago, what did you notice, notice first?\n\nP: Um I noticed that she was wheezy um and it's it seemed like she was having some difficulty taking in deep breaths.\n\nD: OK, now was this with any type of activity or just at rest?\n\nP: Yeah, she was playing tag with one of her cousins and she she was quite out of breath after"
+    },
+    {
+        "whisper_chunk": "OK has she ever had anything like this before No nothing like that No OK and has it been fairly steady since then or has it been fluctuating It's been fluctuating OK but it hasn't really gone away in the sense that you're still concerned coming now four days later Yeah it's just it would she would have these these episodes but it would",
+        "gt_chunk": "D: OK, has she ever had anything like this before?\n\nP: No.\n\nD: Nothing like that, OK, and has it been fairly steady since then? Or has it been fluctuating?\n\nP: It's been fluctuating.\n\nD: OK, but it hasn't really gone away in the sense that you're still concerned coming now four days later?\n\nP: Yeah, it's just it would, she would have these these uh episodes, but it would"
+    },
+    {
+        "whisper_chunk": "resolve on its own and then she would you know go back to doing some sort of activity and then she would have all these symptoms all over again But once she rests then it goes away So I wasn't really sure too sure what to think of it But now I think it's important to get it checked out So here we are Has she had any fevers at home No Has she had a runny nose at all at home No Has she",
+        "gt_chunk": "P: resolve on its own and then she would, you know go back to doing some sort of activity and then she would have all these symptoms all over again, but when she rests um then it goes away, so I wasn't really sure, too sure what to think of it. But now I think it's important to get it checked out, so here we are.\n\nD: Has she had any fevers at home?\n\nP: No.\n\nD: Has she had a runny nose at all at home?\n\nP: No.\n\nD: Has she"
+    },
+    {
+        "whisper_chunk": "seemed well otherwise Does she look sick Yeah she looks fine otherwise OK and has she had any sick contacts recently Anyone around her or friends been sick No not that I've noticed OK any recent travel anywhere Um no no we didn't go anywhere because of COVID OK but she's still been going to school I suppose playing with her friends",
+        "gt_chunk": "D: seemed well otherwise, does she look sick?\n\nP: Yeah, she looks fine otherwise.\n\nD: OK. And has she had any sick contacts recently? Anyone around her or her friends been sick?\n\nP: No, not that I've noticed.\n\nD: OK. Any recent travel anywhere?\n\nP: Uhm, no, no, we didn't go anywhere because of covid.\n\nD: OK, but she's still been going to school I suppose, playing with her friends"
+    },
+    {
+        "whisper_chunk": "Yes OK Have you noticed any rashes any skin changes anywhere on her body Not that I've noticed no OK nothing like that Does she complain of any pain anywhere No OK and has she had any recent infections Uh",
+        "gt_chunk": "P: Yes. \n\nD: OK. Have you noticed any rashes? Any skin changes anywhere on her body?\n\nP: Uh not that I've noticed, no.\n\nD: OK, nothing like that, has she complained of any pain anywhere?\n\nP: No. \n\nD: OK, and has she had any recent infections? \n\nP: Uh"
+    },
+    {
+        "whisper_chunk": "she had um actually she had a couple of infections over the past two years They would come and go Um and we took her to the doctor each time and it just ended up being some sort of viral infection OK so nothing really needing antibiotics in the last couple of years No OK And in terms of how she's",
+        "gt_chunk": "P: she had, actually she had a couple of infections over the past two years. Uh they would come and go uh and we took her to the doctor each time and it just ended up being some sort of viral infection.\n\nD: OK, so nothing really needing antibiotics in the last couple of years?\n\nP: No.\n\nD: And in terms of how she's"
+    },
+    {
+        "whisper_chunk": "been doing has she been keeping up with her peers in terms of education and how she moves how she acts Uh yeah she's been yeah she's been on par with her peers OK so does she have a family physician Um yes OK so they haven't brought up any concerns about how she's growing how she's developing No So her weight her height they've been good for her age Yeah yeah Excellent And has",
+        "gt_chunk": "D: been doing, has she been keeping up with her peers in terms of education, and how she moves, how she acts?\n\nP: Uh yeah, she's been yeah, she's been on par with her peers.\n\nD: OK, so does she have a family physician?\n\nP: Um yes. \n\nD: OK, so they haven't brought up any concerns about how she's growing, how she's developing?\n\nP: No.\n\nD: So her weight, her height, they've been good for her age?\n\nP: Yeah, yeah.\n\nD: Excellent. And has"
+    },
+    {
+        "whisper_chunk": "she been keeping up to date for immunizations Yes she's fully up to date Excellent In regards to how she's doing otherwise health in terms of her health does she see a family physician for any other medical issues that she might be having Uh no she's otherwise pretty healthy OK How was the birth Was there any complications when she was born No",
+        "gt_chunk": "D: she been keeping up to date for immunizations?\n\nP: Yes, she's fully up to date.\n\nD: Excellent. In regards to how she's doing, otherwise health, in terms of her health, has, did she see a family physician for any other medical issues that she might be having?\n\nP: Uh no, she's otherwise pretty healthy.\n\nD: OK. How was the birth? Was there any complications when she was born?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "She was a vaginal delivery full term no complications OK so nothing when you were pregnant with her no toxic ingestions By that I mean um did you drink any alcohol smoke at all when you were pregnant with her No No OK And you just had antenatal care so you saw a doctor for ultrasounds and just for check outs Yeah everything was fine OK and when she was born she didn't have to stay in the hospital",
+        "gt_chunk": "P: she was a vaginal delivery, full term, no complications. \n\nD: OK, so nothing when you were pregnant with her, no toxic congestions? By that I mean um did you drink any alcohol, smoke at all when you were pregnant with her?\n\nP: No.\n\nD: No, OK. And you just had antenatal care, so you saw doctor for ultrasounds and just for checkups?\n\nP: Yep, everything was fine.\n\nD: OK. And when she was born, she didn't have to stay in the hospital"
+    },
+    {
+        "whisper_chunk": "at all No no And was she born uh what weight was she when she was born Uh she was how much was she I think she was about eight kilos Eight kilos Sorry eight pounds Yeah no worries Eight pounds And then otherwise she's been healthy otherwise been doing well",
+        "gt_chunk": "D: at all?\n\nP: No, no. \n\nD: And was she born, uh what weight was she when she was born?\n\nP: Uh, she was, how much was she? I think she was about 8 kilos.\n\nD: 8 kilos?\n\nP: Sorry 8 pounds, 8 pounds. \n\nD: Yeah, no worries. And then otherwise she is, so she's been healthy otherwise, been doing well"
+    },
+    {
+        "whisper_chunk": "Just in terms of how she's been doing with other systems of her body have you noticed any concerns for her bowel movements Uh no she's been pretty regular OK any concerns for her peeing Uh no she's been going pretty frequently and she's yeah no changes there And we already talked she hasn't had any fevers When she coughs does she ever bring anything up Uh",
+        "gt_chunk": "D: just in terms of how she's been doing uh with other systems of her body, have you noticed any concerns for her bowel movements?\n\nP: Uh no, she's been pretty regular.\n\nD: OK, any concerns for peeing?\n\nP: Uh no, she's been going pretty frequently and she's, yeah no changes there.\n\nD: And we already talked, she hasn't had any fevers, when she coughs does she ever bring anything up?\n\nP: Uh"
+    },
+    {
+        "whisper_chunk": "no I haven't noticed any phlegm no OK and when she's having these wheezy episodes do you ever notice that she looks like she's really straining to breathe really struggling Uh yeah so she it's not like she turns blue or anything like that She just slightly has a hard time catching her breath OK so these usually recover on their own You don't give her anything for it No OK",
+        "gt_chunk": "P: no, I haven't noticed any phlegm, no.\n\nD: OK, and when she's having these wheezy episodes, do you ever notice that she looks like she's really straining to breathe, really struggling?\n\nP: Uh yeah, so she, it's not like she turns blue or anything like that, um she just slightly slightly has a hard time catching her breath.\n\nD: OK, so these usually recover on their own?\n\nP: Yeah.\n\nD: You don't give her anything for it?\n\nP: No.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "does she have any allergies Um no well she has some seasonal allergies but nothing that she's been tested for OK do you give her anything for her seasonal allergies Sometimes she takes like reactin or like over the counter stuff but no no prescribed medications OK so she doesn't have any allergies where her face swells up or she has trouble breathing No",
+        "gt_chunk": "D: does she have any allergies?\n\nP: Um no, well she has some seasonal allergies, but nothing that she's been tested for.\n\nD: OK, do you give her anything for seasonal allergies?\n\nP: Sometimes she takes like Reactine or like over the counter stuff, but um no, no prescribed medications.\n\nD: OK, so she doesn't have any allergies where her face swells up or she has trouble breathing?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "OK and does these episodes mainly happen when she's playing with friends so they happen in a certain environment Like for example is this in a friend's house or is this outdoors or has it been across different settings It's been across different settings but I will say it's worse when there's colder weather OK Yeah And are these episodes ever happening in your home",
+        "gt_chunk": "D: OK, and this, these episodes mainly happen when she's playing with friends, so do they happen in a certain environment? Like for example, is this in a friends house or is this outdoors or has it been across different settings?\n\nP: It's been across different settings but I will say it's worse when um when when there's colder weather.\n\nD: OK.\n\nP: Yeah.\n\nD: And do these episodes ever happen in your home"
+    },
+    {
+        "whisper_chunk": "Yeah And what's the context for them happening in your home Usually when she is out and about running around in the backyard with her friends is when I've mostly noticed it yeah OK so she doesn't have any symptoms at rest Oh no no And doesn't have any symptoms at night At night so there was one night",
+        "gt_chunk": "P: Yeah. \n\nD: And what's the context from them happening in your home?\n\nP: Um usually when she is out and about running around in the backyard with her friends um is when I've mostly noticed it, yeah. \n\nD: OK, so she doesn't have any symptoms at rest?\n\nP: Oh, no.\n\nD: And she doesn't have any symptoms at night?\n\nP: Uh at night, so there was one "
+    },
+    {
+        "whisper_chunk": "when she had some issues with like wheeziness but it did resolve on its own OK And did she wake up at night with that or just Just trouble falling asleep I think yeah OK OK All right So we already talked about so she doesn't really have any past medical issues that she's seen",
+        "gt_chunk": "P: when she had some issues um with like wheeziness but it did resolve on its own.\n\nD: OK. And did she wake up at night with that or just?\n\nP: Just trouble falling asleep, I think yeah.\n\nD: OK. Alright, so we already talked about, so she doesn't really have any past medical issues that she's seen"
+    },
+    {
+        "whisper_chunk": "doctor for Any surgeries No surgeries OK Does she take any medications right now Nope no medications Aside from the occasional reactant Yeah aside from that nothing no regular medications And she's in school Yeah she's in grade three now OK and does she live with you",
+        "gt_chunk": "D: doctor for, uh any surgeries?\n\nP: No surgeries.\n\nD: OK. Is she taking medications right now?\n\nP: Um no, no medications.\n\nD: Aside from the occasional Reactine?\n\nP: Uh yeah, aside from that, nothing, no regular medications.\n\nD: And she's in school?\n\nP: Um yeah, she's uh she's in Grade 3 now.\n\nD: OK, and does she live with you"
+    },
+    {
+        "whisper_chunk": "Yeah she lives with me and my husband OK do you two live in a house in town Yep in a townhouse OK and what do you two do for work So my husband is an ultrasound technician and I am a kindergarten teacher OK excellent That was a question we just ask everyone Has there ever been any CCCAS involvement in the family No",
+        "gt_chunk": "P: yeah she lives with me and my husband.\n\nD: OK, do you two live in a house in town?\n\nP: Um yep, in a townhouse\n\nD: OK, and what do you two do for work?\n\nP: Um so my husband is an ultrasound technician and I am a uh kindergarten teacher.\n\nD: OK, excellent, and this is a question we just ask everyone, has there ever been any CC CAS involvement in the family?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "And does anyone smoke in the household No no OK Do you keep any carpets or pets in the household We have carpets but they're new carpets We just got them maybe six months ago and nothing else So no pets no dogs No OK any wood burning fireplaces stoves in the household No OK and",
+        "gt_chunk": "D: And does anyone smoke in the household?\n\nP: Uh, no no. \n\nD: OK, uh do you keep any carpets or pets in the household?\n\nP: We have carpets, but they're new carpets. We just got them, uh maybe six months ago, and nothing else.\n\nD: So no pets, no dogs?\n\nP: No.\n\nD: OK. Any wood burning fireplaces, stoves in the household?\n\nP: No.\n\nD: And"
+    },
+    {
+        "whisper_chunk": "change your air filters Yeah All right excellent So I think I have all the information I need We're just gonna do a physical exam and then I'm gonna go talk to the physician and I'll come in and see your daughter and we'll talk about next steps from here Do you have any questions that you'd like me to direct to him before that happens No thank you so much All right have a good one You too bye bye Bye bye",
+        "gt_chunk": "D: changed your air filters?\n\nP: Yeah.\n\nD: Alright, excellent, so I think I have all the information I need, we're just going to do a physical exam and then I'm going to go talk to the physician and I'll come in and see your daughter and we'll talk about next steps from there. Do you have any questions that you'd like me to direct to him before that happens?\n\nP: No, thank you so much.\n\nD: Alright, have a good one \n\nP: You too, bye bye"
+    }
+]

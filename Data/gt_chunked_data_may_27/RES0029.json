@@ -1,0 +1,58 @@
+[
+    {
+        "whisper_chunk": "Was wondering if you could start by telling me what brought you into the emergency department So I came to the emergency department because I've been having pain in my chest Okay where is the pain located I Would say it's like the hole pretty much the left side of my chest Okay and When did this pain start So I think it started just around two hours",
+        "gt_chunk": "D: was wondering if you could start by telling me what brought you into the emergency Department.\n\nP: So I came to the emergency Department because I've been having pain in my chest. \n\nD: OK, where is the pain located?\n\nP: I would say it's like the whole pretty much the left side of my chest.\n\nD: OK, and when did this pain start?\n\nP: So I think it started just around 2 hours"
+    },
+    {
+        "whisper_chunk": "ago I actually was riding my bicycle and Just fell off kind of just slipped and I think I fell on that side like when I the impact was right on my chest and since then it's been really painful Okay and How would you describe the pain Sometimes people will use words like burning dull achy I Think it's more like someone is just stabbing",
+        "gt_chunk": "P: ago. I actually was riding my bicycle and just fell off on, kind of just slipped and I think I fell on that side like when I the impact was right on my chest and since then it's been really painful.\n\nD: OK I am how would you describe the pain, sometimes people will use words like burning dull, achy.\n\nP: I think it's more like someone is just stabbing"
+    },
+    {
+        "whisper_chunk": "me in that whole left side area Okay and Anything that you've been doing that's that's made the pain Worse if I Think I have to take really really slow and Shallow breaths if I try to take a deep breath it just really hurts like taking those small smaller breaths helps",
+        "gt_chunk": "P: me and then whole left side area.\n\nD: OK, and um. Anything that you've been doing that's that's made the pain worse?\n\nP: If I. Think I have to take really really slow and shallow breaths. If I try to take a deep breath it just really hurts like taking those small, smaller breaths helps"
+    },
+    {
+        "whisper_chunk": "Okay and do you feel the pain Anywhere else or is it just on the left side of your chest No I would say just on the left side Okay and Has the pain been getting worse staying the same or getting better I'll say over the last two hours It's been getting worse okay and Do you have any",
+        "gt_chunk": "D: OK, and do you feel the pain anywhere else, or is it just on the left side of your chest?\n\nP: No, I would say just on the left side.\n\nD: OK, and has the pain been getting worse, staying the same or getting better?\n\nP: I'd say over the last two hours it's been getting worse.\n\nD: OK, and do you have any"
+    },
+    {
+        "whisper_chunk": "other associated symptoms Like I Think I I'm having also Maybe it's just because I'm trying to breathe slowly but I feel like I can't catch my breath Okay Has anything like this ever happened to you before I know I've never had any pain in my chest before Okay Are you did you have",
+        "gt_chunk": "D: other associated symptoms?\n\nP: Uh, like I think I I'm having. Also maybe it's just because I'm trying to breathe slowly, but I feel like I can't catch my breath.\n\nD: OK, um has anything like this ever happened to you before?\n\nP: No, no. I mean, I've never had any pain in my chest before.\n\nD: OK are you, did you have"
+    },
+    {
+        "whisper_chunk": "a loss of consciousness when you fell off your bike No I got right back up It just just had the pain Okay so any injuries to the head No Okay that's fine I was wearing a helmet Okay excellent and any headache right now No okay how about any fever chills No I feel I'm fine Any nausea vomiting",
+        "gt_chunk": "D: a loss of consciousness when you fell off your bike?\n\nP: No, I got right back up. I just just had the pain.\n\nD: OK, so any injuries to the head?\n\nP: No.\n\nD: OK.\n\nP: That's fine. I was wearing a helmet.\n\nD: OK, excellent and any headache right now?\n\nP: No.\n\nD: OK, how about any fever chills?\n\nP: No, I feel I'm fine.\n\nD: Any nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "No Do you feel as though your heart's racing I Would say like in the last hour a little bit more so than usual Okay any Skin changes or or rashes you've noticed Besides just I Got some scrapes here and there on my hands but nothing else Okay",
+        "gt_chunk": "P: Nope.\n\nD: Do you feel as though your heart's racing?\n\nP: I would say like in the last hour a little bit more so than usual.\n\nD: OK. Any skin changes or or rashes you've noticed? \n\nP: Besides, just I got some scrapes here and there on my hands, but nothing else. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and do you have a cough No Okay and any recent infections No I've been pretty pretty healthy recently no no cough or no infections Okay and any dizziness I know All right and I know you mentioned this few scratches on your hands but any other injuries No I I think I got a pretty",
+        "gt_chunk": "D: and do you have a cough?\n\nP: Nope.\n\nD: OK, and any recent infections?\n\nP: No, I've been pretty pretty healthy recently. No, no cough or no infections.\n\nD: OK, and uh, any dizziness?\n\nP: Um no.\n\nD: Alright, and I know you mentioned the few scratches on your hands, but any other injuries? \n\nP: Oh no, I I think I got a pretty"
+    },
+    {
+        "whisper_chunk": "lucky Okay And any alcohol or drug intake prior to falling off your bike oh no no I was completely sober No no drugs or alcohol okay and any weakness or Dumbness or tingling that you noticed No nothing like that All right and when was the last time you had anything to eat or drink",
+        "gt_chunk": "P: lucky.\n\nD: Oh, OK. And any alcohol or drug intake prior to falling off your bike?\n\nP: Oh no, no, I was completely sober. No no drugs or alcohol.\n\nD: OK, and any weakness or numbness or tingling that you noticed?\n\nP: Um no nothing like that.\n\nD: Alright, and, when was the last time you had anything to eat or drink"
+    },
+    {
+        "whisper_chunk": "I Just had some cereal and just some Chocolate milk around breakfast time but nothing else Okay and how many hours ago was that I would say around three hours ago okay and Have you been diagnosed with any medical conditions in the past Other than just",
+        "gt_chunk": "P: I just had some cereal and, um, just some chocolate milk around breakfast time but nothing else.\n\nD: OK, and how many hours ago was that?\n\nP: I would say around 3 hours ago.\n\nD: OK. Um, and have you been diagnosed with any medical conditions in the past?\n\nP: Uh, not other than just"
+    },
+    {
+        "whisper_chunk": "a hay fever but nothing nothing else I have like a lot of allergies any allergies to medications Uh just sometimes when I take like a nasal spray I think I might have an allergy to The steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them Okay And any hospitalizations",
+        "gt_chunk": "P: a hay fever, but nothing nothing else. I have like a lot of allergies.\n\nD: Any allergies to medications?\n\nP: Oh, just sometimes when I take like a nasal spray I think I might have an allergy to the steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them.\n\nD: OK. Uh, and any hospitalizations"
+    },
+    {
+        "whisper_chunk": "No never any surgeries Nope Okay anybody in the family who have any Illnesses Just my father he has type 2 diabetes but nothing else Okay and how do you support yourself currently financially So I work just as like a mechanic just in the city and Currently I",
+        "gt_chunk": "P: No, never.\n\nD: Any surgeries?\n\nP: Nope. \n\nD: OK. Anybody in the family who have any illnesses?\n\nP: Just my father. He has type 2 diabetes but nothing else.\n\nD: OK, and how do you support yourself currently financially?\n\nP: Oh so I work just as like a mechanic just in the city and currently I"
+    },
+    {
+        "whisper_chunk": "just have myself to support I live alone in an apartment So I'm doing fairly well okay and do you smoke uh I smoke around like I'd say two and a half to three packs per day I know it's Yeah I've tried quitting before but I would say I've been smoking since I was 18 Okay and do you smoke marijuana No no no marijuana No other",
+        "gt_chunk": "P: just have myself to support. I live alone in an apartment, so I'm doing fairly well.\n\nD: OK, and do you smoke?\n\nP: I smoke around like I'd say 2 and a half to 3 packs per day. I know it's. Yeah, I have tried quitting before, but I would say I've been smoking since I was 18.\n\nD: OK, and do you smoke marijuana? \n\nP: No, no, no marijuana, no other"
+    },
+    {
+        "whisper_chunk": "drugs Okay and do you drink alcohol Yeah so just like sometimes on the weekend I would just have a beer or two while watching the game but nothing regular Okay Thank you",
+        "gt_chunk": "P: drugs. \n\nD: OK, and do you drink alcohol?\n\nP: Yeah, it's just like sometimes on the weekend. I'll just have a beer or two while watching the game, but not nothing regular.\n\nD: OK, thank you"
+    }
+]

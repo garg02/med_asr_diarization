@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "what brings you in Hi I've had this cough for the past two weeks I was just worried about it Okay past two weeks Is it a dry cough or are you bringing up phlegm It's mostly dry but just sometimes there's like a little bit of phlegm Okay what color",
+        "gt_chunk": "D: What brings you in?\n\nP: I've had, I've had this cough for the past two weeks. I was just worried about it.\n\nD: OK, past two weeks? Have, is it a dry cough or is it? Are you bringing up phlegm?\n\nP: I'm it's mostly dry, but just sometimes there's like a little bit, I "
+    },
+    {
+        "whisper_chunk": "is the phlegm It's like whitish Sometimes it's clear Okay is it ever green or bloody No No okay Do you have any shortness of breath No Any wheezing Sometimes yeah Sometimes okay With the cough or outside the cough as well With the cough Okay any chest pain No",
+        "gt_chunk": "D: is the phlegm?\n\nP: It's like whitish, sometimes it's clear.\n\nD: OK, is it ever green or bloody? \n\nP: No.\n\nD: No, OK. Do you have any shortness of breath?\n\nP: No.\n\nD: Any wheezing?\n\nP: Sometimes, yeah.\n\nD: Sometimes, OK. With the cough or outside the cough as well?\n\nP: With the cough.\n\nD: Any chest pain?"
+    },
+    {
+        "whisper_chunk": "not initially but like since the past few days especially after I've like coughed a lot it just kind of hurts me a little bit Okay okay Do you ever feel so it just hurts after coughing so is it kind of like a sharp pain or like a little icky pain I don't know it just feels like my muscles are hurting like I'm just like coughing so much It's just like doping the",
+        "gt_chunk": "P: not initially, but like since the past few days, especially after I've like coughed a lot, it just kind of hurts me a little bit.\n\nD: OK, OK, any, do you ever feel so it just hurts after coughing. \n\nP: Yeah.\n\nD: So is it kind of like a sharp pain or like a dull achy pain?\n\nP: I don't know, it just feels like like my muscles are hurting like I'm just like coughing so much it's just"
+    },
+    {
+        "whisper_chunk": "middle of my chest and it goes away Okay okay Do you ever feel like your heart's racing No No okay Have you noticed any swelling in your legs arms or abdomen No Any dizziness or fainting spells No No okay Any headaches No Confusion or memory loss No Okay Have you noticed any fevers No Any",
+        "gt_chunk": "P: middle of my chest then it goes away.\n\nD: OK, OK, and do you ever feel like your heart's racing?\n\nP: No, no.\n\nD: OK. And have you noticed any swelling in your legs, arms, or abdomen? \n\nP: No.\n\nD: Any dizziness or fainting spells?\n\nP: No.\n\nD: No, OK. Any headaches?\n\nP: No.\n\nD: Confusion or memory loss?\n\nP: No.\n\nD: Have you noticed any fevers?\n\nP: No. \n\nD: Any"
+    },
+    {
+        "whisper_chunk": "weight loss No No Excessive fatigue or tiredness No not really I haven't been fatigued I think I'm fine I feel normal other than the cough of course Okay sure Any rashes No How about changes in your vision or hearing No no concerns there Have you had a stuffy nose or runny nose No",
+        "gt_chunk": "D: weight loss?\n\nP: No.\n\nD: No. Excessive fatigue or tiredness?\n\nP: Uh, no, not really. I've haven't been fatigued. I think I'm I'm fine and feel normal. Other than the cough of course.\n\nD: OK, sure. Any rashes?\n\nP: No.\n\nD: How about changes in your vision or hearing?\n\nP: No, no concerns there.\n\nD: Have you had a stuffy nose or runny nose?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "No Ass or throat No Okay Changes to your smell or taste No No Have your bowel movements been normal Yeah Yeah How about urine Yeah they've been no concerns Any nausea or vomiting No No okay Have you ever experienced anything like this in the past",
+        "gt_chunk": "D:  sore throat?\n\nP: Uhm, no.\n\nD: OK, changes to your smell or taste?\n\nP: No.\n\nD: No. Have your bowel movements been normal?\n\nP: Yeah.\n\nD: Yeah. How about urine?\n\nP: Yep, they've been, no concerns.\n\nD: Any nausea or vomiting?\n\nP: Uhm, no.\n\nD: No. OK. Have you ever experienced anything like this in the past"
+    },
+    {
+        "whisper_chunk": "I kind of had this about I don't know three or four years ago It just I had this cough but then it kind of went away on its own in about a week But now it's been like two weeks so I don't know what's happening I just want to make sure it's nothing serious Yeah for sure When you had this in the past were you ever given a diagnosis No I didn't go to see a doctor I just kind of stayed at home I thought it was just like a mild infection or",
+        "gt_chunk": "P: I kind of had this about, I don't know three or four years ago. I just had this cough, but then it kind of went away on its own in about a week. But now it's been like 2 weeks so I don't know what's happening. If it's something I just want to make sure it's nothing serious.\n\nD: Yeah, for sure. When you had this in the past, were you ever done given a diagnosis?\n\nP: No, I didn't go to see a doctor. I just kind of stay at home. \n\nD: OK.\n\nP: I thought it was just like a mild infection or"
+    },
+    {
+        "whisper_chunk": "something Mm hmm Have you tried anything for the cough this time around I had some like lozenges and those have been helping me Okay Yeah Okay good If you were to describe your cough is it barky harsh muffled like what what would you say the sound of it is Um",
+        "gt_chunk": "P: something.\n\nD: Mhmm. Have you tried anything for the cough this time around?\n\nP: I had some like lozenges and I haven't, and those have been helping me.\n\nD: OK.\n\nP: Yeah.\n\nP: OK, good. If you were to describe your cough, is it barky, harsh, muffled, like what what would you say the sound of it is?\n\nP: Uhm"
+    },
+    {
+        "whisper_chunk": "I don't know It's kind of like a normal cough you know when you're clearing your throat or something or when you're like when something gets stuck in your throat just like a it's like a normal cough I don't think it's barky Okay Okay Are you otherwise healthy Do you have any long standing medical conditions No I don't I don't No Okay Um have you had",
+        "gt_chunk": "P: I don't know. It's kind of like, like a normal cough, you know, like when you're clearing your throat or something, or when you're like when something gets stuck in your throat, just like like a normal cough. I don't think it's barky.\n\nD: OK OK, are you otherwise healthy? Do you have any longstanding medical conditions?\n\nP: No, I don't. I don't.\n\nD: No, OK. Have you had"
+    },
+    {
+        "whisper_chunk": "any hospitalizations or surgeries in the past Um I had my wisdom teeth removed Okay When was that About eight nine years ago but when I was 17 years 16 years old 17 years old Okay Okay And are you on any medications I'm just taking this birth control pill Okay which one Um it's called",
+        "gt_chunk": "D: any hospitalizations or surgeries in the past? \n\nP: I have my wisdom teeth removed.\n\nD: OK, when was that?\n\nP: About 8-9 years ago, when I was 17 years of 16 years old, ah, 17 years old.\n\nD: OK, OK, and are you on any medications?\n\nP: I'm just taking this birth control pill.\n\nD: OK, which one?\n\nP: Uhm, yeah, it's called"
+    },
+    {
+        "whisper_chunk": "um I forget the name Oh no worries And when did you start it I started it three years ago Three years ago Okay And no side effects no issues with it No no And are you up to date with all your immunizations Um yeah I think so Okay Did you get the flu shot this year",
+        "gt_chunk": "P: uhm, I forget the name.\n\nD: Ah, no worries. And when did you start it?\n\nP: I started three years ago.\n\nD: Three years ago, OK. And no side effects, no issues with it?\n\nP: No, no, it's all good.\n\nD: And are you up to date with all your immunizations?\n\nP: Uh, yeah, I think so.\n\nD: OK. Did you get the flu shot this year"
+    },
+    {
+        "whisper_chunk": "No I didn't No Okay Yeah we recommend getting it once a year Sure Just yeah for your safety and for everyone else's and even if you get the And then um do you have any allergies Uh I um I don't no No Okay Any family history",
+        "gt_chunk": "P: No I didn't.\n\nD: No. OK yeah, we recommend getting it out once a year. Just yeah, for your safety and for everyone else's and even if you get the flu, maybe your symptoms won't be as severe and then, do you have any allergies?\n\nP: Uh, I don't, no.\n\nD: No, OK. Any family history"
+    },
+    {
+        "whisper_chunk": "of lung conditions or heart conditions Um my mom has diabetes Okay Um and my dad has high blood pressure Okay Um and then any cancers in the family No Oh okay And uh have you been in contact with any any sick people recently No I've",
+        "gt_chunk": "D: of lung conditions or heart conditions?\n\nP: Uhm, My mom has diabetes.\n\nD: OK.\n\nP: And my dad has high blood pressure.\n\nD: OK. Uhm, and then any cancers in the family?\n\nP: No.\n\nD: No, OK. And have you been in contact with any any sick people recently?\n\nP: No, I've"
+    },
+    {
+        "whisper_chunk": "Um any travel recently No No Okay How about um smoking Do you smoke Um once in a while Okay Uh what's once in a while Um maybe when I'm out with my friends I used to smoke a lot more but I'm trying to cut it down",
+        "gt_chunk": "D: Uhm, any travel recently?\n\nP: No.\n\nD: No, OK. How about umm smoking, do you smoke? \n\nP: Uhm, once in awhile.\n\nD: OK, what's once in awhile? \n\nP: Maybe when I'm out with my friends I might sometimes, have a cigarette or two. I used to smoke a lot more, but I'm trying to cut it down"
+    },
+    {
+        "whisper_chunk": "Okay How long have you been smoking for Um I started smoking in high school So when I was um uh 18 years old and uh at that time I would have about six cigarettes a day but then um I like I knew that smoking wasn't good for me So I'm trying to cut it down but my friends still smoke So sometimes when I go out with them I'll just have a cigarette or two maybe like once a month I would say Once a month Okay",
+        "gt_chunk": "D: OK. How long have you been smoking for?\n\nP: I started smoking in high school, so when I was 18 years old. \n\nD: Mhmm.\n\nP: And at that time I would have about 6 cigarettes a day, but then I like I, I knew that smoking wasn't good for me, so I'm trying to cut it down, but my friends still smoke, so sometimes when I go out with them, I'll just have a cigarette or two, maybe like once a month, I would say.\n\nD: Once a month, OK"
+    },
+    {
+        "whisper_chunk": "Okay Um and then uh any other recreational drugs like marijuana or cocaine or anything like that Um I tried a few in high school but um not since then I had um yeah I had cocaine once Okay Um and do you drink alcohol Uh yeah I have uh a glass um at night Okay Glass of wine or beer Okay",
+        "gt_chunk": "D: OK. And then any other recreational drugs like marijuana or cocaine or anything like that?\n\nP: I tried a few in high school but not since then. I had, yeah, I had cocaine once.\n\nD: OK, and do you drink alcohol?\n\nP: Yeah I have a glass at night.\n\nD: OK. Glass of wine or beer?"
+    },
+    {
+        "whisper_chunk": "Um and where do you live right now Uh I live um I live in an apartment uh with my boyfriend about um uh 20 minutes from here Okay Um any old carpets at home dust mold asbestos anything that would be triggering your cough Um I don't know I have not really had a problem but been here",
+        "gt_chunk": "D: , and where do you live right now?\n\nP: Uh, I live, I live in an apartment with my boyfriend, about 20 minutes from here.\n\nD: OK. Any old carpets at home? Dust, mold, asbestos, anything that would be triggering your cough?\n\nP: I don't know. I have not really had a problem but been here"
+    },
+    {
+        "whisper_chunk": "at this place for about a year and a half Um it is an old building but um it's been okay so far No recent changes Okay Okay Good So those were all the questions that I had for you today Did you have any questions of your own Um uh no I was just worried this cough isn't isn't serious right You don't think I have COVID So because your symptoms do overlap with that of COVID",
+        "gt_chunk": "P: at this place for about a year and a half. \n\nD: OK.\n\nP: It is an old building but it's been OK so far. No recent changes.\n\nD: OK, OK, good. So those were all the questions that I had for you today. Did you have any questions of your own?\n\nP: No, I was just worried this cough isn't, isn't serious, right? You don't think I have Covid?\n\nD: So because your symptoms do overlap with that of"
+    },
+    {
+        "whisper_chunk": "we're going to get a swab on you done and you should get those results in about 24 to 48 hours And if it's positive public health will be in touch um to do some contact tracing In the meantime because you have a cough um it is recommended that you isolate for 14 days Um and if it's not COVID it's probably something like um acute",
+        "gt_chunk": "D: we're going to get a swab on you done and you should get those results in about 24 to 48 hours. And if it's positive, public health will be in touch umm, to do some contact tracing. In the meantime, because you have a cough, it is recommended that you isolate for 14 days. And if it's not Covid, but it's probably something like acute"
+    },
+    {
+        "whisper_chunk": "bronchitis or some other viral infection that's going around um at this time of year Um so for that uh we can you can just uh treat it with like supportive treatments you know like staying hydrated um good nutrition good sleep um and just keep an eye on your symptoms If they become worse or really severe like you're having neurological symptoms and",
+        "gt_chunk": "D: bronchitis or some other viral infection that's going around at this time of year, so for that we can, you can just treat it with like supportive treatments. You know, like staying hydrated, uhm, good nutrition, good sleep and just keep an eye on your symptoms. If they become worse or really severe like you're having neurological symptoms and"
+    },
+    {
+        "whisper_chunk": "just um seek help from the ER For sure Thank you Yeah Take care",
+        "gt_chunk": "D: just seek help from the ER.\n\nP: For sure. Thank you.\n\nD: Yeah, take care"
+    }
+]

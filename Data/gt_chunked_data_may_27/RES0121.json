@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "what brings you here today Yeah hi I've had this cough for the past four days and it just won't go away so I was just wondering if you know I can get something for it Okay so you've been having the cough for four days Can you describe the cough a little bit Is it like a dry cough or wet cough It's dry It's dry okay",
+        "gt_chunk": "D: What brings you here today?\n\nP: Yeah hi, I've had this cough, um, for the past four days and it just can't, it won't go away. So, I was just wondering if, you know, I can get something for it.\n\nD: Okay, so uh, so you've been having the cough for four days. Can you describe the cough a little bit? Is it like a dry cough or wet cough?\n\nP: Uh, it's dry. \n\nD: It's dry, okay"
+    },
+    {
+        "whisper_chunk": "Are you coughing up blood at all No no blood Okay are you bringing up any although you're not coughing are you bringing up any kind of sputum No no it's pretty it's pretty dry Okay and any other symptoms at all Nope nothing else Okay and have you been sick at all recently with fever",
+        "gt_chunk": "D: are you coughing up blood at all?\n\nP: No, no blood. \n\nD: Okay, are you bringing up any, although you're not coughing, are you bringing up any kind of sputum?\n\nP: No, no, it's, it's pretty, it's pretty dry. \n\nD: Okay. Um, and any other symptoms at all, besides the cough?\n\nP: No, nothing else.\n\nD: Okay, and have you been sick at all recently with fever"
+    },
+    {
+        "whisper_chunk": "chills runny nose any cold like symptoms You know a week back I had a runny nose and sometimes like a stuffy nose but that went away Okay and after that did you have any fevers at all No Okay and has this happened to you before at all like a cough lasting more than four days Yeah",
+        "gt_chunk": "D: chills, runny nose, um any cold like symptoms?\n\nP: Um, you know, a week back I had a runny nose. Um, and sometimes like a stuffy nose, but that went away.\n\nD: Okay. Um, and after that, did you have any fevers at all?\n\nP: No.\n\nD: Okay, and has this happened to you before at all? Like a cough lasting more than four days?\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "it's happened to me in the past Yeah it has but it's just more bothersome this time because I'm coughing a lot more Okay and is there anything that you've tried that has helped you relieve the cough at all I tried some over the counter cough suppressants they don't seem to be working too well I see and anything that's making your cough worse at all",
+        "gt_chunk": "P: it's happened to me in the past. Um, yeah it, yeah it has. Um, but it's just more bothersome this time cause I'm coughing a lot more.\n\nD: Okay, and is there anything that you've tried that has helped you relieve the cough at all?\n\nP: I tried some over-the-counter cough suppressants. Uh, they don't seem to be working too well.\n\nD: I see, and anything that's making your cough worse at all"
+    },
+    {
+        "whisper_chunk": "No Do you have any other symptoms like a sore throat runny nose headache anything like that No nothing like that Okay have you been around anyone that's sick recently No No have you had any have you traveled at all outside of the province or country at all recently Nope not outside",
+        "gt_chunk": "P: No.\n\nD: Do you have any other symptoms, like a sore throat, runny nose, headache, anything like that?\n\nP: No, nothing like that. \n\nD: Okay. Have you been around anyone that's sick recently? \n\nP: No.\n\nD: No. Um, have you had any, um have you traveled at all outside of the province or country at all recently?\n\nP: Nope, not outside"
+    },
+    {
+        "whisper_chunk": "the province Okay and other than that are you having any symptoms of kind of muscle aches or anything like that No no muscle aches nothing else that I can think of Okay any shortness of breath No no shortness of breath Okay is the cough like constant goes on throughout the day or is there a time that it's worse",
+        "gt_chunk": "P: the province.\n\nD: Okay, and other than that, are you having any symptoms of, kind of, muscle aches uh, or anything like that?\n\nP: Uh no, no muscle aches. Um, nothing else that I can think of.\n\nD: Okay, any shortness of breath?\n\nP: No, no shortness of breath.\n\nD: Is the cough like constant, goes on throughout the day, or is there a time that it's worse"
+    },
+    {
+        "whisper_chunk": "Uh it's pretty it's pretty constant Okay do you have any kind of increased tired like getting more tired or fatigue No No any kind of chest pain or feeling that your heart is racing No nothing like that Okay any changes in your bowel movements any constipation or diarrhea",
+        "gt_chunk": "P: Uh, it's pretty, it's pretty constant.\n\nD: Okay. And do you have any kind of um increased tired, like getting more tired or fatigued?\n\nP: Um, no. \n\nD: Um, any kind of chest pain or feeling that your heart is racing?\n\nP: Um no, nothing like that.\n\nD: Okay, any changes in your bowel movements? Any constipation or diarrhea"
+    },
+    {
+        "whisper_chunk": "No Okay any nausea or vomiting Nope nothing like that Okay any kind of changes in your sleep or appetite Uh no Okay and have you lost any significant weight recently No No okay",
+        "gt_chunk": "P: No. \n\nD: Okay, any um nausea or vomiting?\n\nP: Um nope, nothing like that.\n\nD: Okay, um, any kind of uh, changes in your sleep or appetite? \n\nP: Uh, no.\n\nD: And um, have you lost any significant weight recently? \n\nP: No.\n\nD: No, okay"
+    },
+    {
+        "whisper_chunk": "Otherwise are you healthy Do you have any medical conditions at all Uh no I don't I'm otherwise healthy Otherwise healthy okay Any allergies to any medications No Any allergies to any environmental or any environmental factors No Okay any family history of any medical conditions related to the heart lung any cancers",
+        "gt_chunk": "D: otherwise, are you healthy? Do you have any medical conditions at all?\n\nP: Uh, no I don't, I'm otherwise healthy.\n\nD: Otherwise healthy, okay. Any allergies to any medications?\n\nP: No.\n\nD: Any allergies to any environmental, or any environmental factors? \n\nP: No.\n\nD: Okay. Um, any family history of any medical conditions related to the heart, lungs, any cancers"
+    },
+    {
+        "whisper_chunk": "at all Uh no nothing like that Okay All right and are you uh so what is your living situation like right now Um I live in an apartment by myself I'm a student Okay um and are you working at all or are you a student mainly Um I work part time I work as",
+        "gt_chunk": "D: at all?\n\nP: Uh no, nothing like that. \n\nD: Okay, alright. Um, are you, so, what, what is your living situation like right now?\n\nP: I live in um, an apartment by myself, I'm a student. \n\nD: Okay. Um, and are you working at all or are you a student seeming?\n\nP: Um, I work part time. I work as"
+    },
+    {
+        "whisper_chunk": "a barista Okay and anyone anyone in your work environment or uh in your home environment or at school that has been sick around you Not that I've heard of no Okay um and other than that uh do you smoke at all Um no I well I used to smoke before I stopped last year Oh last year",
+        "gt_chunk": "P: a barista.\n\nD: Okay, and anyone, anyone in your work environment, or uh in your home environment, or at school that has been sick around you?\n\nP: Not that I've heard of, no. \n\nD: Okay. Um, and other than that, do you smoke at all?\n\nP: Um, no I, well, I used to smoke before. I stopped last year.\n\nD: Last year"
+    },
+    {
+        "whisper_chunk": "Okay and how long did you smoke for I smoked just a couple like two years Okay and yeah so congratulations That's a really great thing to do especially like uh right now with the pandemic going on and everything It's earlier you stop It's really good Thank you Yeah um besides uh like smoking um do you use any recreational drugs like marijuana No",
+        "gt_chunk": "D: okay. And how long did you smoke for?\n\nP: I smoked just a couple, like two years.\n\nD: Okay, yeah. So congratulations, that's a really great thing to do, especially like right now, with the pandemic going on and everything it's, earlier you stop, it's really good.\n\nP: Thank you.\n\nD: Besides uh, like smoking, um do you use any recreational drugs like marijuana?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "No okay um and how about alcohol Nope I don't drink too much alcohol I'll drink like over the holidays Okay and I forgot to ask you this earlier but any hospitalizations or surgeries in the past No nothing like that Nothing like that Okay so yeah those are all the questions um I have for you Do you have any questions or concerns Um yeah what should I do",
+        "gt_chunk": "D: No, okay. And how about alcohol?\n\nP: Nope, I don't drink too much alcohol. I drink like over the Holidays. \n\nD: Okay. And I forgot to ask you this earlier, but any hospitalization or surgeries in the past?\n\nP: No, nothing like that.\n\nD: Nothing like that, okay. Those are all the questions, um, I have for you. Do you have any questions or concerns?\n\nP: Um, yeah, what should I do"
+    },
+    {
+        "whisper_chunk": "about this cough Yeah so this cough um it's been going on for the last four days Since you do have a cough uh and right now that like is considered a symptom like like a potential symptom for COVID we definitely want to do a COVID swab test for you which will come back in uh 24 hours to 48 hours You should still uh try and isolate as much as you can um away from any roommates or family",
+        "gt_chunk": "P: about this cough?\n\nD: Yeah, so this cough, um, it's been going on for the last four days. Since you do have a cough, um and right now that, like, is considered a symptom, like, like a potential symptom for COVID, we definitely want to do a COVID swab test for you, which will come back in 24 hours to 48 hours. You should still try and isolate as much as you can away from any roommates, or family"
+    },
+    {
+        "whisper_chunk": "members uh for the next uh so 14 days since you first uh experienced um the cough um and based on like public health will call you as well um so you can follow their instructions and it it can be anything else too like um with a cough there can be multiple things going on You can um have like an upper respiratory viral or bacterial um infection but since you're not having too many",
+        "gt_chunk": "D: members for the next, so, 14 days since you first experienced the, the cough.\n\nP: Okay. \n\nD: Based on, like, public health will call you as well so you can follow their instructions. And if, it can be anything else too, like, with a cough, there can be multiple things going on. You can have um, like an upper respiratory, viral, or bacterial infection. But since you're not having too many"
+    },
+    {
+        "whisper_chunk": "other symptoms right now um it can just be uh bronchitis um this is something that we'll try and keep an eye on and make sure it's uh nothing else like uh a pneumonia for example but right now uh yeah we'll get that testing done and then uh just kind of wait and watch Sure yeah that sounds great Thank you You're welcome Uh take care You too",
+        "gt_chunk": "D: other symptoms right now, it can just be bronchitis. Um, this is something that we'll try and keep an eye on and make sure it's nothing else like, uh pneumonia, for example. But right now, yeah, we'll get that testing done and then just, kind of wait and watch.\n\nP: Sure, yeah. Thank you.\n\nD: You're welcome, take care. \n\nP: You too"
+    }
+]

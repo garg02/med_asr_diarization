@@ -1,0 +1,102 @@
+[
+    {
+        "whisper_chunk": "What brought you in today Yeah so I've just been feeling a bit off over the last week First I started having just a scratchy throat And then so that was probably I think five days ago that happened And then over the last three days I've been having diarrhea and also my whole body's just hurting Okay and so when",
+        "gt_chunk": "D: What brought you in today?\n\nP: Yeah, so I've just been feeling a bit off over the last week. First I started having like, just a scratchy throat and that was probably I think 5 days ago that happened and then over the last 3 days I've been having diarrhea and also my whole body is just hurting.\n\nD: OK, and so, when"
+    },
+    {
+        "whisper_chunk": "did the sore throat start I'd say like five days ago it started And it first just began as like kind of a tickle but then now it's more like even swallowing food hurts a lot Okay have you been eating or drinking less than usual Yeah my appetite's been a bit less",
+        "gt_chunk": "D: did the sore throat start?\n\nP: I'd say like 5 days ago it started and it first began like kind of a tickle, but now it's more like, even swallowing food hurts a lot.\n\nD: OK, have you been eating or drinking less than usual?\n\nP: Uhm, yeah my appetite's been a bit less"
+    },
+    {
+        "whisper_chunk": "over the last few days just because of how much it hurts Okay have you noticed any neck swelling No not really Okay or how about any redness in the back of your throat No I checked I didn't see too much Okay and have there been any changes to your voice A little bit Like I wouldn't",
+        "gt_chunk": "P: over the last few days just because of how much it hurts.\n\nD: OK, have you noticed any neck swelling?\n\nP: Uh, no, not really. \n\nD: OK, how about any redness in the back of your throat? \n\nP: I checked, I didn't see too much.\n\nD: OK, And have there been any changes to your voice?\n\nP: Uhm, a little bit, I wouldn't"
+    },
+    {
+        "whisper_chunk": "say too significant Okay and muscle aches like when did those start Yeah so that started just three days ago And I remember waking up and my thighs were hurting then my upper arms and then it kind of went into my upper back And now it's kind of just general pain in all of the muscles Okay are you having any muscle",
+        "gt_chunk": "P: say too significant.\n\nD: OK, and muscle aches, like, when did those start?\n\nP: Yeah, so that started just 3 days ago. I remember waking up and my thighs were hurting, then my upper arms and then it kind of went into my upper back and now it's kind of just general pain in all of the muscles. \n\nD: OK, are you having any muscle"
+    },
+    {
+        "whisper_chunk": "weakness I would say it's mainly pain I don't really feel weakness Okay and how has your energy been Have you been having fatigue Yeah I would say I don't know if it's because of the pain but I definitely feel a lot more tired Okay and you mentioned diarrhea as well When did that start",
+        "gt_chunk": "D: weakness?\n\nP: Uhm, I would say it's mainly pain, I don't really feel weakness.\n\nD: OK, and how has your energy been? Have you been having fatigue?\n\nP: Yeah, I would say, uh, I don't know if it's because of the pain, but I definitely feel a lot more tired.\n\nD: OK, and you mentioned diarrhea as well. When did that start"
+    },
+    {
+        "whisper_chunk": "So yeah diarrhea also started around three days ago I normally go one or two times a day But now I'm going like six seven times a day and it's all usually pretty watery Okay have you noticed any blood in the stool No I don't think I noticed blood Okay and have you noticed any really like dark or tarry",
+        "gt_chunk": "D: ? \n\nP: Yeah, diarrhea also started around 3 days ago. I normally go 1 or 2 times a day, but now I'm going like 6 or 7 times a day and it's all usually pretty watery.\n\nD: OK, have you noticed any blood in the stool?\n\nP: No, I don't think I noticed blood.\n\nD: OK, and have you noticed any, really like, dark or tarry"
+    },
+    {
+        "whisper_chunk": "looking stool No it's usually just been loose watery stools Okay and have you been experiencing any other symptoms besides the sore throat muscle aches fatigue and diarrhea I know I don't think so Those are probably all the symptoms Okay so quickly",
+        "gt_chunk": "D: looking stool?\n\nP: No, it's usually just been loose watery stools.\n\nD: OK, and have you been experiencing any other symptoms besides the sore throat, muscle aches, fatigue, and diarrhea?\n\nP: Uhm, no, I don't think so. Those are probably all of the symptoms. \n\nD: OK, so quickly"
+    },
+    {
+        "whisper_chunk": "to run through a review have you been having any fevers or chills No not that I've noticed Okay how about any headaches No Okay have you had a runny nose No Have you had a loss of smell or taste I don't think so",
+        "gt_chunk": "D: to run through a review. Have you been having any fevers or chills?\n\nP: No, not that I've noticed.\n\nD: OK, how about any headaches? \n\nP: Uh, no.\n\nD: OK, and have you had a runny nose? \n\nP: No.\n\nD: Have you had a loss of smell or taste?\n\nP: I don't think so"
+    },
+    {
+        "whisper_chunk": "Like I haven't been really eating too much recently but I don't think so no Okay have you had a cough No A shortness of breath No A wheeze No wheezing no Okay and have you you said you haven't had a cough but have you brought up any sputum No Okay and have you had any chest pain",
+        "gt_chunk": "P: . I haven't been really eating too much recently, but I don't think so, no. \n\nD: OK, have you had a cough?\n\nP: No.\n\nD: Shortness of breath?\n\nP: No.\n\nD: A wheeze?\n\nP: No wheezing.\n\nD: OK, you said you haven't had a cough, but have you brought up any sputum?\n\nP: No. \n\nD: OK, and have you had any chest pain"
+    },
+    {
+        "whisper_chunk": "No chest pain All right any dizziness or lightheadedness Nope Any feeling as though your heart is racing Nope Okay have you had any abdominal pain Maybe just a little bit with all the diarrhea I feel like I do have some just tenderness in my abdomen Okay and",
+        "gt_chunk": "P: No chest pain. \n\nD: Alright, any dizziness or lightheadedness?\n\nP: Nope. \n\nD: Any feeling as though your heart is racing. \n\nP: No.\n\nD: OK, have you had any abdominal pain?\n\nP: Uhm, maybe just a little bit with all the diarrhea, I feel like I do have some, Just, tenderness in my abdomen. \n\nD: OK, uh and"
+    },
+    {
+        "whisper_chunk": "have you had any nausea or vomiting No not really Okay and have you had any urinary problems Nope Okay and any rashes anywhere No not that I've noticed Okay and have you had any changes to your weight",
+        "gt_chunk": "D: have you had any nausea or vomiting?\n\nP: No, not really.\n\nD: OK, have you had any urinary problems?\n\nP: Uhm, no. \n\nD: OK, and any rashes anywhere?\n\nP: No, not that I've noticed.\n\nD: OK, and have you had any changes to your weight"
+    },
+    {
+        "whisper_chunk": "recently or over the last several months No my weight's been around the same Okay and have you been diagnosed with any medical conditions before Yeah so I have high blood pressure and high cholesterol Okay do you take any medications for either of those",
+        "gt_chunk": "D: recently or over the last several months?\n\nP: No, my weight has been around the same.\n\nD: OK, and have you been diagnosed with any medical conditions before?\n\nP: Yeah, so I have high blood pressure and high cholesterol.\n\nD: OK, do you take any medications for either of those"
+    },
+    {
+        "whisper_chunk": "Yeah so for the cholesterol I'm taking this medication called Crestor For the high blood pressure I'm taking this medication called Ramipro Okay and do you take any other medications like over the counter or supplements or prescribed Just multivitamins Okay have you been",
+        "gt_chunk": "P: Yeah, so for the cholesterol I'm taking this medication called Crestor. For the high blood pressure I'm taking this medication called Ramipril.\n\nD: OK, uhm, and do you take any other medications like over the counter or supplements or prescribed?\n\nP: Just multi-vitamins.\n\nD: OK, have you been"
+    },
+    {
+        "whisper_chunk": "hospitalized before Just as like in my teens I had my appendix removed but that's it I have been pretty good otherwise Okay have you had any other surgeries besides the appendix removed No that's the only surgery Okay and any allergies to medications",
+        "gt_chunk": "D: hospitalized before?\n\nP: Just, like, in my teens I had my appendix removed but that's it. I have been pretty good otherwise.\n\nD: OK, have you had any other surgeries besides the appendix removed?\n\nP: No, that's the only surgery.\n\nD: OK, and any allergies to medications"
+    },
+    {
+        "whisper_chunk": "No not that I know of Okay and can you tell me a little bit about your living situation Yeah so I currently live with my wife and son I've kind of distanced So we live in a house just in London and I made sure to just isolate myself to one room and I wear",
+        "gt_chunk": "P: No, not that I know of. \n\nD: OK, and can you tell me a little bit about your living situation?\n\nP: Yeah, so I currently live with my wife and son. We live in a house just in London, and like, I made sure to just isolate myself to one room and I wear"
+    },
+    {
+        "whisper_chunk": "a mask around them just in case Okay that's good Yeah it's important to be socially distancing especially when having symptoms Has anybody else in the house been sick No no one has been sick recently at least in my house But I do like just two weeks ago",
+        "gt_chunk": "P: a mask around them just in case.\n\nD: OK, well that's good. Yeah, it's important to be socially distancing, especially when having symptoms. Has anybody else in that house been sick?\n\nP: No, no one has been sick recently, at least in my house, but uh, just two weeks ago"
+    },
+    {
+        "whisper_chunk": "I did attend a family event and just last week I found out someone was having symptoms and they just got tested just two days ago and their test result hasn't come back Okay I see And",
+        "gt_chunk": "P: I did attend a family event, and just last week I found out, uhm, someone was having symptoms. They just got tested two days ago and their test result hasn't come back. \n\nD: OK, I see. And"
+    },
+    {
+        "whisper_chunk": "have you traveled anywhere kind of like outside of the province or outside of the country No it was just here in London So just nothing other than that I haven't left the province Okay and what was the approximate number of people It was just five people So we stayed within the limits",
+        "gt_chunk": "D: have you traveled anywhere outside of the province or outside of the country? \n\nP: No, it was just here in London, so nothing other than that. I haven't left the province.\n\nD: OK, and what was the approximate number of people?\n\nP: It was just five peaople so we satyed within the limits"
+    },
+    {
+        "whisper_chunk": "stated for the city and they were people in like my circle as well So yeah I don't think I was doing anything wrong Okay just to give an idea of like risk and contact tracing as well if we need to And do you smoke cigarettes No I don't",
+        "gt_chunk": "P: stated for the city and they were people, in like, my circle as well, so yeah, I don't think I was doing anything wrong.\n\nD: OK, just to give an idea of like, risk and contact tracing as well if we need to. And, uh, do you smoke cigarettes?\n\nP: No, I don't"
+    },
+    {
+        "whisper_chunk": "smoke Okay and do you drink alcohol Yeah maybe one or two beers a week Okay and do you use any recreational drugs No never Okay and in terms of family history is anybody in the family have any heart or lung",
+        "gt_chunk": "P: smoke.\n\nD: OK, and do you drink alcohol?\n\nP: Yeah, maybe a one or two beers a week.\n\nD: OK, and uh, do you use any recreational drugs?\n\nP: No, never. \n\nD: OK. And, uh, in terms of family history, does anybody in the family have any heart or lung"
+    },
+    {
+        "whisper_chunk": "conditions No not that I know of I do think my brother my older brother has high blood pressure Okay nobody's had a heart attack or a stroke No Or any cancer in the family Oh yeah cancer So my father has it's not the",
+        "gt_chunk": "D: conditions?\n\nP: No, no, not that I know of. I Do you think my brother, my older brother, has high blood pressure.\n\nD: OK, nobody's had a heart attack or a stroke?\n\nP: Uh, no.\n\nD: Or any cancer in the family?\n\nP: Oh yeah, cancer, uh, so my father has. It's not the"
+    },
+    {
+        "whisper_chunk": "bad skin cancer it's the one where they can just zap it off Okay and has it needed surgery for it No Okay and I think that's all the questions that I wanted to ask today Was there anything else that maybe I forgot to tell you or forgot to ask you about Yeah no I was just wondering",
+        "gt_chunk": "P: bad skin cancer, it's the one where they can just zap it off.\n\nD: OK, uh, and so, he hasn't needed surgery for it?\n\nP: No?\n\nD: OK, and I think that's all the questions that I wanted to ask today. Was there anything else that that maybe I forgot to tell you or forgot to ask about?\n\nP: Yeah, I was just wondering"
+    },
+    {
+        "whisper_chunk": "I don't know the results of the contact that I had So should I also get tested today Yeah certainly with nonspecific symptoms such as what you've been experiencing we will do a test for COVID today However we'll do some",
+        "gt_chunk": "P: I don't know the results of the contact that I had, uh, so should I also get tested today?\n\nD: Yeah, certainly with nonspecific symptoms such as what you've been experiencing, we will do a test for covid today. However, we will do some"
+    },
+    {
+        "whisper_chunk": "lab investigations as well because it could be something else So we'll wait for some of those results to come back and it's great that you've already taken the initiative to isolate from family members and whatnot And so I'll ask you to continue doing so and we will get back to you when the results are in Okay",
+        "gt_chunk": "D: lab investigations as well, because it could be something else, so we'll wait for some of those results to come back, and it's great that you've already taken the initiative to isolate from family members and whatnot. And so I ask you to continue doing so, and we will get back to you when the results are in.\n\nP: OK"
+    },
+    {
+        "whisper_chunk": "yeah that sounds good Thank you so much",
+        "gt_chunk": "P: yeah, that sounds good, thank you so much"
+    }
+]

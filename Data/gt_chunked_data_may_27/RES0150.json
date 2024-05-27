@@ -1,0 +1,94 @@
+[
+    {
+        "whisper_chunk": "How may I help you Hi my son has just been sick over the past couple of days He's just had this cough and stuffy nose and yeah He's also had this rash that just started Okay so can you tell me",
+        "gt_chunk": "D: How may I help you? \n\nP: Hi, um my son has just been sick over the past uh couple of days. He's just had this cough and uh stuffy nose and uhm, yeah. He's also had this uh rash that just started.\n\nD: OK, and so can you tell me"
+    },
+    {
+        "whisper_chunk": "a bit more about the cough that started Yeah so the cough started about a week ago and his stuffy nose he's had a stuffy nose since around the same time And then those symptoms continued and got a little bit better over the past few days And then he started having this rash on his face",
+        "gt_chunk": "D: a bit more about the cough, so it started um?\n\nP: Yeah, so the cough started about a week ago and um his stuffy nose, he's sort of had a stuffy nose since around the same time and then um, those symptoms um so it continued and got a little bit better over the past few days and then he started um having this rash on his face"
+    },
+    {
+        "whisper_chunk": "that then kind of went down to his neck Okay and is the rash still there right now Yeah Okay and is the cough productive Is he bringing up sputum No Okay has he brought up",
+        "gt_chunk": "P: that then kind of went down to his neck.\n\nD: OK, and is the rash still uh there right now? \n\nP: Yeah.\n\nD: OK. Um and is the cough uh productive, is he bringing up sputum? \n\nP: No. \n\nD: OK, um has he brought up"
+    },
+    {
+        "whisper_chunk": "any blood No Okay and can you tell me about the runny nose Can you describe the discharge Yeah it's just a watery discharge His eyes are also red and kind of he's been teary Yeah it's just been very watery and red And",
+        "gt_chunk": "D: any blood?\n\nP: No. \n\nD: OK. Um and uh, you told me about the the runny nose, what um, can you describe the discharge? \n\nP: Yeah it's just uh it's just uh watery discharge. his eyes are also red and kind of um he's been teary. Or I guess just yeah, it's just been like very watery and red and"
+    },
+    {
+        "whisper_chunk": "yeah it's a clear discharge Okay has he had a sore throat No All right how about any changes to his sense of smell or taste He hasn't said anything about that All right has he had any problems with breathing",
+        "gt_chunk": "P: yeah, it's clear discharge.\n\nD: OK. Um has he had a sore throat?\n\nP: Um no. \n\nD: Alright, um how about any changes to his sense of smell or or taste?\n\nP: Uhm he, uh, he hasn't really, uh yeah, he hasn't said anything about that.\n\nD: Alright and has he had any problems with breathing"
+    },
+    {
+        "whisper_chunk": "No Okay has he mentioned anything about caspade No All right has he had any fevers or chills Yeah he does have a fever 39 5 I checked yesterday Okay is that the first time that he was noted to have a fever yesterday",
+        "gt_chunk": "P: No. \n\nD: OK. Has he mentioned anything about chest pain? \n\nP: Uh no.\n\nD: Alright, um has he had any fevers or chills?\n\nP: Uh yeah, he does have a fever, um 39.5 I checked yesterday. \n\nD: OK, uh is that is that the first time that um he was noted to have a fever yesterday"
+    },
+    {
+        "whisper_chunk": "He has had a fever for the past few days It was less between 37 5 to 38 5 But then yesterday it just kept going up so I got concerned and thought I should bring him in Okay I see yeah Well it's good that you brought him in Has he been having any night sweats No All right",
+        "gt_chunk": "P: he has had a fever for the past few days. Um it was around, it was less, between 37.5 to 38.5, um but then yesterday was just uh it just kept going up so I got concerned and thought I should bring him in. \n\nD: OK, I see. Yeah well it's good that you brought him in. Um has he been having any night sweats?\n\nP: No. \n\nD: And"
+    },
+    {
+        "whisper_chunk": "how has his weight been over the last several months Has he been gaining weight okay still Oh yeah That's great And has he had any wheezing No How about any changes to his appetite He's just been eating less since he's been feeling unwell",
+        "gt_chunk": "D: how has his weight been over the last several months, has he been gaining weight OK still?\n\nP: Oh yeah. \n\nD: Alright, that's great. Um and has he had any any any wheezing?\n\nP: No.\n\nD: Um how about any like changes to his appetite?\n\nP: Um he's just been eating less since he's been feeling unwell"
+    },
+    {
+        "whisper_chunk": "Okay Yeah but he still manages to eat about half the plate so I guess it's not too bad And that's been the last few days Yeah yeah Okay and has he had any muscle aches or body pains No not really Okay and are there any",
+        "gt_chunk": "D: OK.\n\nP: Yeah, but he still he still he manages to eat about um half the plate. So I guess it's not too bad.\n\nD: And that's been the last few days?\n\nP: Yeah, yeah. \n\nD: OK and um has he had any muscle aches or body pains?\n\nP: Uh, no, not really. \n\nD: OK, and um is, are there any"
+    },
+    {
+        "whisper_chunk": "exposures that could have possibly caused the skin rash like changes in laundry detergent or coming into contact with anything on his skin or anything that he was allergic to that he's been around I don't think so He was playing outside with the neighbor's kids but I don't think he",
+        "gt_chunk": "D: exposures that um could've possibly caused a skin rash like changes in like laundry detergent, or um like coming into contact with with anything on his skin or or taking um, or any anything that he was allergic to that he's been around?\n\nP: Um I don't think so. He was playing outside with the neighbours, um with the neighbour's kids, but I don't think he"
+    },
+    {
+        "whisper_chunk": "came into contact I'm not sure Okay Has he been diagnosed with any medical conditions before No he's pretty healthy Okay And sorry just to go back to the symptoms I missed a few questions here Does he have any nausea or vomiting No How about any diarrhea No Okay and any abdominal pain",
+        "gt_chunk": "P: came into contact. I'm not sure.\n\nD: OK, uh, has he been diagnosed with any medical conditions before?\n\nP: No, he's pretty healthy.\n\nD: OK and sorry, just to to go back to the symptoms, I missed a few questions here. Did he have uh, does he have any nausea or vomiting?\n\nP: No.\n\nD: How about any diarrhea?\n\nP: Uh no.\n\nD: OK, and any abdominal pain"
+    },
+    {
+        "whisper_chunk": "Nope Or any urinary problems No no Okay And so he hasn't been diagnosed with any medical conditions before Does he take any medications regularly like prescribed or over the counter No he doesn't All right and any allergies to medications or environment that",
+        "gt_chunk": "D: or any urinary problems?\n\nP: No, no. \n\nD: OK. Um And and so he hasn't been diagnosed with any medical conditions before. Um does he take any medications regularly, like prescribed or over the counter?\n\nP: Um no he doesn't. \n\nD: Alright, and any allergies to medications or uh environment that"
+    },
+    {
+        "whisper_chunk": "you're aware of No Okay And are his immunizations up to date Well no I don't vaccinate my kids I'm just worried that they'll get autism Okay Yeah well it's important to know",
+        "gt_chunk": "D: you're aware of?\n\nP: Um no. \n\nD: OK, and um are his immunizations up to date?\n\nP: Um well, no, I don't. I don't I don't vaccinate my kids. I'm just I'm I'm worried that they'll uh get autism.\n\nD: OK, yeah, that's uh well, it's important to know"
+    },
+    {
+        "whisper_chunk": "today that he's not vaccinated because certainly that will influence what we're thinking about in terms of what could be causing the symptoms And we can discuss I guess more about the vaccination procedures and whatnot later But okay so he's not currently vaccinated",
+        "gt_chunk": "D: today that he's not vaccinated, because certainly that will influence um what we're thinking about in terms of what could be causing the symptoms. Um and we can uh discuss the, I guess more about the vaccination procedures and what not later. Um but OK, so he's not currently vaccinated"
+    },
+    {
+        "whisper_chunk": "And have there been any concerns with his growth or development No Has he been meeting all of the milestones and doing well at school Yeah Okay And in terms of the pregnancy were there any complications during the pregnancy like gestational diabetes or high blood pressure I did have gestational diabetes",
+        "gt_chunk": "D: and have there been any um concerns with his growth and or development?\n\nP: No. \n\nD: He's meeting all of the the milestones and doing well at school?\n\nP: Yeah.\n\nD: OK, um and in terms of the pregnancy, uh were there any complications during the pregnancy like gestational diabetes or or um high blood pressure?\n\nP: Uh I did have gestational diabetes"
+    },
+    {
+        "whisper_chunk": "Sorry did that require insulin Yeah I did have to take insulin He was also a pretty big baby when he was born I had to get a C section done Okay Were there any complications with the surgery No no complications at all Okay Did he have any",
+        "gt_chunk": "D: , did that require insulin or?\n\nP: Uh yeah, I did have to take insulin. Um he was he was also a pretty big baby when he was born, um we had to, I had to give, get a C-section done. \n\nD: OK, were there any complications with the with the procedure, with the surgery? \n\nP: No no, no complications at all.\n\nD: OK, did he have any"
+    },
+    {
+        "whisper_chunk": "like breathing problems or jaundice or any reasons to stay in the hospital when he was born No he didn't Okay That's good And who's he living with and who's the primary caregiver currently I'm the primary caregiver He's got an older brother who's seven years old",
+        "gt_chunk": "D: like breathing problems or jaundice or any reasons to stay in the hospital when when he was born?\n\nP: No, he didn't. \n\nD: OK, um that's good. And uh who's he living with and who's the primary caregiver currently?\n\nP: I'm the primary caregiver. Um he's got an older brother who's seven years old"
+    },
+    {
+        "whisper_chunk": "and his dad It's the four of us And we also have a dog Okay Any allergies to the dog or to pets at all No Okay And any like reasons or concerns for either physical or emotional abuse in the home",
+        "gt_chunk": "P: and his dad, it's the four of us. And we also have a dog.\n\nD: OK. Any allergies to the dog or to pets at all?\n\nP: No.\n\nD: OK, um and um any reasons or concerns for um uh physical or emotional abuse in the home"
+    },
+    {
+        "whisper_chunk": "No Okay And any family history of any heart or lung problems No How about a family history of any bleeding disorders or clotting disorders or cancers No Okay So that was everything that I think I wanted to ask about on",
+        "gt_chunk": "P: No. \n\nD: OK, and um any family history of any heart or or lung problems?\n\nP: No.\n\nD: How about a family history of any bleeding disorders or or clotting disorders or cancers? \n\nP: Um no. \n\nD: OK. Um so that was everything that I think I wanted to ask about on"
+    },
+    {
+        "whisper_chunk": "history So it sounds like he's had a cough a runny nose some red eyes with some tearing as well as a rash that started and a fever",
+        "gt_chunk": "D: history. Um so it sounds like um he's had a cough, um a runny nose, um some red eye red eyes that, with some tearing as well as a rash that that started and and a fever"
+    },
+    {
+        "whisper_chunk": "Was there any other symptoms No",
+        "gt_chunk": "D: Was there any other symptoms?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay So I'm going to go back to supportive management and ensure that it's not passed on to anybody else That reminds me yeah he was out playing with other children Were any other kids experiencing similar symptoms I'm not sure I guess I need to talk to their parents now Yeah it would be a",
+        "gt_chunk": "D:  to um, supportive management and um ensure that um it's not passed on to um anybody else. That reminds me, yeah, he was out playing with other children, were any other kids experiencing similar symptoms?\n\nP: Um I'm not sure I I guess I need to talk to their their parents now.\n\nD: Yeah it would be"
+    },
+    {
+        "whisper_chunk": "good idea to contact and see just to make sure that we're treating everybody appropriately And then we can talk more about the vaccination later Sure",
+        "gt_chunk": "D: good idea to uh yeah contact um and see, just to make sure that we're treating everybody appropriately.\n\nP: Sure.\n\nD: And then uh we could talk more about the vaccination um later.\n\nP: Sure"
+    }
+]

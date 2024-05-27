@@ -1,0 +1,122 @@
+[
+    {
+        "whisper_chunk": "I've been having this cough for around I'd say half a year now and I just can't seem to get rid of it Okay And uh does this cough have any um flood that you bring up No it's completely dry I can't bring anything up Okay And since the cough started has it been getting um getting worse staying the same getting any better It was pretty much the same for",
+        "gt_chunk": "P: I've been having this cough for around, I would say half a year now and I just can't seem to get rid of it.\n\nD: OK. And does this cough have any phlegm that you bring up? \n\nP: No, it's completely dry. I can't bring anything up.\n\nD: OK, and since the cough started, has it been getting getting worse, staying the same, getting any better?\n\nP: It was pretty much the same for"
+    },
+    {
+        "whisper_chunk": "I would say like three or four months but then I've noticed it getting more frequent over the last couple of months Okay And six months ago can you think of anything that that changed including like traveling anywhere or changing in in your work or or living environment Um not really Uh I'm like almost 75 years old now So I just thought it was probably just due to my age",
+        "gt_chunk": "P: I would say like three or four months, but then I've noticed it getting more frequent over the last couple of months.\n\nD: OK, and six months ago, can you think of anything that that changed? Including like, traveling anywhere or changing in in your work or or living environment?\n\nP: Uh, not really, uh, I'm like almost 75 years old now, so I just thought it was probably just due to my age"
+    },
+    {
+        "whisper_chunk": "Okay Um have you been have you brought up any blood with the cough No I've never brought up any blood Okay And have you had any shortness of breath Not that I've noticed uh but I do find that I get a little bit more tired with exercise than I used to but not really any shortness of breath Okay Um and have you",
+        "gt_chunk": "D: OK. Uh, have you been have you brought up any blood with the cough? \n\nP: No, I've never brought up any blood. \n\nD: OK, and have you have had any shortness of breath?\n\nP: Not that I've noticed, but I do find that I get a little bit more tired with exercise than I used to, but not really any shortness of breath.\n\nD: OK. Um, and have you"
+    },
+    {
+        "whisper_chunk": "been experiencing um any other symptoms Um I don't know if this is just due to old age but like I've noticed some joint pain as well like in my hands and feet And I just assumed that was because I'm getting old Okay Um and has there been anything that's um uh made the um cough worse",
+        "gt_chunk": "D: been experiencing any other symptoms?\n\nP: I don't know if this is just due to old age, but like I've noticed some joint pain as well, like in my hands and feet. I just assumed that was 'cause I'm getting old.\n\nD: OK um, and has there been anything that's made the cough worse"
+    },
+    {
+        "whisper_chunk": "Uh sometimes when uh um exercising a lot more but not not too much It's kind of just always been there Um hasn't really changed too much but it's gotten more frequent over the last couple of months Okay And anything that's made the cough uh better that you've tried No nothing I've tried like everything I've tried Um uh time of all cold I've tried um",
+        "gt_chunk": "D: ?\n\nP: Sometimes when, I'm exercising a lot more but not not too much, it's kind of just always been there, hasn't really changed too much, but it's gotten more frequent over the last couple of months. \n\nD: OK, and anything that's made the cough better that you've tried?\n\nP: No, nothing I've tried like everything. I've tried Tylenol cold, I've tried"
+    },
+    {
+        "whisper_chunk": "other home remedies but like like steaming and everything like that when nothing has really helped Okay And is the cough worse in the morning uh throughout the day or or at night It's pretty much always there It doesn't really change with any time of the day Okay And is the cough interfering with sleep Yeah Sometimes I I do have coughing fits at night uh that",
+        "gt_chunk": "P: other home remedies but like like steaming and everything like that but nothing has really helped.\n\nD: OK, and is the cough worse in the morning, throughout the day or or at night?\n\nP: It's pretty much always there. It doesn't really change with any time of the day.\n\nD: OK, and is the cough interfering with sleep?\n\nP: Yeah, I sometimes I I do have coughing fits at night that"
+    },
+    {
+        "whisper_chunk": "wake me up Um I do have disrupted sleep over the last few months Okay Um and you mentioned some joint pains as well And then when did that those start I would say over the last year is when I started noticing it um a lot more than before Okay Have you been having uh joint stiffness or muscle stiffness early in the morning",
+        "gt_chunk": "P: wake me up. I do have\ndisrupted sleep over the last few months.\n\nD: OK. Um and, you mentioned some joint pains as well and then when did that those start?\n\nP: I would say over the last year is when I started noticing it a lot more than before. \n\nD: OK, have you been having joint stiffness or or muscle stiffness early in the morning"
+    },
+    {
+        "whisper_chunk": "Um it does get a little bit more stiff in the morning but it's kind of just there throughout the day Okay Have you noticed any uh red hot or kind of swollen joints No nothing like that Okay Any injuries to um any of your limbs or joints that could explain some of the pains there No not that I know of Nope",
+        "gt_chunk": "D: ?\n\nP: It does get a little bit more stiff in the morning, but it's kind of just there throughout the day. \n\nD: OK, have you noticed any red hot or or kind of swollen joints? \n\nP: No, nothing like that. \n\nD: OK, any injuries to any of your limbs or or joints that could explain some of the pains\nthere? \n\nP: No, not that I know of, nope"
+    },
+    {
+        "whisper_chunk": "Okay Um and uh how has your energy been Have you been experiencing a lot of fatigue Yeah I definitely have been more tired I can't really even go outside for a walk sometimes or I get really tired working in a garden So it's been tough Okay And um when did that when did you notice that change and how were you",
+        "gt_chunk": "D: OK, um, and how has your energy been? Have you been experiencing a lot of fatigue?\n\nP: Yeah, I definitely have been more tired. I can't really even go outside for a walk sometimes or I get really tired working in the garden. So it's been tough.\n\nD: OK, and when did that when did you notice that change and and how were you"
+    },
+    {
+        "whisper_chunk": "different before Like before like before six months ago I remember I used to be able to go for long walks around the block Then um when I was gardening I can go on for hours but now I'm pretty it's pretty limited to like maybe 15 20 minutes and then I have to go back into the house I see Okay So a pretty big difference over the last six",
+        "gt_chunk": "D: different before?\n\nP: Like before, like before six months ago, I remember I used to be able to go for long walks around the block, then when I was gardening I can go on for hours, but now I'm pretty it's pretty limited to like maybe 15-20 minutes and then I have to go back into the house.\n\nD: I see OK, so pretty big difference over the last six"
+    },
+    {
+        "whisper_chunk": "months to a year for you Yeah Um have you been experiencing any fevers or chills Um not really Not that I know of Okay How about um excessive sweating at night Nope All right And um how has your appetite been My appetites are on the same No changes there Okay Have you experienced any weight loss Uh",
+        "gt_chunk": "D: months to a year for you.\n \nP: Yeah.\n\nD: Have you been experiencing any fevers or chills?\n\nP: Not really. Not that I know of.\n\nD: OK, how about, uh, excessive sweating at night?\n\nP: Nope. \n\nD: Alright and, how has your appetite been? \n\nP: My appetite has been around the same, no changes there.\n\nD: OK, have you experienced any weight loss?"
+    },
+    {
+        "whisper_chunk": "actually I think um lost a couple of pounds but not not too much Okay Would that be over the last six months or so Yeah Around the last uh I would say three to four months Okay Uh have you noticed any swollen glands anywhere like in your neck or um anything like that You might feel like a lump",
+        "gt_chunk": "P: actually, I think, lost a couple pounds but not not too much. \n\nD: OK, would that be over the last six months or so?\n\nP: Yeah, around the last I would say three to four months.\n\nD: OK, uh, have you noticed any swollen glands anywhere like in your neck or anything like that you might feel like a lump"
+    },
+    {
+        "whisper_chunk": "No not really Okay Um have you had a sore throat or a runny nose No I haven't had a cold for more than two or three years I think Okay Um and how about a loss of uh smell Nope Uh a loss of taste Nope All right Have you been experiencing any chest pains",
+        "gt_chunk": "P: No, not really.\n\nD: OK, have you had a sore throat or or runny nose? \n\nP: No, I haven't had a cold for more than two or three years I think. \n\nD: OK, about a loss of smell?\n\nP: No.\n\nD: Loss of taste?\n\nP: No. \n\nD: Alright, have you been experiencing any chest pains"
+    },
+    {
+        "whisper_chunk": "Uh when the coughing gets pretty bad like I get some strain in my chest but nothing other than that All right And um any heart racing Nope All right And how about wheezing No not really Okay Uh and have you noticed any swelling um in your limbs like in your hands in your feet Or or ankles",
+        "gt_chunk": "D: ?\n\nP: When the coughing gets pretty bad like I get some strain in my chest but nothing other than that. \n\nD: Alright, and any heart racing?\n\nP: Nope.\n\nD: Alright, and how about wheezing?\n\nP: No, not really.\n\nD: OK, and have you noticed any swelling in your limbs, like in your hands and your feet or ankles"
+    },
+    {
+        "whisper_chunk": "Uh no not really All right At night have you had any um periods where you woke up extremely short of breath and you had to um sit on the edge of the bed with your feet over Uh no not that I remember Okay And um how many pillows do you sleep with Just one Um same as before Okay Um and any abdominal pain",
+        "gt_chunk": "D: ?\n\nP: No, not really. \n\nD: Alright at night, have you had any periods where you woke up extremely short of breath and you had to sit on the edge of the bed with your feet over?\n\nP: No, not that I remember.\n\nD: OK, and how many pillows do you sleep with? \n\nP: Just one, same as before.\n\nD: OK, um and any abdominal pain"
+    },
+    {
+        "whisper_chunk": "No no Pain is just in my joints and sometimes in my muscles but other than that no Okay Any urinary problems like pain or or going really often Nope All right And then any changes to bowel habits like diarrhea or constipation No not that I know of Okay And have you noticed any skin rashes Uh nope Okay",
+        "gt_chunk": "P: No, no pain is just in my joints and sometimes in my muscles, but other than that, no.\n\nD: OK, any urinary problems like pain or or going really often? \n\nP: Nope.\n\nD: Alright and then any changes to bowel habits like diarrhea or constipation?\n\nP: No, not that I know of. \n\nD: OK, and have you noticed any skin rashes?\n\nP: Uh, nope.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And uh are there any joints in particular that are most affected I would say like uh my legs and arms Uh it's it's pretty much a lot of the joints uh not really affecting my hip but like everything else seems a bit sore Okay Um and uh have you been diagnosed with any medical conditions in the past No never I've been pretty fortunate",
+        "gt_chunk": "D: and, uh, are there any joints in particular that are most affected?\n\nP: I would say like my legs and arms. It's it's pretty much  lot of the joints, not really affecting my hip, but like everything else seems a bit sore.\n\nD: OK, and, have you been diagnosed with any medical conditions in the past? \n\nP: No, never. I've been pretty fortunate"
+    },
+    {
+        "whisper_chunk": "Okay So do you take any medications either prescription or over the counter No just vitamins but nothing else All right Do you have any allergies No not that I know of Have you been uh so you said you've been pretty healthy but have you been in the hospital for any reason recently No Okay Um and uh are your immunizations up to date Yeah I got uh shingles",
+        "gt_chunk": "D: OK, so do you take any medications either prescription or over the counter? \n\nP: No, just vitamins but nothing else. \n\nD: Alright, do you have any allergies?\n\nP: No, not that I know of. \n\nD: Have you been so you said you've been pretty healthy, but have you been in the hospital for any reason recently?\n\nP: No.\n\nD: OK. Um and are your immunizations up to date? \n\nP: Yeah, I I got a shingles"
+    },
+    {
+        "whisper_chunk": "vaccine uh the one for pneumonia as well Okay Um and have you traveled anywhere recently No I've been at home Okay Um and um in the family have you heard of anything like this uh happening in the family sort of a onset of this kind of shortness of breath than in cough that you've been experiencing",
+        "gt_chunk": "P: vaccine, the one for pneumonia as well.\n\nD: OK, and have you traveled anywhere recently? \n\nP: No I've been at home. \n\nD: OK um and in the family, have you heard of anything like this happening in the family sort of way, onset of this kind of shortness of breath and cough that you've been experiencing"
+    },
+    {
+        "whisper_chunk": "Um not really I I don't really have shortness of breath Like it's it's like a dry cough Sometimes I do find myself breathing more shallow Um but yeah mostly it's just the dry cough that's been going on Okay And more of the fatigue Yeah Okay Um did anybody in the family have like autoimmune diseases like rheumatoid arthritis or or lupus",
+        "gt_chunk": "D: ?\n\nP: Not really, I I don't really have shortness of breath like it's it's like a dry cough. Sometimes I do find myself breathing more shallow. Yeah, mostly it's just a dry cough that's been going on.\n\nD: OK, and more of the fatigue.\n\nP: Yeah. \n\nD: OK. And anybody in the family have like autoimmune diseases like rheumatoid arthritis or or lupus"
+    },
+    {
+        "whisper_chunk": "Uh I yeah I don't really I can't really think of nothing Um my mom and dad were completely healthy Um so I don't and I don't have any siblings So yeah not nothing that I know of Okay Uh any uh cancers in the family like colon cancer or um anything like that No no cancers Okay",
+        "gt_chunk": "P: Uh I don't really, I can't really think of nothing my mom and dad were completely healthy. So I know and I don't have any siblings, so yeah, not nothing that I know of.\n\nD: OK, uh, any cancers in the family like colon cancer or anything like that? \n\nP: No, no cancers. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Um and uh can you tell me a little bit about your living situation Yeah So right now I live alone in uh uh a small townhouse and um yeah that's I have a pet dog but that's that's about it Okay Um and how do you support yourself uh financially So I'm retired uh but um getting I have a pretty good",
+        "gt_chunk": "D: Um, and could you tell me a little bit about your living situation?\n\nP: Yeah, so right now I live alone in a small townhouse and yeah, that's I have a pet dog, but that's that's about it.\n\nD: OK, um, and how do you support yourself financially?\n\nP: So, I'm retired, but getting a pretty good"
+    },
+    {
+        "whisper_chunk": "pension um as well as for my um uh husband's pension as well but he unfortunately passed away a couple a couple of years ago Oh I'm sorry to hear that Um what did you so you're retired What did you do for work uh previously Did you have any exposures to chemicals or um asbestos uh products while while at work Uh not that I remember",
+        "gt_chunk": "P: pension as well as for my a husband's pension as well, but he unfortunately passed away a couple years ago. \n\nD: I'm sorry to hear that. What did you say you retired, what did you do for work previously? Did you have any exposures to chemicals or asbestos products while while at work?\n\nP: Not that I remember"
+    },
+    {
+        "whisper_chunk": "No it was it was uh pretty uh uh pretty much like a desk job I would say Okay Um so no reasons that you're visiting farms and uh like being around birds or anything like that Um not really but I I I do think like the old building that we lived in um",
+        "gt_chunk": "P: no it was it was a pretty, pretty much like a desk job I would say.\n\nD: OK um, so no reasons that you were visiting farms and like being around birds or anything like that?\n\nP: Um, not really, but I I do think like the old building that we lived in"
+    },
+    {
+        "whisper_chunk": "might've had asbestos Does that does that like count at all Well like it could be important um because um well how long how long did you live there for I'd say almost 20 years Okay So um yes that definitely would be is is uh important for the um history today because um unfortunately long term exposure to",
+        "gt_chunk": "P: might have had asbestos. Does that does that like count at all?\n\nD: Like a it could be important, uh, because, uh, well how long, how long did you live there for? \n\nP: I would say almost 20 years. \n\nD: OK, so um, yes, that definitely would be is is important for the history today because, unfortunately, long term exposure to"
+    },
+    {
+        "whisper_chunk": "asbestos uh when breathing it in can cause um some of the symptoms that you've been describing along with cough and uh respiratory symptoms So it'll be something that we'll be sure to investigate today Okay Um uh but I just had a couple more questions first Um do you smoke cigarettes Um uh I quit long time ago more than like 10 years",
+        "gt_chunk": "D: asbestos when breathing it in can cause some of the symptoms that you've been describing along with cough and uh, respiratory symptoms. So it'll be something that we'll be sure to investigate today, OK? But I just had a couple more questions. First, do you smoke cigarettes?\n\nP: I quit long time ago, more than like 10 years"
+    },
+    {
+        "whisper_chunk": "ago but I used to smoke like five to 10 cigarettes for around 20 years Okay Uh and do you smoke cannabis No All right Did you drink alcohol No not anymore Okay Um and uh do you use any other recreational drugs Nope All right And uh are you currently sexually active No All right And and have you had a sexually transmitted infection",
+        "gt_chunk": "P: ago, but I used to smoke like 5 to 10 cigarettes for around 20 years.\n\nD: OK, and do you smoke cannabis?\n\nP: No. \n\nD: Alright, do you drink alcohol?\n\nP: No, not anymore.\n\nD: OK, and do you use any other recreational drugs?\n\nP: No.\n\nD: Alright, and are you currently sexually active? \n\nP: No.\n\nD: Alright, and have you had a sexually transmitted infection"
+    },
+    {
+        "whisper_chunk": "before No Okay Um so those are the questions that I wanted to uh to go over um to make sure I asked on history Was there anything that um else you wanted to tell me No I think that's all Okay Um so uh next we'll do a physical exam and um order some investigations but I'm currently thinking that um it could be related to asbestos",
+        "gt_chunk": "D: before? \n\nP: No. \n\nD: OK, so those are the questions that I wanted to go over to make sure I asked on history. Was there anything that else you wanted to tell me?\n\nP: No, I think that's all.\n\nD: OK, so next we'll do your physical exam and order some investigations. But currently thinking that it could be related to asbestos"
+    },
+    {
+        "whisper_chunk": "exposure um as well as um something called uh well it could cause pulmonary fibrosis And then also um the joint pains that you've been experiencing um might be another symptom that uh is suggestive of a connective tissue disease And um it doesn't sound like you have a family history of those but um we will do some lab work and investigations",
+        "gt_chunk": "D: exposure as well as um, something called, well, it could cause pulmonary fibrosis and then also the joint pains that you've been experiencing might be another symptom that is suggestive of a connective tissue disease, and it doesn't sound like you have a family history of those, but we will do some lab work and investigations"
+    },
+    {
+        "whisper_chunk": "for um for those including a chest X ray and um a chest CT Sounds good",
+        "gt_chunk": "D: for for those including a chest X-Ray and a chest CT.\n\nP: Sounds good"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "whisper_chunk": "What brings you in here today Yeah so my daughter she's had this hoarse voice for the past like two three days It doesn't seem to be getting better In fact it's getting worse And she just doesn't sound like herself anymore and she's not speaking as much Okay and when did this start Okay so she had",
+        "gt_chunk": "D: what brings you in here today?\n\nP: Yeah, so my daughter, she's had this hoarse voice for the past like two or three days. It doesn't seem to be getting better. In fact, it's getting worse and she just doesn't sound like herself anymore and she's not speaking as much.\n\nD: OK, and when did this start?\n\nP: OK, so she had"
+    },
+    {
+        "whisper_chunk": "a cough like four days ago And she's still coughing a little bit but not as much as she was before But it's more her voice that I'm concerned about It sounds very hoarse and harsh Okay and so how many days has she had the hoarse voice for I'd say",
+        "gt_chunk": "P: a cough like four days ago, and she's still coughing a little bit, but not as much as she was before, but it's more her voice that I'm concerned about. It sounds very hoarse and harsh.\n\nD: OK, and so how many days has she had the hoarse voice for?\n\nP: I'd say"
+    },
+    {
+        "whisper_chunk": "about two three days now Two three days Okay And when she was coughing you mentioned previously was she coughing up any sputum or was it more of a dry cough It was more of a dry cough Okay and the cough has pretty much resolved by now Yeah she still gets them once in a while but yeah it's pretty much gone",
+        "gt_chunk": "P: about two or three days now.\n\nD: Two or three days, OK. And when she was coughing, you mentioned like previously was she coughing up any sputum or was it more of a dry cough?\n\nP: It was more of a dry cough \n\nD: And the cough has pretty much resolved by now? \n\nP: Yeah, she still gets them once in a while, but yeah, it's pretty much gone"
+    },
+    {
+        "whisper_chunk": "Okay and when she was coughing did she at all bring up any kind of blood or any green or yellowish material No No okay Did she have any fevers at all recently No no fevers Okay and along with the hoarse voice did she have any pain with talking",
+        "gt_chunk": "D: OK, and when she was coughing, did she at all bring up any kind of blood or any green or yellowish material?\n\nP: No \n\nD: No, OK. Did she have any fevers at all, recently?\n\nP: Uh, no, no fevers.\n\nD: OK. And does she have any kind of, uh, along with a hoarse voice, does she have any pain with talking"
+    },
+    {
+        "whisper_chunk": "Yes I think so Okay and does she have any pain with swallowing any foods or liquids She's eating and drinking okay but I suspect there is some pain Okay so she has a sore throat How long has she had that for The sore throat I would",
+        "gt_chunk": "P: Yes, I think so. \n\nD: OK, and does she have any pain with swallowing any foods or liquids?\n\nP: She's eating and drinking ok, but I suspect there is some pain. \n\nD: OK, So how long has she, so she has a sore throat, how long has she had that for?\n\nP: The sore throat? Uhm I would"
+    },
+    {
+        "whisper_chunk": "say for the past two or three days as well Okay and was there anything that \u2013 so she had kind of like a cough previously but anything else anyone sick around her or anything you think might have precipitated some of her symptoms No not that I know of I don't think she's had any contacts with people recently",
+        "gt_chunk": "P: say for the past two or three days as well. \n\nD: OK, and was there anything that, so she had kind of like a cough previously, but anything else, anyone sick around her, or anything you think might have precipitated some of her symptoms?\n\nP: No, not that I know of. I don't think she's had any contacts with sick people recently"
+    },
+    {
+        "whisper_chunk": "Okay are there any \u2013 have you tried any medications over the counter that has helped her Not over the counter medications but I tried to get her to gargle with salt water and all of that kind of stuff but that didn't seem to help Okay and is it",
+        "gt_chunk": "D: OK. Are there any, have you tried any medications over the counter, that has helped her?\n\nP: Uhm, not over the counter medications, but like I tried to get her to like gargle with like salt water and all that kind of stuff, but that didn't seem to help.\n\nD: OK. And "
+    },
+    {
+        "whisper_chunk": "\u2013 so have her symptoms been just constant or do they come and go They've been pretty constant Okay and do you think her symptoms are getting worse No they've been pretty consistent but maybe the harsh voice is getting worse Okay and other than the symptoms that you've mentioned has she had any kind of shortness",
+        "gt_chunk": "D:  have her symptoms been just constant or do they come and go?\n\nP: They've been pretty constant.\n\nD: OK, and you think her symptoms are getting worse?\n\nP: Uh, no, they've been pretty consistent, but maybe the harsh voice is getting worse.\n\nD: OK. And other than the symptoms that you've mentioned, has she had any kind of shortness"
+    },
+    {
+        "whisper_chunk": "of breath wheezing chest pain or anything like that No nothing like that Okay and no fevers right No Okay Has she traveled at all recently outside of the country or outside of the province No no nothing like that Okay and any headaches at",
+        "gt_chunk": "D: of breath, wheezing, chest pain or anything like that?\n\nP: No, nothing like that.\n\nD: OK, and no fevers, right? \n\nP: No \n\nD: OK. Has she traveled at all recently outside of the country or outside of the province?\n\nP: No, no, nothing like that.\n\nD: OK, and any headaches at"
+    },
+    {
+        "whisper_chunk": "all No No Any nausea or vomiting No nothing like that Okay any runny nose or congestion No no Okay and have you had a chance to at all look into her mouth and throat and if you",
+        "gt_chunk": "P: , no. \n\nD: No, any nausea or vomiting?\n\nP: Uh, no, nothing like that.\n\nD: OK, any runny nose or congestion?\n\nP: No. \n\nD: No, OK. And have you had a chance to at all, look into her mouth and throat? And if you"
+    },
+    {
+        "whisper_chunk": "have have you noticed any kind of redness swelling I haven't looked in there too much Just on inspection the other day it looked a little bit red but I didn't see any discharge Okay and have you noticed any kind of swelling around her neck ears like around her lymph nodes",
+        "gt_chunk": "D: have, have you noticed any kind of redness, swelling?\n\nP: I haven't looked in there too much, like, just an inspection the other day, it looked a little bit red, but I didn't see any discharge.\n\nD: OK, and have you noticed any kind of swelling around her neck, ears, like, around her lymph nodes"
+    },
+    {
+        "whisper_chunk": "I haven't actually taken a look there Okay we can do that Other than those symptoms has she been experiencing any kind of fatigue or have you noticed her being just very tired She has seemed a little bit more tired than usual Okay and right now is she going to school or is",
+        "gt_chunk": "P: I haven't actually taken a look there.\n\nD: OK, we can do that. Other than those symptoms, has she been experiencing any kind of like fatigue or have you notice her being just very tired?\n\nP: Um, she has seemed a little bit more tired than usual. \n\nD: OK, and right now is she going to school or is"
+    },
+    {
+        "whisper_chunk": "right now all virtual Is she at home She's at home right now Okay and does she have any symptoms at all any chest pain at all No chest pain Okay any changes in her bowel movements any constipation diarrhea No Okay any urinary problems No Okay has she been",
+        "gt_chunk": "D: right now all like virtual? Is she at home?\n\nP: Uhm, she's at home right now.\n\nD: OK, and does she have any symptoms of, any chest pain at all?\n\nP: No chest pain.\n\nD: OK, any changes in her bowel movements, any Constipation, diarrhea?\n\nP: No.\n\nD: OK, any urinary problems?\n\nP: No.\n\nD: OK, has she been"
+    },
+    {
+        "whisper_chunk": "able to sleep well or does she wake up a lot more at night She's been able to sleep well yeah Okay how about her appetite It's been pretty normal She's not eating as much as she used to but she's still eating and drinking okay Okay and have you noticed any kind of weight changes at all recently Has she lost any weight No",
+        "gt_chunk": "D: able to sleep well or does she wake up a lot more at night?\n\nP: Uhm, she's been able to sleep well, yeah \n\nD: OK, how about her appetite?\n\nP: Its been pretty normal. She's not eating as much as she used to, but she's still eating and drinking ok.\n\nD: OK, and have you noticed any kind of weight changes at all recently has she lost any weight?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay and has she had any loss of sense of taste or smell at all No Any muscle aches or anything like that No nothing like that Okay any exposure to fumes dust or animals or pets at home",
+        "gt_chunk": "D:  sorry, loss of sense of taste or smell at all. \n\nP: Uh, no.\n\nD: Any muscle aches or anything like that?\n\nP: Uh, no, nothing like that.\n\nD: OK, any exposure to fumes, dust, animals or Pets at Home"
+    },
+    {
+        "whisper_chunk": "No nothing like that Okay and has this happened at all in the past No No okay Does she have any medical conditions at all that she's been diagnosed with in the past Nope nothing like that Okay any asthma or any other conditions No",
+        "gt_chunk": "P: no, nothing like that.\n\nD: OK, has this happened at all in the past?\n\nP: Uhm, no.\n\nD: No, OK. Does she have any medical conditions at all that she's been diagnosed with in the past?\n\nP: Uhm, no, nothing like that.\n\nD: Any like asthma or any other conditions?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay any allergies that you know of I know she has seasonal allergies but that's about it Okay and does she take any medications at all on a daily basis No she just takes multivitamins Okay and previously she had any surgeries or hospitalizations",
+        "gt_chunk": "D: OK, any allergies that you know of?\n\nP: I know she has seasonal allergies, but that's about it.\n\nD: OK, and does she take any medications at all on a daily basis? \n\nP: Uh, no, she just takes multi vitamins. \n\nD: OK, and currently or previously has she had any surgeries or hospitalizations"
+    },
+    {
+        "whisper_chunk": "No No okay Are there any family history of any lung or heart conditions No Any cancers There's some colon cancer on her dad's side of the family Okay and do you remember who the person is and also when they got diagnosed",
+        "gt_chunk": "P: No.\n\nD: No, OK. Are there any family history of any lung or heart conditions?\n\nP: Uh, no. \n\nD: Any cancers?\n\nP: There's some colon cancer on her dad side of the family.\n\nD: OK, and is there any, so do you remember who the person is and also like when they got diagnosed"
+    },
+    {
+        "whisper_chunk": "with the colon cancer It was her uncle He was diagnosed when he was 45 Okay Other than that were there any developmental challenges at all while she was growing up Was she meeting her milestones",
+        "gt_chunk": "D: with the colon cancer?\n\nP: So it was her uncle. He was diagnosed when he was forty five. \n\nD: OK, other than that, were there any developmental challenges at all while she was growing up? Did she, was she meeting her milestones"
+    },
+    {
+        "whisper_chunk": "Any concerns at all No concerns She was meeting all her milestones from what I remember Okay and in terms of her pregnancy or your pregnancy with her were there any complications at all either during the pregnancy or after she was born No no complications Okay and right now where does she live and who does she live with She lives",
+        "gt_chunk": "D: Any concerns at all? \n\np: No concerns, she was meeting all her milestones from what I remember. \n\nD: OK, and uh, in terms of her pregnancy, were there any, or your pregnancy with her, were there any complications at all either during the pregnancy or after she was born?\n\nP No, no complications.\n\nD: And right now, where does she live, and who does she live with? \n\nP: she's"
+    },
+    {
+        "whisper_chunk": "at home with myself my husband and she has one younger sibling Okay and is everyone at home well Does anyone have any of these symptoms No No okay All right and in terms of the home environment does anyone smoke in the house No No okay All right so I think that's all the",
+        "gt_chunk": "P: at home with myself, my husband and she has one younger sibling.\n\nD: OK and, is everyone at home well, does anyone have any of these symptoms? \n\nP: No, OK. \n\nD: Right, so, and in terms of the home environment, does anyone smoke in the house?\n\nP: No. \n\nD: No OK, alright so I think that's all the"
+    },
+    {
+        "whisper_chunk": "questions I had right now Do you have any questions or concerns No no questions but actually what do you think she has and how can we treat her Yeah so it seems like with the hoarseness of voice and the sore throat and her symptoms mostly align with what's called laryngitis And this is usually caused by like just a viral respiratory",
+        "gt_chunk": "D: questions I had right now. Do you have any questions or concerns?\n\nP: No, no questions, but uhm, actually, what do you think she has and how can we treat her?\n\nD: Yeah, so it seems like that the hoarseness of voice and the sore throat and her symptoms mostly align with what's called laryngitis, and this is usually caused by like just a viral respiratory"
+    },
+    {
+        "whisper_chunk": "infection The hoarseness of voice will usually last more than a week and up to like 10 days and it should resolve on its own But we'll definitely take a better look and do a proper physical examination See if I see any kind of swelling redness or any like white streaks or exudates around her pharynx",
+        "gt_chunk": "D: infection. The hoarseness of voice will usually last more than a week and up to like ten days and it should resolve on its own. But we'll definitely take a better look and do a proper physical examination, see if I see any kind of swelling, redness, or any like white streaks or exudates around her pharynx"
+    },
+    {
+        "whisper_chunk": "as well So after we take a look we'll see what we can do It can also be a bacterial infection in which case we would need to give her antibiotics but usually it's a viral infection that should go away on its own So we would just kind of wait and see and potentially just give her voice some rest during this period and just go",
+        "gt_chunk": "D: as well. So after we take a look, we'll see what we can do. It doesn't seem like, it can also be a bacterial infection, in which case we would need to give her antibiotics, but usually it's a viral infection that should go away on its own. So we would just kind of wait and see and potentially just give her voice some rest during this period, and just go"
+    },
+    {
+        "whisper_chunk": "on from there Do you have any other questions or concerns No that sounds great Thank you You're welcome And yeah we'll just do a full examination and then go from there Okay sounds great Thanks You're welcome Take care You too",
+        "gt_chunk": "D: on from there. Do you have any other questions or concerns?\n\nP: Uh no, that sounds great, thank you.\n\nD: You're welcome and yeah, we'll, just do a full examination and then go from there.\n\nP: OK, sounds great thanks.\n\nD: You're welcome.  Take care.\n\nP: You too"
+    }
+]

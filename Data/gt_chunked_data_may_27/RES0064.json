@@ -1,0 +1,78 @@
+[
+    {
+        "whisper_chunk": "what brings you in Yeah my child has been having a sore throat and chills yesterday as well Okay so you mentioned the sore throat started three to four days ago and the chills started yesterday Yes Okay Is he having any issues swallowing food or fluids Yeah it seems like like",
+        "gt_chunk": "D: What brings you in?\n\nP: My child has been having a sore throat and chills yesterday as well.\n\nD: OK, so you mentioned the sore throat started three to four days ago and the chills started yesterday. And is he having any issues swallowing food or fluids?\n\nP: Yeah, it seems like "
+    },
+    {
+        "whisper_chunk": "a lot of pain in his throat especially when swallowing solid foods Have you taken a look into his throat Is it red Do you see any yellow streaking white stuff anything like that I definitely yeah I did take a look yesterday and definitely saw a lot of redness I don't know if I saw any white or yellow streaks but definitely looks very red in there Okay Do his tonsils look enlarged",
+        "gt_chunk": "P: a lot of pain in his throat, especially when swallowing solid foods.\n\nD: Have you taken a look into his throat? Is it red? Do you see any yellow streaking white stuff, anything like that?\n\nP: I definitely did take a look yesterday and definitely saw a lot of redness. I don't know if I saw any white or yellow streaks, but definitely looks very red in there.\n\nD: OK, do his tonsils look enlarged"
+    },
+    {
+        "whisper_chunk": "Everything looks swollen in there I don't know what's what but it does look very angry in there Okay And has he had a stuffy nose or runny nose No not really No Any loss of taste or smell Nope nothing like that Okay How about changes in vision or hearing No Any changes in hair",
+        "gt_chunk": "P: everything looks swollen in there, I don't know what's what, but it does look very angry in there.\n\nD: OK, OK. And has he had a stuffy nose or runny nose?\n\nP: No, not really, no.\n\nD: Any loss of taste or smell?\n\nP: No, nothing like that.\n\nD: OK, how about changes in vision or hearing? Any changes in her"
+    },
+    {
+        "whisper_chunk": "nails or skin like rashes No no rashes Okay Have you taken his temperature at home No I think he might have had a fever yesterday but we didn't really take a temperature Okay And any fatigue or exhaustion Energy's pretty much",
+        "gt_chunk": "D: nails or skin like rashes?\n\nP: No, no rashes.\n\nD: OK. Have you taken his temperature at home?\n\nP: No, I think he might have had a fever yesterday, but we didn't really take a temperature. \n\nD: OK. And, any fatigue or exhaustion? \n\nP: Energy's pretty much"
+    },
+    {
+        "whisper_chunk": "the same just really complaining a lot about the throat Okay Have you noticed any swelling in the neck area I think there might be like a few lumps near his neck so I don't know if that's swelling but definitely there is a few that I felt over the last few days Okay Any coughing No hasn't been",
+        "gt_chunk": "P: the same, just really complaining a lot about the throat.\n\nD: OK, OK, have you noticed any swelling in in the neck area?\n\nP: Uhm, I think there might be like a few lumps near his neck, so I don't know if that's swelling, but definitely there is. There's a few that I felt over the last few days. \n\nD: OK, coughing?\n\nP: No, hasn't been"
+    },
+    {
+        "whisper_chunk": "coughing at all Okay Okay And how about shortness of breath or wheezing No nothing like that Okay Chest pain No Feeling like his heart is racing No Swelling in his limbs No I haven't noticed anything like that",
+        "gt_chunk": "P: coughing at all\n\nD: OK, um, and how about shortness of breath or wheezing?\n\nP: No, nothing like that.\n\nD: Chest pain?\n\nP: No.\n\nD: Feeling like his heart is racing?\n\nP: No. \n\nD: Swelling in his limbs?\n\nP: No. I haven't noticed anything like that"
+    },
+    {
+        "whisper_chunk": "Okay Dizziness or fainting spells No no Headaches He was complaining of a headache a few days ago but it kind of went away on its own Okay So the headache's gone completely now Yeah yeah Okay How about confusion or memory loss",
+        "gt_chunk": "D: OK, dizziness or fainting spells?\n\nP: No. \n\nD: Headaches?\n\nP: He was complaining of a headache a few days ago, but it kind of went away on its own.\n\nD: OK. So the headache's gone completely now. \n\nP: Yeah, yeah.\n\nD: OK. Have any confusion or memory loss"
+    },
+    {
+        "whisper_chunk": "No not that I know No Joint pain or muscle aches No Okay How about his bowel movements Have those been normal Yeah they've been normal No diarrhea or constipation Okay How about nausea or vomiting No he hasn't told me anything about that Okay Appetite changes Yeah just with the trouble",
+        "gt_chunk": "P: No, not that I know.\n\nD: Joint pain or muscle aches?\n\nP: No.\n\nD: OK, how about his bowel movements? Have those been normal?\n\nP Yeah, they've been normal. No diarrhea or constipation.\n\nD: OK, how about in nausea or vomiting?\n\nP: No, no, he hasn't told me anything about that.\n\nD: Any appetite changes?\n\nP: Yeah, just with the trouble"
+    },
+    {
+        "whisper_chunk": "swallowing I'm trying to make sure that he gets liquids and more loose food Over the last few days he can't tolerate solid foods at all Yeah How about weight loss over the past few weeks No not really It's just been over the last few days that he hasn't been eating like himself Okay All",
+        "gt_chunk": "P: swallowing I'm trying to make sure that he gets like liquids because over the last few days he can't tolerate like solid foods at all.\n\nD: Yeah, how about a weight loss over the past few weeks? \n\nP: No, not really. t's just been over the last few days that he hasn't been eating like himself.\n\nD: OK."
+    },
+    {
+        "whisper_chunk": "right And has he been healthy otherwise Yeah otherwise he's a very healthy child We have rarely gone to a doctor for him before so yeah nothing else with him Okay Have you tried anything for his sore throat Anything over the counter We did try a Tylenol cold It helped with his headache but",
+        "gt_chunk": "D: Alright and has he been healthy otherwise?\n\nP: Yeah, otherwise he's a very healthy child. We have rarely gone to a doctor for him before, so yeah, nothing. Nothing else with him. \n\nD: OK, have you tried anything for his sore throat? Anything over the counter?\n\nP: We did try, uh, like Tylenol cold. It helped with this headache, but"
+    },
+    {
+        "whisper_chunk": "it didn't really help with his sore throat Okay And has he ever experienced anything like this in the past No not that I know of Okay Any hospitalizations or surgeries in the past No Any medications that he's on No no medications Okay Is he up to date with all his immunizations Yeah all his immunizations are up",
+        "gt_chunk": "P: it didn't really help with his sore throat\n\nD: OK, and has he ever experienced anything like this in the past?\n\nP: No, not that I know of. \n\nD: OK. Any hospitalizations or surgeries in the past? \n\nP: No.\n\nD: Any medications that he's on?\n\nP: No, no medication.\n\nD: OK, is he up to date with all his immunizations?\n\nP: Yeah, all his immunizations are up"
+    },
+    {
+        "whisper_chunk": "to date Okay Any allergies No not that I know of Okay Family history of lung conditions or heart conditions No no longer heart conditions His father does have diabetes though Okay How old was he when he was diagnosed with diabetes I think probably in his late 30s with type 2 diabetes",
+        "gt_chunk": "P: to date.\n\nD: OK, any allergies?\n\nP: No, not that I know.\n\nD: OK, family history of lung conditions or heart conditions?\n\nP: No, no lung or heart conditions. His father does have diabetes though.\n\nD: OK, how old was he when he was diagnosed with diabetes?\n\nP: I think probably in his late 30s with type 2 diabetes"
+    },
+    {
+        "whisper_chunk": "Type 2 Okay And any sick contacts recently that he may have had Um I don't think at home at least but maybe at school like you never know who they're in contact with So I'm wondering if he just picked it up somewhere from school Okay Yeah",
+        "gt_chunk": "D: Type 2, OK and then any sick contacts recently that he may have had? \n\nP: I don't think at home at least, uh, but maybe at school, like you never know who they are in contact with, so I'm wondering if he just picked it up somewhere from school.\n\nD: OK.\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "Yeah They're all wearing masks right now but I don't know if he picked something up from his classmates Yeah for sure Okay And then any travel anywhere recently No we've been at home I haven't left even to go to like a different city I've been in London the whole time Okay Yeah And who does he live with at home So he lives with myself and his dad",
+        "gt_chunk": "P: yeah, they're all wearing masks right now, but I don't know if he picked something something up from his classmates.\n\nD: Yeah for sure. OK, and then any travel to anywhere recently?\n\nP: No, we've been at home, haven't left even to go to like a different city, have been in London the whole time.\n\nD: OK, yeah, and who does he live with at home?\n\nP: So he lives with myself and his dad"
+    },
+    {
+        "whisper_chunk": "Okay Any siblings No he's an only child Okay Any reason to believe you have old carpets mold asbestos anything that could be triggering his symptoms No we don't have any pets We don't have any like it's a fairly new apartment So I don't think any of that should be an issue Okay Okay good",
+        "gt_chunk": "P: .\n\nD: Any siblings?\n\nP: No, he's an only child.\n\nD: OK, any reason to believe you have old carpets, mold, asbestos, anything that could be triggering his symptoms?\n\nP: You know we don't have any pets. We don't have any like old carpets, it's a fairly new apartment, so I don't think any of that should be an issue.\n\nD: Okay,"
+    },
+    {
+        "whisper_chunk": "Well I think those are all the questions that I had for him Anything that you wanted to add or anything that I missed today No I think those were everything I wanted to talk about I just was wondering if he needs to get tested or like if there's anything we can do today for him Yeah so he does seem to be checking off some of the criteria for",
+        "gt_chunk": "D: well, I think those are all the questions that I had for him. Anything that you wanted to add or anything that I missed today?\n\nP: Uh, no, I think those are everything I wanted to talk about but I just was wondering if he needs to get tested or like if there's anything we can do today for him.\n\nD: Yeah, so he does seem to be checking off some of the criteria for"
+    },
+    {
+        "whisper_chunk": "strep throat So just to make sure because he does have a score of right now at least three or four or maybe even five definitely over four So we can prescribe him some antibiotics But we will do a rapid strep test first in the clinic here today just to rule that in or rule that out If",
+        "gt_chunk": "D: strep throat. So just to make sure, because he does have a score of right now at least three or four, or maybe even five, definitely over four, we can prescribe him some antibiotics. But we will do a rapid strep test first in the clinic here today just to rule out in or rule that out. If"
+    },
+    {
+        "whisper_chunk": "it's positive and I guess even if it isn't positive because he checks off a lot of the boxes for strep throat we will give him a prescription for penicillin or amoxicillin for 10 because his symptoms also overlap with COVID We'll do a swab for that as well And you should hear back within 24 to 48 hours And you",
+        "gt_chunk": "D:  positive and I guess even if it isn't positive because he checked off a lot of the boxes for strep throat, we will give him a prescription for penicillin or amoxicillin for 10 days. And then you can take that if his symptoms don't go away in a day or two. Because his symptoms also overlap with COVID, we will. do a swab for that as well and you should hear back within 24 to 48 hours and"
+    },
+    {
+        "whisper_chunk": "should isolate for 14 days How does that sound Yeah that sounds good Okay great Thank you Thank you",
+        "gt_chunk": "D: should isolate for 14 days. Does that sound good?\n\nP: Yeah, that sounds good.\n\nD: OK, great thank you. \n\nP: Thank you"
+    }
+]

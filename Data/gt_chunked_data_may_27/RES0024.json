@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "Can you start by telling me what brought you in So like I don't really feel sick I just I lost I can't I for the past two days I can't smell anything I can't taste any of my food It's super weird I Like live with my boyfriend and He was like here take a bite of this onion and I like bit into it and I literally didn't taste anything Otherwise",
+        "gt_chunk": "D:  you start by telling me what brought you in?\n\nP: So like I don't really feel sick. I just I lost. I can't. I for the past two days I can't smell anything. I can't taste any of my food. It's super weird I like live with my boyfriend and he was like here take a bite of this onion and I like bit into it and I literally didn't taste anything. Otherwise"
+    },
+    {
+        "whisper_chunk": "like I feel totally fine I just heard that this happens sometimes with COVID and I'm just kind of worried that I have COVID Okay for sure I will we will Definitely look into that today and you're right it is a symptom that can occur with with COVID But We'll want to make sure that it isn't something else And so",
+        "gt_chunk": "P: like I feel totally fine. I just heard that this happens sometimes like with COVID and. I'm just kind of worried that I have COVID.\n\nD: OK, for sure I will we will, um definitely look into that today and you are right, it is a symptom that can occur with with covid. But we will want to make sure that it isn't something else, and so"
+    },
+    {
+        "whisper_chunk": "I want to just ask you a few more questions about how you've been feeling So you said you haven't felt sick so have you been experiencing any other symptoms I Mean I've maybe been a bit tired but really otherwise No I guess maybe I felt like a little dry but I haven't actually been Coughing Okay So no cough Have you felt",
+        "gt_chunk": "D: I wanted to just ask you a few more questions about how you've been feeling. So you said you haven't felt sick, so have you been experiencing any other symptoms?\n\nP: I mean, I may be even a bit tired, but really. Otherwise no. I guess maybe I felt like a little dry, but I haven't actually been coughing.\n\nD: OK. So no cough have you felt"
+    },
+    {
+        "whisper_chunk": "Like short of breath at all No Okay and have you brought up any like sputum or any blood No Okay and have you had any chest pain No Okay any Feeling like your heart is racing No All right Any nausea or vomiting",
+        "gt_chunk": "D: like short of breath at all? \n\nP: No.\n\nD: OK, and have you brought up any like, sputum or any blood?\n\nP: No.\n\nD: OK, and have you had any chest pain?\n\nP: No.\n\nD: OK, any feeling like your heart is ready racing? \n\nP: No.\n\nD: Alright, um, any nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "No any diarrhea or constipation No Okay any changes To urinary habits any painful urination or Needing to go more often No All right and have you had any headaches No How about any fevers I Don't like I don't have a thermometer I think maybe felt a little hot but",
+        "gt_chunk": "P: No.\n\nD: Any diarrhea or constipation? \n\nP: No.\n\nD: OK, any changes to urinary habits. Any painful urination or needing to go more often? \n\nP: No.\n\nD: Alright, and have you had any headaches?\n\nP: Mmm no. \n\nD: Uh, how about any fevers?\n\nP: I don't, like I don't have a thermometer, I like maybe felt a little hot, but"
+    },
+    {
+        "whisper_chunk": "like like I don't really know Okay And have you had any chills No All right or how about any night sweats Yeah And recently over the last several months have you had any changes to your weight No okay And in the",
+        "gt_chunk": "P: like like I don't really know.\n\nD: OK, and have you had any chills?\n\nP: Uh, no.\n\nD: Alright, or how about any night sweats?\n\nP: No.\n\nD: And recently, over the last several months, have you had any changes to your weight?\n\nP: Uh, no.\n\nD: OK. And in the"
+    },
+    {
+        "whisper_chunk": "last several days have you had a sore throat Like I said it's felt like dry but I don't think it's been sore Okay And have you had a runny nose No Or felt congested at all No Okay And then any eye pain or ear pain No Okay",
+        "gt_chunk": "D: last several days, have you had a sore throat?\n\nP: Like I said, it felt like dry, but I don't think it's been sore.\n\nD: OK um. And have you had a runny nose?\n\nP: No. \n\nD: Or felt congested at all?\n\nP: No.\n\nD: OK, and then any eye pain or ear pain?\n\nP: No.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and then any rashes on your skin Okay and in regards to your past health Do you have any medical conditions that you're followed for Like the eczema Like I have like a peanut allergy That's it I See okay",
+        "gt_chunk": "D: and then any rashes on your skin? \n\nP: Like I have eczema, but nothing new.\n\nD: OK, and in regards to your past health do you have any medical conditions that you're followed for, \n\nP: Like the eczema, like I have like a peanut allergy. That's it.\n\nD: I see"
+    },
+    {
+        "whisper_chunk": "All right Do you have an EpiPen Yeah Okay do you keep that with you regularly Yeah yeah always Okay excellent And do you take any other medications or And like sometimes like I have I have like a cream like the Steroid one for",
+        "gt_chunk": "D: , do you have an EpiPen?\n\nP: Yeah.\n\nD: OK, do you keep that with you regularly?\n\nP: Yeah, yeah, always.\n\nD: OK, excellent um, and do you take any other medications or?\n\nP: I take birth control. An like sometimes like I had, I had like eczema cream like the the steroid one for"
+    },
+    {
+        "whisper_chunk": "when it's really bad Okay and when did you start birth control Okay and how often are you using the cream It's kind of like goes in like flares so Like this because it's winter I've been using it like maybe a couple times a week",
+        "gt_chunk": "P: when it's really bad.\n\nD: OK, and when did you start birth control?\n\nP: Maybe like three years.\n\nD: OK, and how often are you using the cream?\n\nP: It's kind of like goes in like flares, so like this, 'cause it's winter I've been using it like maybe a couple times a week"
+    },
+    {
+        "whisper_chunk": "Okay And Any allergies to medications No and have you had any surgeries in the past Nope Okay any reason reason for Hospitalization No Okay I went to the emergency department like when I had my peanut out like the first time I realized I was allergic to peanuts",
+        "gt_chunk": "D: and. Any allergies to medications?\n\nP: No.\n\nD: And have you had any surgeries in the past?\n\nP: Nope. \n\nD: OK, any reason reason for hospitalization? \n\nP: Nope. \n\nD: OK.\n\nP: Sorry I went to the Emergency Department like when I had my peanut like the first time I realized I was allergic to peanuts"
+    },
+    {
+        "whisper_chunk": "But that was it oh Did you did you have an anaphylactic reaction Yeah like I was a kid So I Don't really remember that much but that's when they told me I was allergic I see okay so important to have the EpiPen then for sure yeah and So you mentioned that you're living with your boyfriend",
+        "gt_chunk": "P: But that was it.\n\nD: Oh, did you have an anaphylactic reaction?\n\nP: Yeah, like I was a kid. So. I don't really remember that much, but that's when they told me I was allergic.\n\nD: I see OK, so important to have the EpiPen then for sure. \n\nP: Yeah \n\nD: And so you mentioned that you're living with your boyfriend"
+    },
+    {
+        "whisper_chunk": "Yeah Okay and anybody else No just us Okay and has your boyfriend been sick at all No okay And like have you been around anybody who's been sick at work or school No like all my Classes are online so I don't really see anyone besides him right now but we don't",
+        "gt_chunk": "P: Yeah.\n\nD: OK, anybody else?\n\nP: No, just us.\n\nD: OK, and as your boyfriend been sick at all?\n\nP: No.\n\nD: OK. And at like have you been around anybody who's been sick at work or school?\n\nP: Um no like all my classes are online, so I don't really see anyone besides him right now like we don't"
+    },
+    {
+        "whisper_chunk": "even officially live together He's just been Essentially staying at my apartment because like we don't see anyone else Okay And do you smoke cigarettes Yeah Do you smoke marijuana like occasionally We will like do an edible or something but I don't smoke it Okay and Any other recreational drugs like cocaine",
+        "gt_chunk": "P: even officially like together. He's just been essentially staying at my apartment, 'cause like we don't see anyone else.\n\nD: OK. Um, and do you smoke cigarettes?\n\nP: No.\n\nD: Do you smoke marijuana?\n\nP: Like occasionally we will like. Do an edible or something, but I don't smoke it.\n\nD: OK, and any other recreational drugs like cocaine"
+    },
+    {
+        "whisper_chunk": "MDMA No okay And Are you currently sexually active Yeah I'm just like with my boyfriend Okay and Any sexually transmitted infections in the past No Okay and then Do you drink alcohol Like maybe a couple beers",
+        "gt_chunk": "D:  are you currently sexually active?\n\nP: Yeah, just like with my boyfriend.\n\nD: OK, and um. Any sexually transmitted infections in the past? \n\nP: No.\n\nD: OK um. And then do you drink alcohol?\n\nP: Like maybe a couple of beers"
+    },
+    {
+        "whisper_chunk": "on the weekend Okay And in your family has anybody ever lost their smell before Okay anybody in the family have a heart condition or a lung condition No All right and then has anybody in the family had cancer before Like",
+        "gt_chunk": "P: on the weekend.\n\nD: OK, and in your family, has anybody ever lost their smell before?\n\nP: I don't think so.\n\nD: OK, anybody in the family have a heart condition or a lung condition?\n\nP: No.\n\nD: Alright and then I have anybody in the family had cancer before?\n\nP: Like"
+    },
+    {
+        "whisper_chunk": "my uncle I had like prostate cancer Okay no breast cancer or ovarian cancer No Okay So that that was all I wanted to ask about on The history today was there anything else that I maybe forgot to ask about",
+        "gt_chunk": "P: my Uncle um had like prostate cancer.\n\nD: OK, do you know, breast cancer, ovarian cancer?\n\nP: No. \n\nD: OK. So that that was all I wanted to ask about on, uh, the history today. Was there anything else that I maybe forgot to ask about"
+    },
+    {
+        "whisper_chunk": "Okay So Yeah with the symptoms of losing your smell over the last Day or so we will certainly look into Whether or not this is caused by kovat and so that will require a nasal swab test for that Usually",
+        "gt_chunk": "D: yeah with, uh, the symptoms of losing your smell over the last day or so we will certainly look into. Whether or not this is caused by COVID and so that will require a nasal swab test for that. Usually"
+    },
+    {
+        "whisper_chunk": "results are coming back now within 48 hours hopefully but still we require to self isolate now for the next 14 days After your symptoms are gone so we will let you know when the Results come back from this test though Okay Okay thank",
+        "gt_chunk": "D: results are coming back now within 48 hours hopefully, but still will be required to self isolate now for the next 14 days after your symptoms are gone, so we will let you know when the results come back from this test though.\n\nP: OK. OK,"
+    },
+    {
+        "whisper_chunk": "you All right you're welcome",
+        "gt_chunk": "P: you.\n\nD: Alright, you're welcome"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "What brings you in here today Yeah hi So I have been very busy for the past week And I'm also consistently coughing all the time And it's not getting any better I do have asthma And I think it's acting up OK And how long have you had asthma for",
+        "gt_chunk": "D: What brings you in here today?\n\nP: Yeah, hi, I'm so I have been very wheezy for the past week um and I'm also like consistently coughing all the time and it's not getting any better. Um I do have asthma and I think it's it's acting up.\n\nD: OK, and how long have you had asthma for"
+    },
+    {
+        "whisper_chunk": "Since I was like five OK And are you using any puffers Yes So I am on a short acting as well as an inhaled corticosteroid And I only take the short acting when I have the symptoms OK And so how long have you been symptoms worsening",
+        "gt_chunk": "P: Since I was like 5.\n\nD: OK, and are you using any puffers?\n\nP: Yes, so I am on a short acting. As well as an inhaled cortico steroid. And I only take the short acting like when I have the symptoms \n\nD: OK. And so how how long have you been symptoms worsening"
+    },
+    {
+        "whisper_chunk": "for For the past week I would say OK And how often have you used the Ventolin The Ventolin I use almost every day like a couple of times a day OK So would you say more than 10 times Yes OK And have you had to miss any school or anything like that over the past week I missed two days Two days OK",
+        "gt_chunk": "D: for?\n\nP: For the past week I would say. \n\nD: OK, and how how often have you used the ventilin?\n\nP: The ventilin that I use is almost every day like a couple times a day.\n\nD: OK, so would you say more than 10 times?\n\nP: Yes. \n\nD: OK. And have you had to do you have y to miss any school or anything like that over the past week?\n\nP: I missed two days. \n\nD: Two days, OK"
+    },
+    {
+        "whisper_chunk": "And are you just getting daytime symptoms Or are you waking up from sleep or not being able to sleep because of your symptoms I woke up twice last week OK OK So yeah it definitely seems like your symptoms are really acting up And so you're getting some And did you say you're also getting a cough Yes that's right OK",
+        "gt_chunk": "D: And are you just getting daytime symptoms or are you waking up from sleep or not being able to sleep because of your symptoms?\n\nP: I woke up twice last week. \n\nD: OK. OK, so yeah, definitely seems like your symptoms are really acting upon and so you're getting some wheezing and you say you're also getting a cough.\n\nP: Yes, that's right, \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And what kind of things would you be doing that you get these symptoms Is it mostly exertion Or is it exposure to dust or any other environmental factors It's mostly exertion But things like cold air can trigger it too OK I see OK Have you been exposed to any new environments where there's dusty",
+        "gt_chunk": "D: And what kind of things would you be doing that you get these symptoms? Is it mostly exertion or is it exposure to dust or any other environmental factors?\n\nP: Uh, but, it's mostly exertion, but things like cold air can trigger it too.\n\nD: OK, I see. OK, any have you been exposed to any new environments where there is"
+    },
+    {
+        "whisper_chunk": "carpets mold new animals anything like that No nothing like that OK And how would you describe the cough Is it wet or dry It's dry OK And how about the wheezing Are you getting it frequently every time you have an episode Or just sometimes I'm getting it on and",
+        "gt_chunk": "D: carpets, mold, new animals, anything like that?\n\nP: Uh no nothing like that.\n\nD: OK, OK, and how would you describe the cough? Is it wet or dry?\n\nP: It's dry. \n\nD: OK, and. And how about the wheezing? Are you getting it like frequently every time you have an episode, or just sometimes?\n\nP: I I'm getting an on and"
+    },
+    {
+        "whisper_chunk": "off But basically every time I cough after that I'll be wheezy for a little bit OK OK And are you having any other symptoms like sore throat runny nose shortness of breath anything like that No nothing like that OK And any blood in your sputum at all No no blood OK OK And has",
+        "gt_chunk": "P: off, but basically every time I cough after that I'll be wheezy for a little bit.\n\nD: OK. OK, and are you having any other symptoms like sore throat, runny nose, shortness of breath, anything like that?\n\nP: No, nothing like that.\n\nD: OK, and any blood in your sputum at all?\n\nP: No, no blood.\n\nD: OK, OK and has"
+    },
+    {
+        "whisper_chunk": "the Ventolin been helping at all or do you find that it's less effective Ventolin It's been helping temporarily but it definitely doesn't help as much as it used to OK And have you traveled at all recently or been in touch with anyone who's been sick No nothing like that OK",
+        "gt_chunk": "D: the ventilin been helping at all? Or do you find that it's less effective?\n\nP: Ventilin um it's been helping temporarily, but it definitely doesn't help as much as it used to. \n\nD: OK, um. And have you traveled at all recently or been in touch with anyone who's been sick?\n\nP: Uhm, no, nothing like that. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And any headaches nausea or vomiting No nothing like that Nothing like that OK Any dizziness or fainting No No Any fevers or chills No Any fatigue A little bit because I haven't been sleeping too well OK Any sensation of chest pain or racing of your heart",
+        "gt_chunk": "D: and any headaches? Nausea or vomiting?\n\nP: He no, nothing like that. \n\nD: Nothing like that OK, any dizziness or fainting?\n\nP: No. \n\nD: No OK, any fevers or chills?\n\nP: No. \n\nD: No. Any fatigue?\n\nP: Um a little bit because I haven't been sleeping too well. \n\nD: OK, any? Sensation of chest pain or racing of your heart"
+    },
+    {
+        "whisper_chunk": "No No OK Any changes in your bowel movements No Any changes in your appetite or weight No Any changes in your sense of smaller taste No OK OK And other than asthma since you were five do you have any other medical conditions at all No",
+        "gt_chunk": "P: No. \n\nD: No. OK. Any changes in your bowel movements? \n\nP: Uh no.\n\nD: Any changes in your appetite or weight? \n\nP: No.\n\nD: No, any changes in your sense of smell or taste?\n\nP: No \n\nD: OK, OK. An other than asthma since you were five an do you have any other medical conditions at all?\n\n"
+    },
+    {
+        "whisper_chunk": "OK So you take the Ventolin and then do you take the inhaled corticosteroid puffer as well I do OK and do you take that daily Yes OK Any other medications that you take No just some multivitamins That's about it OK Any allergies to any medications that you know of",
+        "gt_chunk": "D:  so you take the ventilin and then do you take the inhaled cortico steroid puffer as well?\n\nP: I do. \n\nD: OK and you take that daily?\n\nP: Um yes. \n\nD: Any other medications that you take?\n\nP: No, just some multi vitamins. That's about it.\n\nD: OK, any allergies to any medications that you know?"
+    },
+    {
+        "whisper_chunk": "Not to medications I'm allergic to like strawberries and kiwis OK and what kind of reaction do you get I just break out in OK And have you been previously hospitalized for any reason No OK Any past surgeries Nope OK And currently",
+        "gt_chunk": "P: Not to medication I\u2019m allergic to like strawberries and Kiwis.\n\nD: OK, and what kind of reaction do you get?\n\nP: I just break out in hives.\n\nD: OK, and have you been previously hospitalized for any reason?\n\nP: No. \n\nD: OK, any past surgeries?\n\nP: Ah nope. \n\nD: OK and currently"
+    },
+    {
+        "whisper_chunk": "like who do you live with I live with both my parents and two of my siblings OK And are any of them sick at all No everyone's pretty healthy OK And so currently right now you're 16 This is an age where sometimes your peers or yourself might experiment with alcohol",
+        "gt_chunk": "D: like who do you live with?\n\nP: I love with both my parents and two of my siblings.\n\nD: OK, and are any of them sick at all?\n\nP: No everyones pretty healthy. \n\nD: OK. And. So currently right now you're 16. This is an age where sometimes your peers or yourself might experiment with alcohol"
+    },
+    {
+        "whisper_chunk": "smoking or recreational drugs Have you tried anything at all No I haven't OK Do you have any friends or peers that have tried alcohol or recreational drugs I don't think so OK And in terms of just your home environment school do you feel safe or do you find yourself feeling unsafe or having been bullied at all Oh I feel pretty",
+        "gt_chunk": "D: smoking or recreational drugs. Have you have you tried anything at all?\n\nP: No, I haven\u2019t.\n\nD: OK. Do you have any friends or peers that have tried alcohol or recreational drugs?\n\nP: I don't think so.\n\nD: OK, and in terms of just your home environment school. Do you feel safe or do you find yourself feeling unsafe or having been bullied at all?\n\nP: Oh, I'm pretty"
+    },
+    {
+        "whisper_chunk": "safe OK that's good And any family history of any heart or lung conditions at all No No OK So yeah those are all the questions I had for you today Do you have any questions Yeah so what can I do about these symptoms Should I continue taking my puffers Yeah so what we'll have to do is",
+        "gt_chunk": "P: safe.\n\nD: OK, that's good. And any family history of any heart or lung conditions at all ?\n\nP: No.\n\nD: No. OK, so yeah, those are all the questions I had for you today. Do you have any questions?\n\nP: Yeah, So what can I do about These these symptoms? Should I continue taking my puffers?\n\nD: Yeah, So what we'll have to do is"
+    },
+    {
+        "whisper_chunk": "reassess So right now we'll need to alleviate some of your symptoms So we will get you some Ventolin and you may We'll do like a full physical examination and get your oxygen saturation and everything And you might need some corticosteroids as well And then we'll talk about changing your",
+        "gt_chunk": "D: re assess. So right now we will need to alleviate some of your symptoms so we will get you get you some ventilin and you mate will do like a full physical examination and get your oxygen saturation and everything an you might need some cortico  steroids as well and then we'll talk about changing your"
+    },
+    {
+        "whisper_chunk": "regimen for your puffers as well and whether or not we need to add something else into your therapy So we'll do a full physical examination and then go on from there Does that sound good Yeah that sounds great Thank you You're welcome",
+        "gt_chunk": "D: regiment for your puffers as well and whether or not we need to add something else into your therapy, so we'll do a full physical examination and then go on from there. Does that sound good?\n\nP: Yeah, that sounds great. Thank you. \n\nD: You're welcome"
+    }
+]

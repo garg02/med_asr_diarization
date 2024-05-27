@@ -1,0 +1,122 @@
+[
+    {
+        "whisper_chunk": "brings you in I've been very concerned lately This past week I first just started having this really bad headache and then my body that just completely all started hurting I have to completely rest and then three days ago I just started having a lot of chills and I had a pretty high fever of just two days ago",
+        "gt_chunk": "D: brings you in?\n\nP: Hi Faiha, I've been very concerned lately. This past week I, first just started having this really bad headache and then my body, just completely all started hurting after completely rest, and then three days ago I just started having a lot of chills and I had a pretty high fever, just two days ago"
+    },
+    {
+        "whisper_chunk": "of almost like I think it was like 38 9 and yes I was just very concerned and I came here today Okay yeah it's good that you came in Let's rewind a little bit and get a full history So you said the what started first a fever or headache So the headache started first so that was around four days",
+        "gt_chunk": "P: of almost like I think it was like 38 or 39, yeah, I was just very concerned and I came here today.\n\nD: Yeah, it's good that you came in. Lets rewind a little bit and get a full history. So you said the, what started first, the fever or the headache?\n\nP: So, the headache started first, so that was around four days"
+    },
+    {
+        "whisper_chunk": "ago Okay And three days ago like my body just started aching all over the place and then just just two days ago I noticed that I had a fever and I've been getting a fever since then as well like even today I was having chills Okay okay and you said the highest recorded temp your highest recorded temperature was 39 38 9",
+        "gt_chunk": "P: ago.\n\nD: OK \n\nP: And three days ago, like my body just started aching all over the place and then just two days ago I noticed that I had a fever and I've been getting a fever since then, as well, like even today, I was having chills.\n\nD: OK, OK, and you said your highest recorded temperature was 39?"
+    },
+    {
+        "whisper_chunk": "like 38 9 Okay where okay so the headache started four days ago is it persistent or constant or does it come and go It was pretty constant The headache kind of got better yesterday but last few days it's just been constant headache pretty much every day Okay okay",
+        "gt_chunk": "P: Like 38 to 39.\n\nD: OK, so headache started four days ago. Is it persistent or constant or does it come and go?\n\nP: It was pretty constant, the headache kind of got better yesterday but last few days it's just been constant headache Pretty much every day. \n\nD: OK, "
+    },
+    {
+        "whisper_chunk": "does anything make it better or worse Just some rest and I tried to take some Tylenol to get rid of it took some Adril as well it did help a little bit but it just kind of came back after the medication wore out How long does a headache last when you get it If I don't take medications it can last honestly the whole day Okay",
+        "gt_chunk": "D: Does anything make it better or worse?\n\nP: Just some rest and, uh, I tried to take some Tylenol to get rid of it, took some Advil as well. It did help a little bit, but it just kind of came back after the medication wore out.\n\nD: How long does the headache last when you get it?\n\nP: If I don't take medications, it can last honestly, the whole day. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "yeah and if you were to describe it is it sharp dull achy It's just achy and it's kind of all the front of my forehead Sometimes it's just like a throbbing pain Okay all right and you said it's mostly at the front of your head",
+        "gt_chunk": "D: yeah, um, and if you were to describe it, is it sharp, dull, achy?\n\nP: It's just achy and it's kind of all over the front of my forehead. \n\nD: OK.\n\nP: Sometimes it's just like a throbbing pain.\n\nD: OK, and, alright, and you said it's mostly at the front of your head"
+    },
+    {
+        "whisper_chunk": "how about near the crown of your head temples It can go to the temples sometimes but mostly it's my head And severity wise 1 to 10 10 being the worst headache you've ever worst pain you've ever felt how bad is it Right now it's not that bad probably like two or three but when it was",
+        "gt_chunk": "D: How about near the Crown of your head, temples?\n\nP: It can go to the temples sometimes, but mostly it's my forehead.\n\nD: OK, OK, and severity-wise 1 to 10, 10 being the worst headache you've ever, worst pain you've ever felt. How bad is it?\n\nP: Right now it's not that bad, probably like a two or three, but when it was"
+    },
+    {
+        "whisper_chunk": "just a few days ago it was like probably an eight or nine Yeah okay and then have you ever experienced something like this before No I I'm not usually one to get headaches my wife she gets migraines but like I I rarely ever have headaches Yeah okay and then you mentioned the headache is getting a little",
+        "gt_chunk": "P: just a few days ago, it was like probably an 8 or 9.\n\nD: Yeah, and then have you ever experienced something like this before?\n\nP: No, I'm not usually one to get headaches. My wife, she gets migraines, but like I rarely ever have headaches.\n\nD: Yeah, OK, and then you mentioned the headache is getting a little"
+    },
+    {
+        "whisper_chunk": "bit better now Yeah the headache has improved a bit the body aches are still there and the fever is still there but like the headaches I still have gone down Okay all right and have you had any fainting spells or dizziness Um no nothing like that Okay any confusion or memory loss No",
+        "gt_chunk": "D: bit better now?\n\nP: Yeah, the headache has improved a bit, the body aches are still there and the fever is still there but like the headaches I feel have gone down.\n\nD: OK, alright. Have you had any fainting spells or dizziness?\n\nP: No, nothing like that. \n\nD: Any confusion or memory loss?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "And any neck pain but like just below my neck like my back upper back hurts as well Okay okay and do any weight loss recently Um no I don't I don't think so",
+        "gt_chunk": "P:  neck pain but like just below my neck, like my back, upper back hurts as well. \n\nD: OK, and, any weight loss recently?\n\nP: Uhm, no, I don't, I don't think so"
+    },
+    {
+        "whisper_chunk": "Any excessive fatigue Yeah I have been feeling pretty tired and just I haven't even gone to work this whole week just kind of laying in bed honestly with all the pain and fever and headaches just yeah it's exhausting Yeah okay any changes in your hair nails or skin like rashes No nothing",
+        "gt_chunk": "D: Any excessive fatigue?\n\nP: Yeah, I have been feeling pretty tired and just, uh, I haven't even gone to work this whole week, just kind of laying in bed honestly with all the pain and the fever and headaches, just yeah, it's exhausting.\n\nD: OK, any changes in your hair, nails or skin, like rashes?\n\nP: No, nothing"
+    },
+    {
+        "whisper_chunk": "that I've noticed Okay how about changes in your vision or hearing No No okay how about stuffy nose or runny nose Um I do feel a bit more stuffy like today just uh but it's there's no like runny nose or anything like that but I do feel a bit more pressure",
+        "gt_chunk": "P: that I've noticed.\n\nD: How about changes in your vision or hearing?\n\nP: No. \n\nD: No OK, how about a stuffy nose or runny nose? \n\nP: Uh, I do feel a bit more stuffy like today, but there's no like runny nose or anything like that, but I do feel a bit more pressure"
+    },
+    {
+        "whisper_chunk": "and stuffy stuffiness in my face today Okay okay um how about changes in smell or Yeah I think just last night dinner just it was just kind of a funky like different taste it couldn't really tell everything was kind of a bit bland Yes I think my taste buds",
+        "gt_chunk": "P: and stuffiness in my face today. \n\nD: OK, OK, how about changes in smell or taste?\n\nP: Yeah, I think, just last night dinner, it was just kind of a funky like, different taste. I couldn't really tell, uh, everything was kind of a bit bland. Yeah, I think my taste buds"
+    },
+    {
+        "whisper_chunk": "are acting all weird too Okay any coughing or shortness of breath at all Okay um how about wheezing Um no no wheezing Okay any um chest pain No",
+        "gt_chunk": "P: t been coughing or no shortness of breath at all. \n\nD: OK and how about wheezing?\n\nP: No, no wheezing?\n\nD: OK, any chest pain?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay how about feeling like your heart's racing No nothing like that No okay okay any swelling that you've noticed in your limbs No No any issues with their bowel movements or urine No nothing Okay um how about",
+        "gt_chunk": "P: .\n\nD: How about feeling like your heart's racing?\n\nP: No, nothing like that. \n\nD: No, OK. Any swelling that you've noticed in your limbs? \n\nP: No.\n\nD: No, ok. Any issues with your bowel movements or urine?\n\nP: No, nothing. \n\nD: OK, how about"
+    },
+    {
+        "whisper_chunk": "nausea or those were all the questions I had about your symptoms um are you otherwise healthy or do you have any long standing medical conditions Um yeah I have a couple conditions that I see my",
+        "gt_chunk": "D:  those were all the questions I had about your symptoms. Are you otherwise healthy or do you have any longstanding medical conditions?\n\nP: Yeah, I have a couple conditions that I see my"
+    },
+    {
+        "whisper_chunk": "family doctor for I do have diabetes then I have kind of high cholesterol I also have this thing called like like fatty liver Okay Yeah but that's that's about it and a high blood pressure Okay when were you diagnosed with all of these things",
+        "gt_chunk": "P: family doctor for. I do have diabetes, then I have high cholesterol. I also have this thing called fatty liver but that's that's about it, and a high blood pressure.\n\nD: OK, when were you diagnosed with all of these things"
+    },
+    {
+        "whisper_chunk": "Um yeah probably like it all kind of went down in in my 40s I did gain a lot of weight at some point during my 40s and that's when all these things started happening Okay um so you said diabetes high blood pressure fatty liver and sorry what was the other one High cholesterol",
+        "gt_chunk": "D: ?\n\nP: Yeah, probably like, it all kind of went down in my 40s. I did gain a lot of weight at some point during my 40s and that's when all these things started happening.\n\nD: OK, so you said diabetes, high blood pressure, fatty liver, and sorry, what was the other one?\n\nP: High cholesterol"
+    },
+    {
+        "whisper_chunk": "High cholesterol okay Are you on medications for all of these things Yeah so I am on a statin medication for the cholesterol then I'm on metformin and then I'm on a blood pressure medication as well I can't recall the name so yeah those are those are the medications that I'm on Okay and",
+        "gt_chunk": "D: High cholesterol, OK, are you on medications for all of these things? \n\nP: Yeah so I am on a statin medication for the cholesterol, then I'm on metformin, and then I'm on a blood pressure medication as well. I can't recall the name. Uh, so yeah, those are the medications that I'm on.\n\nD: OK. And"
+    },
+    {
+        "whisper_chunk": "you take your medications regularly as prescribed Yeah I don't miss any doses Okay good Um are you up to date with all your immunizations Uh yeah I yeah I think so Okay good Um are you do you have any allergies No no allergies",
+        "gt_chunk": "D: you take your medications regularly as prescribed?\n\nP: Yeah, I don't miss any doses.\n\nD: OK, good. And, are you up to date with all your immunizations?\n\nP: Yeah, I think so.\n\nD: OK, good. Do you have any allergies?\n\nP: No, no allergies"
+    },
+    {
+        "whisper_chunk": "Okay How about family history of lung conditions or heart conditions Yeah so I have a pretty significant family history for heart conditions My father passed away from a heart attack in his 50s My mom has high blood pressure Diabetes is also pretty big in my family as well Okay well I'm sorry to hear that",
+        "gt_chunk": "P: .\n\nD: How about family history of lung conditions or heart conditions?\n\nP: Yes, I have a pretty significant family history for heart conditions. My father passed away from a heart attack in his 50s. My mom has high blood pressure. Diabetes is also pretty big in my family as well.\n\nD: OK, well I'm sorry to hear that"
+    },
+    {
+        "whisper_chunk": "Any cancers in the family No no cancers Okay do you smoke I used to when I was in my 30s I quit pretty long time ago Okay how much did you smoke before that I probably smoked up until I was 35 so for for probably like 10 years from 25 to 35",
+        "gt_chunk": "D: Any cancers in the family?\n\nP: No, no cancers.\n\nD: OK, do you smoke?\n\nP: I used to when I was in my 30s. I quit a pretty long time ago. \n\nD: OK, how much did you smoke before that?\n\nP: I probably smoked up until I was 35, so for probably like 10 years from 25 to 35"
+    },
+    {
+        "whisper_chunk": "and probably smoked a pack a day at that time Okay yeah and do you drink alcohol Um I've been told like not to for my liver but I sometimes maybe have the rare red wine maybe once a month Once a month okay Yeah Um any",
+        "gt_chunk": "P: and probably smoked a pack a day at that time. \n\nD: OK, yeah, and do you drink alcohol?\n\nP: I've been told like, not to for my liver, but I sometimes maybe have the rare red wine maybe once a month.\n\nD: Once a month, OK, any"
+    },
+    {
+        "whisper_chunk": "other recreational drugs Um no no recreational drugs Okay no recreational drugs And where do you live right now I just live with my wife in an apartment in the city and yeah Okay any old carpet dust mold anything that is concerning from",
+        "gt_chunk": "D: other recreational drugs?\n\nP: No, no recreational drugs.\n\nD: OK, no recreational drugs, and where do you live right now?\n\nP: I just live with my wife in an apartment in the city, and yeah.\n\nD: OK, any old carpet, dust, mold, anything that is concerning from"
+    },
+    {
+        "whisper_chunk": "that point No No okay And have you been in contact with anyone who's been sick recently Not that I know of I still do go to work and I just have like a desk job I have my own room It's not like I don't see too many people and like when I do I'm wearing a mask So I don't think so Okay",
+        "gt_chunk": "D: that standpoint? \n\nP: Nope. \n\nD: No, and have you been in contact with anyone who's been sick recently?\n\nP: Not that I know of.\n\nD: Do you still go to work?\n\nP: I just have like a desk job. I have my own room. It's not like, I don't see too many people and like, when I do I'm wearing a mask so I don't think so. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "I have stopped going to work though like just just in case Okay good Okay and have you traveled to anywhere recently No we've been pretty homebound Pretty homebound okay All right well that's good And those are all the questions that I had for you Did you have any questions for myself",
+        "gt_chunk": "P: I have stopped going to work though like, just in case.\n\nD: OK, good and have you traveled to anywhere recently?\n\nP: No, we've been pretty homebound.\n\nD: Pretty homebound, OK, alright, well that's good and those are all the questions that I had for you. Did you have any questions for myself"
+    },
+    {
+        "whisper_chunk": "Yeah I don't know what do you think is causing all of this Yeah it sounds like you have some sort of infection So the first thing we need to rule out is COVID of course So we'll do a swab and those swabs come back negative for about 48 hours And until then it's important that you do isolate and you isolate for 14 days at least and that includes from other people",
+        "gt_chunk": "P: Yeah, I don't know, what do you think is causing all of this?\n\nD: Yeah, it sounds like you have some sort of infection, so the first thing we need to rule out is covid, of course. So we'll do a swab and those swabs should come back to you in about 24 to 48 hours and until then, it's important that you do isolate and you isolate for 14 days at least, and that includes from other people"
+    },
+    {
+        "whisper_chunk": "at home And if those swabs come back negative you could possibly have like another infection But if your symptoms worsen like you start getting neurological deficits like weakness or seizures or anything like that you should come back to the ER and we'll get that checked out So that's where",
+        "gt_chunk": "D: at home. And if those swabs come back negative, you could possibly have like, another infection. But if your symptoms worsen, like you start getting neurological deficits like weakness or seizures or anything like that, you should come back to the ER and we'll get that checked out. And, so that's where"
+    },
+    {
+        "whisper_chunk": "we'll start for now because your presentation is acute we think it's it is likely infection related Okay that sounds good to me and should I be staying in my own room when anything like that at home Yeah if you can like it's recommended that you try to isolate in your own room for the next 14 days because your symptoms do overlap with that of COVID Yeah okay it sounds good thank you",
+        "gt_chunk": "D: we'll start for now, because your presentation is acute, we think it's likely infection related.\n\nP: OK, that sounds good to me and should I be staying in my own room or anything like that at home?\n\nD: Yeah, if you can like, it's recommended that you try to isolate in your own room for the next 14 days because your symptoms do overlap with that of covid, yeah.\n\nP: OK, sounds good.Thank you"
+    },
+    {
+        "whisper_chunk": "Yeah no worries take care Thank you",
+        "gt_chunk": "D: Yeah, no worries, take care.\n\nP: Thank you"
+    }
+]

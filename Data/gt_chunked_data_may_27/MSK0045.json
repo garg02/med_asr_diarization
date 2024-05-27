@@ -1,0 +1,94 @@
+[
+    {
+        "whisper_chunk": "What brings you here today So I'm here because my shoulder has been really painful for the past week and any movement of that shoulder of my right shoulder causes a lot of pain Okay and how long have you been having this pain for For the past week Past week okay And did you injure your shoulder at all recently Any trauma to the area or anything like that",
+        "gt_chunk": "D: What brings you here today?\n\nP: Um so I'm here because my shoulder has been really painful for the past week um and any movement of that shoulder, of my right shoulder, causes a lot of pain.\n\nD: OK, and how long have you been having uh this pain for?\n\nP: For the past week,\n\nD: Past week, OK. Um and did you injure your shoulder at all recently? Any trauma to the area or anything like that"
+    },
+    {
+        "whisper_chunk": "So about a couple months ago I work in construction so I was moving around some heavy objects and I guess the repetitive motions caused some sort of rotator cuff injury But I got that treated and everything was fine for a couple months but this pain just started",
+        "gt_chunk": "P: so about like, a couple of months ago, I um was do, I I work in construction so um I was moving around some heavy objects and um I guess like the repetitive motions caused some sort of rotator cuff injury. But I had that um, like I got that treated and everything was fine for a couple of months. But this pain just started"
+    },
+    {
+        "whisper_chunk": "a week ago Okay and where is this pain located exactly It's just like in my shoulder like at joint between my upper arm and shoulder Okay and is it an aching pain or is it a sharp stabbing pain So at rest it seems to be like achy and stiff but",
+        "gt_chunk": "P: a week ago.\n\nD: OK, and where is this pain located exactly?\n\nP: Um it's it's just like in my shoulder, like at the joint between my upper arm and um shoulder.\n\nD: OK, and uh is it an aching pain or is it a sharp stabbing pain?\n\nP: So at rest it seems to be like achy and stiff, but"
+    },
+    {
+        "whisper_chunk": "when I move my shoulder or when I try to move it it causes more of a sharp pain Sharp pain okay And what kind of movements cause the sharp pain or is it just any movement Any movement Any movement okay Are there any movements that are worse in particular I think",
+        "gt_chunk": "P: when I move my shoulder, when I try to move it, it it causes more of a sharp pain.\n\nD: Sharp pain, OK and what kind of movements cause the sharp pain? Or is it just any movement?\n\nP: Uh any movement.\n\nD:  OK. Are there any uh movements that are worse in particular?\n\nP: Um I think"
+    },
+    {
+        "whisper_chunk": "like no anything hurts Okay Okay and how much would you rate this pain out on a scale of zero to ten ten being the worst pain you've felt in your life I'd give it about a seven Seven okay Yeah And are you having is this pain moving to any other joints or any other part of your body No",
+        "gt_chunk": "P: like no, anything hurts.\n\nD: OK. OK, and how much would you rate this pain out, on a scale of zero to 10, 10 being the worst pain you felt in your life?\n\nP: I'd give it about a 7. \n\nD: Seven, OK.\n\nP: Yeah.\n\nD: And are you having uh, is this pain moving to any other uh joints or any other part of your body?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay so just in the area that you described Yes Okay And do you notice any kind of just looking at your shoulder outside from the outside any swelling redness any masses or deformities No I don't see anything like that Okay all right And is there anything that you've tried that has helped with your pain I've tried some ibuprofen some",
+        "gt_chunk": "D:  just in the area that you described?\n\nP: Yes. \n\nD: OK, and do you notice any kind of um, just looking at your shoulder outside, from the outside, any swelling, redness, any masses or deformities?\n\nP: No, I don't see anything like that.\n\nD: OK, alright and um is there anything that you've tried that has helped with your pain?\n\nP: Um I've tried some ibuprofen, some"
+    },
+    {
+        "whisper_chunk": "ice it seems to help temporarily Okay and earlier when you had the rotator cuff injury did you get physiotherapy I did but not but I didn't finish the full course I just went for a week or so and then I had to go back to work so I stopped doing that I see Yeah so that's something definitely",
+        "gt_chunk": "P: ice. It seems to help temporarily.\n\nD: OK, and earlier when you had the rotator cuff injury, did you get physiotherapy? \n\nP: Um I did. But not, but I didn't finish the full course. I just went for a week or so and then um I had to go back to work, um so I stopped doing that.\n\nD: I see, um yeah, so that's something definitely"
+    },
+    {
+        "whisper_chunk": "it's very important and we'll need to consider going forward as well Other than that are you having any symptoms of any fevers or chills No nothing like that And have you been sick recently at all or met with someone who was sick No Okay any weight loss or loss",
+        "gt_chunk": "D: it's very important and we'll need to consider going forward as well. Other than that, are you having any symptoms of any fevers or chills?\n\nP: Uh no, nothing like that.\n\nD: OK, and have you been sick recently at all or met with someone who was sick?\n\nP: No.\n\nD: OK, any any weight loss um or loss"
+    },
+    {
+        "whisper_chunk": "in appetite anything like that No nothing like that Okay any numbness or tingling No Any weakness in your extremity No Okay any symptoms anything else like diarrhea constipation urinary changes anything else going on No No okay so it's mainly just the shoulder pain Yes",
+        "gt_chunk": "D:  appetite? Anything like that?\n\nP: Uh no, nothing like that.\n\nD: OK, any numbness or tingling? \n\nP: No.\n\nD: Any weakness in your extremities?\n\nP: No.\n\nD: Any um any just symptoms or anything else like diarrhea, constipation, urinary changes? Anything else is going on?\n \nP: No. \n\nD: No, OK. So it's mainly just the shoulder pain?\n\nP: Yes"
+    },
+    {
+        "whisper_chunk": "Okay All right and does rest help at all like when you're lying down just not moving your pain Yeah I would say so Okay and is this stiffness there just throughout the day or is it there in the morning and then gets better during the day It's pretty much there all day Okay",
+        "gt_chunk": "D: alright, and does rest help at all, like when you're lying down, just not moving your shoulder. Does that help with your pain?\n\nP: Uh, yeah I would say so.\n\nD: OK. And is is this stiffness there just throughout the day, or is it there in the morning and then gets better during the day?\n\nP: It's pretty much there all day.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "all right Have you been diagnosed with any medical conditions in the past No I have diabetes but that's about it Okay and do you take any medications I'm on metformin Okay and do you have any allergies to any medications No",
+        "gt_chunk": "D:  have you been diagnosed with any medical conditions in the past?\n\nP: Uh, I have um, I have diabetes, but that's about it.\n\nD: OK, and do you take any medications?\n\nP: I'm on metformin. \n\nD: OK. Um and do you have any allergies to any medications?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "no allergies to medications Okay have you been hospitalized or had any surgeries in the past No No okay Any family history of any musculoskeletal or rheumatologic conditions No No okay and currently right now so you said you work as a construction worker right Yes And are you off of work right now or have you been off work",
+        "gt_chunk": "P: no allergies to medications.\n\nD: Have you been hospitalized or had any surgeries in the past? \n\nP: No. \n\nD: No, OK. Um any family history of any musculoskeletal or rheumatological conditions?\n\nP: No. \n\nD: OK, and currently right now, so you said you work as a construction worker, right?\n\nP: Yes.\n\nD: And are you off of work right now, or have you been off work"
+    },
+    {
+        "whisper_chunk": "due to your previous injury and pain or are you still working I'm still working but modified So I am not lifting any heavy objects or anything like that I'm just doing some groundwork Okay that's good Yeah and you might also need to if you're doing any kind of overhead work where you're raising your arms above your shoulders that might cause",
+        "gt_chunk": "D: due to your previous injury and pain, or are you still working?\n\nP: I'm still working, but modified, um so I am not uh lifting any heavy objects or anything like that. I'm just doing some like groundwork.\n\nD: OK, that's good. Yeah, I mean, um we might also need to, if you're doing any kind of overhead like work where you're raising your arms above your shoulders, that might uh, cause"
+    },
+    {
+        "whisper_chunk": "further problems as well So we'll look into some of those Okay Yeah and what is your living situation like right now Who do you live with I live by myself right now And do you live in a house or apartment I live in an apartment Okay and in terms of your daily life do you smoke at all",
+        "gt_chunk": "D: further problems as well, so we'll look into some of those modified duties as well.\n\nP: OK.\n\nD: Um yeah, and what is your living situation like right now? Who do you live with?\n\nP: Um I live by myself right now.\n\nD: Do you live in a house or apartment?\n\nP: Um I live in an apartment. \n\nD: And, uh, uh, in terms of your daily life, do you smoke at all"
+    },
+    {
+        "whisper_chunk": "I don't smoke I used to smoke before but that was like 20 years ago Okay that's good And do you use any recreational drugs like marijuana or any other drugs No no How about smoking Do you smoke cigarettes Sorry you said you quit Do you drink alcohol I'll drink like a glass of wine here and there",
+        "gt_chunk": "P: I don't smoke. I used to smoke before, but that was like 20 years ago.\n\nD: OK, that's good, and do you use any recreational drugs like marijuana or any other drugs?\n\nP: Uh no, no.\n\nD: How about smoking, you smoke cigarettes? Sorry, you said you you quit. Um do you drink alcohol?\n\nP: I'll drink like a glass of wine here and there"
+    },
+    {
+        "whisper_chunk": "Okay All right Yeah and those were some of the questions I had for you In terms of just a physical examination when you press on the area that you describe when you press around the area does it hurt I have to press pretty hard for it to hurt Okay but otherwise it's not tender No Okay And again no swelling redness or anything",
+        "gt_chunk": "D: OK. Alright, um yeah, and those were some of the questions I had for you. In terms of just a physical examination, uh when you press on the area that you describe, um when you press around the area, does it hurt?\n\nP: I have to press pretty hard for it to hurt.\n\nD: OK, but otherwise it's not tender?\n\nP: No.\n\nD: OK, and again, no swelling, redness, or anything"
+    },
+    {
+        "whisper_chunk": "like that It's mainly just on the inside Yeah Okay And any kind of movement hurts right There's no particular movement Like if you were instead of trying to raise that shoulder by itself if you were to just move it with the other arm does it hurt The other arm The other arm doesn't hurt at all Or like if you were to use your left arm",
+        "gt_chunk": "D: like that, just it's mainly just on the inside?\n\nP: Yeah.\n\nD: OK, and um and any kind of movement hurts, right? There's no particular movement that, like if you were instead of um trying to raise that shoulder by itself, if you were to just move it with the other arm. Does it hurt?\n\nP: The other arm? The other arm doesn't hurt at all.\n\nD: Or like if you were to use your left arm"
+    },
+    {
+        "whisper_chunk": "to passively move your right arm and shoulder does that hurt Or is it when you just try to move the right arm by itself Oh it still hurts Any moving of the shoulder hurts Okay All right So yeah so based on what you've told me so far and your recent shoulder cuff injury what can sometimes happen",
+        "gt_chunk": "D: to passively move your right arm and shoulder. Does that hurt or is it when you just try to move the right arm by itself?\n\nP: It's, oh, it still hurts, any any moving of the shoulder hurts.\n\nD:  OK, alright, so yeah, so based on what um you've told me so far in your recent shoulder cuff injury, what can sometimes happen"
+    },
+    {
+        "whisper_chunk": "is with those injuries you might get some inflammation And what might happen is something called adhesive capsulitis or just commonly known as a frozen shoulder And there's different stages that might happen So the initial stage is like freezing And then there's stiffening in stage two And then",
+        "gt_chunk": "D:  with those injuries, you might get some um inflammation and what might happen is something called uh adhesive capsulitis, or just commonly knows as known as a frozen shoulder. And there's different stages, so that might happen, so in the initial stages like freezing um and then there's stiffening in stage two, and then"
+    },
+    {
+        "whisper_chunk": "usually after six to 12 months it starts getting better Okay And it might also affect your other shoulder as well So what we'll end up doing today is see if we can get some imaging done So we can do an x ray of your shoulder",
+        "gt_chunk": "D: usually after 6 to 12 months it starts uh getting better.\n\nP: OK.\n\nD: Um and it might also affect your other shoulder as well. So what we'll um end up doing today is see if um we can get some um imaging done so we can do an X-Ray of your shoulder"
+    },
+    {
+        "whisper_chunk": "I'm sure you've had x rays before so we'll kind of compare them to your shoulder x rays from before If we need to we can also get an ultrasound We can't really tell from the x rays And then from there we can get some blood work as well just your normal blood work as well as inflammation markers",
+        "gt_chunk": "D: I'm sure you've had X Rays before, so we'll kind of compare them to your shoulder X Rays from before. We, if we need to, we can also get an ultrasound if um we don't, uh we can't really tell from the X Rays. And then from there, um we can get some blood work as well. Um just your normal blood work as well as inflammation markers"
+    },
+    {
+        "whisper_chunk": "And then from there we'll need to really discuss some management strategy So you've already tried some physiotherapy but we need to make sure that it's consistent because this is something that has a high recurrence rate And we will definitely need to",
+        "gt_chunk": "D: and then um from there we'll need to uh, really um discuss some management strategies. So you've already tried some physiotherapy, but now we need to make sure that's uh, it's it's consistent because this is something that has a high recurrence rate and we will definitely need to"
+    },
+    {
+        "whisper_chunk": "consider other options like corticosteroid injections right into your shoulder for some release But yeah so first we'll just try some conservative methods like physiotherapy pain management and then go from there How does that sound That sounds pretty good Thank you Welcome All right So we'll call you for the x rays and then we'll go from there Okay Sounds good",
+        "gt_chunk": "D: consider like other options like um corticosteroid injections right into your shoulder.\n\nP: OK. \n\nD: For some relief.  But yeah, so first we'll just try some conservative methods like physiotherapy, pain management, uh and then go from there. How does that sound?\n\nP: That sounds pretty good. Thank you.\n\nD: Welcome, alright, so we'll call you for the X-Rays and then we'll go from there.\n\nP: OK, sounds good"
+    }
+]

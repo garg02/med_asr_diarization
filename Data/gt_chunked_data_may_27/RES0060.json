@@ -1,0 +1,130 @@
+[
+    {
+        "whisper_chunk": "What brings you in So I've had a fever that I measured this morning and I've had a cough these last several days Okay for like four days five six how long has it been Yeah today's Friday so it started Monday so I guess like yeah the cough started four days ago Okay",
+        "gt_chunk": "D: What brings you in?\n\nP: So I've had a fever that I measured this morning and I had a cough.  I've had a cough these last several days. Yeah, today is Friday so it started Monday, so I guess like yeah the cough started four days ago. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and the fever started four days ago as well Well I've been feeling hot this week but I checked my temperature this morning and that was the first time I checked it and it was 38 5 Okay so that's definitely a fever We can take your temperature today as well So have your symptoms been the same or getting worse",
+        "gt_chunk": "D: and the fever started four days ago as well?\n\nP: Well, I've been feeling hot this week, but I checked my temperature this morning and it was the first time I checked it and it was 38.5.\n\nD: OK, so that's definitely a fever, so we can take your temperature today as well. Umm, so have your symptoms been the same or getting worse"
+    },
+    {
+        "whisper_chunk": "or getting better over the past few days They've been getting worse I've been starting to feel really fatigued and tired as well and the cough has gotten worse too Okay have you ever felt like this before Maybe a really long time ago when I was a kid or something like that maybe when I had the flu",
+        "gt_chunk": "D:  getting better over the past few days?\n\nP: They are getting worse. I've been starting to feel really fatigued and, uh, tired as well and the cough has gotten worse too.\n\nD: OK, have you ever felt like this before?\n\nP: I mean, maybe a really long time ago when I was a kid or something like that. Maybe I had the flu"
+    },
+    {
+        "whisper_chunk": "but nothing recently Okay do you have a sore throat at all No sore throat It does get a little scratchy with my cough but it hasn't been sore Okay and do you have any issues swallowing food No but I haven't been",
+        "gt_chunk": "P: but nothing recently.\n\nD: OK. And do you have a sore throat at all?\n\nP: No sore throat. It does get a little scratchy with my cough but hasn't been sore.\n\nD: OK, and do you have any issues swallowing food?\n\nP: No, but I haven't been"
+    },
+    {
+        "whisper_chunk": "as hungry Okay you haven't been as hungry Have you had any changes to your taste No I feel like I've been tasting my food okay Okay how about smell I feel like I've been able to smell okay Okay do you have a runny nose or a blocked",
+        "gt_chunk": "P: as hungry. \n\nD: OK, you haven't been as hungry. Um, have you had any changes to your taste?\n\nP: No, I feel like I've been tasting my food OK.\n\nD: OK, how about smell?\n\nP: I feel like I've been able to smell.\n\nD: OK, do you have a runny nose or a blocked"
+    },
+    {
+        "whisper_chunk": "nose Do you feel congested Maybe a little runny but not too bad Okay how about your hearing or vision Any changes there No I haven't noticed anything Okay any pain or discharge from either your ears or eyes No nothing like that Okay so let's",
+        "gt_chunk": "D: nose? Do you feel congested?\n\nP: Maybe a little runny, but not too bad. \n\nD: OK, how about your hearing or vision? Any changes there?\n\nP: No, I haven't noticed anything.\n\nD: OK, any pain or discharge from either your ears or eyes?\n\nP: No, nothing like that.\n\nD: OK, so let's"
+    },
+    {
+        "whisper_chunk": "go back to the cough Are you producing any sputum No sputum Okay so it's a dry cough Yeah it is Okay any blood associated with the cough I haven't seen any blood Okay do you feel wheezy at all I haven't noticed any wheeze Okay how about shortness of breath Usually well after some",
+        "gt_chunk": "D: go back to the cough. Um, are you producing any sputum?\n\nP: No sputum. \n\nD: OK, so it's a dry cough?\n\nP: Yeah it is. \n\nD: OK, any blood associated with the cough?\n\nP: I haven't seen any blood.\n\nD: OK, do you feel wheezy at all?\n\nP: I haven't noticed any wheezing. \n\nD: OK, how about shortness of breath?\n\nP: Usually well, after some"
+    },
+    {
+        "whisper_chunk": "of my coughing fits I can be a little bit short of breath but otherwise I've been okay Okay any chest pain No I haven't had any chest pain Okay do you ever feel like your heart's racing No I don't Okay and any night sweats or chills I have felt a little",
+        "gt_chunk": "P: of my coughing fits, I can be a little bit shorter in breath, but otherwise they've been. \n\nD: OK, any chest pain?\n\nP: No, I haven't had any chest pain.\n\nD: Do you ever feel like your heart's racing?\n\nP: No, I don't. \n\nD: OK, and any night sweats or chills?\n\nP: I have felt a little"
+    },
+    {
+        "whisper_chunk": "chilly at night but I haven't had any night sweats Okay how about weight loss Have you had any weight loss over the past few months No my weight's been about the same maybe down a few pounds over this week so I just haven't been eating as much Okay yeah Does anything make the cough better or worse",
+        "gt_chunk": "P: chilly at night, but I haven't had any night sweats. \n\nD: OK, and how about weight loss? Have you had any weight loss over the past few months?\n\nP: No, it's been about the same. Maybe down a few pounds over this week as I just haven't been eating as much.\n\nD: OK, yeah. Umm, does anything make the cough better or worse"
+    },
+    {
+        "whisper_chunk": "No I can't think of anything Okay and how have your bowel movements been I would say they've been normal Okay and any abdominal pain No pain but I have been a little nauseous Nauseous Okay have you thrown up",
+        "gt_chunk": "P: no, I can't think of anything. \n\nD: OK, and how have your bowel movements been?\n\nP: They've, I would say they've been normal.\n\nD: OK, and any abdominal pain?\n\nP: No pain, but I have been a little nauseous.\n\nD: Nauseous, OK. Have you thrown up"
+    },
+    {
+        "whisper_chunk": "No I haven't vomited but I've certainly felt like it a few times Okay and any triggers for your nausea I can't think of anything It just sort of came on It went away on its own pretty quickly but I don't know maybe it was when I",
+        "gt_chunk": "P: No, I haven't vomited, but I've certainly felt like it a few times.\n\nD: OK, and any triggers for your nausea?\n\nP: Oh I can't think of anything. It just sort of came on. And it really went away on its own pretty quickly, but uh I don't know, maybe it was when I"
+    },
+    {
+        "whisper_chunk": "had my headache Okay when did your headache start They've been kind of on and off over these last several days so I've been kind of resting a bit more too Okay yeah On and off for the past several days you said Have you ever had headaches before Yeah I've",
+        "gt_chunk": "P: had my headache.\n\nD: OK, when when did your headache start?\n\nP: Um, so it's been on and off these last several days so I've been kind of resting a bit more too.\n\nD: OK yeah, you said past several days, have you ever had headaches before that?\n\nP: Yeah, I've"
+    },
+    {
+        "whisper_chunk": "had I think they're called tension headaches I get those every so often and we'll take Advil or something like that for them and they usually go away Okay do these headaches feel like the same headaches Yeah they feel about the same kind of like a pressure or a vice grip on my head Okay so it's not like the worst headache you've ever",
+        "gt_chunk": "P: had, I think they're called tension headaches. I get those every so often and will take Advil or something like that for them, and they usually go away. \n\nD: OK. Do these headaches feel like the same headaches?\n\nP: Yeah, they they feel about the same, kind of like a pressure or vice grip on my head.\n\nD: OK, so it's not like the worst headache you've ever"
+    },
+    {
+        "whisper_chunk": "experienced No I think it's just been part of how I haven't been feeling well these last few days Okay yeah Do you feel fatigued or tired at all Yeah for sure I haven't really had any changes but just haven't been really getting my work done throughout the day because I've just",
+        "gt_chunk": "D: experienced?\n\nP: No, I think it's just been a part of how I haven't been feeling well these these last few days.\n\nD: OK, yeah. Do you feel fatigued or tired at all?\n\nP: Yeah, for sure. I haven't really had any changes, but just haven't been really getting my work done throughout the day because I have just"
+    },
+    {
+        "whisper_chunk": "been feeling so tired Yeah Do you feel any sort of body aches that go along with your fatigue Maybe a little A little Okay Can you think of anything that may have caused your symptoms Have you been in contact with anyone who's been sick recently",
+        "gt_chunk": "P: been feeling so tired.\n\nD: Yeah, umm, and do you feel any sort of body aches that go along with your fatigue?\n\nP: Maybe a little. \n\nD: OK. Umm, can you think of anything that may have caused your symptoms? You know, have you been in contact with anyone who's been sick recently"
+    },
+    {
+        "whisper_chunk": "I can't think of anybody I've been around who's been sick but last weekend I went shopping in the mall so I went into quite a few stores Okay and you were wearing a mask everyone else was wearing their mask Yeah everybody that I \u2013 as far as I could tell Okay Have you traveled anywhere recently",
+        "gt_chunk": "P: I can't think of anybody I've been around who's been sick, but last weekend I went shopping in the mall so I went into quite a few stores.\n\nD: OK, and you were wearing your mask? Everyone else was wearing their mask?\n\nP: Yeah, everybody far as I could tell.\n\nD: OK, have you traveled anywhere recently"
+    },
+    {
+        "whisper_chunk": "No I've been home Been home Okay I just want to ask you a few more questions Any memory loss or confusion No Any dizziness or fainting spells Nothing like that No Okay Are you otherwise healthy Yeah Well I've been told I've had high cholesterol I've been",
+        "gt_chunk": "P: no, I've just been home. \n\nD: OK, I just want to ask you a few more questions. Any memory loss or confusion?\n\nP: No. \n\nD: Any dizziness or fainting spells?\n\nP: Nothing like that, no. \n\nD: OK. Are you otherwise healthy?\n\nP: Um, yeah I've well, I've been told I had high cholesterol so I've been"
+    },
+    {
+        "whisper_chunk": "taking risuvastatin for that the past few years Okay And is it helping with your cholesterol levels Yeah the last time I was at the family doctor I was told they were at a good level Okay Okay good And I think I'm \u2013 I'm sorry I'm prediabetic as well Okay When was the last time you had blood work done",
+        "gt_chunk": "P: taking Rosuvastatin for that the past few years.\n\nD: OK, and is it helping with the cholesterol levels?\n\nP: Yeah, the last time I was at the family doctor I was told they were at a good level. O\n\nD: OK, good. \n\nP: I'm sorry I'm pre-diabetic as well.\n\nD: OK, when was the last time you had blood work done"
+    },
+    {
+        "whisper_chunk": "I think I don't know six months ago Okay Okay And that's when you were told you were prediabetic Yeah I think my A1C was like 6 2 so on the \u2013 on the cusp Okay Yep that's \u2013 that's understandable Have",
+        "gt_chunk": "P: I think, uh six months ago.\n\nD: OK, and that's when you were told you were pre-diabetic?\n\nP: Yeah, I think my A1C was like 6.2% so uh, on the cusp.\n\nD: OK, yeah, that's understandable."
+    },
+    {
+        "whisper_chunk": "you made any sort of lifestyle changes to get your blood glucose under control Well I've been walking the dog more The weather's getting better and trying to eat out less often Okay great Yeah Go ahead Oh sorry I was going to say yeah I've been trying to lose weight but it \u2013 it's been yeah relatively stable still",
+        "gt_chunk": "D: you made any sort of lifestyle changes to get your blood glucose under control?\n\nP: Well, I have been walking the dog more. he weather is getting better and trying to eat out less often. Yeah, I've been trying to lose weight, but it it's been yeah, relatively stable still"
+    },
+    {
+        "whisper_chunk": "Okay Okay We can review some options with you later on in the visit if \u2013 if you would like Yeah certainly We can talk about that later Okay sounds good Have you had any surgeries or hospitalizations in the past Yeah I had a \u2013 a inguinal",
+        "gt_chunk": "P: . \n\nD:OK, we can review some options with you later on in the visit if you would like.\n\nP: Yeah, certainly we can talk about that later.\n\nD: OK, sounds good. Have you had any surgeries or hospitalizations in the past?\n\nP: Yeah I had an inguinal"
+    },
+    {
+        "whisper_chunk": "hernia repaired about five years ago Five years ago okay And are you on any medications I just resume a statin right now Okay Any over the counter medications or herbal supplements Just a multivitamin Okay Do you have any allergies",
+        "gt_chunk": "P: hernia repaired about five years ago. \n\nD: And are you on any medications?\n\nP: Just Rosuvastatin right now. \n\nD: OK, and any over the counter medications or herbal supplements?\n\nP: Just a multi vitamin. \n\nD: OK, umm, do you have any allergies"
+    },
+    {
+        "whisper_chunk": "Penicillin I break out in hives Okay Did you need to be treated with any sort of antibiotics recently No No I haven't had antibiotics for a long time Okay And are you up to date with all your immunizations I am yeah I get the flu shot every year Okay good Yeah that's really",
+        "gt_chunk": "P: Penicillin. I break out in hives. \n\nD: OK, and did you need to be treated with any sort of antibiotics recently? \n\nP: No, no, I haven't had any antibiotics for a long time.\n\nD: OK, and are you up to date with all your immunizations?\n\nP: I am, yeah, I get the flu shot every year.\n\nD: OK, good. An yeah, that's really"
+    },
+    {
+        "whisper_chunk": "good Do you know if you have any family history of any lung conditions or heart conditions No I don't think so No Okay How about cancers in the family I think my grandfather had bladder cancer but I'm not sure Okay",
+        "gt_chunk": "D: do you know if you have any family history of any lung conditions or heart conditions?\n\nP: No, I don't think so.\n\nD: OK, how about cancers in the family?\n\nP: I think my grandfather had bladder cancer, but, uh, I'm not sure.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And I forget if I asked you earlier but have you had any changes to your urinary habits any changes in your urine itself or voiding frequency No I haven't had any changes there and I haven't noticed any blood or color changes No pain either Okay good And",
+        "gt_chunk": "D: and I forget if I asked you earlier, but have you had any changes to your urinary habits, any changes in your urine itself or voiding frequency?\n\nP: No, I haven't had any changes there and I haven't noticed any like blood or color changes. No pain. \n\nD: OK, great. And"
+    },
+    {
+        "whisper_chunk": "do you smoke No I do not No Okay How about marijuana No Any other recreational drug No I just have a few beers on the weekend like probably I don't know two or three on Saturday and Sunday Okay okay",
+        "gt_chunk": "D: do you smoke? \n\nP: Um, no I do not.\n\nD: OK, how about marijuana? \n\nP: Nope.\n\nD: Any other recreational drug?\n\nP: No, I just have a few beers on the weekend. Like probably I don't know two or three on Saturday and Sunday.\n\nD: OK,"
+    },
+    {
+        "whisper_chunk": "And where do you live I live in a duplex and rent the basement on a house nearby Okay Do you live with anyone Yeah I live with my girlfriend Okay And any concerns for you know old carpets or mold or asbestos in",
+        "gt_chunk": "D: and where do you live?\n\nP: I live in a like duplex and rent the basement in a house nearby.\n\nD: OK, do you live with anyone?\n\nP: Yeah, I live with my girlfriend.\n\nD: OK, and um, any concerns for you know old carpets or mold or asbestos in"
+    },
+    {
+        "whisper_chunk": "the duplex that you're living in Not in our unit So I mean maybe upstairs but if it's anything like our place then no Okay I think those were all the questions that I had for you Did you have any questions or concerns that you wanted to bring up before we end the interview",
+        "gt_chunk": "D: the duplex that you're living in?\n\nP: Not in our unit so I mean, maybe upstairs, but if it's anything like our place, then no.\n\nD: OK. I think those were all the questions that I had for you. Did you have any questions or concerns that you wanted to bring up before we end the interview"
+    },
+    {
+        "whisper_chunk": "No I well I guess I was just concerned about COVID Yeah you know that's the top on my list of differential diagnoses for you So what we'll do is we'll do a COVID swab and that should come back in a day or so But we will we do encourage isolation for 14 days and that includes",
+        "gt_chunk": "P: no, well  I guess I was just concerned about about COVID. \n\nD: Yeah, you know that's the top on my list of differential diagnosis for you. So what we'll do is a COVID swab and that should come back in a day or so, but we do encourage isolation for 14 days and that includes"
+    },
+    {
+        "whisper_chunk": "from your girlfriend as well So even if the COVID swab comes back negative sometimes a false negative So as long as you're having these symptoms these symptoms are common in COVID So we do ask that you isolate for 14 days If the swab comes back positive we will also notify public health so that they can get in touch with you and do some contact tracing to see where you may have gotten COVID from But other",
+        "gt_chunk": "D: from your girlfriend as well. So even if the COVID swab comes back negative, sometimes it can be false negative, so as long as you're having these symptoms, and these symptoms are common in COVID,  we do ask that you isolate for 14 days if the swab comes back positive. We will also notify public health so that they can get in touch with you and do some contact tracing to see where you may have gotten COVID from, but other"
+    },
+    {
+        "whisper_chunk": "than that if it's not COVID it could likely be another upper respiratory viral illness Because this time of year a lot of different viruses are going around like adenovirus or the flu you know So it could be one of those And then if you're still sick or your symptoms change we can reassess to make sure it's not a bacterial infection or you know a bacterial pneumonia in which",
+        "gt_chunk": "D: than that, if it's not COVID, it could likely be another upper respiratory viral illness because of this time of year. A lot of different viruses are going around like common viruses or the flu, you know, so it could be one of those. And then if you're still sick or your symptoms change, we can reassess to make sure it's not a bacterial infection or bacterial pneumonia, in which"
+    },
+    {
+        "whisper_chunk": "case we can prescribe antibiotics Okay yeah How does that sound Thank you for all of that information That sounds great Okay Well take care then All right thank you Thank you",
+        "gt_chunk": "D: case we can prescribe antibiotics.\n\nP: OK yeah, thank you for all that information. Sounds great.\n\nD: OK, well take care then, alright. \n\nP: Thank you"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "whisper_chunk": "are you doing Not so well I feel like I've been having just worsening breathlessness and a cough for it's been going on for two years now and I just can't seem to get rid of it Okay the cough and the breathlessness both started two years ago Yeah I would say approximately around the same time Okay okay Do you",
+        "gt_chunk": "D: are you doing?\n\nP: Not so well I I feel like I've been having just worsening breathlessness and a cough for it's been going on for two years now and I just can't seem to get rid of it. \n\nD: OK, the cough and breathlessness both started two years ago?\n\nP: Yeah, I would say approximately around the same time. \n\nD"
+    },
+    {
+        "whisper_chunk": "always have the breathlessness or does it come and go I think it's I feel short of breath most of the times but it's mainly just gets worse when I'm myself When I'm walking more than usual or just working in the garden Okay okay And same thing with the cough it",
+        "gt_chunk": "D: always have the breathlessness, or does it come and go?\n\nP: Um, I think it's, I feel short of breath most of the times, but it's mainly just gets worse when I'm exerting myself when I'm walking more than usual or just working in the garden.\n\nD: OK, OK, um and same thing with the cough? It"
+    },
+    {
+        "whisper_chunk": "gets worse when you're walking around Yeah I would say so Okay And was there any sort of trigger for this two years ago Anything that you remember No it kind of just started gradually on its own no real triggers that I can remember Okay and does anything make it worse or better besides the exertion",
+        "gt_chunk": "D: gets worse when you're walking around?\n\nP: Yeah, I would say so.\n\nD: OK. And was there any sort of trigger for this two years ago? Anything that you remember?\n\nP: Um, no, it kind of just started gradually on its own. No, no real triggers that I can remember. \n\nD: OK, and, does anything make it worse or better besides the exertion"
+    },
+    {
+        "whisper_chunk": "No I think that's pretty much the only thing that really makes it worse Okay and how would you describe your breathlessness Is it that you're breathing too fast or you can't catch your breath I think it's more so just I can't catch my breath and sometimes I just have trouble being able to take like a full breath Okay okay And out of one",
+        "gt_chunk": "P: no, I think that's pretty much the only thing that really makes it worse. \n\nD: OK, and how would you describe your breathlessness? Is it that you're breathing too fast or you can't catch your breath?\n\nP: It's I think it's more so just I can't catch my breath and sometimes I just have trouble being able to take like a full breath. \n\nD: OK, OK. Um, and out of"
+    },
+    {
+        "whisper_chunk": "to ten ten being the worst how bad is your breathlessness It can get up to I would say like an eight sometimes when I'm doing a lot of work Okay and have you ever experienced this before Not before the two years before I never felt anything like that Okay and you mentioned it's gradually been getting worse right Yeah I would say so Okay",
+        "gt_chunk": "D:  being the worst, how bad is your breathlessness?\n\nP: It can get up to I would say like an eight sometimes when I'm doing a lot of work. \n\nD: OK, and have you ever experienced this before?\n\nP: Not before the two years, before I I never felt anything like that. \n\nD: OK, and you mentioned it's gradually been getting worse, right? \n\nP: Yeah, I would say so. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and the cough do you ever cough up any blood No it's usually just a dry cough No I don't produce any mucus or blood Okay okay And do you feel like you're wheezy No I haven't heard any kind of wheeziness at",
+        "gt_chunk": "D: and the cough, um, do you ever cough up any blood?\n\nP: No, it's uh, it's usually just a dry cough. No, no I don't produce any mucus or blood. \n\nD: OK. OK. Um, and do you feel like you're wheezy?\n\nP: No, I haven't heard any kind of wheeziness at"
+    },
+    {
+        "whisper_chunk": "all Okay any issues with your breathlessness when you're laying down No I'm completely fine laying down Okay and it's not waking you up at night right No Okay okay Have there been any changes to your taste recently No not that I know of Okay any changes to your smell",
+        "gt_chunk": "P: all.\n\nD: OK. Any issues with your breathlessness when you're laying down?\n\nP: No, I'm completely fine laying down. \n\nD: OK and it's not waking you up at night, right?\n\nP: No.\n\nD: OK um, have there been any changes to your taste recently?\n\nP: No, not that I know. \n\nD: Any changes to your smell"
+    },
+    {
+        "whisper_chunk": "Nope Have you experienced a sore throat Nope Runny nose or stuffy nose Nope not that I know of Okay changes in your hearing or ear pain Nope Changes in your vision or eye pain Nope nothing like that Okay and have you noticed any fevers Maybe some chills here and there",
+        "gt_chunk": "P: No.\n\nD: Have you experienced a sore throat? \n\nP: Nope.\n\nD: Runny nose or stuffy nose?\n\nP: Nope, not that I know of.\n\nD: OK, changes in your hearing or ear pain?\n\nP: No. \n\nD: Changes in your vision or eye pain?\n\nP: No, nothing like that. \n\nD: OK, and have you noticed any fevers?\n\nP: Um, maybe some chills here and there"
+    },
+    {
+        "whisper_chunk": "but not really a fever no Okay and you mentioned chills How about night sweats Um just a few times per week I would maybe have to take off my blanket Sometimes I notice a lot of my sweat covering the bedsheets but that's been going on for I would say a couple months now Okay okay Any weight loss",
+        "gt_chunk": "P:  not really a fever, no. \n\nD: OK, and you mentioned chills. How about night sweats?\n\nP: Um, just a few times per week I would maybe have to take off my blanket sometimes I notice a lot of my sweat covering the bed sheets. That's been going on for about, say a couple months now. \n\nD: OK, OK um any weight loss"
+    },
+    {
+        "whisper_chunk": "I think over the last few months I may have lost like around three kilograms Okay okay Any rashes on your body Not that I know of no Okay How about like feeling like you're tired Yeah I feel pretty tired sometimes but I just thought it was because I'm getting older",
+        "gt_chunk": "P: I think over the last few months I may have lost like around 3 three kilograms. \n\nD: OK, OK, any rashes on your body?\n\nP: Not that I know, no.\n\nD: OK. Um, how about uh like feeling you're like you're tired?\n\nP: Um, yeah, I feel pretty tired sometimes, but I just thought it was because I'm getting older"
+    },
+    {
+        "whisper_chunk": "Okay fair enough How about chest pain Uh no chest pain no No Any swelling in your arms or legs No not that I've noticed Okay and how about feeling like your heart's racing Nope heart's been fine Okay and how about changes to your bowel movements No I go pretty regularly Okay",
+        "gt_chunk": "D: OK, fair enough. How about chest pain?\n\nP: No chest pain, no no.\n\nD: Any swelling in your arms or legs?\n\nP: No, not that I've noticed.\n\nD: OK and how about feeling like your heart's racing?\n\nP: No heart has been fine.\n\nD: OK. And how about changes to your bowel movements?\n\nP: No, I go pretty regularly. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and urine any changes there Nope Okay how about nausea or vomiting Nope nothing like that Headaches Uh nope Okay any dizziness or fainting spells No No okay How about confusion or memory loss Not that I know of no Okay",
+        "gt_chunk": "D: and urine, any changes there?\n\nP: Nope.\n\nD: OK, how about nausea and vomiting?\n\nP: Uh, no. \n\nD: Headaches?\n\nP: Uh, no. \n\nD: OK, um any dizziness or fainting spells?\n\nP: No.\n\nD: No? Ok, um how about confusion or memory loss?\n\nP: Not that I know of, no.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and are you otherwise healthy Do you have any other medical conditions I do have high blood pressure and I think they said like my prostate is larger than normal but nothing else Okay and have you been sick in the past Um in terms of like breathing I think maybe as",
+        "gt_chunk": "D: and are you otherwise healthy? Do you have any other medical conditions?\n\nP: I do have high blood pressure and I think they said like my prostate is larger than normal. Um, but nothing else.\n\nD: OK, and have you been sick in the past?\n\nP: Uh, in terms of like breathing, I think maybe as"
+    },
+    {
+        "whisper_chunk": "a child like I may have had like a pneumonia but nothing else Okay and are you on any medications Just Ramipril for my high blood pressure Okay um how long have you been on that medication for Uh for a pretty long time I would say more than 10 years Okay and no issues side effects with that right No and my blood pressure is pretty well controlled on that",
+        "gt_chunk": "P: a child like I may have had like a pneumonia but nothing else.\n\nD: OK, and are you on any medications?\n\nP: Just ramipril for my high blood pressure. \n\nD: OK, um how long have you been on that medication for?\n\nP: Uh, for a pretty long time, I would say more than 10 years.\n\nD: OK and no issues, side effects with that, right?\n\nP: No, and my blood pressure is pretty well controlled on that"
+    },
+    {
+        "whisper_chunk": "medication Okay good Um any allergies No No allergies Are you up to date with all of your immunizations Yeah I got my shingles and my pneumonia vaccination everything like that Okay and in terms of family history are there any heart or lung conditions that run in the family",
+        "gt_chunk": "P: medication. \n\nD: OK, good, um, any allergies?\n\nP: No. No allergies. \n\nD: Are you up to date with all of your immunizations?\n\nP: Yeah I got my shingles and my pneumonia vaccination everything like that.\n\nD: OK, and uh, in terms of family history, um, are there any heart or lung conditions that run in the family"
+    },
+    {
+        "whisper_chunk": "Oh so yeah my dad had quite a few problems He had type 2 diabetes then he suffered from two strokes and then he also had a heart attack in I think when he was like 56 but then he actually ended up dying of bowel cancer in his 70s Okay how about your mother Is she alive Is she healthy",
+        "gt_chunk": "P: Uh, so yeah, my dad had quite a few problems. He had type 2 diabetes then he suffered from 2 strokes and then he also had a heart attack uh, in I think when he was like 56. But then he actually ended up dying of bowel cancer in his 70s. \n\nD: OK. How about your mother? Is she alive? Is she healthy"
+    },
+    {
+        "whisper_chunk": "Um my mom is alive but she suffered from type 2 diabetes and high blood pressure as well Um and she also had like hypothyroidism and she also suffered from depression as well Okay Um okay so do you live by yourself and where do you live I live",
+        "gt_chunk": "P: Um, my mom is alive, but she suffered from Type 2 diabetes and high blood pressure as well. And she also had, like hypothyroidism. And she also suffered from depression as well. \n\nD: OK. Um OK, so do you live by yourself and where do you live?\n\nP: I live"
+    },
+    {
+        "whisper_chunk": "in an apartment by myself right now Um I do find it difficult getting out of the house recently just because of my shortness of breath but other than that I feel that I'm pretty independent Okay and do you smoke Um no I've never smoked in my life No um how about other recreational drugs No no marijuana",
+        "gt_chunk": "P: in apartment by myself right now. I do find it difficult getting out of the house recently just because of my shortness of breath, but other than that I feel that I'm pretty independent. \n\nD: OK, and do you smoke?\n\nP: No, I've never smoked in my life. \n\nD: No? Um, how about other recreational drugs?\n\nP: No no marijuana"
+    },
+    {
+        "whisper_chunk": "no cocaine nothing like that Okay how about alcohol Do you drink alcohol No Okay and do you still work Uh no I actually worked at just a hospital I used to volunteer but now I just can't get out of the house I feel just tired and short of breath all the time so just staying in my house most of the time",
+        "gt_chunk": "P: no cocaine, nothing like that. \n\nD: OK, how about alcohol? Do you drink alcohol?\n\nP: No. \n\nD: OK, and do you still work? \n\nP: Uh, no, I actually worked at just the hospital I used to volunteer, but now I just can't get out of the house. I feel just tired and short of breath all the time so just staying in my house most of the time"
+    },
+    {
+        "whisper_chunk": "Okay and has anyone around you been sick No not that I know of no No um and have you traveled anywhere recently Nope No okay Um have you been worked up for this in the past two years Like have you had any chest x rays or pulmonary function tests anything like that No I've never really had this issue before so",
+        "gt_chunk": "D: OK, and has anyone around you been sick?\n\nP: No, not that I know.\n\nD: No um, and have you traveled anywhere recently?\n\nP: No, No.\n\nD: OK, um, have you been worked up for this in the past two years? Like have you had any chest X-rays or pulmonary function tests or anything like that?\n\nP: No, I've never really had this issue before, so"
+    },
+    {
+        "whisper_chunk": "no investigations Okay okay Well those are all the questions that I had Um did you have anything that you wanted to add that I maybe missed Uh no I just it's been going on for two years and I feel like it's getting worse and worse and yeah I'm just scared of having to you know go on oxygen or like just not being able",
+        "gt_chunk": "P: no investigations. \n\nD: OK, OK, well those were all the questions that I had. Did you have anything that you wanted to add that I maybe missed?\n\nP: Uh, no, I just it's been going on for two years and I feel like it's getting worse and worse. And yeah, I'm just scared of having to, you know, go on oxygen or like just not being able"
+    },
+    {
+        "whisper_chunk": "to breathe at one point Yeah for sure Um so we'll try to do a good job working you up for everything that we think it may be um and right now it sounds like it could be pulmonary fibrosis either like you know an autoimmune process um or triggered after like an infection that you may have had in",
+        "gt_chunk": "P: to breathe at one point.\n\nD: Yeah, for sure. So we will try to do a good job working you up for everything that we think it may be. And right now, it sounds like it could be pulmonary fibrosis either like you know an autoimmune process or triggered after like an infection that you may have had in"
+    },
+    {
+        "whisper_chunk": "the look in to see if it's um perhaps a lung cancer um asthma and you mentioned you don't smoke so we don't think it could be COPD but we'll also um test for that in case all everything else comes back negative Okay sounds good Thank you so much Thank you Take care You too",
+        "gt_chunk": "D:  look into see if it's perhaps a lung cancer, asthma and you mentioned you don't smoke so we don't think it could be COPD but we'll also test for that in case all everything else comes back negative.\n\nP: OK, sounds good. Thank you so much. \n\nD: Thank you. Take care you too"
+    }
+]

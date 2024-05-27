@@ -1,0 +1,102 @@
+[
+    {
+        "whisper_chunk": "can I do for you today I've just had this cough that has gotten a lot worse and really short of breath Can you tell me more about your shortness of breath Yeah just over the past like 12 hours or so I've just been finding it more and more difficult to breathe",
+        "gt_chunk": "D: can I do for you today?\n\nP: I've just had this cough that it that has gotten a lot worse and really short of breath.\n\nD: Uhm, can you tell me more about your shortness of breath?\n\nP: Yeah, just over the past, like 12 hours or so, I've just been finding it more and more difficult to to breathe"
+    },
+    {
+        "whisper_chunk": "What are you able I guess when do you feel short of breath Yeah it's just like right now at rest I can like I'm okay but it still is feeling increasingly difficult So like throughout the day it's just been getting getting worse and the cough has been getting worse also Before",
+        "gt_chunk": "D: What are you able, I guess when do you feel short of breath?\n\nP: Yeah, it's just like right now at rest I can like I'm OK, but it still is feeling increasingly difficult. So like throughout the day, it's just been getting getting worse and the cough has been getting worse also.\n\nD: And before"
+    },
+    {
+        "whisper_chunk": "these 12 hours did you have any difficulties with breathing No I had a cough but not really any shortness of breath Can you tell me about your cough Is it a dry cough or a wet cough Yeah I've been bringing up some some sputum Okay What does it look like",
+        "gt_chunk": "D: these 12 hours where, did you have any difficulties with breathing?\n\nP: Uh no, I I I had a cough but not, not really any shortness of breath.\n\nD: And can you tell me about your cough? Is it a dry cough or wet cough?\n\nP: I've been bringing up some some sputum.\n\nD: OK, what does it look like"
+    },
+    {
+        "whisper_chunk": "It's like greenish and yellow Okay And you said that you had a cough prior to the past 12 hours and that your cough is now worse How is it worse It's been just happening more often and just like throughout the day Usually my cough is only in the morning",
+        "gt_chunk": "P: It's like greenish and yellow.\n\nD: Mhmm, OK. And you said that you had a cough prior to the past 12 hours. And that your cough is now worse. How is it worse?\n\nP: Ah, it's been just happening more often and like just like throughout the day usually, my cough is only in the morning"
+    },
+    {
+        "whisper_chunk": "I'll see Was your sputum greenish yellow before as well or was it just starting yesterday or a couple of days ago Yeah that's that's just starting new It was more",
+        "gt_chunk": "D: , was your sputum and greenish yellow before as well? Or was it just starting yesterday or, or couple days ago? \n\nP: Yeah, that's new. That's just starting new. It was more"
+    },
+    {
+        "whisper_chunk": "like I don't know whitish or yeah white I guess before Okay All right And I guess has this ever happened to you before No this is the first time that that this has happened before Okay And do you have any other I guess symptoms are",
+        "gt_chunk": "P: like, I don't know, whitish? Or yeah, white I guess, before? \n\nD: OK, alright and I guess has this ever happened to you before?\n\nP: Uh, no, this is the first time that that this has happened before.\n\nD: OK, and you have any other, I guess symptoms are"
+    },
+    {
+        "whisper_chunk": "so I'll ask you about a couple Do you have any do you feel stuffy nose or runny nose No Sore throat No Any chest pain Yeah I",
+        "gt_chunk": "D:  I ask you about a couple. Do you have any, do you feel confused or fuzzy?\n\nP: No, that that feels OK. \n\nD: Any headaches?\n\nP: No. \n\nD: Any stuffy, stuffy nose or runny nose?\n\nP: No.\n\nD: Sore throat?\n\nP: No. \n\nD: Any chest pain?\n\nP: Ah, yeah"
+    },
+    {
+        "whisper_chunk": "do I do have some well I guess it's not really pain It's more like like just chest tightness I'm really having a hard time with the with breathing I see Okay Do you feel like your heart's beating very fast No Okay Do you have any belly pain or any nausea",
+        "gt_chunk": "P: . I do have a, uh, uh some, well, I guess I guess it's not really pain, it's more like like just chest tightness. I'm really having a hard time with that, with breathing.\n\nD: Uhm, I see, OK. Do you feel like your heart's beating very fast? \n\nP: No.\n\nD: OK. Do you have any belly pain or any nausea"
+    },
+    {
+        "whisper_chunk": "or vomiting No Any changes in your bowel movements or any things No Okay All right And in terms of your past medical history any medical problems that you've been diagnosed with Yeah I was diagnosed",
+        "gt_chunk": "D: or vomiting?\n\nP: No. \n\nD: Any changes in your bowel movements or any urinary symptoms?\n\nP: No. \n\nD: Any muscle aches?\n\nP: No. \n\nD: Fevers or chills?\n\nP: No.\n\nD: OK, uhm, alright. And uh, in terms of your past medical history, any medical problems that you've been diagnosed with?\n\nP: Yeah, I was diagnosed"
+    },
+    {
+        "whisper_chunk": "with COPD two years ago Yeah this was at I went to my family doctor for this and I had some testing done when I was diagnosed at that time Okay Any other diagnoses Yeah I have high blood pressure aortic stenosis",
+        "gt_chunk": "P: with COPD uh, two years ago. Umm yeah, this is at I went to my family doctor for this and I had some testing done when I was diagnosed at that time.\n\nD: OK. Any other diagnosis?\n\nP: Yeah, I have high blood pressure. Aortic stenosis"
+    },
+    {
+        "whisper_chunk": "and high cholesterol Are you taking any medications Yeah I take a statin medication I think some type of blood thinner as well as something for the blood pressure as well I",
+        "gt_chunk": "P: and high cholesterol.\n\nD: Are you taking any medications?\n\nP: Yeah, I I take a uh, a statin medication. I think some type of blood thinner, as well as something for the blood pressure as well, I"
+    },
+    {
+        "whisper_chunk": "can't remember the names of them Why are you on a blood thinner Oh I heard that it was good for me from a friend since I've had",
+        "gt_chunk": "P: can't remember the the names of them.\n\nD: Why were you on a blood thinner?\n\nP: Oh I, I heard that it was, it was umm, oh good for me for a friend since I've"
+    },
+    {
+        "whisper_chunk": "aortic stenosis Okay sure All right And have you had any surgeries No I haven't Okay And any hospitalizations No I haven't Okay Do you have any allergies to food environmental allergies or any allergies to medications",
+        "gt_chunk": "P: aortic stenosis.\n\nD: OK, sure. All right and have you had any surgeries?\n\nP: Uh, no I haven't.\n\nD: OK, and any hospitalizations?\n\nP: No, I haven't.\n\nD: OK. Uhm, do you have any allergies to food, environmental allergies, or any allergies to medications"
+    },
+    {
+        "whisper_chunk": "No Okay Do you have or what's your current living situation Are you living in an apartment or house Do you live alone Do you live with other people Yeah I live alone in a house here in town Okay And are you currently working Are you retired Yeah I do",
+        "gt_chunk": "P: No. \n\nD: OK. Do you have a or what's your current living situation? Are you living in an apartment or house? Do you live alone? Do you live with other people?\n\nP: Yeah, I live alone in a in house, here in town.\n\nD: OK. And are you currently working, are you retired?\n\nP: Yeah, I I do"
+    },
+    {
+        "whisper_chunk": "currently well I just do some volunteering at the golf course in the summer but otherwise retired What did you do for work So before I worked at the beer factory in town Labatt Okay And have you ever had any exposures to",
+        "gt_chunk": "P: currently, well, I just do some volunteering at the golf course in the summer, but otherwise, retired.\n\nD: What did you do for work?\n\nP: Uh, so before, I worked at the Beer Factory in in town, Labatt.\n\nD: OK, and have you ever had any exposures to"
+    },
+    {
+        "whisper_chunk": "any chemicals or any irritants that you think any smoke that might affect your lungs or your yeah I don't think so I mean working in a factory environment I'm sure things years ago weren't as clean as they are now but yeah I'm not sure Okay All right And",
+        "gt_chunk": "D:  that you, any irritants that you think any smoke that might affect your lungs? Or your, yeah. \n\nP: Uhm, no, I don't think so. I mean, working in the factory environment, I, I'm sure things years ago weren't as clean as they are now, but yeah, I'm not sure.\n\nD: OK, alright. And"
+    },
+    {
+        "whisper_chunk": "are you you said you live alone are you able to take care of things like getting groceries or cooking or cleaning the house if you need help with that I do get some help from my son",
+        "gt_chunk": "D: are you, you said you live alone, are you able to take your things like getting groceries or cooking or cleaning the house or do you need help with that?\n\nP: I I do uh, get some help from my son"
+    },
+    {
+        "whisper_chunk": "who lives over And then I'll go visit them as well I can take care of the house and all that Not okay on my own but it certainly gets lonely there",
+        "gt_chunk": "P:  over and then I'll go visit them as well. You can take care of the house so and all that not OK on my own, but it certainly gets gets lonely there"
+    },
+    {
+        "whisper_chunk": "I'm sure What about things like walking Do you use a cane or a walker No I don't Okay And are you able to bathe on your own dress on your own Do you need help Oh yeah Those things are okay Okay Have you ever have you been on oxygen at all No I haven't but I feel like I could be",
+        "gt_chunk": "D: I'm sure. What about what about things like walking? Do you use a cane or a walker?\n\nP: Uhm, no, I don't.\n\nD: OK and do you are able to bathe on your own, dress on your own? Do you need help?\n\nP: Oh yeah, those things are OK.\n\nD: OK, have you ever have you been on oxygen at all?\n\nP: No, I haven't, but I feel like I could be"
+    },
+    {
+        "whisper_chunk": "right now It's like really short of breath Yeah Yeah We can definitely do that here All right So given your symptoms it sounds like maybe you're having a COPD exacerbation potentially Do you feel like you might've had contact with",
+        "gt_chunk": "P: right now. It's like, really, I'm short of breath.\n\nD: Yeah, yeah, we can definitely do that here. Uhm, alright. So, given your symptoms, it sounds like maybe you're having a COPD exacerbation, potentially. Do you feel like you might have had contact with"
+    },
+    {
+        "whisper_chunk": "anyone who was sick Not that I can think of Okay Have you traveled at all outside the country or outside the province No I've just been helping out at the golf course but that's all kind of outside Are you wearing a mask and maintaining social distancing Yeah we are I'm helping out with cleaning the carts and kind of helping out with the grounds Mm hmm",
+        "gt_chunk": "D: anyone who was sick? \n\nP: Not that I can think of.\n\nD: OK, have you traveled at all, outside the country or outside the province?\n\nP: No, I I've just been helping out at the golf course, but that's all. Kind of outside.\n\nD: Are you wearing a mask and maintaining social distancing?\n\nP: Yeah, we are like, I'm like helping out with cleaning the carts and kind of helping out with the grounds.\n\nD: Mhmm"
+    },
+    {
+        "whisper_chunk": "Okay All right So we'll do a COVID swab here just in case And seeing that you're not feeling very well you might require oxygen We're going to keep you here in the ER and you might have to you might have to be hospitalized We'll measure your vital do a physical exam do a chest X ray And you might be having as",
+        "gt_chunk": "D: alright. So we'll do a Covid swab here just in case. And seeing that you're not feeling very well, you might require oxygen, we're going to keep you here in the ER, and we might have to, you might have to be hospitalized. We'll measure your vitals, do a physical exam, do a chest x-ray and you might be having, as"
+    },
+    {
+        "whisper_chunk": "I mentioned earlier an exacerbation of your COPD or a worsening of your COPD potentially because you might have an infection either a viral infection or a bacterial infection that can sometimes worsen your COPD symptoms You might be started on an antibiotic We'll be putting you in oxygen and giving you some steroids Are you actually yeah about that are you using",
+        "gt_chunk": "D: I mentioned earlier, in exacerbation, upper COPD or a worsening of your COPD, potentially because you might have an infection, either a viral infection or bacterial infection that can sometimes worsen your COPD symptoms. You might be started on an antibiotic we'll be putting you in oxygen and giving you some steroid some, are you actually about that, are you,"
+    },
+    {
+        "whisper_chunk": "any buffers at home Yeah so yeah I have been using sorry yeah I have been using Benzaline and there is a daily inhaler Spiriva I believe I've been using that each day Okay great great Yeah so we'll be giving you some buffers here as well And yeah we'll see how things go Do you have any questions",
+        "gt_chunk": "D: any puffers at home?\n\nP: Ah, yeah, so yeah I have been using uh, sorry I I have been using ventolin and there was a daily inhaler, Spiriva, I believe. I've been using that each day.\n\nD: OK great great yeah so we'll be, we'll be giving you some puffers here as well, and yeah, we'll see how things go. Do you have any questions"
+    },
+    {
+        "whisper_chunk": "No that sounds good Thank you",
+        "gt_chunk": "P:  that sounds good. Thank you"
+    }
+]

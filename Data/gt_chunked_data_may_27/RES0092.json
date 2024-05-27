@@ -1,0 +1,62 @@
+[
+    {
+        "whisper_chunk": "I understand that you've had a cough can you tell me a little bit more about that Yeah so I've had this cough now it's been going on for about two weeks just hasn't gone away Okay can you tell me a little bit more about this cough is it dry or wet Yeah it's been mixed it's been dry sometimes and",
+        "gt_chunk": "D: I understand that you've had a cough, can you tell me a little bit more about that?\n\nP: Yeah, so I've had this cough now, it's been going on for about two weeks, just, just hasn't gone away.\n\nD: Uhm, oK, can you tell me a little bit more about this cough? Is it dry or wet?\n\nP: Uh, yeah it's been, uhm, mix, it's been dry sometimes and"
+    },
+    {
+        "whisper_chunk": "I have had a little bit of sputum production recently it's been mostly clear though Has the cough gotten worse over the past two weeks No it's been about the same And have you had any blood that came up with this sputum",
+        "gt_chunk": "P: I have had a little bit of sputum production recently, uh, it's been mostly clear though.\n\nD: Has the cough gotten worse over the past two weeks?\n\nP: No, it's been about the same.\n\nD: Uhm, and have you had any blood that came up with the sputum"
+    },
+    {
+        "whisper_chunk": "No I haven't noticed any blood All right what about any other symptoms over the past two weeks Have you had any fevers or chills Not no No okay okay And any I guess any runny nose",
+        "gt_chunk": "P: No, I haven't noticed any blood.\n\nD: Alright, what about any other symptoms over the past two weeks? Have you had, have you had any fevers or chills?\n\nP: Not, no. \n\nD: No. OK. And any uhm, I guess, any runny nose"
+    },
+    {
+        "whisper_chunk": "Yeah my nose was a bit runny last week but it's that's better now Okay okay It's just okay last week what other symptoms did you have last week Yeah I had a sore throat and a little bit of a headache as well And some aches and fatigue that was where yeah that was last week for about three days",
+        "gt_chunk": "P: Yeah, my nose was a bit runny last week, but it's, that's better now. \n\nD: OK. OK, uhm, it's just, OK last week, what else, what other symptoms did you have last week?\n\nP: Yeah, I had a sore throat and a little bit of a headache as well, uhm, and, and some aches and fatigue. Those were uh, yeah, that was last week for about three days"
+    },
+    {
+        "whisper_chunk": "and then I started to feel better but I still have this cough that it's still going on So those other symptoms that you had last week that lasted about three days are they all gone Are you still feeling fatigued or having a headache Those are yeah they're gone It's only the cough Yeah I just have the cough Is there any time any specific time of the day that it's worse or better Anything that triggers it",
+        "gt_chunk": "P: and then I started to feel better. But I still have this cough, that, it's still going on.\n\nD: So those other symptoms that you had last week that lasted about three days, are they all gone? are you still feeling fatigued or having a headache?\n\nP: Those are both, yeah, they're gone. \n\nD: Hmm, It's only the cough?\n\nP: Yeah I just have the cough.\n\nD: Is there any time, any specific time of the day that it's worse or better? Anything that triggers it"
+    },
+    {
+        "whisper_chunk": "Um maybe like maybe when I went out into the cold or like when I went for a run and I were really kind of exerted myself it brought it on But other than those things nothing Okay okay But you're otherwise feeling better Yeah for the most part",
+        "gt_chunk": "P: Uhm, maybe like, maybe when I went out into the cold or, uhm, like, when I went for a run where I really kind of exerted myself, it brought it on, but other than those things, nothing.\n\nD: OK, but you're otherwise feeling better?\n\nP: Yeah, for the most part"
+    },
+    {
+        "whisper_chunk": "yeah I'm feeling better but I still have a cough Okay um have you had any um chest pain No Any um palpitations Do you feel like your heart's racing Um no nothing like that Any other symptoms such as uh belly pain or diarrhea or constipation",
+        "gt_chunk": "P: yeah, feeling better, but I still have a cough.\n\nD: OK. Uhm, have you had any chest pain? \n\np: No.\n\nD: Any palpitations? Do you feel like your heart's racing?\n\nP: Uhm, no. Nothing like that.\n\nD: Any other symptoms such as belly pain or diarrhea or Constipation"
+    },
+    {
+        "whisper_chunk": "or changes in your um urinary or having any urinary symptoms Uh no I haven't had anything like like that Okay okay And can you tell me about your past medical history Any medical conditions you have Um yeah I I'm healthy I haven't been diagnosed with anything Okay all right Any medications that you take including over the counter pills or any herbal pills",
+        "gt_chunk": "D: or changes in your urine, are having any urinary symptoms?\n\nP: No, I haven't had anything like, like that.\n\nD: OK. OK, and can you tell me about your past medical history, any medical conditions you have?\n\nP: Yeah, I, I'm healthy. I haven't, been diagnosed with, with anything.\n\nD: OK alright, any medications that you take including over the counter pills or any herbal pills"
+    },
+    {
+        "whisper_chunk": "or multivitamins etc Yeah I'm taking a uh birth control I see okay Um any allergies Uh no allergies Okay do you have any um you don't have any lung related diseases right Like asthma uh or COPD or anything of that sort Um no nothing like that All right all right that's good Um and",
+        "gt_chunk": "D: or multi vitamins etc.\n\nP: Yeah, I'm taking a birth control.\n\nD: I see. OK, any allergies?\n\nP: No allergies.\n\nD: OK. Do you have any, you don't have any lungs related diseases right? Like asthma or COPD or anything of that sort?\n\nP: Uhm, no, nothing like that.\n\nD: Alright alright, that's good,  and"
+    },
+    {
+        "whisper_chunk": "uh who do you currently live with and where do you live Uh so I live with um a few um roommates Um I'm just finishing up uh my undergraduate degree Um that's great Yeah that's great Have you had um any contact with anyone who was sick recently Uh no not that I can think of I mean",
+        "gt_chunk": "D:  who do you currently live with, and where do you live?\n\nP: Alright, so I live with a few roommates. I'm just finishing up my undergraduate degree.\n\nD: Yeah, that's great. Have you had any contact with anyone who was sick recently?\n\nP: No, not that I could think of, I mean"
+    },
+    {
+        "whisper_chunk": "I went out one night last week and um that's kind of when I had those other symptoms for a few days after that Okay okay Um and have you traveled outside the city or country No I haven't No okay Do you drink alcohol Um sometimes yeah I go with friends",
+        "gt_chunk": "P:  went out one night last week and that's kind of when I had those other symptoms for a few days after that.\n\nD: OK, OK. Uhm and have you traveled outside the city or country?\n\nP: No, I haven't. \n\nD: No, ok. Do you drink alcohol?\n\nP: Sometimes yeah, I, I will with friends"
+    },
+    {
+        "whisper_chunk": "uh kind of socially All right And have just a just a few drinks Uh what about uh smoking Um no Marijuana Uh sometimes with um uh like socially with friends but that might be once a month or probably even less Any recreational drugs No Okay All right And any lung conditions around the family",
+        "gt_chunk": "P: , kind of socially.\n\nD: alright.\n\nP: Just a few drinks.\n\nD: What about smoking? \n\nP: Uh, no.\n\nD: Marijuana? \n\nP: Uh, sometimes with, like socially with friends, but that might be once a month or probably even less.\n\nD: Any recreational drugs? \n\nP: No.\n\nD: OK, alright and any lung conditions that run in the family"
+    },
+    {
+        "whisper_chunk": "Uh no Okay Um okay All right So that's all that I I wanted to know It sounds like um you had a um you had a cold last week and you just have this residual cough that's still there Um and it's been two weeks and you're just worried about it Um but otherwise we're feeling well You don't have any other symptoms",
+        "gt_chunk": "D: , OK alright, so that's all that I, I wanted to know. It sounds like you had a, you had a cold last week and you just have this residual cough that's still there, and it's been two weeks and you're just worried about it, but otherwise you're feeling well, you don't have any other symptoms"
+    },
+    {
+        "whisper_chunk": "Um oftentimes when we get sick um or we have an infection or inflammation of the um um of the airway uh we can get a cough that lasts a long time And um it might just take you a couple more weeks for the cough to go away But if you feel that it's getting any worse or uh your you have those symptoms come back again um or you",
+        "gt_chunk": "D: . Often times when we get sick, or we have an infection or inflammation of the, uhm, the airway, we can get a cough that lasts a long time and it might just take you a couple more weeks for the cough to go away. But if you feel that it's getting any worse or you're, you have those symptoms come back again, or you"
+    },
+    {
+        "whisper_chunk": "develop a fever uh we can you can definitely we can do something more about that I'll also do a physical exam and see how you're doing and then um we can go from there Okay Great Thank you",
+        "gt_chunk": "D: develop a fever, we can, you can definitely, we can do something more about that. I'll also do a physical exam and, and see how you're doing and then we can go from there.\n\nP: OK, great, thank you"
+    }
+]

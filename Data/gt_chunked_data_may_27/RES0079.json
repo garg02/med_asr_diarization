@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "How may I help you today Yeah I've had a fever and a cough that started just like four days ago OK When did you start having your so the cough started four days ago What about the fever I think like last night was when I checked it",
+        "gt_chunk": "D: How may I help you today?\n\nP: Yeah I've had, a fever and a cough that started just like four days ago. \n\nD: OK, when did you, when did you start having your, so the cough started four days ago, what about the fever?\n\nP: I think, like, last night was when I checked, it"
+    },
+    {
+        "whisper_chunk": "and it was high like over 38 Hmm I see OK Ed did you check your fever before that the night before Yeah I just checked it last night I felt hot previously but I don't know I thought it was going to just get better but this morning still first of all feeling a little bit worse Hmm",
+        "gt_chunk": "P: , it was high, like over thirty eight.\n\nD: I see, OK. And, did you check your fever before that? The night before?\n\nP: Yeah, I just checked it last night. I felt hot previously, but, I don't know, I thought I was going to just get better, but this morning still, well, feeling a bit a little bit worse."
+    },
+    {
+        "whisper_chunk": "OK And the cough that started four days ago has it been a dry cough or a wet cough It's been dry OK So there's been no sputum or blood No sputum or blood OK Has it gotten worse over the past four days A little bit yeah Yeah And",
+        "gt_chunk": "D: OK, and the cough that started four days ago, has it been a dry cough or wet cough?\n\nP: It's been dry. \n\nD: OK, so there's been no sputum or any, or blood?\n\nP: No sputum or blood \n\nD: OK. Has it gotten worse over the past four days?\n\nP: Uh, a little bit, yeah.\n\nD; And"
+    },
+    {
+        "whisper_chunk": "other than the fever and the cough do you have any fatigue Yes You do OK Any muscle aches No OK Sore throat No Any difficulties breathing No",
+        "gt_chunk": "D: other than the fever and the cough, do you have any fatigue? \n\nP: Uhm, yes. \n\nD: We do, OK. Any muscle aches?\n\nP: Uh, no.\n\nD: OK, Sore throat?\n\nP: No. \n\nD: Any difficulties breathing?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Any wheezing No OK Any chest pain or pressure No OK Any runny nose Yeah my nose has been a little bit runny OK And that started over the past four days as well",
+        "gt_chunk": "D: Any wheezing?\n\nP: No.\n\nD: Any chest pain or pressure?\n\nP: No. \n\nD: OK, any runny nose? \n\nP: Yeah, my nose has been a little bit runny. \n\nD: OK, that started over the past four days as well"
+    },
+    {
+        "whisper_chunk": "Yeah OK What about pain in your belly No pain OK Any diarrhea or constipation No Any nausea or vomiting No OK Any urinary symptoms",
+        "gt_chunk": "P: Yeah. \n\nD: OK, what about pain in your belly?\n\nP: No pain. \n\nD: OK, any diarrhea or Constipation?\n\nP: Uhm, no.\n\nD: Any nausea or vomitting?\n\nP: No.\n\nD: Any urinary symptoms"
+    },
+    {
+        "whisper_chunk": "No OK Any rash that you've noticed on your skin No Any changes in your sense of taste or your sense of smell Yeah I haven't been able to smell as well Do you feel like you have a runny nose but is it congested",
+        "gt_chunk": "P: No. \n\nD: OK, any rash that you've noticed on your skin?\n\nP: No.\n\nD: Any changes in your sense of taste or your sense of smell? \n\nP: Uh, yeah, I haven't been able to smell as well.\n\nD: You feel like you have a runny nose, but is it sort of congested"
+    },
+    {
+        "whisper_chunk": "Not really Yeah it's just kind of runny and I haven't been able to smell very well OK And do you have any medical conditions Depression and anxiety And have you had any surgeries in the past or hospitalizations",
+        "gt_chunk": "P: Not really, it,  yeah, just kind of running, and yeah, I haven't been able to smell very well. \n\nD: OK, and do you have any past medical, any conditions, medical conditions?\n\nP: Uh, depression and anxiety.\n\nD: And have you had any surgeries in the past or hospitalizations"
+    },
+    {
+        "whisper_chunk": "No OK Are you taking any medications including over the counter pills I do take a multivitamin OK And I Oh I'm sorry I do take I take an SSRI a cytolocram as well OK That's good OK Any allergies No allergies OK",
+        "gt_chunk": "P: no \n\nD: OK, are you taking any medications, including over the counter pills?\n\nP: I do take a multi-vitamin.\n\nD: And, uh.\n\nP: sorry I do take, um, I take, uh, an SSRI, Citalopram as well.\n\nD: OK, that's good. OK, any allergies? \n\nP: No allergies \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Specifically allergies to medications Yeah no medications I don't think so Good OK And do you currently smoke or have you ever smoked in the past Yeah I smoked when I was in high school very briefly but I haven't smoked anything in the last 20 years All right Do you consume marijuana",
+        "gt_chunk": "D: specifically allergies to medications?\n\nP: Uhm,  yeah no, no medications, I don't think so.\n\nD: Good, ok, and do you currently smoke or have you ever smoked in the past? \n\nP: Uhm, I smoked when I was in high school very briefly, but I haven't smoked anything in the last twenty years.\n\nD: Alright, do you consume marijuana"
+    },
+    {
+        "whisper_chunk": "We'll use edibles every once in a while I buy them from the I guess government store Yeah yeah yeah I see OK Any recreational drugs No OK And do you currently live alone or do you live with others I live with others I live with my girlfriend and a dog",
+        "gt_chunk": "P: we'll use edibles every once in a while. I buy them from the, like, I guess government store, OCS.\n\nD: I see, OK, any recreational drugs?\n\nP: No, \n\nD: OK, and do you currently live alone or do you live with others?\n\nP: I live with others, I live with my girlfriend, and a dog"
+    },
+    {
+        "whisper_chunk": "OK And has she been sick or have you been in contact with anyone who has been sick recently She just came back on a work trip I've been working from home She was in Saskatchewan and just got back last week Hmm OK And has she had any",
+        "gt_chunk": "D: OK, and has she been sick or have you been in contact with anyone who's been sick recently?\n\nP: Uh, she just came back from a work trip. I've been working from home but she was, uhm, in Saskatchewan, and just got back last week.\n\nD: OK, and has she had any"
+    },
+    {
+        "whisper_chunk": "symptoms She's been fatigued since coming back but I mean we thought that was maybe just from the travels but maybe not Has she been quarantining or are you both spending time together Well we've been I mean trying to distance in the home but I mean we've been living together in an apartment so Fair enough Fair enough OK",
+        "gt_chunk": "D: symptoms?\n\nP: She's been fatigued since coming back, but I mean, we thought that was maybe just from the travels, but, maybe not.\n\nD: Has she been quarantining, or are you both spending time together?\n\nP: Well, we've been, I mean, trying to distance in the home, but I mean, we've been living together in an apartment so.\n\nD: Fair enough, fair enough. OK"
+    },
+    {
+        "whisper_chunk": "Have you had any travels No I've been working from home Oh OK All right And any so you don't have any sort of asthma or COPD or any lung conditions right Right I don't have anything like that No OK And any conditions that run in your family",
+        "gt_chunk": "D: have you had any travels?\n\nP: No, I've been working from home.\n\nD: OK, alright, and uh, any, you don't have any asthma or COPD or any lung conditions, right?\n\nP: Right, I don't have anything like that.\n\nD: OK, and, any conditions that run in your family"
+    },
+    {
+        "whisper_chunk": "No nothing that runs in the family OK All right OK so if I understand correctly you've had you've been feeling tired and you've had a cough and a runny nose and changes in your sense of smell for the past three or four days and you also were feeling a little bit hot and yesterday you noticed that you had a spike to high fever Is there anything that I'm missing No I think",
+        "gt_chunk": "P: no, nothing that runs in the family.\n\nD: Alright, OK, so if I understand correctly, you've been feeling tired and you've had a cough and a runny nose and changes in your sense of smell for the past three or four days and you also were feeling a little bit hot and yesterday you noticed that you had spiked a high fever. Is there anything that I'm missing?\n\nP: No, I think"
+    },
+    {
+        "whisper_chunk": "that covers all of the symptoms And you might have potentially had I guess some exposure to your girlfriend potentially so it's possible that well it's possible that you just have a cold but it's also we'll still have to rule out COVID as a cause and so we'll have to do a COVID swab and go from there And we'll check your temperature here as",
+        "gt_chunk": "P: that covers all the symptoms.\n\nD: And you might have potentially had, some exposure through your girlfriend potentially, so it's possible that, well, it's possible that you just have a cold, but it's also,  we'll still have to rule out covid as a cause, and so we'll have to do a covid swab and go from there and we'll check your temperature here as"
+    },
+    {
+        "whisper_chunk": "well Oh just I think something that I forgot to ask Have you taken any medications that has helped you with your symptoms No I haven't taken anything OK All right Well thank you I'll go talk to my attending and we'll come back and discuss this further with you That sounds great Thank you",
+        "gt_chunk": "D: well. Just, uh, I think something that I forgot to ask, have you taken any medications that has helped you with your symptoms?\n\nP: Uh no, I haven't taken anything.\n\nD: OK, alright, well, thank you, I'll go talk to my attending and we'll come back and discuss this further with you.\n\nP: That sounds great. Thank you"
+    }
+]

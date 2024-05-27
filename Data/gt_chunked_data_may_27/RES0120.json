@@ -1,0 +1,94 @@
+[
+    {
+        "whisper_chunk": "So what brings you in here today Hi so I've been very I haven't been feeling very well for the past four days I've been having chills I am feeling short of breath and now my chest hurts Okay I'm sorry So how long can you just tell me what started first and when did this all kind of start So what started first So I",
+        "gt_chunk": "D: So what brings you in here today?\n\nP: Hi, um so I've been very I've been, I haven't been feeling very well for the past four days. I've, I've been having chills. I am feeling short of breath and now my chest hurts.\n\nD: Okay, I'm sorry. Um so how long, like can you just tell me what started first and when did this all kind of start?\n\nP: So, what started first? So, I"
+    },
+    {
+        "whisper_chunk": "would say the shortness of breath started first and then I started having these chills and now it hurts like my chest hurts every time I try to take a deep breath in And how long has this been going on for It's been going on for the past four days Four days okay And do you have any kind",
+        "gt_chunk": "P: would say the shortness of breath started first, um, and then I started having these chills and now it hurts like my chest hurts every time I try to take, try to take a deep breath in.\n\nD: And how long is this been going on for?\n\nP: Um, it's been going on for the past four days.\n\nD: Four days, okay. Um, and do you have any kind"
+    },
+    {
+        "whisper_chunk": "of cough at all No cough Okay so just shortness of breath And can you describe your shortness of breath a little bit Is it are you having catching your breath or would you say you're having trouble taking deep breaths or how would you describe it It's mostly when I'm trying to take a deep breath in Okay and where would you say you're getting the chest pain",
+        "gt_chunk": "D: of cough at all?\n\nP: No cough. \n\nD: Okay, so just shortness of breath. And can you describe your shortness of breath a little bit? Is it uh, are you having catching your breath, or would you say you're having trouble taking deep breaths? Or how would you describe it?\n\nP: It's mostly when I'm trying to take a deep breath in. \n\nD: Okay, and uh, where would you say you're getting the chest pain"
+    },
+    {
+        "whisper_chunk": "It's mostly like center of my chest like close to my like I'd say it's like it feels like it's not my it doesn't feel like it's inside it feels more like it's pushing up on my chest wall Okay I see And is it related to taking deep breaths at all Yes it's definitely when I take a deep breath in Okay and what kind of pain is it Is it like a sharp pain",
+        "gt_chunk": "P: it's mostly like centre of my chest, like, close to my, like I'd say it's like it feels like, it's not my like, it doesn't feel like it's inside. It feels more like it's pushing up on, on my chest wall.\n\nD: Okay, I see. And is it related to you taking deep breaths at all? \n\nP: Yes, it's definitely when I take a deep breath in.\n\nD: Okay, and what kind of pain is it? Is it like a sharp pain"
+    },
+    {
+        "whisper_chunk": "stabbing pain aching pain How would you describe it It's not it's it's like a I don't know I guess it's a sharp pain when I try to take a deep breath in Okay and does it get relieved when you expire Yeah Okay and have you had any of these symptoms before in the past",
+        "gt_chunk": "D: stabbing pain, aching pain? How would you describe it?\n\nP: Um, it's a, it's, it's like a, I don't know. I guess it's a sharp pain when I try to take a deep breath in.\n\nD: Okay, um, and does it get relieved with uh, when you when you expire?\n\nP: Yeah.\n\nD: Okay, and have you had any of these symptoms before in the past"
+    },
+    {
+        "whisper_chunk": "Nothing like this Okay would you say like your symptoms are constant or do they kind of come and go They're pretty constant Okay and are they getting worse at all No it's not getting worse it was just bad to start with and it's still bad Okay and is",
+        "gt_chunk": "P: nothing like this.\n\nD: Okay. Um, would you say like, your symptoms are constant, or do they kind of come and go?\n\nP: Um, they're pretty constant. \n\nD: Okay. And are they getting worse at all?\n\nP: Uh, no it's not getting worse, it was just bad to start with and it's still bad. \n\nD: Okay, and"
+    },
+    {
+        "whisper_chunk": "there anything that you've tried that helps you with your breathing or relieves your chest pain Anything that works for you I guess sitting forward helps trying not to take a super deep breath in Okay and have you had any kind of fevers or chills Yeah I've had chills for sure I felt hot I haven't actually taken",
+        "gt_chunk": "D: there anything that you've tried that helps you with your breathing or relieves your chest pain? Anything that works for you?\n\nP: Um I guess sitting forward helps. Time now to take a super deep breath in.\n\nD: Okay, and have you had any kind of fevers or chills? \n\nP: Uh, yeah, I've, I've had chills for sure. I felt hot. I haven't actually taken"
+    },
+    {
+        "whisper_chunk": "my temperature so I'm not too sure about if I actually have a fever Okay and when did you feel these chills They've been going on for the past three days Okay and do you have any kind of other symptoms like runny nose or throat anything like that Maybe like a slight runny nose yeah Okay and do",
+        "gt_chunk": "P: my temperature, so I'm not too sure about if I actually have a fever.\n\nD: Okay, and when did you feel these chills?\n\nP: They've been going on for the past three days. \n\nD: Okay. Uh, and do you have any kind of other symptoms, like runny nose, sore throat, anything like that?\n\nP: Uh maybe like a slight runny nose, yeah.\n\nD: Okay, and do"
+    },
+    {
+        "whisper_chunk": "you get short of breath when laying down at all No I wouldn't say so Okay and do you have to wake up at night to catch your breath at all No nothing like that Okay and do you have any kind of swelling in your legs hands anywhere No No okay have you experienced any kind",
+        "gt_chunk": "D: you get short of breath when laying down at all?\n\nP: Um, I, no, not no, I wouldn't say so.\n\nD: Okay, and do you have to wake up at night to catch your breath at all?\n\nP: No, nothing like that.\n\nD: Okay, and do you have any kind of swelling in your legs, hands, anywhere? \n\nP: No.\n\nD: Okay. Have you experienced any kind"
+    },
+    {
+        "whisper_chunk": "of dizziness or fainting episodes No Okay do you get any kind of chest pain with any activities No not really I guess I get tired with the shortness of breath Okay and do you find that your heart is racing at all No nothing like that",
+        "gt_chunk": "D:  dizziness or fainting episodes?\n\nP: Uh, no. \n\nD: Okay, do you get any kind of chest pain with any activities?\n\nP: No, not really. I guess it's, I get tired with the shortness of breath.\n\nD: And do you, um, find that your heart is racing at all?\n\nP: Uh no, nothing like that"
+    },
+    {
+        "whisper_chunk": "Okay are you having any night sweats No Okay have you had any sick contacts recently I guess when I went to the grocery store the other day there were people coughing around me Okay and were they wearing masks or were you wearing a mask Yeah everyone was wearing",
+        "gt_chunk": "P: .\n\nD: Are you having any night sweats? \n\nP: No.\n\nD: Um, have you had any sick contacts recently?\n\nP: Uh, I guess when I went to the grocery store the other day and there were people coughing around me.\n\nD: Okay, and were they wearing masks or were you wearing a mask?\n\nP: Yeah, everyone was wearing"
+    },
+    {
+        "whisper_chunk": "a mask Okay Okay are you having any kind of changes in your bowel movements at all any constipation or diarrhea No No okay any changes in your apotato at all I know No any nausea or vomiting No Okay any changes in your urinary pattern No",
+        "gt_chunk": "P: a mask. \n\nD: Okay. Are you um, having any kind of changes in your bowel movements at all? Any constipation or diarrhea? \n\nP: No. \n\nD: No, okay. Any changes in your appetite at all? \n\nP: Uh, no.\n\nD: No. Any nausea or vomiting? \n\nP: No.\n\nD: Okay. Any changes in your urinary pattern?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "No okay any changes in your weight recently Have you lost any significant weight No Have you recently had cold like symptoms at all within the last few weeks Yeah I guess the runny nose I've had on and off for the past seven days Okay and has it gone away No it's",
+        "gt_chunk": "P: No. \n\nD: Okay, any changes in your weight recently? Have you lost any significant weight? \n\nP: No.\n\nD: No, okay. Have you recently had a cold, like cold-like symptoms at all within the last few weeks?\n\nP: Um, yeah, I guess the runny nose. Um, I've had on and off for the past like 7 days.\n\nD: Okay, now, it hasn't gone away?\n\nP: No, it's"
+    },
+    {
+        "whisper_chunk": "not that bothersome though It's more the chills and the shortness of breath and this chest pain now that is worrying me Okay and do you have any past medical conditions or diagnoses I was diagnosed with diabetes high blood pressure and high cholesterol Okay and when were you diagnosed with diabetes I",
+        "gt_chunk": "P: not that bothersome though. It's more the chills and the shortness of breath, and this chest pain now that is worrying me. \n\nD: Okay, and do you have any past medical conditions or diagnoses?\n\nP: Um I was diagnosed with diabetes, um high blood pressure and high cholesterol. \n\nD: Okay, and when were you diagnosed with diabetes?\n\nP: I"
+    },
+    {
+        "whisper_chunk": "was diagnosed about 10 years ago Okay I'm sorry I forgot to ask you this specifically Have you experienced any kind of loss of your sense of taste or smell No No okay Do you take any medications for your medical conditions Medications so I take so for the diabetes I take insulin",
+        "gt_chunk": "P: was diagnosed about 10 years ago.\n\nD: Okay. Um, I'm sorry I forgot to ask you this specifically, have you experienced any kind of loss of your sense of taste or smell?\n\nP: No. \n\nD: No, okay. Um do you take any medications for your medical conditions?\n\nP: Um, medications. So I take, so, for the diabetes I take insulin"
+    },
+    {
+        "whisper_chunk": "for the high blood pressure I take Rimeprol for the high cholesterol I take Resubastatin Okay and do you have any allergies to any medications at all No Okay any recent surgeries or hospitalizations or any reason for why like if you were immobilized at all No I don't think so",
+        "gt_chunk": "P: For the high blood pressure I take ramipril. For the high cholesterol I take rosuvastatin.\n\nD: Okay, and do you have any allergies to any medications at all?\n\nP: No.\n\nD: Okay. Um, any recent surgeries or hospitalizations? Or any reason for why, if like, if you were immobilized at all?\n\nP: Um no, I don't think so"
+    },
+    {
+        "whisper_chunk": "Okay any history of hospitalizations or surgeries at all I had a cholecystectomy about oh gosh it's like 12 years ago Okay and were there any complications at all No Okay any family history of any lung conditions heart conditions or cancers",
+        "gt_chunk": "D: Okay, any history of hospitalizations or surgeries at all?\n\nP: Uh, I had a cholecystectomy about, oh gosh, it's like, 12 years ago. \n\nD: Okay, and were there any complications at all?\n\nP: No. \n\nD: Okay. Um any family history of any lung conditions, heart conditions or cancers"
+    },
+    {
+        "whisper_chunk": "No Okay currently do you work at all Yeah I no I'm retired Okay and what's your living situation like I live with my husband and we live in New York in a condo Okay and are you is your husband well Does he have any symptoms",
+        "gt_chunk": "P: No. \n\nD: Okay. Um currently, do you work at all?\n\nP: No I, no I'm retired.\n\nD: Okay, and what's your living situation like?\n\nP: I live with my husband, um in a condo.\n\nD: Okay. Um and are you, is your husband well? Does he have any symptoms"
+    },
+    {
+        "whisper_chunk": "Yeah he's been okay Okay that's good Any kind of dust or mold asbestos or any pets in your home No nothing like that Okay do you smoke at all I used to but not anymore Okay and how long do you smoke for and how much would you smoke every day So I stopped about 20 years",
+        "gt_chunk": "P: , he's been okay.\n\nD: Okay, that's good. Um, any kind of dust or mold, asbestos or any pets in your in your home?\n\nP: No, nothing like that.\n\nD: Okay. Do you smoke at all?\n\nP: Um I used to, but not anymore.\n\nD: Okay, and how long did you smoke for and how much would you smoke everyday?\n\nP: Uh, so I stopped about 20 years"
+    },
+    {
+        "whisper_chunk": "back I smoked for about 25 years I smoked about a pack a day I see and do you use any recreational drugs like marijuana I don't no Okay and do you drink alcohol at all I'll have a glass of wine here and there Okay and yeah so those were kind of all the questions I had today Do you have any concerns or questions",
+        "gt_chunk": "P: back. I smoked for about 25 years. I smoked about a pack a day.\n\nD: I see, um, and do you use any recreational drugs like marijuana? \n\nP: Um, I don't, no.\n\nD: Okay, and do you drink alcohol at all? \n\nP: I, I'll have a glass of wine here and there.\n\nD: Okay, and um yeah, so those were kind of, all the questions that I had today. Do you have any concerns or questions"
+    },
+    {
+        "whisper_chunk": "Yeah like what do you think I have COVID Yeah so right now it's definitely something that's on everyone's mind Some of these symptoms the shortness of breath and fever definitely can be COVID And that's something that we are going to test you with and that's something we test everyone with But because you're having shortness of breath we do need to make sure nothing else is going on as",
+        "gt_chunk": "P: yeah like what, do you think I have COVID?\n\nD: Yeah so, right now it's definitely something that's on everyone's mind. Um some of these symptoms, um the shortness of breath and fever, definitely can be COVID, and that's something that we are going to test you with, and that's something we test everyone with. Um, but because you're having shortness of breath, uh, we do need to make sure nothing else is going on as"
+    },
+    {
+        "whisper_chunk": "well You can potentially have pneumonia that's not COVID It can be any other virus or bacteria So we will get some blood work done We'll get your temperature and all your vitals taken as well and then get a chest X ray as well And if it turns out at all that you have pneumonia we'll just reassess and see if you need to stay in the hospital for longer if you need any antibiotics within the hospital or you can take them at home",
+        "gt_chunk": "D: well. Uh you can potentially have pneumonia that's not COVID, it can be any other virus or bacteria, so we will get some blood work done, we'll get your temperature and all your vitals taken as well, um and then get a chest x-ray as well.\n\nP: Okay. \n\nD: And if it turns out at all that you have pneumonia, we'll just reassess and see if you need to stay in the hospital for longer, if you need any antibiotics within the hospital, or you can take them at home"
+    },
+    {
+        "whisper_chunk": "So yeah we'll do a full physical examination and do all those tests and then go from there Okay that sounds great thank you You're welcome Yeah we'll be there with you shortly Okay great",
+        "gt_chunk": "D: So yeah, we'll do a full physical examination and do all those tests and then go from there.\n\nP: Okay, that sounds great. Thank you. \n\nD: You're welcome. Um yeah, we'll be there with you shortly.\n\nP: Okay, great"
+    }
+]

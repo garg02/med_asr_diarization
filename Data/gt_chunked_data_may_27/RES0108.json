@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "what brings you in Hi I've just had this cough for the past week and I was worried I might have COVID So I just wanted to I just wanted to be checked Sure so you mentioned you it started a week ago Yeah Has it been persistent or does it come and go It's just been there Been there okay Yeah I just get this itchy sort of like",
+        "gt_chunk": "D: What brings you in?\n\nP: Hi. Uh, I've just had this cough for the past week and I was worried I might have Covid so I just wanted to um I just wanted to be checked.\n\nD: Sure, so you mentioned you, it started a week ago. \n\nP: Yeah. \n\nD: Has it been persistent or does it come and go?\n\nP: Um it's just been there.\n\nD: Been there. OK. \n\nP: Yeah, I just get this itchy sort of uh like"
+    },
+    {
+        "whisper_chunk": "scratchy sensation in my throat and then I just cough and that makes it better Okay okay How would you describe your cough Like is it barky is it harsh is it muffled No I don't I don't think it's barky or harsh Okay and does anything make it better or worse Like you know",
+        "gt_chunk": "P: scratchy sensation in my throat. And then I just cough and um that makes it better. \n\nD: OK. OK, uhm what, how would you describe your cough like is it barky? Is it harsh? Is it muffled?\n\nP: Uhm no, I don't I don't think it's barky or harsh.\n\nD: OK, and does anything make it better or worse like you know"
+    },
+    {
+        "whisper_chunk": "like the cold air laying down a particular time of day Not really I haven't nothing's really helped I also tried a cough syrup It didn't it helped for a couple hours but then it was back again the cough was back again Okay and have you ever experienced anything like this in the past Uh well yeah when I get a cold",
+        "gt_chunk": "D: like the cold air, laying down, at particular time of day?\n\nP: Not really, I haven't uh, nothing's really helped. Um I also tried a cough syrup, um it didn't, it helped for a couple hours, but then it was back again. The cough was back again. \n\nD: OK, and have you ever experienced anything like this in the past?\n\nP: Uh well, I I said yeah when I get a cold"
+    },
+    {
+        "whisper_chunk": "once a year maybe Once a year okay Do you experience any shortness of breath with this cough No No okay Is it a dry cough or do you bring up any phlegm No it's a dry cough Okay any blood that you've seen No no No okay And do you feel wheezy No No chest pain No",
+        "gt_chunk": "P: Once a year maybe.\n\nD: Once a year? OK. Um do you experience any shortness of breath with this cough? \n\nP: No. \n\nD: No, OK. Is it a dry cough or do you bring up any phlegm? \n\nP: No, it's a dry cough.\n\nD: OK, uh any blood that you've seen?\n\nP: No, no.\n\nD: No, OK. And do you feel wheezy?\n\nP: No. \n\nD: No, chest pain? \n\nP: No"
+    },
+    {
+        "whisper_chunk": "No you feeling like your heart's racing No Any swelling in your limbs Uh no No any fainting spells Um no No okay Um do you ever feel like your nose is stuffy or runny No No any changes in your vision or hearing Uh no",
+        "gt_chunk": "D: No, um feeling like your heart's racing?\n\nP: No.\n\nD: Any swelling in your limbs?\n\nP: Uh no.\n\nD: No, any fainting spells?\n\nP: Uhm, no.\n\nD: No, OK. Do you ever feel like your nose is stuffy or runny? \n\nP: No.\n\nD: No, any changes in your vision or hearing?\n\nP: Uh no"
+    },
+    {
+        "whisper_chunk": "Uh sore throat No Um loss of smell or taste No Any weight loss Uh no Fevers I checked no no I don't have a fever No any rashes No Um any changes in your bowel movements Um no I've just been constipated from time to time but that's nothing that's not",
+        "gt_chunk": "D:  sore throat?\n\nP: No.\n\nD: Um loss of smell or taste?\n\nP: No.\n\nD: Any weight loss?\n\nP: Uh no.\n\nD: Fevers? \n\nP: I checked no, no, I don't have a fever.\n\nD: No, any rashes?\n\nP: No.\n\nD: Issues uh, any changes in your bowel movements? \n\nP: Um uh no, I've just been constipated from time to time, but that's nothing, that's not"
+    },
+    {
+        "whisper_chunk": "new Okay constipation And sorry when did your constipation start Oh it's been a problem for years I don't eat enough fiber Okay okay Any changes in your urine No okay any nausea or vomiting Pardon Uh no No okay Any joint pain No No numbness or tingling",
+        "gt_chunk": "P: new.\n\nD: OK, constipation. And I'm sorry when did your constipation start?\n\nP: Oh it's a problem for years. I don't eat enough fibre.\n\nD: Oh, OK. Any changes in your urine?\n\nP: No.\n\nD: OK, any nausea or vomiting?\n\nP: Uh, no.\n\nD: No, OK. Any joint pain? \n\nP: No.\n\nD: No, numbness or tingling"
+    },
+    {
+        "whisper_chunk": "No Headaches No No okay Are you otherwise healthy Do you have any longstanding medical conditions I have diabetes Okay how long have you had diabetes It's been seven years now Okay any hospitalizations or surgeries in the past No Okay and how about medications are you on any",
+        "gt_chunk": "P: No.\n\nD: Headaches?\n\nP: No.\n\nD: No, OK. Are you otherwise healthy? Do you have any longstanding medical conditions? \n\nP: I have diabetes.\n\nD: OK, how long have you had diabetes?\n\nP: It's about, it's been uh seven years now.\n\nD: OK, any hospitalizations or surgeries in the past? \n\nP: No.\n\nD: OK and um how about medications? Are you on any"
+    },
+    {
+        "whisper_chunk": "Yeah I've been taking metformin for the past for the past five years five or six years Okay And my family doc started me on Ramipro about two weeks ago He told me that now that I'm 50 I need to be on this pill as well So now I have to take two pills instead of one Okay Yeah because I think it's good for my heart or something Yeah for sure",
+        "gt_chunk": "P: yeah, I've been taking uh metformin for the past uh, for the past five years, when, five or six years.\n\nD: OK. \n\nP: Um and uh my family Doc started me on uh ramipril about two weeks ago, he told me that uh now that I'm 50, I need to I need to be on this pill as well, so now I have to take 2 pills instead of one.\n\nD: OK. \n\nP: Yeah because I think it's it's good for my heart or something.\n\nD: Yeah, for sure"
+    },
+    {
+        "whisper_chunk": "So you started that two weeks ago okay Are you up to date with all your immunizations Yeah I think so Okay any allergies I'm a penicillin I just get a rash I got a rash when I was a child I haven't had it since then Okay okay Any family history of lung or heart conditions No nothing like that",
+        "gt_chunk": "D: So you started that two weeks ago, OK. Are you up to date with all your immunizations? \n\nP: Uh yeah, I think so.\n\nD: OK, any allergies?\n\nP: Uhm penicillin, I just get uh I get a rash. I got a rash when I was a child, I haven't had it since then.\n\nD: OK, OK. Any family history of lung or heart conditions? \n\nP: Uh no, nothing like that"
+    },
+    {
+        "whisper_chunk": "No okay Do you smoke No No how about marijuana or other recreational drugs No No okay And alcohol Yeah I drink on the weekends Okay what do you drink and how much do you drink I'll have maybe two or three bottles of beer Okay sure And",
+        "gt_chunk": "D: No, OK. Do you smoke? \n\nP: Uh, no.\n\nD: No, how about, uh, marijuana or other recreational drugs?\n\nP: No. \n\nD: No, OK, um alcohol?\n\nP: Uh yeah, I drink on the weekends.\n\nD: OK, what do you drink and how much do you drink?\n\nP: I'll have maybe two or three uh bottles of beer.\n\nD: OK sure, and"
+    },
+    {
+        "whisper_chunk": "have you been in contact with any sick people recently No no I've just been staying at home I'm just scared of COVID but I'm still worried I might have somehow gotten it Yeah for sure Any travel recently No okay And where do you live right now I live in a house with my wife and my",
+        "gt_chunk": "D: have you been in contact with any sick people recently? \n\nP: No, no, I've just been staying at home.I'm just scared of covid, but I'm I'm still worried I might have somehow gotten it. \n\nD: Yeah, for sure. Uhm, any travel recently?\n\nP: No.\n\nD: No, OK. And where do you live right now?\n\nP: I live in a house with my wife and my"
+    },
+    {
+        "whisper_chunk": "two kids Okay Are they healthy Yeah they're all healthy Okay Any old carpet dust mold or asbestos in your home Not that I'm aware of No okay Okay well it seems like those are all the questions that I had for you today Did you have any questions of your own No I just wanna get tested for COVID Yeah",
+        "gt_chunk": "P: two kids. \n\nD: OK, uh are they healthy?\n\nP: Yeah, they're all healthy.\n\nD: OK. Any old carpet, dust, mold, or asbestos in your home? \n\nP: Um not that I'm aware of.\n\nD: No, OK. OK, well it seems like um those are all the questions that I had for you today. Did you have any questions of your own?\n\nP: Uh no, I just want to get tested for Covid. \n\nD: Yeah"
+    },
+    {
+        "whisper_chunk": "So we'll definitely do a COVID swab on you because you have a cough And those results should come back to you in about 24 to 48 hours So you'll know more then But because your symptoms do overlap with that of COVID we still recommend isolating for 14 days But the other thing I want to mention is that you don't have any other symptoms of infection besides your cough And it seems like the cough started a week ago and",
+        "gt_chunk": "D:  will definitely do a Covid swab on you because you have a cough, um and those results should come back to you in about 24 to 48 hours, and so you'll know more then. But because your symptoms do overlap with that of Covid, we still recommend isolating for 14 days. But the other thing I want to mention is that you don't have any other symptoms of infection besides your cough, and it seems like the cough started a week ago and"
+    },
+    {
+        "whisper_chunk": "you started this new medication Ramipril two weeks ago So Ramipril is a type of ACE inhibitor And one of its side effects is that in some people it can cause coughing So I am going to review your medications And if your family doc also agrees we may try another blood pressure medication for you instead of Ramipril",
+        "gt_chunk": "D: you started this new medication ramipril two weeks ago, and so ramipril is a type of ACE inhibitor and one of its side effects is that in some people it can cause coughing. So, I am going to review your medications and if your family Doc also agrees, we may try uh another um blood pressure medication for you instead of ramipril"
+    },
+    {
+        "whisper_chunk": "And so we'll try and change that medication and see if your coughing stops How does that sound Yeah it sounds great Okay great Thank you",
+        "gt_chunk": "D:  so we'll try and change that medication and see if your coughing stops. How does that sound? \n\nP: Sounds great.\n\nD: OK, great, thank you"
+    }
+]

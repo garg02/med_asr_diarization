@@ -1,0 +1,130 @@
+[
+    {
+        "whisper_chunk": "what brings you in Yeah so I've had this back pain that's been going on now for the last two weeks It's just kind of right in the lower back and it just hasn't gone away Okay last two weeks you said Is it getting worse I know it's not really getting any worse",
+        "gt_chunk": "D: What brings you in?\n\nP: Hi, yeah, so I've had this uh back pain that's been going on now for the last uh two weeks, it's just kind of right in the lower back and it just hasn't gone away. \n\nD: OK, um last two weeks you said, is it getting worse?\n\nP: Uh no, it's not really getting any worse"
+    },
+    {
+        "whisper_chunk": "It's just been limiting my abilities at work Right okay and what do you do for work So I work at a butcher shop Okay Yeah we're like always like carrying heavy things and yeah it's a lot a lot of like lifting and standing Okay did anything trigger this back pain two weeks ago Did",
+        "gt_chunk": "P: it's just been uh limiting my abilities at work.\n\nD: Right, OK, and what do you do for work?\n\nP: So I work um at a butcher shop. \n\nD: OK.\n\nP: Yeah, and we're like always like carrying heavy things and yeah, it's a lot a lot of like lifting and standing.\n\nD: OK. Did anything trigger this back pain two weeks ago? Did"
+    },
+    {
+        "whisper_chunk": "you have some sort of injury or trauma to the area No I can't think of anything like specific that happened but there was one night where I like after work I was sitting down after dinner and I got pretty stiff that night It was pretty sore and kind of ever since then it's been been sore Okay",
+        "gt_chunk": "D: you have some sort of injury or trauma to the area?\n\nP: No, I can't think of anything uh like specific that happened, but there was one night where um like after work, I was sitting down after dinner and um I got pretty stiff that night. It was pretty sore and kind of ever since then, it's been been sore.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "okay and is this a persistent kind of back pain or does it come and go It's I can kind of always feel it but it certainly gets worse if I am moving So if I'm just kind of sitting at rest I don't really yeah I don't really feel it that much Okay okay and if you were to describe the quality of this pain",
+        "gt_chunk": "D:  and is this a persistent kind of back pain or does it come and go?\n\nP: It's um, I can kind of always feel it, but it certainly gets worse if I am moving. So if I'm just kind of sitting at rest, I don't really, yeah, I don't really feel it that much.\n\nD: OK, OK, and if you were to describe the quality of this pain"
+    },
+    {
+        "whisper_chunk": "would you say it's sharp throbbing achy crampy I would say I get kind of a it's a sharp pain Sharp pain okay Does anything make it better or worse Better would just be resting Okay Just laying down",
+        "gt_chunk": "D: would you say it's sharp, throbbing, achy, crampy? \n\nP: I'd say I get kind of uh, it's a sharp pain. \n\nD: Sharp pain, OK. Um does anything make it better or worse?\n\nP: Um better would just be uh resting.\n\nD: OK.\n\nP: Um kind of just lying down"
+    },
+    {
+        "whisper_chunk": "or yeah just just trying to rest but making it worse yeah if I'm like really any movement if I'm like bending forward or kind of like leaning to the sides I start to get get some pain in the lower back Okay okay and then",
+        "gt_chunk": "P:  yeah, just just trying to uh rest. But um making it worse, yeah, if I'm uh like really any movement um if I'm like bending forward or um kind of like leaning to the side, I start to get um get some pain in the lower back. \n\nD: OK, OK. And then"
+    },
+    {
+        "whisper_chunk": "1 to 10 10 being the worst pain you've ever felt how bad or how severe would you rate it I would say a 7 A 7 okay and have you ever had pain like this in the past Yeah I've hurt my lower back before like but it's been okay since then Okay did you",
+        "gt_chunk": "D: 1 to 10, 10 being the worst pain you've ever felt, how bad or uh how severe would you rate it? \n\nP: I would say 7. \n\nD: A 7, OK. And have you ever had pain like this in the past?\n\nP: Uh yeah, I've I've hurt my lower back before like many years ago. Um but it's been OK since then. \n\nD: OK. Uh did you"
+    },
+    {
+        "whisper_chunk": "get any sort of treatment or management for that pain back in the day At that time it was just rest and I did some stretching and I took some anti inflammatories and it went away after a couple of months Okay okay and are you having any sort of like numbness or tingling",
+        "gt_chunk": "D: get any sort of treatment or management for that pain um back in the day?\n\nP: At that time it was just rest and like did some stretching and I took some um anti inflammatories and it went away after a couple of months. \n\nD: OK, OK. Um and are you having any sort of like numbness or tingling"
+    },
+    {
+        "whisper_chunk": "No Anywhere on your body No nothing like that All right how about any muscle weakness No muscle weakness No okay Are you still able to walk and do things that you normally would do in a day Yeah I'm able to walk still Okay any dizziness or fainting spells Nope nothing like that",
+        "gt_chunk": "D: , anywhere on your body?\n\nP: No, nothing like that. \n\nD: Alright, how about any muscle weakness?\n\nP: Uh no muscle weakness. \n\nD: No, OK. Are you still able to walk and do things that you normally would do in a day?\n\nP: Uh yeah, I'm able to walk still. \n\nD: OK. Um any dizziness or fainting spells?\n\nP: Nope, nothing like that"
+    },
+    {
+        "whisper_chunk": "Okay any pain elsewhere on your body No just just the lower back yeah Okay headaches Nope Okay weight loss No I haven't had any weight loss Okay fevers or chills Nope no fevers or chills Rashes No rashes Okay changes in your vision hearing taste",
+        "gt_chunk": "D: OK. Any pain elsewhere on your body?\n\nP: No, just just the lower back, yeah. \n\nD: OK. Headaches?\n\nP: Uh nope. \n\nD: OK, weight loss?\n\nP: No, I haven't had any weight loss.\n\nD: OK. Fevers or chills? \n\nP: Nope, no fevers or chills. \n\nD: Um rashes?\n\nP: Uh no rashes.\n\nD: Changes in your vision, hearing, taste"
+    },
+    {
+        "whisper_chunk": "or smell No changes like that Okay any coughing shortness of breath or wheeziness Nope nothing like that Okay chest pain or heart palpitations Nope nothing like that Okay any changes in your bowel movements No changes to bowel movements no diarrhea no incontinence or anything like that Okay good",
+        "gt_chunk": "D: or smell?\n\nP: No changes like that.\n\nD: OK. Any coughing, shortness of breath or wheeziness? \n\nP: Um nope, nothing like that.\n\nD: Um chest pain or heart palpitations?\n\nP: Nope, nothing like that.\n\nD: OK. Issues or changes in your bowel movements?\n\nP: Uh no changes to bowel movements, no diarrhea and no incontinence or anything like that.\n\nD: OK,"
+    },
+    {
+        "whisper_chunk": "And then nausea or changes to your appetite Nope I've been eating I've been eating well Changes in your voiding Nope I haven't had any changes to urination Okay and then are you otherwise",
+        "gt_chunk": "D:  um changes to your appetite?\n\nP: Um nope, I've been eating uh, I've been eating well.\n\nD: Changes in your voiding?\n\nP: Uh nope, I haven't had any changes to urination.\n\nD: OK. Um and then are you otherwise"
+    },
+    {
+        "whisper_chunk": "healthy or do you have any long standing medical conditions I've had a few sports injuries when I was younger like to my knee but that's it I've been healthy otherwise Okay and those injuries are they all healed Sometimes I'll get like a little achiness",
+        "gt_chunk": "D: healthy or do you have any longstanding medical conditions?\n\nP: Uh I I've had a few sports injuries when I was younger, uh like to my my knee, but that's it, I've been healthy otherwise.\n\nD: OK and um those injuries, are they all healed?\n\nP: Uh sometimes I'll get um like a little achiness"
+    },
+    {
+        "whisper_chunk": "in my knee from from doing like too much activity but I know when that happens Okay are you on any medications No I don't take any medications Okay are you up to date with all your immunizations I am yep Okay do you have any allergies No allergies Okay any family history",
+        "gt_chunk": "P: in my knee from from doing like too much activity, but I know when those, when that happens.\n\nD: OK. Are you on any medications?\n\nP: No, I I don't uh take any medications.\n\nD: OK. Are you up to date with all your immunizations? \n\nP: I am, yep.\n\nD: OK. Um do you have any allergies?\n\nP: Uh, no allergies.\n\nD: OK, any family history"
+    },
+    {
+        "whisper_chunk": "of muscular or skeletal issues No nothing like that Okay how about heart or lung diseases No no heart or lung diseases Okay how about no cancers Okay",
+        "gt_chunk": "D:  muscular or skeletal issues?\n\nP: Um no, nothing like that.\n\nD: OK, how about um heart or lung diseases?\n\nP: Uh, no, no heart or lung diseases. \n\nD: OK, uhm how about"
+    },
+    {
+        "whisper_chunk": "and do you smoke No I don't smoke Okay and do you consume marijuana Sometimes I'll have like edible little candy sometimes at nighttime They help me relax and sleep but don't use that very often Okay how often do you use them I would say",
+        "gt_chunk": "D: and do you smoke?\n\nP: Um no, I don't smoke.\n\nD: OK and do you consume marijuana?\n\nP: Uh sometimes, I'll have like uh edibles, little candy, sometimes at nighttime they they help me uh relax and sleep, but I don't use that very often.\n\nD: OK, how often do you use them? \n\nP: I would say"
+    },
+    {
+        "whisper_chunk": "maybe like once a week Once a week okay all right and then what else do I want to ask you Do you take any reputational drugs No and I haven't used any before Okay and how about alcohol Do you consume two or three",
+        "gt_chunk": "P: maybe uh once a week.\n\nD: Once a week, OK. Alright um and then, what else did I wanna ask you? Um do you, do you take any recreational drugs?\n\nP: No, and I haven't used any before.\n\nD: OK, and how about alcohol, do you consume"
+    },
+    {
+        "whisper_chunk": "Okay and who and where do you live right now Yeah I live with my wife and our son who's in high school We live in a Oh no I've been with my wife now",
+        "gt_chunk": "D:  with and where do you live right now?\n\nP: Yeah, I live with my wife and our um and our son who's in high school. We live in a in a house."
+    },
+    {
+        "whisper_chunk": "for a long time and we've been monogamous so no concerns for a sexually transmitted infection right now Okay how about sick contacts Have you been in contact with anyone sick recently No I don't think so Okay any travel recently",
+        "gt_chunk": "P: for a long time and we've been monogamous so no concerns for uh sexually transmitted infection right now.\n\nD: OK, how about um sick contacts, have you been in contact with anyone sick recently? \n\nP: No, I don't think so.\n\nD: OK, any travel recently"
+    },
+    {
+        "whisper_chunk": "Nope I haven't traveled anywhere Okay and well let's move on to the physical exam part of this interview So I'm going to get you to stand up from a sitting position Does that hurt your back Yeah it does I do feel a little bit of a twinge there Okay and where about",
+        "gt_chunk": "P: no, I haven't traveled anywhere.\n\nD: OK um and well, let's move on to the physical exam part of this interview. Um so I'm going to get you to stand up from a sitting position. Does that hurt your back?\n\nP: Um yeah it does. I I do feel a little bit of a a twinge there.\n\nD: OK, and where about"
+    },
+    {
+        "whisper_chunk": "specifically Kind of just yeah on the lower right side like more on the right side Okay now if you have a mirror with you or if you have someone there with you who can speak to this does your right side appear more red swollen or hot compared to your left side of the lower back No nothing like that No",
+        "gt_chunk": "D: specifically?\n\nP: Kind of just, yeah, on the lower uh lower right side like more on the, more on the right side.\n\nD: More on the right side, OK. Now, if you have a mirror with you, or if you have someone there with you who can um speak to this, does your right side appear more red, swollen, or hot compared to your left side of the lower back?\n\nP: Uh no, nothing like that. \n\nD: No"
+    },
+    {
+        "whisper_chunk": "okay and does it seem like it's more atrophied or do you see any deformities or skin changes in that area Nope no deformities or skin changes Okay all right now I'm going to get you to stand up if you can Yeah I can get part way down You can get part way down Does it hurt Um",
+        "gt_chunk": "D: , and does it seem like it's more atrophied or do you see any deformities or skin changes in that area?\n\nP: Uh nope, no deformities or skin changes. \n\nD: OK, um alright and I'm gonna get you to um bend down all the way and touch your toes if you can.\n\nP: Um yeah I I can get part part way down.\n\nD: You can get partway down, does it hurt?\n\nP: Um"
+    },
+    {
+        "whisper_chunk": "a little bit I can feel it pulling and stretching yeah Okay all right and then I'm going to get you to like laterally flex to your right side So kind of like you're doing an exercise and you're just like bending towards that side Yeah",
+        "gt_chunk": "P: a little bit, I can feel it pulling and stretching, yeah.\n\nD: OK. Um alright, and then I'm gonna get you to uh like laterally flex to your right side. So kind of like you're doing an exercise um and you're just like bending towards that side.\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "that hurts That hurts Okay how about the other side the left side Yeah that hurts too Okay and now I'm going to get you to bring your knees up towards the ceiling Does that hurt One at a time Like your right knee and your left knee Uh not really No okay how about when",
+        "gt_chunk": "P: that hurts.\n\nD: That hurts, OK, how about the other side, the left side?\n\nP: Yeah that hurts too.\n\nD: OK. Um and now I wanna get you to uh bring your knees up towards the ceiling. Does that hurt? One at a time, like your right right knee and your left knee.\n\nP: Uh, not really.\n\nD: No, OK, how about when"
+    },
+    {
+        "whisper_chunk": "you flex your knees backwards and kind of point your knees towards the ground No no pain there Okay so no pain on knee extension or when you point your toes to the ceiling No pain there Okay so no pain on plantar flexion How about when you point",
+        "gt_chunk": "D: you um flex your knees backwards?\n\nP: Nope.\n\nD: And kind of point your knees towards the ground.\n\nP: No, no pain there.\n\nD: OK, so no pain on knee extension or flexion. Um how about when you point your toes to the ceiling?\n\nP: Uh no pain there.\n\nD: OK so no pain on plantar flexion, how about when you point"
+    },
+    {
+        "whisper_chunk": "your toes to the ground No pain with there Okay so no pain on dorsiflexion And then sorry I forgot to ask you earlier do you have any sort of numbness in the groin area No no numbness in the groin area Okay so no numbness in the groin area no weakness no changes in your bowel or bladder habits including no",
+        "gt_chunk": "D: your uh toes to the ground?\n\nP: No pain there.\n\nD: OK, so no pain on dorsiflexion, and then sorry I forgot to ask you earlier, do you have any sort of numbness in the groin area?\n\nP: No, no numbness in the groin area.\n\nD: OK, so no numbness in the groin area, no weakness, no um changes in your bowel or bladder habits, including no"
+    },
+    {
+        "whisper_chunk": "incontinence so no red flags Okay No yeah nothing like that Okay okay good And okay so those are all the questions that I had for you Did you have any questions for myself No I was just yeah kind of curious if you had any x rays or like what's going on Yeah so what it sounds like right now is that you have something called mechanical back pain It's",
+        "gt_chunk": "D: incontinence, so uh no red flags?\n\nP: Yeah, nothing like that.\n\nD: OK, OK, good um and, OK so those are all the questions that I had for you. Did you have any questions for myself?\n\nP: Uh, no I was just uh yeah, kind of wondering do I do I need any X Rays or like what what what's going on?\n\nD: Yeah, so um what it sounds like right now is that you have something called mechanical back pain. It's"
+    },
+    {
+        "whisper_chunk": "pretty common and it can be anything from your spinal joints to the discs to the vertebrae or soft tissue or muscle And a lot of these can be caused by hard activity at work like carrying heavy things and then carrying them in like an improper",
+        "gt_chunk": "D: pretty common and um it can be anything from your spinal joints to the discs to the vertebrate or soft tissue or muscle. Um and a lot of these can be caused by um hard activity at work, um like carrying heavy things um and then carrying them in like an improper"
+    },
+    {
+        "whisper_chunk": "position or something like that And we diagnose that on history and physical exam but if after we try some management and treatment plans it doesn't go away and it persists for more than eight weeks we do recommend imaging including an MRI So in terms of management for right now modified activity at work some short",
+        "gt_chunk": "D: position or something like that. Um and we diagnose that on history and physical exam, um but if after we try some management and treatment plans, it doesn't go away and it persists for more than eight weeks, we do recommend imaging, including an MRI. So uh in terms of management for right now, um modified activity at work, um some short"
+    },
+    {
+        "whisper_chunk": "term bed rest very short term though and bed rest is only really recommended if you have severe back pain and muscle spasms and you definitely shouldn't be doing that for more than like 24 to 48 hours Physical activity can help so referral to physical therapy or physiotherapy can help in rehab and they'll give you some exercises that you can try",
+        "gt_chunk": "D: term bed rest, uh very short term though um and bed rest is only really recommended if you have severe back pain and muscle spasms, um and you definitely shouldn't be doing that for more than like 24 to 48 hours, and physical activity can help, um so referral to physical therapy or physiotherapy um can help in rehab and they'll give you some exercises that you can try"
+    },
+    {
+        "whisper_chunk": "at home to kind of strengthen those muscles And then ice and heating packs temporarily can help medications like NSAIDs can help as well with the inflammation So we'll try these things out and then we'll continue to follow up Yeah did you have any questions or does that sound like an okay plan That sounds like a good plan Okay",
+        "gt_chunk": "D: at home to kind of um strengthen those muscles. And then ice and heating packs um temporarily can help, uh medications like NSAIDs can help as well with the inflammation. Um so we'll try these things out and then we'll continue to follow up. Um yeah, did you have any questions or does that sound like an OK plan?\n\nP: Uh that sounds like a good plan.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "sounds good Thank you",
+        "gt_chunk": "D: sounds good, thank you"
+    }
+]

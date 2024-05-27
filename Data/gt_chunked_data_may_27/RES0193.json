@@ -1,0 +1,98 @@
+[
+    {
+        "whisper_chunk": "brings you in here today I bring you my son today because I've noticed he's been having this cough sometimes he'll have it at night and and he'll have some wheezing and difficulties breathing as well Okay and when did this all start So I've been noticing it over the last several months it's been happening a couple",
+        "gt_chunk": "D: brings you here today?\n\nP: Hi, I bring you my son today because I've noticed he's had been having this cough sometimes he\u2019ll have it at night and and, he'll have some wheezing and difficulties breathing as well.\n\nD: OK, and when did this all start? \n\nP: So I I've been noticing it over the last several months. It's been happening um a couple"
+    },
+    {
+        "whisper_chunk": "of times per week where he'll get this cough and at nighttime and yeah so over the last several months Okay and did it start with coughing or like the shortness of breath What did it kind of start with More of the coughing yeah you just get it at nighttime and then sometimes he would get it like",
+        "gt_chunk": "P: of times per week where he'll get this cough and that at night time and yeah so over the last several months.\n\nD: OK, and what did it start with coughing or like the shortness of breath? What would it kind of start with?\n\nP: Are more the, uh, the coughing, yeah, he just get it at night time and then sometimes he would get it um like"
+    },
+    {
+        "whisper_chunk": "at school as well or even if he went over to one of his friends houses sometimes he would come home and or afterwards he would have a cough and a wheeze and and be short of breath Okay and so is it usually after he's worked himself up and like exercised or like just been really active Yeah definitely",
+        "gt_chunk": "P: at school as well. Or even if you went over to one of us, his friends houses, sometimes he would come home and or afterwards he would have a cough and wheeze and and be short of breath.\n\nD: OK, and so is it. Usually after he's worked himself up and like exercise or like just been really active? \n\nP: Yeah, that definitely"
+    },
+    {
+        "whisper_chunk": "I've noticed it after those times for sure Okay and are these like the coughing is it wet or dry It's a dry cough Dry cough okay so no yellow green material or blood coughed up No nothing like that coughed up Okay and you're saying you also hear a wheezing right",
+        "gt_chunk": "P: I noticed that after those times for for sure.\n\nD: OK, and are these like the coughing? Is it wet or dry?\n\nP: It's it's a dry cough. \n\nD: Dry cough OK, so no yellow green material or blood coughed up/\n\nP: No, nothing like that. Uh coughed up. \n\nD: OK, and you're saying you also hear wheezing, right"
+    },
+    {
+        "whisper_chunk": "Yeah I'll hear a wheeze he has this like high pitched whistling sound when he exhales Okay and has he at all had this happen before or is this the first time this is happening Like when he was really young I think like two he had bronchiolitis or something like that I think it was called he had a cough and",
+        "gt_chunk": "P: Yeah, I'll hear a wheeze. He has this like high pitched whistling sound when he exhales.\n\nD: OK, and has he at all had this happen before? Or is this the first time this is happening?\n\nP: Um like when he was really younG I think like two he had like bronchiolitis or something like that. I think it was called you had a cough and"
+    },
+    {
+        "whisper_chunk": "like a wheeze at that time but I think it was because of a like an infection or viral illness I see has he had any sore throat runny nose cold like symptoms at all recently No it hasn't had anything like that Okay okay so his symptoms mainly occur when he's very active so they kind of come and go and have you tried it at all anything that has helped with the symptoms",
+        "gt_chunk": "P: like a wheeze at that time, but I think it was because of a like an infection or viral a viral illness. \n\nD: I see. Um has he had any uh sore throat, runny nose, cold like symptoms at all recently?\n\nP: No, he hasn't had anything like that.\n\nD: OK, OK, so his symptoms mainly occur when he's very active um, so they kind of come and go, and have you tried it at all anything that has helped with the symptoms"
+    },
+    {
+        "whisper_chunk": "No I haven't tried anything Okay any kind of dizziness changes in his behavior at all from being very irritable to very fatigued anything like that No nothing like that Okay any fevers or chills No Okay any recent travel or contact with someone who's been sick No Okay any nausea",
+        "gt_chunk": "P: No, I haven't tried anything.\n\nD: OK, any kind of dizziness, changes in his behavior at all from being very irritable to very fatigued? Anything like that? \n\nP: No, nothing like that.\n\nD: OK, um any fevers or chills?\n\nP: No. \n\nD: OK, any recent travel or contact with someone who's been sick. \n\nP: No.\n\nD: OK, any nausea"
+    },
+    {
+        "whisper_chunk": "or vomiting No Okay any changes in his bowel movements No he hasn't had any diarrhea so no diarrhea no constipation Okay and any changes in his appetite at all No he's been eating and growing well Any changes in his weight Yeah yeah he's been gaining weight over the last over",
+        "gt_chunk": "D: or vomiting \n\nP: No.\n\nD: OK, any changes in his bowel movements?\n\nP: No, he hasn't had any diarrhea, so no diarrhea, no constipation.\n\nD: OK, and um any changes in his appetite at all?\n\nP: Um no he's been eating and growing well.\n\nD: OK any changes in his weight?\n\nP: Yeah yeah, he's been gaining weight uh over the last over"
+    },
+    {
+        "whisper_chunk": "the last little while I think he's been gaining weight appropriately Okay do you find that his symptoms get worse in any particular season like the winter or anything like that Yeah I mean sometimes I guess like in the in the fall or when the seasons change he does get like itchy eyes and like a runny nose I think he does have",
+        "gt_chunk": "P: the last little while. I think he's been gaining\nweight appropriately.\n\nD: OK, um do you find that his symptoms get worse in any particular season like the winter or anything like that?\n\nP: Um. I yeah. I mean sometimes I guess like in the in the fall or when the seasons change she does get like itchy eyes and like a runny nose. I think he does have"
+    },
+    {
+        "whisper_chunk": "maybe some environmental allergies Okay okay and at home or at school any exposure to like fumes dust or animals No animals at home but the friend's house he goes over to sometimes they have a cat there Okay and does he get those symptoms at his friend's house Yeah sometimes he'll come he'll",
+        "gt_chunk": "P: maybe some environmental allergies.\n\nD: OK, OK, and at home or at school any exposure to like fumes, dust or animals?\n\nP: Um no animals at at home, but the friends house he goes over to sometimes they have um a cat there. \n\nD: OK and does does he get those symptoms at his friends house?\n\nP: Yeah, sometimes he'll come, he'll"
+    },
+    {
+        "whisper_chunk": "have a bit of a cough and you can hear a wheeze sometimes that after it goes away relatively quickly we're like within 30 to 60 minutes and but yeah Okay any past medical conditions that he's been of I think bronchiolitis when he was young but",
+        "gt_chunk": "P: have a bit of a cough and you can hear a wheeze sometimes that after, it goes away uhh relatively quickly we like within 30 to 60 minutes and, but um yeah.\n\nD: OK. Any past medical conditions that he's been diagnosed with?\n\nP: No, he just had that yeah the episode of I think bronchiolitis when he was young, but"
+    },
+    {
+        "whisper_chunk": "that was it Okay any medications that he has to take regularly No No any allergies to any medications No No any allergies to any environmental or food factors No I don't think so Okay has he had any rashes at all previously",
+        "gt_chunk": "P: that was it. \n\nD: OK, any um medications that he has to take regularly? \n\nP: No. \n\nD: No, any allergies, training medications?\n\nP: Uhm, no.  \n\nD: No, or any allergies to any environmental or food factors.\n\nP: Uhm, no, I don't think so.\n\nD: OK, have you had any rashes at all previously"
+    },
+    {
+        "whisper_chunk": "No he hasn't had any rashes Okay and any hospitalizations or surgeries Nope Okay and any family history of any heart or lung conditions any history of asthma at all Yeah his mom has asthma",
+        "gt_chunk": "P:  he hasn't had any rashes. \n\nD: OK. And um. Any hospitalizations or surgeries? \n\nP: Uh nope. \n\nD: OK. And any family history of any heart lung conditions? Any history of asthma at all?\n\nP: Um yeah, his mom has a has"
+    },
+    {
+        "whisper_chunk": "and she uses an inhaler daily for it Okay has when did the mom get diagnosed with asthma was it during childhood Yeah she was younger ever she's had she's had asthma hasn't had any real I guess exacerbations that I've noticed or been",
+        "gt_chunk": "P: and she uses a an inhaler like daily for it. \n\nD: OK has, when did um the mom get diagnosed with asthma? Was it during childhood?\n\nP: Yeah, she was younger. Um ever since I've known her, she said she's had she's had asthma. It hasn't had any like real I guess exacerbations that that I've noticed or been"
+    },
+    {
+        "whisper_chunk": "able to control her symptoms with with inhalers Okay and for him how many times would you say he's having these episodes in an average week now I would say two Two and is he getting any of these symptoms at nighttime like waking up He is yeah it's it is happening at night Okay and then has he missed any days of school due to this",
+        "gt_chunk": "P: able to control her symptoms with with um inhalers.\n\nD: And um for him, how many times would you say he's having these episodes in an average week now?\n\nP: Uh I would say 2.\n\nD: 2 and is he getting Any of these symptoms at night time, like him waking up? \n\nP: He is yeah it's it. It is happening at night.\n\nD: OK, and then as he missed any days of school due to this"
+    },
+    {
+        "whisper_chunk": "Yeah he's missed a couple of days in the past month because he just didn't sleep well and then not Yeah so and any issues with the mother's pregnancy with him at all No she's healthy and",
+        "gt_chunk": "P: Yeah um. He's missed a couple of days in the past month because uh he just didn't sleep well and then not feeling good the next day. So um yeah, he has.\n\nD: OK. Yeah, so and any issues with the mother's pregnancy with him at all?\n\nP: No, she's healthy and"
+    },
+    {
+        "whisper_chunk": "the delivery was at term with a normal body weight or birth weight rather and he he was healthy when he was born So no prolonged stay in the he was able to go home luckily Okay and afterwards has he been meeting all his milestones like his motor gross motor fine motor",
+        "gt_chunk": "P: the delivery was at term with a normal body weight or birth weight rather and he he was healthy when he was born.\n\nD: So no prolonged stay in the ICU or hospital after that?\n\nP: No, he was able to go home, luckily. \n\nD: OK, and afterwards has he been meeting all his milestones like his motor gross motor, fine motor"
+    },
+    {
+        "whisper_chunk": "social skills and growth and all of those has he been meeting them well He has yeah yeah he's been meeting all those milestones and growing well Okay and any at all issues from the school in terms of learning difficulties or anything like that No he's been doing well in school Okay that's good Does he have any siblings",
+        "gt_chunk": "D: social skills and growth and all of those have been meeting them well.\n\nP: He has, yeah yeah. He's been meeting all of his milestones and growing well.\n\nD: OK, and um any at all issues from the school in terms of learning difficulties or anything like that?\n\nP: No, he's been doing well uh in school.\n\nD: OK, that's good. Um does he have any siblings"
+    },
+    {
+        "whisper_chunk": "No he's it's just him he's the only child Okay and what's the home situation like who does he live with So it's myself and my wife which is his mom and so it's just us three and we live in a in a house Okay and anyone in the household does anyone smoke at all No there aren't any smokers in the home",
+        "gt_chunk": "P: no, he's a it it's just him. He's our only child \n\nD: And what's the home situation like? Who does he live with?\n\nP: So it's myself and my wife, which his mom, and so it's just us three and we live in a um in a house.\n\nD: OK. Uh, and anyone in the household uh? Does anyone smoke at all?\n\nP: No, there aren't any smokers in the home"
+    },
+    {
+        "whisper_chunk": "Okay and any new carpets or any dust or any or mold or anything like that in the house There is a carpet in the basement that he uses that as his playroom sometimes Okay okay yeah so those are all the questions I had Do you have any questions at all Yeah I was just wondering like if this could",
+        "gt_chunk": "D: OK, and any new carpets or any dust running or mold or anything like that in the house?\n\nP: That there is a carpet and in the basement that, he uses that as his playroom, sometimes \n\nD: OK. OK. Yeah, so those are all the questions I had. Do you have any questions at all?\n\nP: Yeah, I was just wondering like if this could"
+    },
+    {
+        "whisper_chunk": "be maybe asthma as well Yeah so definitely that's something that's at the top of our head right now especially due to his age and the symptoms that he's been having after exertion in particular and the family history of asthma as well So definitely that's something that we want to investigate So what we'll do for him is first we'll do",
+        "gt_chunk": "P: be maybe asthma as well?\n\nD: Yeah, so definitely. That's something that's at the top of our head right now, especially due to his age and the symptoms that he's been having after exertion in particular. And the family history of asthma as well. So definitely that's something that we want to investigate. So what we'll do for him is first, we'll do"
+    },
+    {
+        "whisper_chunk": "like a full physical examination listen to his lungs and just assess his breathing Afterwards we will order some tests for him So he's six years old right He is yes Okay so we'll see if we can do something called a pulmonary function test Sometimes it depends on the child if they're able to follow instructions and so that test requires",
+        "gt_chunk": "D: like a full physical examination. Listen to his alongs. And just assess his breathing and then afterwards we will order some tests for him, so he's six years old, right?\n\nP: He is yes.\n\n\nD: OK, so we'll see if we can do something called a pulmonary function test. Sometimes it depends on the child \nif they're able to follow instructions, and so that test requires"
+    },
+    {
+        "whisper_chunk": "completely breathing out and following some instructions during the test So since he's six he might be able to do that We can try that and then afterwards we'll see if he requires anything like an allergy testing or we might need to help manage his symptoms with a puffer for example like Ventolin and",
+        "gt_chunk": "i: completely breathing out and following some instructions during the test. So since he's six, he might be able to do that. We we can try that. And then afterwards we'll see if he requires anything like an allergy testing or we will we might need to help manage his symptoms with a puffer, for example, like Ventilin and"
+    },
+    {
+        "whisper_chunk": "inhaled corticosteroid But those are just some discussions we'll have in the near future after we've done all these investigations Okay great thank you You're welcome take care",
+        "gt_chunk": "i: inhaled Cortico steroid, but those are just some discussions will have in the near future after we've done all these investigations.\n\nP: OK, great, thank you.\n\nD: You're welcome alright, take care"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "Can you just tell me a little bit about what brings you in here today Yeah I I have a cough okay and What kind of cough is it like a dry cough or is it more Like productive coughs I always seem to bring up some gunk on my when I cough Okay and what what color is this gunk It's green sometimes yellowish",
+        "gt_chunk": "D: Can you just tell me a little bit about what brings you in here today? \n\nP: Yeah, I I have a cough.\n\nD: OK, and uh, what kind of cough is it like a dry cough? Or is it more like productive cough?\n\nP: I always seem to bring up some gunk on my when I cough.\n\nD: OK, and what what colour is this gunk? \n\nP: It's green, sometimes yellowish"
+    },
+    {
+        "whisper_chunk": "Okay and have you noticed at all any kind of blood in the cough No blood no Okay and how much of the gunk or the sputum would you say you bring up every day a couple of Kleenexes I'll use but so it not that much",
+        "gt_chunk": "D: OK, and have you noticed at all any kind of blood in the cough?\n\nP: Well, no blood.\n\nD: No, OK, and how much of the gunk or the sputum would you say you bring up every day?\n\nP: Uh a couple of kleenexes. Um, I'll use, but so not that much"
+    },
+    {
+        "whisper_chunk": "Okay And when did this start It's really hard to say I've had a cough for the past a few years now but I Feel like it's getting worse Okay and is your cough just constant or does it come and go But I do cough throughout the day but I find it's worse in the morning Okay and is there anything that brings on your cough",
+        "gt_chunk": "D: and when did this start?\n\nP: It's really hard to say I've had a cough for the past few years now, but I feel like it's getting worse.\n\nD: OK, and is your cough just constant or does it come and go?\n\nP: I do cough throughout the day, but I find it's worse in the morning. \n\nD: OK, and is there anything that brings on your cough"
+    },
+    {
+        "whisper_chunk": "I Can't think of anything that triggers the cough just worse when I get up in the morning okay and You mentioned you've been having this cough over the past few years Has it been getting worse at all Yeah I would say the coughs been getting worse the last few years slowly though Okay and have you had any previous episodes of this cough",
+        "gt_chunk": "P: I can't think of anything that triggers the cough, just worse when I get up in the morning.\n\nD: OK. And you mentioned you've been having this cough over the past few years. Has it been getting worse at all?\n\nP: Yeah, I would say the coughs were getting worse the last few years. Slowly though.\n\nD: OK, and have you had any previous episodes of this cough"
+    },
+    {
+        "whisper_chunk": "with the sputum like gunk gunky material before Yeah I've been having this ongoing for the last Few years okay And is there anything that you do or have tried that's made your coughing get either better or worse And if I take a deep breath in it seems to make the cough worse and Nothing really",
+        "gt_chunk": "D: with sputum like gunk, gunky material before? \n\nP: Yeah, I've been having this ongoing for the last few years.\n\nD: OK And is there anything that you do or have tried that's made your coughing get either better or worse?\n\nP: If I take a deep breath, then it seems to make the cough worse and uh nothing really"
+    },
+    {
+        "whisper_chunk": "helps the cough go away though Okay And other than that have you been having any other symptoms like a runny nose a sore throat Difficulty breathing anything like that No Okay and Have you recently traveled outside of the country Haven't traveled anywhere Okay and have you noticed any other symptoms",
+        "gt_chunk": "P: helps the cough go away though.\n\nD: OK, um and other than that, have you been having any other symptoms, like a runny nose, sore throat, difficulty breathing, anything like that?\n\nP: Uh, no.\n\nD: OK, and have you recently traveled outside of the country?\n\nP: I haven't traveled anywhere.\n\nD: OK, and have you noticed any other symptoms"
+    },
+    {
+        "whisper_chunk": "like fevers or chills No no fever or no chills Okay any night sweats No night sweats Okay any increased fatigue or Just feeling tired overall Yeah these last few months My energy has been low I've been feeling a lot more tired than usual Okay and have you noticed at all any kind of",
+        "gt_chunk": "D: like fevers or chills?\n\nP: No fever and no chills.\n\nD: OK, any night sweats?\n\nP: No night sweats.\n\nD: OK, any increased fatigue or just feeling tired overall?\n\nP: Yeah, these last few months by energy has been low. I I've been feeling a lot more tired than usual. \n\nD: OK, and have you noticed at all any kind of"
+    },
+    {
+        "whisper_chunk": "swelling in your hands feet ankles I think they're always a little swollen but I might have just gained a few pounds over the years Okay and have you been having any Palpitations like a racing heart or any chest pain at all No chest pain okay and how about shortness of breath I only have trouble breathing if",
+        "gt_chunk": "D: swelling in your hands, feet, ankles?\n\nP: Uh, I think they're always a little swollen, but I might have just gained a few pounds over the years.\n\nD: OK and, have you been having any palpitations like a racing heart or any chest pain at all?\n\nP: Um, no chest pain.\n\nD: OK, and how about shortness of breath?\n\nP: Um. I only have trouble breathing if"
+    },
+    {
+        "whisper_chunk": "I walk a few blocks or Go up a few flights of stairs Into my apartment okay Have you been having any kind of urinary issues um Only at at nighttime I seem to have to get up a lot to use the bathroom Okay and how about your bowel movements any constipation or diarrhea No bowel",
+        "gt_chunk": "P: I walk a few blocks or go up a few flights of stairs into my apartment.\n\nD: OK. Have you been having any kind of urinary issues?\n\nP: Ummm only at night time I seem to have to get up a lot to use the bathroom. \n\nD: OK, and how about your bowel movements, any constipation or diarrhea?\n\nP: Um no bowel"
+    },
+    {
+        "whisper_chunk": "issues okay and have you been getting enough sleep Yeah I would sorry no my sleep has been has been poor Okay And do you find that You wake up during the night to take a breath or anything like that No I haven't had to Wake up in the middle of the night short of breath or anything like that",
+        "gt_chunk": "P: issues.\n\nD: OK and have you been getting enough sleep?\n\nP: Uh yeah I would say or sorry no my sleep has been has been poor\n\nD: OK, and do you find that you wake up during the night to take a breath or anything like that?\n\nP: No, I haven't had to wake up in the middle of the night short of breath or anything like that"
+    },
+    {
+        "whisper_chunk": "Okay and do you ever have to use a multiple pillows and No I just use one pillow okay and Have you noticed you've any Significant weight loss or weight gain in the last few a few months um I've maybe lost five pounds in the last few months I Wasn't even I haven't been trying To lose weight but it doesn't hurt though as",
+        "gt_chunk": "D: OK, and do you ever have to use a multiple pillows?\n\nP: Um no I just used one pillow.\n\nD: OK. And have you noticed you've had any significant weight loss or weight gain in the last few few months? \n\nP: Um I maybe lost 5 pounds in the last few months. I wasn't even, I haven't been trying to lose weight but doesn't hurt though as"
+    },
+    {
+        "whisper_chunk": "I've gained a few pounds over the years so I don't mind Okay and how has your appetite been like Appetites been good I feel like I've been eating normally Okay and have you had any recent infections at all No recent infections Okay and I think I mentioned this before but any no any runny nose sore throat any of those viral symptoms",
+        "gt_chunk": "P: I've gained a few pounds over the years so I don't mind.\n\nD: And how is your appetite been like?\n\nP: Uh appetite's been good I feel like I've been eating normally.\n\nD: OK. And have you had any recent infections at all?\n\nP: No recent infections.\n\nD: OK and I think I mentioned this before, but any know any runny nose sore throat, any of those viral symptoms"
+    },
+    {
+        "whisper_chunk": "No runny nose No sore throat But feeling good Awesome and have you had have you been exposed To anyone with tuberculosis in the past No I actually had a Tuberculosis test for work and it was normal okay Mm hmm and have you been diagnosed with",
+        "gt_chunk": "P: no runny nose, no sore throat, been feeling good.\n\nD: Awesome, and have you had have you been exposed to anyone with tuberculosis in the past?\n\nP: Um no, I actually had a tuberculosis test for work and it was normal.\n\nD: OK. And have you been diagnosed with"
+    },
+    {
+        "whisper_chunk": "any medical conditions at all like high blood pressure diabetes My blood pressure has been high And that was diagnosed in the last few years Okay and Do you take any medications for your blood pressure Yes I take Lisinopril okay and do you have any allergies to any medications at",
+        "gt_chunk": "D: any medical conditions at all, like high blood pressure, diabetes?\n\nP: Um my blood pressure has been high and that was diagnosed in the last few years.\n\nD: OK. And do you take any medications for your blood pressure?\n\nP: Yes, I take um, Lisinopril.\n\nD: OK and do you have any allergies to any medications at"
+    },
+    {
+        "whisper_chunk": "all None that I can think of okay and have you been hospitalized at all before no And do you have any Ill contacts near you anyone that has been sick around you recently No ill contacts It's sorry I For hospitalizations I I did have a c section for the birth of my daughter And I was",
+        "gt_chunk": "D: all?\n\nP: Nothing I can think of.\n\nD: OK, and have you been hospitalized at all before?\n\nP: Uh, no.\n\nD: And do you have any ill contacts near anyone that has been sick around you recently? \n\nP: No ill contacts. And sorry I for hospitalizations I I did have a c-section for the birth of my daughter and I was"
+    },
+    {
+        "whisper_chunk": "in the hospital for a few days for that Okay but nothing else No okay and Have you had any other surgeries other than your c section No just just the c section okay and In terms of your family history has anyone had any Cardiovascular issues or any cancers My father had a heart attack when he was 78",
+        "gt_chunk": "P: in the hospital for a few days for that. \n\nD: OK, but nothing else? \n\nP: No. \n\nD: OK and have you had any other surgeries other than your c-section?\n\nP: No just the c-section.\n\nD: OK, in terms of your family history has anyone had any cardiovascular issues or any cancers?\n\nP: Uh, my father had a heart attack when he was 78"
+    },
+    {
+        "whisper_chunk": "and He unfortunately passed away from it but I had no cancer in the family Okay any like asthma in the family Not that I can think of okay and currently where do you live do you live in an apartment the house I live in an apartment with My husband and our daughter Okay and do you currently work",
+        "gt_chunk": "P:  he unfortunately passed away from it, but had no cancer in the family.\n\nD: OK, any like asthma in the family?\n\nP: Not that I can think of. \n\nD: OK, and currently, where do you live? Do you live in apartment, in a house? \n\nP: I live in an apartment with my husband and our daughter.\n\nD: OK, and do you currently work"
+    },
+    {
+        "whisper_chunk": "Yeah I I work at the local grocery store okay and Just in your daily routine How would you say How is your diet and exercise like Diet I usually eat one or two meals a day and Sometimes snack throughout the day as well but we eat a variety of meats and vegetables and",
+        "gt_chunk": "P: Yeah, I I work at the local grocery store. \n\nD: OK. And just in your daily routine, how would you say, how is your diet and exercise like?\n\nP: Um diet I'll usually eat one or two meals a day and sometimes snack throughout the day as well but we eat a variety of meats and vegetables, and"
+    },
+    {
+        "whisper_chunk": "So I think our diet is pretty good But exercise don't have time for so that currently Okay and do you use any recreational drugs like marijuana I Know I would never use that okay how about alcohol a glass of wine three or four nights a week okay and",
+        "gt_chunk": "P: so I think our diet is pretty good. But exercise don't have time for for that currently. \n\nD: OK, and do you use any recreational drugs like marijuana?\n\nP: Um noo, I would never use that.\n\nD: OK, how about alcohol?\n\nP: A glass of wine. I have three or four nights a week.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "Is it like a full glass of wine or like just How much would you say the glass of wine is for me I would say I like five or six ounces so like a typical glass of wine Okay and do you smoke at all I do smoke cigarettes yes Okay and how much do you smoke in an average day Over a pack one to two packs of cigarettes per day for the last nearly",
+        "gt_chunk": "D: is it like a full glass of wine or like just, how much would you say? \n\nP: Glass of Wine is for me. I would say is like 5 or 6 ounces like a typical glass of wine.\n\nD: Do you smoke at all? \n\nP: I do smoke cigarettes, yes. \n\nD: OK, and how much are you smoking an average day?\n\nP: Um over a pack, one to two packs of cigarettes per day for the last nearly"
+    },
+    {
+        "whisper_chunk": "40 years Okay Okay all right",
+        "gt_chunk": "P: 40 years.\n\nD: OK OK alright"
+    }
+]

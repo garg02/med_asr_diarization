@@ -1,0 +1,78 @@
+[
+    {
+        "whisper_chunk": "what brings you in I am just bringing my son in today because he's had this cough that's been going on for a few days now And for these past two days I've noticed that he's been just tugging at his ear more as well Okay So you said the runny nose started two days ago Yeah yeah he had a cough",
+        "gt_chunk": "D: What brings you in?\n\nP: I just bringing my son in today because he's had this cough that's been going on for a few days now and for these past two days, I've noticed that he's been just tugging at his ear more as well.\n\nD: OK, so you said the runny nose started two days ago?\n\nP: Yeah, yeah he had a cough"
+    },
+    {
+        "whisper_chunk": "Yeah a cough and runny nose started about yeah two three days ago Okay The runny nose what color is the discharge Pretty clear and watery Okay And the coughing is it dry or is it bringing up any phlegm It's been dry It's been dry okay And does it sound harsh Not really",
+        "gt_chunk": "P: yeah cough and runny nose started about yeah 2-3 days ago\n\nD: Okay, the runny nose, what color is the discharge?\n\nP: Pretty clear and watery \n\nD: OK, and the coughing is it dry, or is it bringing up any phlegm?\n\nP: It's been dry. \n\nD: It's been dry OK. And does it sound harsh?\n\nP: Not really"
+    },
+    {
+        "whisper_chunk": "No I don't know it sounds kind of like a typical cough Okay Has he lost his sense of taste or smell He's been a bit more irritable and not eating as much but I'm not sure Okay How about changes in his vision or hearing No Okay Any fevers I",
+        "gt_chunk": "D: No? \n\nP: I don't know. It sounds kinda like a typical cough.\n\nD: OK, has he lost his sense of taste or smell?\n\nP: He's been a bit more irritable and not eating as much but I'm not sure.\n\nD: OK, how about changes in his vision or hearing? \n\nP: No \n\nD: OK. Any fevers? \n\n"
+    },
+    {
+        "whisper_chunk": "don't think so but we haven't checked and he's been yeah as I said kind of a little bit irritable Okay And any weight loss recently No he's been gaining weight Actually sorry I think yeah he has had a fever The fever yeah the fever started like yesterday Oh okay Did you take his",
+        "gt_chunk": "P: don't think so. But he, we haven't checked and he's been, yeah, as I said, kinda, a little bit irritable.\n\nD: OK, any weight loss recently?\n\nP: Uhm no, he's been gaining weight. Actually, sorry, I think it. Yeah, he has had a fever. The fever. Yeah the fever started like yesterday.\n\nD: Oh OK, did you take his"
+    },
+    {
+        "whisper_chunk": "temperature Yeah my wife just texted me and told me that she checked it and said it was over 38 Oh okay Yeah we'll definitely take a temperature here as well just to make sure Has he had any rashes No No rashes okay And how about",
+        "gt_chunk": "D: temperature?\n\nP: Yeah, my my wife just texted me and told me that she checked it, checked it and said it was over 38. \n\nD: Oh OK. Yeah, we'll definitely take a temperature here as well just to make sure. Has he had any rashes? \n\nP: No, \n\nD: No rashes OK. And how about"
+    },
+    {
+        "whisper_chunk": "shortness of breath or wheezing No I haven't heard that No okay And then have you actually taken a look into his ears No I haven't No He's just been tugging at the right one Is he itching it at all Yeah I guess just kind of like really rubbing it around the outside and pulling on the lobe a little bit Okay Any discharge Oh sorry go ahead",
+        "gt_chunk": "D: shortness of breath or wheezing? \n\nP: No, I haven't heard that. \n\nD: No, OK. And then have you actually taken a look into his ears?\n\nP: No, I haven't. He has just been tugging at the right one. \n\nD: Is he itching it at all?\n\nP: Uh yeah, I guess just kind of like really rubbing it around the outside and pulling on the lobe a little bit.\n\nD: OK, any discharge? Oh sorry go ahead"
+    },
+    {
+        "whisper_chunk": "Oh sorry I was just going to say he's been kind of fussy and pointing at it and no discharge from the ear No discharge okay Does it look swollen No the outside of the ear looks normal Okay okay And how have his bowel movements been That's been normal Normal any changes in his urine No that's been normal Nausea or vomiting",
+        "gt_chunk": "D:  \n\nP: Sorry I'm just gonna say yeah he's been kind of fussy and pointing at it and no discharge from the ear.\n\nD: No discharge, OK. Does it look swollen?\n\nP: No, the outside of the ear looks normal. \n\nD: OK, OK, and how have his bowel movements been?\n\nP: That's been normal, .\n\nD: Normal. Any changes in his urine?\n\nP: No, it's been normal. \n\nD: Nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "Nope Headaches No I don't think so Okay how about dizziness or fainting spells No No any confusion or memory loss No I don't think so No okay Is he an otherwise healthy child Yeah he is I mean about six months ago",
+        "gt_chunk": "D:  headaches? \n\nP: No, I don't think so.\n\nD: OK, how about dizziness or fainting spells?\n\nP: No. \n\nD: No, any confusion or memory loss?\n\nP: No, I don't think so.\n\nD: No OK, is he an otherwise healthy child?\n\nP: Yeah, he he is. I mean he, uhm about six months ago"
+    },
+    {
+        "whisper_chunk": "he had a croup I think but he recovered quickly from that and he didn't need to go be hospitalized or anything Okay And his mother's pregnancy with him was it complicated in any way She had gestational diabetes but it was diet controlled and she's healthy now from that perspective",
+        "gt_chunk": "P: he had uhm croup I think but he recovered quickly from that and he didn't need to be hospitalized or anything. \n\nD: OK, and his mother's pregnancy with him, was it complicated in any way?\n\nP: She had gestational diabetes, but it was diet controlled and she's healthy now from that perspective"
+    },
+    {
+        "whisper_chunk": "Okay okay that's good And then was he born at term He was yeah he was born over like 38 weeks I think Okay good And was it a C section or vaginal delivery Vaginal Okay any complications during the delivery No No okay How",
+        "gt_chunk": "D: OK, that's good. Uhm and then was he born at term?\n\nP: He was yeah he was born over like 38 weeks I think \n\nD: Oh OK, good and was it a C-section or a vaginal delivery?\n\nP: Uhh vaginal.\n\nD: OK, any complications during the delivery?"
+    },
+    {
+        "whisper_chunk": "about after birth Was he hospitalized for any reason No he wasn't He was able to go home Okay that's good And has he been developing normally in terms of his motor movements like behavior wise social wise Like is he on par with his peers in terms of milestones Yeah he is",
+        "gt_chunk": "D: about uhm after birth? Was he hospitalized for any reason?\n\nP: No, he wasn't. He was able to go home.\n\nD: OK, that's good. Uhm and has he been developing normally in terms of his motor movements, like behavior wise, social wise, like is he on par with his peers in terms of milestones?\n\nP: Yeah he is"
+    },
+    {
+        "whisper_chunk": "Yeah everything's been normal that way and he's been growing well too Okay good Growing well gaining weight well Okay is he on any medications No he's not Okay Is he up to date with all his immunizations He is yeah We've been following along with that Okay does he have any allergies",
+        "gt_chunk": "P: Yeah, everything's been normal that way and he's been growing well too.\n\nD: OK, good. growing while gaining weight well, OK, is he on any medications?\n\nP: No, he's not. \n\nD: OK. Is he up to date with all his immunizations?\n\nP: He is, yeah, we've been following along with with that.\n\nD: OK, does he have any allergies"
+    },
+    {
+        "whisper_chunk": "I don't think so No okay Any family history of lung or heart conditions No No okay Does anyone at home smoke I do but not in the house or anything like that Usually just well it'll always be either outside or when I'm at work Okay okay Any",
+        "gt_chunk": "P: I don't think so.\n\nD: No, Ok. Any family history of lung or heart conditions?\n\nP: Uh, no.\n\nD: No OK. Does anyone at home smoke? \n\nP: Uhm I do but not like in the house or anything like that, usually just well, it will always be either outside or when I'm at work.\n\nD: OK "
+    },
+    {
+        "whisper_chunk": "old carpet dust mold asbestos anything like that in your home No No okay Who does he live with So yeah he lives with me just me and my wife Okay Any pets at home We have a dog yeah Okay Has he been in contact with anyone sick recently",
+        "gt_chunk": "D: old carpet, dust, mold, asbestos, anything like that in your home? \n\nP: No.\n\nD: No. OK. Who does he live with?\n\nP: So yeah, he lives with me. It's just me and my wife. \n\nD: OK. Any pets at home? \n\nP: We have a a dog.\n\nD: OK. Has he been in contact with anyone sick recently"
+    },
+    {
+        "whisper_chunk": "Not that I can think of Okay Is he in like daycare No No my wife's been looking after him at home She's the primary caregiver while I'm at work Okay Any trouble recently No no No okay Well",
+        "gt_chunk": "P: Not that I can think of.\n\nD: OK is he in like daycare?\n\nP: No, no my wife's been, been looking looking after him at home. She's the primary caregiver, well while I'm at work.\n\nD: OK, any trouble recently?\n\nP: No no.\n\nD: No, OK. Well"
+    },
+    {
+        "whisper_chunk": "those are all the questions that I had for you today Did you have any questions of your own No just was wondering what might be going on Yeah for sure So right now it sounds like a viral picture It sounds like he has a cold and possibly an ear infection I'd have to take a look into his ear to be able to tell more",
+        "gt_chunk": "D: those are all the questions that I had for you today. Did you have any questions of your own?\n\nP: Uhh no, just was wondering what what might be going on?\n\nD: Yeah, for sure, so right now it sounds like a viral picture. It sounds like he has a cold and possibly an ear infection. I'd have to take a look into his ear to be able to tell more"
+    },
+    {
+        "whisper_chunk": "but because some of his symptoms overlap with those of COVID we'll probably do a swab and you should hear back in about 24 to 48 hours And so after I take a look into his ears we can do one of a couple of things So if his tympanic membrane looks like it's been perforated or if there's pus in there then we'll prescribe him like a 10 day course of antibiotics And if I",
+        "gt_chunk": "D:  because some of his symptoms overlap with those of covid we'll probably do a swab and you should hear back in about 24 to 48 hours. Uhm and so after I take a look into his ears, we can do one of a couple of things, so if his tympanic membrane looks like it's been perforated, or if there's pus in there, then we'll prescribe him a 10 day course of antibiotics, and if I"
+    },
+    {
+        "whisper_chunk": "see like middle ear effusion or his tympanic membranes bulging and he seems really sick like he has a high fever which he does I will again prescribe him 10 days of antibiotics And if he has middle ear effusion or a bulging tympanic membrane just one of those two and he doesn't seem to be too sick we can reassess him in 24 to 48 hours",
+        "gt_chunk": "D: see like middle ear effusion or his tympanic membranes bulging, and he seems really sick like he has a high fever, what she does, I will again prescribe him 10 days of antibiotics. And if he has a middle ear effusion or a bulging tympanic membrane, just one of those two, and he doesn't seem to be too sick, we can reassess him in 24 to 48 hours"
+    },
+    {
+        "whisper_chunk": "And the antibiotic that we usually prescribe is amoxicillin How does that sound That sounds really good thank you Okay no worries take care",
+        "gt_chunk": "D: An antibiotic that we usually prescribe is amoxicillin. Uhh how does that sound?\n\nP: That sounds really good. Thank you.\n\nD: OK, no worries. Take care"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "What can I do for you today Yeah yeah so I'm here because I've had this fever This cough and now my head hurts That's been going on for about the past four days and I just want to make sure It's nothing too serious Yeah yeah Can you tell me I doubt you did you measure your temperature I Know I haven't actually measured it",
+        "gt_chunk": "D: What can I do for you today?\n\nP: Um yeah, so I'm here because I've had this fever, this cough, and now my head hurts. That's been going on for about the past four days and I just want to make sure um it's nothing too serious.\n\nD: Yeah, yeah, that's great. So can you tell me, have you, did you measure your temperature?\n\nP: Uh no, I haven't actually measured it"
+    },
+    {
+        "whisper_chunk": "I just feel hot and feel chills Okay well we can take your vitals here and you Said that you've had a cough for the past four days to dry cough or wet cough Um it's been pretty dry Any no blood or any sputum coming up right no no Okay and",
+        "gt_chunk": "P: I just feel hot and feel chills.\n\nD: OK, but we can take your vitals here um and uh you you said that you've had a cough for the past four days, dry cough or wet cough? \n\nP: Um it's been pretty dry.\n\nD: Um, any uh no blood or any um sputum um coming up right?\n\nP: No, no.\n\nD: OK and"
+    },
+    {
+        "whisper_chunk": "Has the the cough gotten worse or better or the same has it been the same since the past four days It's it's actually getting worse Is there anything that makes it better or worse No I don't think so okay have you tried anything for your cough I've tried like Deconject like",
+        "gt_chunk": "D: has the the cough gotten worse or better or the same, has it been the same since the past four days? \n\nP: Um it's it's actually getting worse.\n\nD: OK, is there anything that makes it better or worse?\n\nP: Uh no, I don't think so.\n\nD: OK. Uh have you tried anything for your cough?\n\nP: I've tried like decongest like"
+    },
+    {
+        "whisper_chunk": "cough suppressants but it doesn't seem to have helped And then tell me about your headache that's just four days ago as well Yeah and Where exactly is it So it's like just on the front part of my head Mm hmm and does it feel like what does it feel like is it like a throbbing sensation it bend like",
+        "gt_chunk": "P: cough suppressants but it doesn't seem to have helped. \n\nD: OK. OK, and then tell me about your headache. That started four days ago as well?\n\nP: Yeah.\n\nD: And uh where exactly is it?\n\nP: So it's like just on the front part of my head.\n\nD: And does it feel like uh, what does it feel like? Is it like a throbbing sensation? A band like"
+    },
+    {
+        "whisper_chunk": "sensation Is it sharp is it dull It feels pretty Throbbing right now Mm hmm Okay Is it both sides or only left or right It's it seems like it's both sides How to give it a number from 1 to 10 with 10 being the most severe pain ever what number would you give it I Would give it about like a seven Oh",
+        "gt_chunk": "D: sensation? Um is it sharp, is it dull? \n\nP: Uh it feels pretty throbbing right now.\n\nD: Is it both sides or on the uh left or right?\n\nP: Uh it's it seems like it's both sides.\n\nD: If you had to give it a number from 1 to 10 with 10 being the most severe pain ever, what number would you give it?\n\nP: Uh I would give it about like a seven.\n\nD: Oh"
+    },
+    {
+        "whisper_chunk": "okay and how's it changed over the past four days It's just gotten a little bit worse Hmm Is it So gonna say is it constant or does it come and go It seems pretty it seems pretty constant are you taking anything for it I Tried like some Tylenol for it and it seems to help a little",
+        "gt_chunk": "D: . And how's it changed over the past four days?\n\nP: Uh, it's just gotten a little bit worse.\n\nD: Um is it uh is it, what was I gonna say, is it constant or does it come and go?\n\nP: Um It seems pretty it seems pretty constant.\n\nD: Have you taken anything for it?\n\nP: I tried like some Tylenol for it and it seems to help a little"
+    },
+    {
+        "whisper_chunk": "bit Does it is there a certain Time of the day when it's worse before going to bed at the end of the day waking up anything like that No nothing like that Have you had a similar headache in the past uh Yeah I guess I have a little bit in the past But that was also when I was like sick sure Does it wake you up in the middle of the night",
+        "gt_chunk": "P: bit.\n\nD: Does it, is there a certain time of the day when it's worse? Before going to bed, at the end of the day, waking up, anything like that?\n\nP: No, nothing like that.\n\nD: Have you had a similar headache in the past?\n\nP: Uh yeah, I guess I have, a little bit in the past, but that was also when I was like sick.\n\nD: Sure, um does it wake you up in the middle of the night"
+    },
+    {
+        "whisper_chunk": "No it hasn't woken me up Okay I guess other than the headache I'll ask you about and the common fever I'll ask you if you've had any other symptoms So have you had any confusion No no confusion any changes in your vision or your hearing No any Redness in your eyes No any loss",
+        "gt_chunk": "P: no, it hasn't woken me up.\n\nD: OK, um I guess other than the headache, I'll ask you about, and the cough and fever, I'll ask you if you've had any other symptoms. So have you had any confusion?\n\nP: Uh no, no confusion.\n\nD: Any changes in your vision or your hearing?\n\nP: No. \n\nD: Um any um redness in your eyes?\n\nP: No.\n\nD: Any loss"
+    },
+    {
+        "whisper_chunk": "of taste or loss of smell No Any runny nose or stuffy nose Nope Okay any sore throat No okay any chest pain or difficulties breathing No any palpitations do you feel like your heart's racing No Okay any belly pain No belly pain",
+        "gt_chunk": "D: of taste or loss of smell?\n\nP: No\n\nD: Um any runny nose or stuffy nose?\n\nP: Uh nope. \n\nD: OK, any sore throat?\n\nP: No. \n\nD: OK. Any chest pain or difficulties breathing?\n\nP: No. \n\nD: Any palpitations? Do you feel like your heart's racing?\n\nP: No. \n\nD: OK, any belly pain?\n\nP: No belly pain"
+    },
+    {
+        "whisper_chunk": "Diarrhea No Okay any aches or pains in your body No Any rashes that you've No no rashes Any discoloration of your fingers or toes I don't think so Okay All right And do you have any medical conditions No I think I'm healthy otherwise Okay All right and have you had any",
+        "gt_chunk": "D: Diarrhea? \n\nP: No. \n\nD: OK, any aches or pains in your body?\n\nP: No.\n\nD: Uh any rashes that you've noticed?\n\nP: No, no rashes.\n\nD: Any discolouration of your fingers or toes?\n\nP: Uh I don't think so.\n\nD: OK, alright um and do you have any medical conditions?\n\nP: No, I think I'm healthy otherwise.\n\nD: OK, alright and have you had any"
+    },
+    {
+        "whisper_chunk": "hospitalizations or surgeries No Okay What about medications are you taking any over the counter or otherwise I take some multivitamins That's it though Okay any family history of lung or heart problems or anything else or cancers No And do you currently live alone or do you live with someone else or with other people I live",
+        "gt_chunk": "D: hospitalizations or surgeries?\n\nP: Uh, no. \n\nD: OK, um what about medications? Are you taking any? Over the counter or otherwise?\n\nP: Uh I take some multivitamins, that's it though.\n\nD: OK, any family history of lung or heart problems uh or anything else, or cancers?\n\nP: No.\n\nD: And do you currently live alone or do you live with someone else or with other people?\n\nP: I live"
+    },
+    {
+        "whisper_chunk": "with My husband and our daughter Okay have you had any have you traveled anywhere Nope not recently Have you what do you mean by recently Like I have traveled in the past two years Okay that's fine That's fine Have you had any contact with anyone who might be sick either you or your husband or your daughter",
+        "gt_chunk": "P: with um my husband and our our daughter.\n\nD: OK, have you had any, have you traveled anywhere?\n\nP: No, not recently. \n\nD: Have you uh, what do you mean by recently?\n\nP: Uh like I have traveled in the past two years.\n\nD: OK, that's fine, that's fine. Have you had any contact with anyone who might be sick? Either you or your husband or your daughter"
+    },
+    {
+        "whisper_chunk": "No I don't think so Have you gone out of the home at all Just to do like essential things like groceries and the bank and things like that Do you wear a mask and maintain social distancing Yes Okay All right do you drink alcohol I drink like once once in a while I'll have a glass of wine Okay how I guess how often would you say",
+        "gt_chunk": "P: no, I don't think so.\n\nD: Have you gone out of the home at all? \n\nP: Uh just to do like essential things like groceries and the bank and things like that.\n\nD: Do you wear a mask and maintain social distancing?\n\nP: Yes.\n\nD: OK um alright, uh do you drink alcohol?\n\nP: I drink like once once in a while, have a glass of wine.\n\nD: OK, how, I guess how often would you say"
+    },
+    {
+        "whisper_chunk": "Once a week Okay and do you smoke No not anymore How much did you smoke in the past I'd have like half a pack but I only smoked between like the age of 20 to like 25 Okay do you smoke marijuana or have any edibles with marijuana in it No Any recreational drugs No Okay",
+        "gt_chunk": "P: once a week.\n\nD: OK. And do you smoke?\n\nP: Um no, not anymore.\n\nD: Uh how much did you smoke in the past?\n\nP: I I'd have like half a pack, um but I only smoked between like the age of 20 to like 25.\n\nD: OK. Do you smoke marijuana or have any edibles with marijuana in it?\n\nP: No.\n\nD: Any recreational drugs?\n\nP: No. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "all right well and you said that you don't have a family history of any No All right I think that's all the questions I have for you So it looks like you've had a fever coughed in a headache that's gotten worse over the past four days and your headache is pretty bad It's seven out of ten And it could be that you have some sort of an",
+        "gt_chunk": "D: alright well uh, and you said that you don't have a family history of any problem?\n\nP: No. \n\nD: Yeah OK, alright, I think that's all the questions I had for you. So uh looks like you've had a fever, cough, and a um and a headache that's gotten worse in the past four days and your headache's pretty bad, a seven out of ten. Um and uh it could be that you have uh some sort of an"
+    },
+    {
+        "whisper_chunk": "infection including with COVID being one of the possibilities and so continue to take Tylenol and monitor your fever if it continues to get worse or you notice that your symptoms are just not getting better You should come back We'll also send in a request for a COVID swab",
+        "gt_chunk": "D: infection, uh including um, with Covid being one of the possibilities, and so um continue to take Tylenol and and um monitor your uh fever. If it continues to get worse, or you um notice that your symptoms are just not getting better, um you should come back, you should uh, we'll also do a Covid, we'll also send in a request for a Covid swab"
+    },
+    {
+        "whisper_chunk": "and we'll ask you to quarantine for the next 14 days and try to stay away from your husband and daughter as well if you can at home And I guess a couple of other questions that I wanted to ask and I should have asked earlier Do you have any stiffness in your neck or any difficulties moving your neck",
+        "gt_chunk": "D: and uh we'll ask you to quarantine for the for the next 14 days and try to stay away from your husband and daughter as well, if you can at home. Um and uh I guess a couple of other questions that I wanted to ask and I should have asked earlier, do you have any um any stiffness in your neck or any difficulties moving your neck"
+    },
+    {
+        "whisper_chunk": "No nothing like that Okay All right and do you have any questions No that's it Thank you so much Okay great",
+        "gt_chunk": "P: no, nothing like that. \n\nD: OK alright, and um do you have any questions?\n\nP: Uh No, that's it. Thank you so much.\n\nD: Great"
+    }
+]

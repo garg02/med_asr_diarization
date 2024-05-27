@@ -1,0 +1,102 @@
+[
+    {
+        "whisper_chunk": "What brings you all in today Essentially when he so today is Friday when he got home from school on Wednesday He seemed fine but he I don't know that night he started to have a bit of like a cough It just seemed like a little dry cough but obviously I just wanted to keep him home keep him safe and not like spread anything if he was sick So he stayed at home",
+        "gt_chunk": "D: What brings you all in today?\n\nP: Essentially, when he, so today is Friday, when he got home from school on Wednesday, he seemed fine, but he, I don't know that night he started to have a bit of like a cough. It just seemed like a little dry cough, but obviously I just wanted to keep him home, keep him safe and not like spread anything if he was sick, so he stayed at home"
+    },
+    {
+        "whisper_chunk": "on Thursday and he was like having a bit of a cough And then yesterday it seemed to get a little bit worse and he was really tired sorry today today is Friday He was like his cough was like getting a bit worse and I've been taking his temp the whole time And I got like a little high today What was it",
+        "gt_chunk": "P: on Thursday and he was like having a bit of a cough. Um and then, yesterday it seemed to get a little bit worse and he was really tired, or sorry it's today, today is Friday, um, he was like his cough is like getting a bit worse and I've been taking his temp the whole time and it got like a little high today. What was it"
+    },
+    {
+        "whisper_chunk": "My thermometer says it was high I'm just like trying to remember It was like over a hundred though A hundred and one or something or maybe a hundred point one But anyways it was so I just thought I should probably bring him in because I was really worried about him and thought he could have maybe got COVID and get school or something Yeah for sure",
+        "gt_chunk": "P: My thermometer says it was high. I'm just like trying to remember. It was it was, it was like over 100 though. \n\nD: Oh OK.\n\nP: 101 or something or maybe 100.1. But anyways, it was, so I I just thought I should probably bring him in 'cause I was really worried about him and you know thought he could have maybe got COVID and get school or something.\n\nD: Yeah for sure"
+    },
+    {
+        "whisper_chunk": "Okay so just to clarify he's had this cough and fever for the past five days Okay so let's focus on the cough Sorry it's been more like three days like Wednesday when he came home and then today's Friday so yeah sorry Today's Friday okay",
+        "gt_chunk": "D: OK, so just to clarify, he's had this cough and fever for the past five 5 days. \n\nP: Mhmm.\n\nD: OK. OK, so let's focus on the cough. \n\nP: Sorry, it's been more like 3 three days like Wednesday is when he came home and then, and then today's Friday, so yeah, sorry. \n\nD: Today is Friday,"
+    },
+    {
+        "whisper_chunk": "Okay yeah sure So is this cough a productive cough or is it kind of a dry cough I think it's dry I haven't noticed him like sitting up or anything Yeah he yeah it's just been like little cough Okay is he he's not bringing up any sputum or blood",
+        "gt_chunk": "D: OK, yeah sure. So, is this cough a productive cough, or is it kind of a dry cough?\n\nP: Ah I think it's dry. I haven't noticed him like spitting up anything. Umm, yeah, he yeah, it's just been like little coughs.\n\nD: OK, and he, is he, he's not bringing up any sputum or blood"
+    },
+    {
+        "whisper_chunk": "No No okay good Okay and does he sound wheezy at all to you No not that I've noticed Okay how about short of breath I don't think so Like he usually he's a really active kid and he hasn't been running a lot outside in the past couple days So maybe",
+        "gt_chunk": "P: No.\n\nD: No OK good. OK, and does he sound wheezy at all to you?\n\nP: No, no, not that I've noticed.\n\nD: OK, how about short of breath?\n\nP: Um, I don't think so like he, usually he's a really active kid and he has, he hasn't been running a lot outside in the past couple days, so maybe"
+    },
+    {
+        "whisper_chunk": "he could have been having a harder time breathing but also I think he's just been tired in general Okay yeah okay Is his coughing getting worse with certain times of the day Like is it worse at night in the morning I think it's kind of just there the whole day Okay and does",
+        "gt_chunk": "P: he could have been having a harder time breathing but also I think he's just been tired in general.\n\nD: OK, yeah. OK, and is his coughing getting worse with certain times of the day? Like is it worse at night in the morning?\n\nP: I think it kinda just there the whole day. \n\nD: OK um. And does"
+    },
+    {
+        "whisper_chunk": "it how does it sound Does it sound like a barky cough Does it sound like harsh What would you say the quality of the sound of the cough is Uh it just sounds kind of dry It's not like super loud Okay okay And has he ever experienced anything like this in the past",
+        "gt_chunk": "D: it, how does it sound? Does this sound like a barky cough? Does it sound? Um, like harsh, what is, what would you say the quality of it, of the sound of the cough is?\n\nP: Uh, I just sounds kind of dry. It's not like super loud. \n\nD: OK. OK, and has he ever experienced anything like this in the past"
+    },
+    {
+        "whisper_chunk": "Like he's had colds before but I haven't Like I haven't like he this time he kind of had a fever which is different than you know having a regular cold Okay and are his symptoms getting worse I think so because yeah the first day he just seemed like a little dry and then yesterday he was coughing and today he actually",
+        "gt_chunk": "P: like he's had colds before, but I haven't like, I haven't like you, this time he kind of had the fever, which is different than you know, having a regular cold. \n\nD: OK. And are his symptoms getting worse?\n\nP: I think so. Because yeah, he first day he just seemed like little dry and then yesterday is coughing and today he actually"
+    },
+    {
+        "whisper_chunk": "has a fever Okay and is he complaining of anything like chest pain or feeling like his heart's racing No I don't think so No okay Does he have a sore throat I don't think so",
+        "gt_chunk": "P: has a fever.\n\nD: OK, and um, is he complaining of anything like chest pain? Or feeling like his heart's racing?\n\nP: No, I don't think so. \n\nD: No OK. Does he have a sore throat?\n\nP: I don't think so"
+    },
+    {
+        "whisper_chunk": "Okay and is he having any issues swallowing food or fluids I don't know if he's having trouble swallowing but he doesn't seem to have a big appetite right now Okay and does he have a blocked nose or a runny nose Maybe a bit of like a runny nose Okay and does he have any issues with",
+        "gt_chunk": "D: OK, and is he having any issues swallowing food or fluids?\n\nP: I don't know if he's having trouble swallowing, but he doesn't seem to have a big appetite right now.\n\nD: OK, um, and is he, does he have a blocked nose or runny nose?\n\nP: Maybe a bit of like a runny nose.\n\nD: OK, and does he have any issues with"
+    },
+    {
+        "whisper_chunk": "smell or taste Like this morning he really seemed like he wasn't like into his breakfast and I wonder if he's losing his sense of taste a little bit Okay how about vision or hearing I think those are fine Okay and is he complaining of any chills or night sweats No Okay and",
+        "gt_chunk": "D: smell or taste?\n\nP: Ah, this morning he really seemed like he wasn't like into his breakfast and I wonder if he's losing his sense of taste a little bit.\n\nD: OK, how about vision or hearing?\n\nP: I think those are fine. \n\nD: OK, and is he complaining of any chills or night sweats?\n\nP: No. \n\nD: OK, any"
+    },
+    {
+        "whisper_chunk": "does he have any changes in his hair nails or skin like rashes No I haven't noticed anything like that Okay any changes in his bowel movements No Pardon I'm sorry no changes Okay no diarrhea no constipation no blood in the stool No Okay any nausea or vomiting",
+        "gt_chunk": "D: , any changes in his hair, nails or skin like rashes?\n\nP: No, I haven't noticed anything like that.\n\nD: OK, any changes in his bowel movements?\n\nP: Uh, no.\n\nD: Pardon? \n\nP: I'm sorry, no changes.\n\nD: OK, no diarrhea, no constipation, no blood in the stool.\n\nP: No. \n\nD: OK, any nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "No Okay any changes in his urine I haven't really been looking but I don't think so Okay any dizziness or fainting spells No just like fatigue Okay any confusion or memory loss No No okay And is he an otherwise healthy",
+        "gt_chunk": "P: No. \n\nD: OK, any changes in his urine? \n\nP: Really been looking, but I don't think so.\n\nD: Any dizziness or fainting spells?\n\nP: No, just like fatigue.\n\nD: OK, any confusion or memory loss?\n\nP: No. \n\nD: And is he an, is he an otherwise healthy"
+    },
+    {
+        "whisper_chunk": "child Yeah he hasn't decided to like about vaccines and that he hasn't had to go to the doctor like ever I mean he broke his arm once so that was it Okay so no past illnesses and I guess no hospitalizations or surgeries except for the broken arm Exactly like nothing Okay and were things normal",
+        "gt_chunk": "P: , he hasn't like decide to like vaccines, he hasn't had to go to the doctor like ever. I mean, he broke his arm once but that was it.\n\nD: OK, so no past illnesses and I guess no hospitalizations or surgeries except for the broken arm?\n\nP: Exactly, like nothing.\n\nD: OK and were things normal"
+    },
+    {
+        "whisper_chunk": "with your pregnancy with him Yeah totally Okay and then how about as a newborn Any complications after birth No no like everything was really good Okay and then did he hit all his milestones up till now Yeah totally Okay does he have",
+        "gt_chunk": "D: with your pregnancy with him?\n\nP: Yeah totally\n\nD: OK. Ah, and then how about as a newborn, any complications after birth?\n\nP: No, no, like everything was things really good.\n\nD: OK and then did he hit all his milestones? Up till now?\n\nP: Yeah totally\n\nD: OK. And does he have"
+    },
+    {
+        "whisper_chunk": "any allergies No no I don't think so I mean like he hasn't really taken a lot of medicine so it's hard to say but like nothing so far Is he up to date with all his immunizations Yes Yeah okay And in terms of family history are there any lung conditions or heart conditions",
+        "gt_chunk": "D: any allergies?\n\nP: Uhm, no, no, I don't think so. I mean like he hasn't really taken a lot of medicine, so it's hard to say, but like nothing, so far.\n\nD: Is he up to date with all his immunizations?\n\nP: Yep. \n\nD: Yeah, OK. And in terms of family history, are there any lung conditions or heart conditions"
+    },
+    {
+        "whisper_chunk": "No everyone's really healthy Okay and who does he live with and where does he live He lives with me and my husband and he has a little sister like just in town here Okay and is she healthy Yeah like she yeah she's healthy Okay any concerns for old",
+        "gt_chunk": "P: no, everyone is really healthy.\n\nD: OK, and um, are there, and who does he live with and where does he live?\n\nP: He lives with me and my husband, and he has a little sister like just in town here.\n\nD: OK, and is she healthy?\n\nP: Yeah I like she, yeah she's healthy.\n\nD: OK an any concerns for old"
+    },
+    {
+        "whisper_chunk": "carpets mold asbestos or any environmental issues like that in the home that you're in No No okay Has he been around any sick contacts recently Not like outside of school like we know for sure not outside of school and that he goes to school right now so kind of hard to say Okay They haven't",
+        "gt_chunk": "D: carpets, mold, asbestos or any environmental issues like that in the home that you're in?\n\nP: No. \n\nD: No OK, um has he been around any sick contacts recently?\n\nP: Not not like outside of school. I like we know for sure, not outside of school but he goes to school right now so kind of hard to say. They haven't"
+    },
+    {
+        "whisper_chunk": "like contacted us about anything Okay sure And has he traveled anywhere recently No No okay Okay well those are all the questions I have for you today Was there anything that I missed that you wanted to chat about today I don't think so Like I realized that oftentimes like you don't really do",
+        "gt_chunk": "P: like contacted us about anything. \n\nD: OK, sure. And has he traveled anywhere recently?\n\nP: No.\n\nD: No, OK. OK, well those are all the questions I had for you today. Were, was there anything that I missed that you wanted to chat about today?\n\nP: I don't think so. Like I realized that I can often times like we don't really do"
+    },
+    {
+        "whisper_chunk": "much for kids when it's just like a virus or something but we do I guess need to have a COVID test to go back to the school even if you know either way because they want us to be able to stay if like the other kids have had an exposure Yeah for sure Yeah like sorry go ahead No go ahead",
+        "gt_chunk": "P: much for kids when you know, when it's just like a virus or something. But we do, I guess, need to have a COVID test to go back to school, even if you know either way 'cause they want us to be able to say it's like the other kids have had uh an exposure.\n\nD: Mhmm.\n\nP: So yeah yeah, like. Sorry, go ahead.\n\nD: No go ahead"
+    },
+    {
+        "whisper_chunk": "So that's basically I just like wanted to see if it was that and I mean he does have a fever so that's kind of what made me come in Like it scared me a little bit Right yeah Okay so first thing is first we need to do a COVID swab just to make sure that he either has it or doesn't have it And those results will come back in 24 to 48 hours We do suggest because his symptoms overlap with symptoms of COVID that he isolate for 14",
+        "gt_chunk": "P:  to basically see if it was that and I mean he does receive you're so scared. That's kind of what made me come in, like it's scaring me a little bit.\n\nD: Right, yeah, OK, so first thing is, first we need to do a COVID swab just to make sure that he either has it or it doesn't have it and those results will come back in 24 to 48 hours. Umm we do suggest because his symptoms overlap with symptoms of COVID that he isolate for 14"
+    },
+    {
+        "whisper_chunk": "days and that includes from his younger sister if possible And then if the swab comes back negative there is a chance for false negatives but also it could be another viral illness that's going around nowadays If his symptoms get worse so if he has a really high temperature if he has any neurological symptoms like seizures",
+        "gt_chunk": "D: days and that includes from his his younger sister if possible. And then if the swap comes back negative, there is a chance for false negatives. But also it could be another viral illness that's going around nowadays. If his symptoms get worse, so if he has a really high temperature, if he has any neurological symptoms like seizures"
+    },
+    {
+        "whisper_chunk": "or if he's feeling weak dizzy if he has any fainting spells please do take him to the ER And so for now we'll just wait for those COVID swabs to come back How does that sound Yeah it sounds good Okay great Thank you And no worries And I should have mentioned if it was just the cough or if he was just short",
+        "gt_chunk": "D: or if he's feeling weak, dizzy, if he has any fainting spells, please do take him to the ER and uhm, so for now I'll just wait for those COVID swabs to come back. How does that sound?\n\nP: Yeah, sounds good.\n\nD: OK great.\n\nP: Thank you.\n\nD: Yeah, no worries. Uhm and I should have mentioned if it was just the cough or if he was just short"
+    },
+    {
+        "whisper_chunk": "of breath or something like that and he didn't have the fever we would add other things like asthma to the list of things he could be worked up for But right now it sounds like an infection Okay yeah that's good to know All right sounds great Have a good day You too thanks",
+        "gt_chunk": "D: of breath or something like that and he didn't have the fever, we would add everything's like asthma to the list of things\nhe could be worked up for, but right now it sounds like a, it sounds like an infection.\n\nP: OK yeah, that's good to know.\n\nD: Alright, sounds great. Have a good day. \n\nP: You too, thanks"
+    }
+]

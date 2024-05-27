@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "what brings you in Yeah so bringing in my year old son here with because he's had a fever and a cough and a runny nose These symptoms have been going on now for the last two days The last two days okay All of these symptoms have been going on for the last two days or just like one or two I think the cough and runny nose started",
+        "gt_chunk": "D: What brings you in?\n\nP: Yeah so I'm bringing in my year old son here with, I because he's had a fever and and a cough and a runny nose. These symptoms have been going on now for the last two days.\n\nD: Last two days. OK. Uhm, all of these symptoms have been going on for the last two days or just like one or two?\n\nP: I think, I think the cough and runny nose started"
+    },
+    {
+        "whisper_chunk": "first and then he then he kind of he had some fever and he had some chills as well last night He just kept saying that like he was just cold even though he had a had blankets on Okay Okay All right so the cough is it a dry cough",
+        "gt_chunk": "P: 1st and then he then he kind of had some fever and had some chills as well last night. Kept saying that, like he was just cold, even though he had a had blankets on.\n\nD: OK. OK. Alright, so the cough is it a"
+    },
+    {
+        "whisper_chunk": "It's dry Dry okay So no sputum no blood Nope no sputum or blood Okay Any shortness of breath with that No his breathing has been been good Okay Wheeziness No Chest pain Mm hmm No No Okay The fever did you measure it yourself I did yeah It was",
+        "gt_chunk": "P: It's dry.\n\nD: Dry, OK. So no sputum, no blood?\n\nP: No no no sputum or blood.\n\nD: Any shortness of breath with that?\n\nP: No, his breathing has been been good.\n\nD: OK, wheeziness?\n\nP: No.\n\nD: Chest pain?\n\nP: No, no.\n\nD: OK. The fever, did you measure it yourself?\n\nP: I did. Yeah it was"
+    },
+    {
+        "whisper_chunk": "38 8 Okay And the runny nose is it clear or does it have like a color to it like yellow or green It's pretty yeah it's more clear Clear okay All right And does he feel like he also has a stuffy nose or is it just a runny nose More just runny yeah He hasn't",
+        "gt_chunk": "P:  8.\n\nD: OK, and the runny nose is it clear? Or does it have like a colour to it like yellow or green?\n\nP: It's pretty, yeah it's more clear.\n\nD: Clear, OK. Alright and does he feel like he also has a stuffy nose or is it just a runny nose?\n\nP: More just runny. Yeah he doesn't"
+    },
+    {
+        "whisper_chunk": "mentioned anything about feeling stuffy Okay Any eye symptoms like redness any discharge No he hasn't had any any eye symptoms Okay How about hearing wise Hearing has been normal And vision's been normal It has yeah Okay Any ear pain or",
+        "gt_chunk": "P: mention anything about feeling stuffy.\n\nD: OK. Any symptoms like redness, any discharge?\n\nP: Uh, no, yeah, uh, he hasn't had any any eye symptoms.\n\nD: OK, how about hearing wise?\n\nP: Uh, hearing has been been normal.\n\nD: And visions been normal?\n\nP: It has, yeah.\n\nD: OK. Any ear pain or"
+    },
+    {
+        "whisper_chunk": "discharge No no ear pain or discharge Okay How about changing smell or taste No No okay Weight loss He's been gaining weight He hasn't had any weight loss Okay Any rashes No No Sore throat Yeah yeah he's had a bit of a sore throat",
+        "gt_chunk": "D: discharge?\n\nP: Ah, nope, no ear pain or, or discharge.\n\nD: OK, how about a change in smell or taste?\n\nP: No.\n\nD: No, OK. Weight loss?\n\nP: He he's been gaining weight, hasn't had any weight loss.\n\nD: OK, any rashes?\n\nP: No.\n\nD: No. Sore throat?\n\nP: Yeah, yeah, he's had a bit of a sore throat"
+    },
+    {
+        "whisper_chunk": "but he's just kind of mentioned it He said it wasn't too bad He's still been eating He hasn't been eating as much because he's got a poor appetite but he said the sore throat isn't bugging him that much Okay And how about dizziness or fainting spells No",
+        "gt_chunk": "P: t he's just kind of mentioned it. He said it wasn't too bad. He's still been been eating. Eating is that hasn't been eating as much, but he's got a poor appetite, but he, so this sore throat isn't bugging him that much that much. \n\nD: OK. And how about dizziness or fainting spells?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "No okay Numbness or tingling No Muscle ache or joint pains Yeah yeah He has had he did mention that he just feels like achy a little bit all over Okay Any changes in his bowel movements No diarrhea No okay Nausea or vomiting No he hasn't had any nausea or vomiting",
+        "gt_chunk": "D: No, OK. Numbness or tingling?\n\nP: No.\n\nD: Muscle ache or joint pains?\n\nP: Yeah, yeah he has had uh, he did mention that he just feels like a key a little bit all over.\n\nD: OK, any changes in his bowel movements?\n\nP: No diarrhea.\n\nD: No, OK. Natural vomiting?\n\nP: No, he hasn't had any nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "Okay How about changes to his appetite Yeah his appetite's been a bit down Okay Yeah Is he still eating solids He is yeah He's still eating solids just a little bit Probably just smaller portions though Okay yeah And are there",
+        "gt_chunk": "D:  how about changes to his appetite?\n\nP: Yeah, his appetite's been a bit down, yeah.\n\nD: Is he still eating solids?\n\nP: He is, yeah, he's still eating solids just a little bit. Probably just just smaller portions though. \n\nD: OK, yeah. And ah, are there"
+    },
+    {
+        "whisper_chunk": "any changes to his hearing Okay Any past medical illnesses or any long standing medical conditions that he has No he's been pretty healthy I mean he's got a cold every once in a while maybe in the winter but",
+        "gt_chunk": "P: any changes to his hearing.\n\nD: OK. Uhm, any past medical illnesses or any longstanding medical conditions that he has?\n\nP: No, he's he's been um he's been pretty healthy. Yeah, I mean, he's got got gets a cold every once in awhile maybe in the winter, but"
+    },
+    {
+        "whisper_chunk": "that's about it Okay Any hospitalizations or surgeries No he's been healthy Okay Any complications with his mother's pregnancy with him No it's been it was normal pregnancy throughout it was the term and it was a C section delivery",
+        "gt_chunk": "P: that's about it. \n\nD: OK, any hospitalizations or surgeries?\n\nP: Uh, no, he's been healthy.\n\nD: OK. Any complications with his mother's pregnancy with him? \n\nP: No, it's been ah it was normal pregnancy throughout it was to term and it was a C-section delivery"
+    },
+    {
+        "whisper_chunk": "but that went well and he was a normal weight Okay And was it an emergency C section No I think it was like labor was taking it was prolonged and so they ended up deciding to just convert like throughout It wasn't an emergency but like they could have waited a",
+        "gt_chunk": "P: but that went well and he was a normal weight. \n\nD: OK. And was it an emergency C-section?\n\nP: Ah no. I think it was like Labor was taking, it was prolonged, I mean so it they ended up deciding to just convert throughout. It wasn't an emergency, but like they could have waited a"
+    },
+    {
+        "whisper_chunk": "bit longer I was saying but just kind of made the decision Okay okay And is he on any medications No he's not No okay And developmental wise has he been hitting all his milestones for like Yeah he's been meeting all of his",
+        "gt_chunk": "P: bit longer they were saying but just kind of what went made the decision.\n\nD: OK, OK. And is he on any medications?\n\nP: Uh, no he's not.\n\nD: No, OK. And developmental wise has he been hitting all his milestones for like motor"
+    },
+    {
+        "whisper_chunk": "milestones for that Okay good Is he up to date with his immunizations He is yeah Okay Does he have any allergies No no grandfather",
+        "gt_chunk": "P: milestones for that, for that. \n\nD: OK, good. Is he up to date with his immunizations?\n\nP: He is, yeah. \n\nD: OK. Does he have any allergies?\n\nP: Uh, no, no"
+    },
+    {
+        "whisper_chunk": "had high blood pressure and like high cholesterol but that's that's it Okay And has he been in contact with sick sick people recently No I don't think so Okay Yeah Okay And any travel recently",
+        "gt_chunk": "P: had high blood pressure and like high cholesterol, but that's that's it. \n\nD: OK. And has he been in contact with sick, sick people recently.\n\nP: Uh no, I don't think so. Yeah.\n\nD: No, OK. And and any travel recently"
+    },
+    {
+        "whisper_chunk": "No he he's been doing some schooling some schooling online and some some in person Okay And but but and does anyone at home smoke No smoking at home No Okay And who does he live with So he lives with",
+        "gt_chunk": "P:  he he's been doing some schooling, some schooling online and some some in person. And but, but otherwise they've just been at home.\n\nD: OK. Uhm, alright and does anyone at home smoke?\n\nP: No smoking at home. \n\nD: No, OK. And who does he live with? \n\nP: So he lives with"
+    },
+    {
+        "whisper_chunk": "myself as well as his his mom and then he's got a younger brother and a younger sister as well Okay And at home any reason to think that old carpets dust mold asbestos anything like that could be making his symptoms worse I don't think so Yeah it's been all that's been okay Okay And and those are all the questions that I",
+        "gt_chunk": "P: myself as well as his his mom and then he's got a younger brother and a younger sister as well.\n\nD: OK. And at home. any reason to think that old carpet, dust, mold, asbestos, anything like that could be making his symptoms worse?\n\nP: I don't think so, yeah, it's been all that's been OK.\n\nD: OK, and and those are all the questions that I"
+    },
+    {
+        "whisper_chunk": "had for you today Did you have any questions of your own No I I just wanted to figure out what this was Okay yeah So it sounds or actually I should start by saying we should get a COVID swab on him just in case it is COVID because some of his symptoms overlap with those symptoms of COVID You should hear back in about 24 to 48 hours with the results",
+        "gt_chunk": "D: had for you today. Did you have any questions of your own?\n\nP: No, I I I just wanted to figure out what this was.\n\nD: OK, yeah, so it sounds or actually I should start by saying we should get a Covid swab on him just in case it is Covid because some of his symptoms overlap with those symptoms of Covid. Umm, you should hear back in about 24 to 48 hours with the results"
+    },
+    {
+        "whisper_chunk": "of those swabs And in the meantime it could be another viral infection that's going around at this time of year And from the sounds of it you said he has a fever he's coughing and he has a runny nose and he has muscle aches It could also be the flu Regardless of what kind of viral infection he",
+        "gt_chunk": "D: of those swabs. And in the meantime, it could be another viral infection that's going around at this time of year. And from the sounds of it, you said he has a fever. He's coughing and he has a runny nose and has muscle aches. It could also be the flu. Regardless of what kind of viral and viral infection he"
+    },
+    {
+        "whisper_chunk": "has the best way to manage it right now is just supportive care So making sure he's hydrated he's eating foods with a lot of nutrition and just keep an eye on his symptoms If it gets worse or if it's very severe and he has focal neurological deficits like weakness or seizures take him to the ER right away How does",
+        "gt_chunk": "D: has, the best way to manage it right now is just supportive care, so making sure he's hydrated, eating foods with a lot of nutrition and just keep an eye on his symptoms. If it gets worse or if it's very severe and he has focal neurological deficits like weakness or seizures, take him to the ER right away. How does"
+    },
+    {
+        "whisper_chunk": "that sound Yeah that sounds good Thank you Yeah no problem",
+        "gt_chunk": "D: that sound?\n\nP: Yeah, that sounds good. Thank you.\n\nD: Yeah no problem"
+    }
+]

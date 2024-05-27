@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "How can I help you today Hi I'm here because I've had this awful sore throat for the past four days It doesn't seem to be getting any better and I think I'm developing a fever now Did you check your temperature No I haven't checked my temperature I'm just really hot",
+        "gt_chunk": "D: How can I help you today?\n\nP: Hi, um I'm here because I've had this awful sore throat for the past four days. Doesn't seem to be getting any better and I think I'm developing a fever now.\n\nD: Have you checked your temperature?\n\nP: No, I haven't checked my temperature, I'm just really hot"
+    },
+    {
+        "whisper_chunk": "Okay so you've had this sore throat for four days and a fever Have you had any difficulty swallowing Yeah I can drink okay but it's really hard for me to eat solid foods right now Why is that Is it just hurting Oh it just hurts yeah Okay but it's not that you can't you can't",
+        "gt_chunk": "D: OK so you've had this sore throat for four days and a fever. Have you had any difficulty swallowing?\n\nP: Yeah, um not, like I can drink OK, but it's really hard for me to eat solid foods right now.\n\nD: Um why is that?\n\nP: Oh it just hurts.\n\nD: Yeah, OK, but it's not that you can't um, you can't"
+    },
+    {
+        "whisper_chunk": "like you don't feel like it's getting stuck No no nothing like that Okay And have you noticed any changes in your voice Do you find that your voice is more hoarse A little bit but I think that's just because I try not to talk as much since my throat is so sore Okay okay And have you had a runny",
+        "gt_chunk": "D: like, you don't feel like it's getting stuck?\n\nP: No, no, nothing like that.\n\nD: Um and have you noticed any changes in your voice? Do you find that your voice is more hoarse?\n\nP: Um a little bit uh but I think that's just because I try not to talk as much since my throat is so sore.\n\nD: OK, OK and uh have you had a runny"
+    },
+    {
+        "whisper_chunk": "nose No no runny nose A cough No Okay have you had any difficulties breathing No Any chest pain No Any sort of congestion Do you feel like your nose is stuffy or it hurts in your cheeks or your head when you bend down No No okay So all you have is a sore throat and this fever",
+        "gt_chunk": "D: nose?\n\nP: No, no runny nose. \n\nD: Uh a cough?\n\nP: No. \n\nD: OK. Have you had any difficulties breathing?\n\nP: No. \n\nD: Any chest pain?\n\nP: No.\n\nD: Any sort of um congestion, do you feel like your nose is stuffy or hurts your, uh, in your cheeks or your head when you bend down?\n\nP: No.\n\nD: No, OK. Um so all you have is a sore throat and this fever"
+    },
+    {
+        "whisper_chunk": "Okay And okay Do you have a No headaches Do you feel like you've been confused or just feeling not yourself No nothing like that Okay Any changes in your hearing or your vision No Okay And",
+        "gt_chunk": "P:  no headaches.\n\nD: Do you feel like you've been confused or just feeling not yourself?\n\nP: No, nothing like that. \n\nD: OK. Any uh changes in your hearing or your vision?\n\nP: No. \n\nD: OK, any"
+    },
+    {
+        "whisper_chunk": "do you feel like your heart's beating very fast No Do you feel short of breath Nope Any belly pain No Any nausea or vomiting No Okay Any diarrhea or constipation No Any fatigue No Weight loss Unintended No weight loss Okay No",
+        "gt_chunk": "D: do you feel like your heart's beating very fast?\n\nP: Uh no. \n\nD: Do you feel short of breath?\n\nP: Nope.\n\nD: Any uh belly pain? \n\nP: No.\n\nD: Any nausea or vomiting?\n\nP: Uh no. \n\nD: OK, any diarrhea or constipation?\n\nP: No. \n\nD: Any fatigue?\n\nP: No.\n\nD: Weight loss? Unintentional.\n\nP: No weight loss, no"
+    },
+    {
+        "whisper_chunk": "And do you have any medical conditions No I don't think so Okay Are you up to date with your immunizations Yeah The only one that I haven't gotten is that HPV vaccine Okay Okay Okay Any did you get a flu shot",
+        "gt_chunk": "D:  do you have any medical conditions?\n\nP: Uhm no, I don't think so. \n\nD: OK, are you up to date with your immunizations?\n\nP: Uh yeah the only one that I haven't gotten is um that HPV vaccine.\n\nD: OK OK, um OK, any uh, did you get the flu shot"
+    },
+    {
+        "whisper_chunk": "Oh I didn't get that this year Okay Well we recommend that you get your vaccines and also the HPV vaccine It's best to get the HPV vaccine earlier on It's a little bit less effective as you go past a certain age You're still obviously nowhere close to that But it's and I don't believe it's covered after the age of 26 either So it's best if you get",
+        "gt_chunk": "P: Oh, I didn't get that this year.\n\nD: OK, well we recommend that you you get your vaccines and um also the uh HPV vaccine. Um it's it's best to get the HPV vaccine earlier on. It's a little bit less effective as you um go past a certain age, you are still obviously nowhere close to that, but it's,  I I don't believe it's covered after the age of 26 either, so it's best if you get"
+    },
+    {
+        "whisper_chunk": "it done earlier Okay And let's go back to your symptoms then Have you had any surgeries I got my appendix removed when I was 13 Anything else No Okay Are you taking any medications including over the counter No I just take my",
+        "gt_chunk": "D: it done earlier. And let's go back to your symptoms, then. Have you had any surgeries? \n\nP: Uhm, I got my appendix removed when I was 13.\n\nD: Anything else?\n\nP: No.\n\nD: OK, are you taking any medications including over the counter?\n\nP: No, I just take my"
+    },
+    {
+        "whisper_chunk": "multivitamins And are you currently living alone or do you live with someone I live with my parents and my two siblings And do you feel safe at home Yes",
+        "gt_chunk": "P: multivitamins.\n\nD: And uhm are you um are you currently living alone or do you live with someone?\n\nP: I live with my parents and my two siblings.\n\nD: And uh do you feel safe at home? \n\nP: Yes"
+    },
+    {
+        "whisper_chunk": "Okay And are you currently sexually active No Okay Do you plan on being sexually active in the near future No not before I finish high school Okay All right And are you do you drink alcohol No Okay Do you smoke No",
+        "gt_chunk": "D: OK. Are you um currently sexually active?\n\nP: No.\n\nD: OK. Um do you plan on being sexually active in the near future? \n\nP: Uh no, not before I finish high school.\n\nD: OK, alright. Um and um are you uh, do you uh drink alcohol?\n\nP: No.\n\nD: OK, do you smoke?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Have you tried marijuana or any recreational drugs I haven't Okay Are things going well at are you in school right now Yep I'm in grade 10 Okay Are things going well Yes I would say so Any bullying at school No Okay Any concerns about depression or anxiety No Has your mood been okay Okay",
+        "gt_chunk": "D: Have you tried marijuana or any recreational drugs? \n\nP: I haven't. \n\nD: OK. Are things going well at, are you in school right now?\n\nP: Um yep, I'm in grade 10.\n\nD: OK. Are things going well?\n\nP: Yes, I would say so.\n\nD: Any bullying uh at school? \n\nP: No.\n\nD: OK, any um any any concerns about depression or anxiety?\n\nP: No. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Okay All right And have you traveled anywhere recently No I've been just at school and home So it's not virtual It's in person So half the day is in person and the other half is virtual Okay And are you maintaining social distancing at school wearing a mask Yeah we do except sometimes I",
+        "gt_chunk": "D: alright and uh you uh traveled anywhere recently? \n\nP: No, I've been um just at school and home. \n\nD: So it's not it's not virtual, it's in person?\n\nP: So half the day is in person and the other half is virtual. \n\nD: OK and are you maintaining social distancing at school, wearing a mask?\n\nP: Yeah we do, except sometimes I"
+    },
+    {
+        "whisper_chunk": "guess like I don't know if you have to drink water or something we take it off Sure Yeah sure Okay And I suppose just okay what was I going to ask Do you so no travels okay Do you feel like you've been in contact with someone who might be sick or might have COVID I don't",
+        "gt_chunk": "P: guess like I don't know if you have to drink water or something, we take it off. \n\nD: Yeah, sure, OK. Um and uhm, I suppose just um OK. What was I gonna ask? Um do you uh, so no travels, OK. Do you feel like you've been in contact with someone who might be sick or might have Covid?\n\nP: Uh I don't"
+    },
+    {
+        "whisper_chunk": "think so No Okay All right And have you looked at your throat Does it look swollen or red Yeah it looks pretty swollen and red Okay Okay Well that's all the questions Oh one more question actually Do you have any medical conditions that run in the family No I don't think so Maybe like high blood pressure",
+        "gt_chunk": "P: think so.\n\nD: No, OK alright. And have you looked at your throat? Does it look swollen or red?\n\nP: Yeah, it looks pretty swollen and red.\n\nD: Well, that's all the questions, oh one more question actually. Do you have um any medical conditions that run in the family?\n\nP: Um no, I don't think so. Maybe like high blood pressure"
+    },
+    {
+        "whisper_chunk": "All right Well that's all the questions I had We'll do a physical exam have a look inside your throat Given the symptoms that you have it sounds like you have an inflammation or swelling of your throat which could be caused by bacteria or viruses It could be something like mono or it could be strep throat",
+        "gt_chunk": "D: all right, well um that's all the questions I had. We'll do a physical exam, have a look inside your throat. Um given uh the symptoms that you have, it sounds like you have um an an inflammation or swelling of your throat which could be caused by bacteria or viruses. It could be something like um mono, or it could be um strep throat"
+    },
+    {
+        "whisper_chunk": "It could be other things as well Seeing that your symptoms are somewhat overlapping with the symptoms for COVID we would also like to do a COVID test We'll do a rapid strep test here as well just to rule it out And then we'll ask you to quarantine for the next 14 days or at least until your COVID swabs are back",
+        "gt_chunk": "D: it could be other things as well. Um seeing that your symptoms are somewhat overlapping with the symptoms for covid, we would also like to do a Covid test. Um we'll do a rapid strep test here as well um just to rule it out and then uh we'll uh ask you to quarantine for the next 14 days um until or at least until your covid swabs are back"
+    },
+    {
+        "whisper_chunk": "or your symptoms improve And we'll let you know about the management based on the strep test result Do you have any questions No that sounds great Thank you Okay Sounds good",
+        "gt_chunk": "D: or your symptoms improve um and we'll let you know about um the management based on the strep test result. Do you have any questions?\n\nP: Um no, that sounds great, thank you.\n\nD: OK sounds good"
+    }
+]

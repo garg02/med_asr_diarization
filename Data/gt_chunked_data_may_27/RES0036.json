@@ -1,0 +1,106 @@
+[
+    {
+        "whisper_chunk": "Can we just begin with what brings you in here today Yeah so I've been pretty breathless for the past six days and it's just worse I have to stop from I had to stop so many times walking here from my car Okay and when did this first start Six days ago And did it start like gradually or was it all of a sudden",
+        "gt_chunk": "D: Can we just begin with what brings you in here today?\n\nP: Yeah, so I've been pretty breathless for the past six days and it's it's just worse. I have to stop from, I had to stop so many times walking here from my car.\n\nD: OK, and when did this first start?\n\nP: Six days ago.\n\nD: And did it start like gradually or was it all of a sudden"
+    },
+    {
+        "whisper_chunk": "Pretty sudden actually Okay and were you doing anything before it first happened No just work and spending some time at home Okay and so you're having the shortness of breath but are you having any coughing at all Yes a lot of coughing too yeah Okay and is it a dry cough or",
+        "gt_chunk": "P: pretty sudden actually.\n\nD: OK, and were you doing anything before it first happened?\n\nP: No. Just work and spending some time at home.\n\nD: OK, and so you're having the shortness of breath, but are you having any like coughing at all?\n\nP: Oh yeah, a lot of coughing too, yeah.\n\nD: OK, and is it a dry cough or"
+    },
+    {
+        "whisper_chunk": "a wet cough So I've noticed this weird rusty colored sputum and I've noticed that like a couple times a day Okay and did your cough start around the same time as when your shortness of breath started Yeah I'd say so Okay so around six days Yeah around there And has it been",
+        "gt_chunk": "D: a wet cough?\n\nP: Um, so I've noticed this weird rusty colored sputum and I've noticed that like a couple times a day.\n\nD: And did your cough started around the same time as when your shortness of breath started?\n\nP: Uhm, yeah, I'd say so. \n\nD: OK, so around six days?\n\nP: Yeah around there.\n\nD: And has it been"
+    },
+    {
+        "whisper_chunk": "constant Like have you been constantly having the shortness of breath every day with the coughing or does it come and go It's pretty constant now Okay and do you find that it's been getting worse at all Yeah I'd say it's getting worse Okay and is that both the coughing and the shortness of breath or one or the other",
+        "gt_chunk": "D: constant like I've been constantly having a shortness of breath every day with the coughing? Or does it come and go? \n\nP: Um? It's pretty constant now.\n\nD: OK, and do you find that it's been getting worse at all? \n\nP: Uhm, yeah, I'd say it's getting, I'd say it's getting worse.\n\nD: OK, and is that both the coughing and the shortness of breath or one or the other"
+    },
+    {
+        "whisper_chunk": "It's both It's both okay Yeah And do you remember if you were doing something at the time when the shortness of breath first started Have you recently had any infections or anything like that previously I don't know about an infection but I guess I have been feeling a little feverish I haven't taken my",
+        "gt_chunk": "P: it's both. \n\nD: It's both OK.\n\nP: Yeah.\n\nD: And do you remember if you were doing something at the time when the shortness of breath first started? Have you recently had any infections or anything like that previously?\n\nP: I don't know bout an infection. Um, but I guess I have been feeling a little feverish. I haven't taken my"
+    },
+    {
+        "whisper_chunk": "temperature but I've been feeling kind of cold Okay and when you feel the breathlessness how long does it usually last for It's kind of hard to say It's all about It's always their baseline but it gets worse when I walk or when I exert myself Okay and besides the exertion does it get worse when you're near pollen when you're outside in",
+        "gt_chunk": "P: temperature, but I've been feeling you know, kind of cold.\n\nD: OK. And when you feel the breathlessness, how long does it usually last for?\n\nP: Um, it's kind of hard to say, it's it's always their baseline, but it gets worse when I when I walk or when I exert myself.\n\nD: OK. And besides like the exertion, does it get worse with any when you're near pollen, when you're outside in"
+    },
+    {
+        "whisper_chunk": "the cold anything like that It gets worse when no no I wouldn't say that no No okay And is it worse in the morning or at night It doesn't matter It's just there all the time Yeah Okay And is there anything that makes it go away or",
+        "gt_chunk": "D: the cold, anything like that?\n\nP: Um? It gets worse when when no no, I wouldn't say that no, no.\n\nD: OK. And is it worse in the morning or at night?\n\nP: It it doesn't matter.\n\nD: It is there all the time?\n\nP: Yeah. \n\nD: OK. And is there anything that makes it go away or"
+    },
+    {
+        "whisper_chunk": "anything you've tried that makes it better Well I guess I've tried taking some Tylenol and that's helping my like regulating my temperature Okay And have you ever noticed any blood in the cough It's rusty colored but I don't know if that's blood Okay but you've never actually coughed",
+        "gt_chunk": "D: anything you've tried that makes it better?\n\nP: Well, I guess I've tried some taking some Tylenol and that's helping my like regulating my temperature. \n\nD: OK. And have you ever noticed any blood in the cough?\n\nP: It's rusty colored, but I don't know if that's blood.\n\nD: OK, but you've never actually coughed"
+    },
+    {
+        "whisper_chunk": "up red blood No Okay And is there anything that makes your symptoms worse besides exertion No Okay And do you notice having any wheezing or any other breathing sounds",
+        "gt_chunk": "D:  red blood. \n\nP: No. \n\nD: OK. And. Is there anything that makes your symptoms worse besides exertion?\n\nP: Uh, no. \n\nD: OK. And do you notice, having any wheezing or any other breathing sounds"
+    },
+    {
+        "whisper_chunk": "I notice some wheezing Okay Yeah it's not that much though Okay Before the six days have you ever experienced anything similar No No Okay Have you traveled outside of the country at all recently No Okay Do you have any other symptoms like",
+        "gt_chunk": "P: I notice some wheezing. Yeah, it's it's, it's not that much though.\n\nD: OK. Before this, before the six days, have you ever experienced anything similar?\n\nP: Uh, no. \n\nD: No, OK. Have you traveled outside of the country at all recently?\n\nP: Uh, no. \n\nD: Yeah, OK. Do you have any other symptoms, like"
+    },
+    {
+        "whisper_chunk": "sore throat runny nose Chest pain anything like that I do have the sharp chest pain that gets worse with coughing Okay And is that always there or is it just when you're coughing a lot I guess when I'm coughing a lot And did that start six days ago too as well or Yeah Okay",
+        "gt_chunk": "D: sore throat, runny nose, chest pain, anything like that?\n\nP: I do have this sharp chest pain that gets worse with coughing.\n\nD: OK and is is that always there or is it just when you're coughing a lot?\n\nP: I guess when I'm coughing a lot. \n\nD: And that starts six days ago too as well. Or"
+    },
+    {
+        "whisper_chunk": "Mm hmm Okay And do you ever feel any kind of is it so you said mentioned it was sharp but do you ever feel like increased pressure in your chest anything like that No Okay And how would you rate this pain when it occurs from a scale of one being the least amount of pain you've felt in your life and 10 being the worst There's sharp chest pain I would say maybe like a seven",
+        "gt_chunk": "P: .\n\nD: OK. And do you ever feel any kind of is it so you said, mention it was sharp, but do you ever feel like increased pressure in your chest? Anything like that? \n\nP: Uh, no.\n\nD: And how would you rate this pain when it occurs from a scale of 1 being the least amount of pain you've felt in your life, and 10 being the worst? \n\nP: The sharp chest pain? I'd say maybe like a"
+    },
+    {
+        "whisper_chunk": "Okay And does it go away on its own or does it spread to different areas of your body at all It just starts gradually going away when I stop coughing Okay Have you experienced any kind of headaches or nausea or vomiting No Okay So you mentioned you had some chills but you don't know if you had a fever Mm hmm Okay Have you experienced",
+        "gt_chunk": "D: and does it go away on its own or does it spread to different areas of your body at all?\n\nP: It just starts gradually going away at when I stop coughing. \n\nD: OK. Have you experienced any kind of headaches with nausea or vomiting?\n\nP: Uhm, no. \n\nD: OK. So you mentioned you had some chills, but you don't know if you had a fever. \n\nP: Mhmm.\n\nD: OK. Have you experienced"
+    },
+    {
+        "whisper_chunk": "any kind of dizziness or fainting spells No Okay And have you been in contact with anyone who has been ill recently Not that I know of no Okay Have you experienced any night sweats I feel chilly at night but maybe yeah Okay Any",
+        "gt_chunk": "D: any kind of dizziness or fainting spells? \n\nP: Uh, no. \n\nD: OK. And have you been in contact with anyone who has been ill recently?\n\nP: Not that I know of, no. \n\nD: OK. Have you experienced any night sweats?\n\nP: I feel chilly at night, but I don't, maybe, yeah. \n\nD: OK, any"
+    },
+    {
+        "whisper_chunk": "significant weight loss recently No Okay And have you noticed any kind of symptoms like your heart is racing or anything like that No Okay Have you experienced any changes in your bowel movements at all like in Constipation or diarrhea No Any changes in your urinary patterns No",
+        "gt_chunk": "D: significant weight loss recently?\n\nP: No.\n\nD: And have you noticed any kind of symptoms like your heart is racing? Or anything like that?\n\nP: No. \n\nD: OK. Have you experienced any changes in your bowel movements at all like in constipation or diarrhea? \n\nP: No.\n\nD: Any changes in your urinary patterns?"
+    },
+    {
+        "whisper_chunk": "Okay Any issues with your sleep or appetite at all No Okay Have you had any recent infections like a cold or anything like that recently I guess I had a runny nose a few days before Okay Yeah Have you at all been exposed to anyone with tuberculosis",
+        "gt_chunk": "P: .\n\nD: Any issues with your sleep or appetite at all? \n\nP: Uhm, no. \n\nD: OK. Have you had any recent infections like a cold or anything like that recently?\n\nP: Um, I guess I had a runny nose a few days before. \n\nD: OK.\n\nP: Yeah. \n\nD: Have you at all been exposed to anyone with tuberculosis"
+    },
+    {
+        "whisper_chunk": "in the past No Okay Any exposure at your workplace or at home to any fumes or dust any pets or animals Well I have birds but I've had them for a while Okay How long have you had the birds for About three years Okay",
+        "gt_chunk": "D: in the past? \n\nP: No.\n\nD: Any exposure at your workplace or at home to any fumes or dust in pets or animals?\n\nP: Ah, well I have birds, but I've had them for awhile. \n\nD: OK. How long have you had the birds for?\n\nP: Ah about three years.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "But they haven't caused you any issues before No Okay And do you have any allergies that you know of No allergies Okay Any past medical conditions like high blood pressure diabetes asthma No Any previous surgeries No Okay Any hospitalizations for any reason No",
+        "gt_chunk": "D: , they haven't caused you any issues before?\n\nP: No. \n\nD: OK. And do you have any allergies that you know of?\n\nP: No allergies. \n\nD: OK. Any past medical conditions, like high blood pressure, diabetes, asthma?\n\nP: No.\n\nD: Any previous surgeries? \n\nP: No, none. \n\nD: OK. Any hospitalizations for any reason? \n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay Are you on any medications currently No And do you have any family history of any medical conditions like cancers or heart attacks or any lung issues No Okay And currently do you work I do The place I work is very crowded And it's not the best conditions to work in",
+        "gt_chunk": "D: are you on any medications currently? \n\nP: No.\n\nD\" And do you have any family history of any medical conditions like cancers or heart attacks or any lung issues?\n\nP: No. \n\nD: OK. And currently, do you work? \n\nP: I do. The place I work is very crowded and it's not the best conditions to work in"
+    },
+    {
+        "whisper_chunk": "And there's an air conditioner which I think is broken It's quite humid It's never been checked Yeah Okay And how long have you been working there For the past year Okay And where do you live currently Do you live in a house or an apartment I have a small apartment Also not in the greatest location",
+        "gt_chunk": "P: and there's an air conditioner, which I think is broken. It's quite humid, it's never been checked. Yeah. \n\nD: And how long have you been working there?\n\nP: For the past year. \n\nD: OK. And where do you live currently? Do you live in a house or an apartment?\n\nP: Uhm, I have a small apartment, also not in the greatest location"
+    },
+    {
+        "whisper_chunk": "Okay Do you have any exposure to mold or excessive temperature Dust in your household Maybe It's a very badly kept apartment so it's possible Okay Do you have any potential exposure to asbestos in your house or at work I mean yeah probably Both buildings are very very old I doubt they're being",
+        "gt_chunk": "D: OK, do you have any exposure to mold or excessive dust in your household?\n\nP: Um, maybe, ah it's a very badly kept apartment, so it's possible.\n\nD: OK, do you have any potential exposure to asbestos in your house or at work?\n\nP: I mean, yeah, probably. Both buildings are very, very old. I doubt they're being"
+    },
+    {
+        "whisper_chunk": "maintained Okay And do you currently smoke at all I smoke 10 cigarettes a day Okay And how long have you been smoking for Since I was 20 Okay And do you use any recreational drugs like marijuana I smoke a little cannabis sometimes And how often would you say you smoke in an average week",
+        "gt_chunk": "P: maintained. \n\nD: OK. And do you currently smoke at all?\n\nP: I smoke 10 cigarettes a day.\n\nD: OK, and how long have you been smoking for?\n\nP: Um, since I was 20. \n\nD: OK. And do you use any recreational drugs like marijuana?\n\nP: I smoke a little cannabis sometimes. \n\nD: And how often, would you say you smoke in an average week"
+    },
+    {
+        "whisper_chunk": "Maybe about five milligrams Okay And do you drink alcohol I do but not a lot How much would you say you drink in a week Maybe five drinks Okay And in terms of your daily routine do you think you get enough exercise Probably not",
+        "gt_chunk": "P: Maybe about 5 milligrams. \n\nD: OK. And do you drink alcohol?\n\nP: I do, but not a lot.\n\nD: How much would you say you drink in a week?\n\nP: Ah, maybe 5 drinks? \n\nD: OK. And in terms of your daily routine, do you think you get enough exercise?\n\nP: Probably not"
+    },
+    {
+        "whisper_chunk": "Okay And how about your diet Do you get three meals a day or is it well balanced I eat a lot of fast food and junk food Okay All right Is there any other questions or concerns that you had for us today No Okay So yeah based on what we discussed today it seems that you may have",
+        "gt_chunk": "D: and how about your diet? Do you get 3 meals a day or is it well balanced?\n\nP: I eat a lot of fast food and junk food.\n\nD: OK. Alright, is there any other questions or concerns that you had for us today?\n\nP: No. \n\nD: OK. So yeah, based on what we discussed today, it seems that you may have"
+    },
+    {
+        "whisper_chunk": "an upper respiratory tract infection The other things on differential would be a COPD exacerbation due to your significant smoking history So we'll do some investigations to figure out what this is and then perhaps give you antibiotics or other medications to help you unless it's a viral",
+        "gt_chunk": "D: an upper respiratory tract infection. The other things on differential would be a COPD exacerbation due to your significant smoking history. So we will do some investigations ti figure out what this is, and then perhaps can give you antibiotics or other medications to help you, unless it's a viral"
+    },
+    {
+        "whisper_chunk": "infection",
+        "gt_chunk": "D: infection"
+    }
+]

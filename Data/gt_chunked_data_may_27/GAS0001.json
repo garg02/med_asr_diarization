@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "what brings you in today I've just been feeling like very nauseated It feels like all the time right now Hmm when did this start It's been over a week Maybe not quite two weeks but like around yeah maybe like nine",
+        "gt_chunk": "D: What brings you in today?\n\nP: I've just been feeling like very nauseated for, it feels like all the time right now.\n\nD: When did this start?\n\nP: It's been over a week. Maybe not quite two weeks, but like around then. Yeah, maybe like "
+    },
+    {
+        "whisper_chunk": "days Hmm and is it do you always have the sensation of nausea or is it related or does it sort of come and go I think it's like worse if I'm smelling something really bad and it's worse in the morning but I feel like it's always kind of there I see",
+        "gt_chunk": "P: days.\n\nD: And um, is it, do you always have the sensation of nausea or is it related, or does it come and go?\n\nP: Oh, I think it's like worse when I am smelling something really bad, and it's worse in the morning. But I feel like it's always kind of there.\n\nD: I see"
+    },
+    {
+        "whisper_chunk": "okay um have you had any vomiting Uh yeah like um yeah like a lot of days I'll throw up like once or twice Hmm and this has all been over the past week week two weeks or so Yeah Hmm okay um any other symptoms that you have",
+        "gt_chunk": "D: . Um, have you had any vomiting?\n\nP: Uh, yeah, like um, yeah, like a lot of days I'll throw up like once or twice.\n\nD: And this has all been over the past week, week two weeks or so?\n\nP: Yeah.\n\nD: OK, um, any other symptoms that you have"
+    },
+    {
+        "whisper_chunk": "Oh no just well like I feel like I've I've had to pee a lot more um but I don't I don't think that's like related I think maybe I've just been drinking a lot of water so yeah Uh how often do you have to pee Um",
+        "gt_chunk": "P: Oh no, just, well, like I feel like I've I've had to pee a lot more. Um, but I don't, I don't think that's like related. I think maybe I have just been drinking a lot of water, so yeah.\n\nD: How often do you have to pee?\n\n"
+    },
+    {
+        "whisper_chunk": "like I feel like every couple hours right now Okay so say what every two hours every hour every five hours Yeah like probably every probably every like two maybe maybe every hour like at certain times of the day Do you wake up at night to pee Uh like it doesn't wake me up but if like I wake up because I hear",
+        "gt_chunk": "P: like, I feel like every couple hours right now.\n\nD: OK, so say every two hours, every hour, every five hours?\n\nP: Probably every probably every like 2, maybe, maybe every hour I get certain times in a day. \n\nD: Do you wake up at night to pee? \n\nP: Oh, like it doesn't wake me up but it's like I wake up because I hear"
+    },
+    {
+        "whisper_chunk": "something then I'll be like oh I think I should probably go to the bathroom Yeah do you feel like you have control over when you are going to the bathroom or is it um difficult for you to hold it in Oh I I can control it it's just like uncomfortable right I see I see so um you have urinary frequency but do you um do you feel like uh so you said that you can control it you don't you don't feel",
+        "gt_chunk": "P: something. Then I'll be like, oh I think I should probably go to the bathroom.\n\nD: Yeah, do you feel like you have control over when you are going to bathroom or is it difficult for you to hold it in?\n\nP: Oh I I I can control it. It's just like uncomfortable right?\n\nD: I see I see so, um, you have urinary frequency, but do you do you feel like, uh so you said that you can control it, you don't you don't feel"
+    },
+    {
+        "whisper_chunk": "like you need to run to the bathroom or you'll be in your pants No I don't feel like that Okay do you have any pain when you're peeing No No okay all right um do you feel like you've been more thirsty recently Why do you feel you've been drinking more more water I think I think just because like I was getting I was like throwing up I didn't feel like I was a little dehydrated",
+        "gt_chunk": "D: like you need to run to the bathroom or you'll pee in your pants?\n\nP: No, I don't feel like that.\n\nD: OK. Do you have any pain when you're peeing?\n\nP: No.\n\nD: No, OK alright um, do you feel like you've been more thirsty recently? Why do you feel you've been drinking more more water?\n\nP: I think, I think just 'cause like I was getting I was like throwing up like so like I feel like I was a little dehydrated"
+    },
+    {
+        "whisper_chunk": "Oh um I see okay um have you uh other than the nausea and vomiting um have you had any other sort of uh stomach related issues any belly pain or changes in your bowel movement Uh no I don't think",
+        "gt_chunk": "P: .\n\nD: Um, I see OK, um, have you, other than the nausea and vomiting, have you had any other stomach related issues? Any belly pain or changes in your bowel movements?\n\nP: Ah no, I don't think"
+    },
+    {
+        "whisper_chunk": "so well my stomach it's been like it feels like a little crampy I thought it maybe could be my period but like not on my period Um when did you last have your period Oh well let me think um like six weeks ago I guess that would be I don't always I don't really like keep",
+        "gt_chunk": "P: so, well my stomach has been like it feels like a little crampy. I thought that maybe it could be my period but like I'm not on my period.\n\nD: When did you last have your period?\n\nP: Oh well, let me think. Um, like six weeks ago. I guess that would be, I don't know. I don't really like keep"
+    },
+    {
+        "whisper_chunk": "track Okay okay do you know if you get your periods regularly or are your periods to the day Sure yeah um so yeah Is it is it normal for you to go six weeks without a period Uh I'm gonna think of",
+        "gt_chunk": "P: track. \n\nD: OK, OK. Do you know if you get your periods regularly or are your periods irregular?\n\nP: I think they're I think they're usually pretty regular, but I don't I don't like I don't\ncalculate it like to the day. \n\nD: True yeah, is it is it normal for you to go six weeks without a period?\n\nP: Oh, come to think of"
+    },
+    {
+        "whisper_chunk": "it I don't I don't think so All right um okay uh have you I'll just ask you a couple more questions about your symptoms um so I know that you've been uh nauseous and have vomited a couple times the past two weeks um and uh you have had some cramps in your belly um have you had any flu like symptoms",
+        "gt_chunk": "P: it, I don't, I don't think so. \n\nD: Alright. Um, OK. Uh, have you, I'll just ask you a couple more questions about your symptoms. So I know that you've been nauseous and have vomited a couple of times in the past two weeks. And, you have had some cramps in your belly. Have you had any flu like symptoms"
+    },
+    {
+        "whisper_chunk": "No nothing like that I don't think so Any headaches Uh no Any fevers No Muscle aches Uh no Okay um have you had a cough at all Oh no Okay and",
+        "gt_chunk": "P: No.\n\nD: Nothing like that?\n\nP: I don't think so.\n\nD: Any headaches?\n\nP: Uh no.\n\nD: Any fevers?\n\nP: No. \n\nD: Muscle aches?\n\nP: Uh no.\n\nD: OK, um, have you, have you had a cough at all?\n\nP: Oh no. \n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "uh have you noticed any blood in your stools No No okay Have you uh you haven't had any um palpitations or chest pain or anything of that sort No All right um can you uh tell me about your past medical history any medical issues medical conditions that you have Uh like nothing nothing",
+        "gt_chunk": "D:  have you noticed any blood in your stools?\n\nP: No.\n\nD: Have you, you haven't had any palpitations or chest pain or anything of that sort?\n\nP: No.\n\nD: Alright um can you tell me about your past medical history, any medical issues medical conditions that you have?\n\nP: Uh, nothing, nothing"
+    },
+    {
+        "whisper_chunk": "really Okay um have you um been taking any medications No I mean I've been taking like like I've been chewing like those ginger things that are supposed to help with nausea but they weren't really helpful Oh I see um any allergies Uh just like nickel like in jewelry if I wear",
+        "gt_chunk": "P: really.\n\nD: OK. Have you, um, been taking any medications?\n\nP: No, I mean, I've been taking like like I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful.\n\nD: I see. Any allergies?\n\nP: So just like nickel, like in jewelry, if I wear"
+    },
+    {
+        "whisper_chunk": "like not real jewelry it'll give me a rash but it's not food or like or medications or anything Um and uh a couple of questions about your social history Who do you currently live with Um like I I just uh I live",
+        "gt_chunk": "P:  not real jewellery, it'll give me a rash, but it's not food or like or medications or anything.\n\nD: Um, and, uh, a couple of questions about your social history. Who do you currently live with?\n\nP: Um, like I I just I live"
+    },
+    {
+        "whisper_chunk": "with one roommate Um and uh do you currently smoke No All right do you that you don't smoke okay Have you do you consume alcohol Uh no I very rarely because I always get a headache Okay when was the last drink that you had Oh",
+        "gt_chunk": "P: with one roommate.\n\nD: Um and, do you currently smoke?\n\nP: No. \n\nD: Alright, you don't smoke, OK. Have you, do you consume alcohol?\n\nP: Uh, no, very rarely because I always get a headache.\n\nD: OK, when was the last drink that you had?\n\nP: Oh"
+    },
+    {
+        "whisper_chunk": "gosh like like a month ago probably Okay um and do you consume any illicit drugs No no All right um are you currently sexually active Uh yeah just like with my boyfriend And uh do you uh use protection while having sex Uh yeah we we just use condoms um like",
+        "gt_chunk": "P: gosh, like like a month ago probably.\n\nD: OK, um, and you consume any illicit drugs?\n\nP: No, no.\n\nD: Alright, are you currently sexually active?\n\nP: Yeah just like with my boyfriend.\n\nD: And do you use protection while having sex?\n\nP: Yeah, we we just use condoms. I"
+    },
+    {
+        "whisper_chunk": "I used to be on birth control but it always made me feel like kind of sick so I don't do that anymore I see okay uh and um let's see family history do you do you have any medical conditions that run in your family",
+        "gt_chunk": "P: I used to be on birth control but it always made me\nfeel like like kind of sick so I don't use that anymore.\n\nD: Mhm, I see, OK. Uh and um, let's see. Family history. Do you do you have any medical conditions that run in your family"
+    },
+    {
+        "whisper_chunk": "Um like I don't I don't think so I guess my dad my dad has like high blood pressure Yeah that's yeah that's I don't think there's anything else All right all right well thank you so much for spending time with me today I think I've gathered all the information that would have liked I will go talk to my attending we'll come back maybe ask a couple more questions and uh then share the plan with you Okay",
+        "gt_chunk": "P: Uh, like I don't, I don't think so. I guess my dad my dad has like high blood pressure, yeah, I don't think there's anything else. \n\nD: Alright, alright, well, thank you so much for spending time with me today. I think I have gathered all the information that I would have liked. I will go talk to my attending, we'll come back and maybe ask a couple more questions and then share the plan with you.\n\nP: OK"
+    },
+    {
+        "whisper_chunk": "thank you You're welcome",
+        "gt_chunk": "P: thank you.\n\nD: You're welcome"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "whisper_chunk": "would you mind by starting with what brought you in Yeah so over the last week I've just been feeling some symptoms of so it kind of first started with just like I had like a runny nose and then so that was around like five days ago and then it turned into just a lot of congestion like around my nose and like my throat and",
+        "gt_chunk": "D: Would you mind by starting with what brought you in?\n\nP: Yeah, so over the last week I've just been feeling some symptoms. It kind of first started with, like a runny nose. That was around like 5 days ago and then it turned into just a lot of congestion, like around my nose and like my throat. And"
+    },
+    {
+        "whisper_chunk": "now over the last two days I've been just feeling so much pressure around my nose around my jaw so I've been getting a lot of pain there as well Okay is your nose still running Yeah I'm still getting some discharge and I also feel like I'm getting some dripping at the back of my throat too especially when I wake up Okay",
+        "gt_chunk": "P: now over the last two days I've been just feeling so much pressure around my nose and around my jaw so I've been getting a lot of pain there as well.\n\nD: OK, is your nose still running?\n\nP: Yeah, I'm still getting some discharge and I also feel like I'm getting some dripping at the back of my throat too, especially when I wake up.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and could you describe the discharge Is it clear yellow greenish It's fairly clear and sometimes like a bit white but like it's not like green or yellow Okay and have you felt that it's difficult to breathe in through either of your nostrils like it's obstructed Yeah so",
+        "gt_chunk": "D: and could you describe the discharge? Is it clear, yellow, greenish?\n\nP: Uh, it's fairly clear and sometimes, like a bit white, but like, it's not like green or yellow.\n\nD: OK, uh, and have you felt that it's difficult to breathe in through either of your nostrils, like it's obstructed?\n\nP: Yeah, so"
+    },
+    {
+        "whisper_chunk": "at night sometimes I have to like turn because one side of my nose gets difficult to breathe from and then it kind of balances around the other side so I do have some obstruction Okay and have you had any changes to your sense of smell Yeah so just in the last three days when the congestion got really bad I started losing",
+        "gt_chunk": "P: at night sometimes I have to like turn because one side of my nose gets difficult to breathe from and then it kind of balances out on the other side. So yeah, I do have some obstruction.\n\nD: OK, and have you had any changes to your sense of smell?\n\nP: Yeah, so just in the last three days when the congestion got really bad I started losing"
+    },
+    {
+        "whisper_chunk": "the ability to smell Okay have you had any changes to your sense of taste No taste is fine Okay and have you had any cough or sore throat No no cough or sore throat Okay and the symptoms have gone on for five days Have you had a period of time where you",
+        "gt_chunk": "P: the ability to smell.\n\nD: OK, have you had any changes to your sense of taste?\n\nP: No, taste is fine. \n\nD: OK, and have you had any cough or sore throat?\n\nP: Uh, no. No cough or sore throat.\n\nD: OK, and the symptoms have gone on for five days. Have you had a period of time where you"
+    },
+    {
+        "whisper_chunk": "got better and then got sick again I did I did kind of have a runny nose last week as well so probably like eight days ago and but the runny nose just continued a little bit but really got worse five days ago but all these other symptoms just happened in the last few days Okay and you have a lot of pain Is it",
+        "gt_chunk": "D: got better and then got sick again? \n\nP: I did kind of have a runny nose last week as well, so probably like 8 days ago but then the runny nose discontinued a little bit but really got worse 5 days ago, but all these other symptoms just happened in the last few days.\n\nD: OK, and you have pain."
+    },
+    {
+        "whisper_chunk": "you feel it in your jaw or do you feel it in the front of your nose Yes I would say mainly over the cheeks It can kind of go near the front of my teeth as well so like I would say like mostly around the cheeks jaws and up to the front of my teeth Okay and do you grind your teeth at all at night or have you had",
+        "gt_chunk": "D: you feel it in your jaw or do you feel it in the in the front of your nose?\n\nP: Yes, I would say mainly over the cheeks. It can kind of go near the front of my teeth as well, so like I would say like mostly around the cheeks, jaws and up to the front of my teeth. \n\nD: OK, And do you grind your teeth at all at night? or have you had"
+    },
+    {
+        "whisper_chunk": "like TMJ issues before No nothing like that I think it's not so more like on and around my teeth It's more so just right below my nose above my teeth and just around my cheeks Okay so no pain in your mouth or anything like that No not inside my mouth Okay have you had any fevers or chills",
+        "gt_chunk": "D: , TMJ issues before?\n\nP: No nothing like that. I think it's not so much on and around my teeth, it's more so just to right below my nose, above my teeth and just around my cheeks.\n\nD: OK, so no pain in your mouth or anything like that?\n\nP: No, not inside my mouth.\n\nD: OK, have you had any fevers or chills"
+    },
+    {
+        "whisper_chunk": "I don't think I've had a fever I did feel some chills over the last few days but just very brief episodes Okay and over the last few weeks have you had any weight loss No Okay and so you didn't have a cough or a sore throat but have you had any wheezing No wheezing How about any shortness",
+        "gt_chunk": "P: I Don't think I've had a fever. I did feel some chills over the last few days, but just very brief episodes.\n\nD: OK, and over the last few weeks have you had any weight loss? \n\nP: No.\n\nD: OK, and you said you didn't have a cough or a sore throat, but have you had any wheezing?\n\nP: No wheezing.\n\nD: How about any shortness"
+    },
+    {
+        "whisper_chunk": "of breath Not shortness of breath just sometimes when my nose gets like really congested I just turn into like a mouth breather but that's about it I see Okay and have you had any chest pain No no chest pain All right and any lightheadedness or feeling dizzy No Okay",
+        "gt_chunk": "D: of breath?\n\nP: Uh, not shortness of breath. Just sometimes when my nose gets like really congested, I just turn into like a mouth breather, but that's about it.\n\nD: I see, OK, and have you had any chest pain?\n\nP: No, no chest pain. \n\nD: Alright, and any lightheadedness or feeling dizzy?\n\nP: No.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "have you had any nausea or vomiting Nope Any abdominal pain Nope Have you had any diarrhea Sorry what was that Have you had any diarrhea No diarrhea Okay and have you had any urinary problems Nope And have you had any rashes or skin changes No not that I know",
+        "gt_chunk": "D: have you had any nausea or vomiting?\n\nP: Nope. \n\nD: Any abdominal pain? \n\nP: No.\n\nD: Have you had any diarrhea?\n\nP: Sorry, what was that?\n\nD: Have you had any diarrhea?\n\nP: No diarrhea. \n\nD: OK, and have you had any urinary problems?\n\nP: Uh, no.\n\nD: And have you had any rashes or skin changes?\n\nP: No, not that I know"
+    },
+    {
+        "whisper_chunk": "of Okay and then how about any muscle aches or joint aches Nope Okay and have you had any muscle weakness Nope And how's your energy been Have you had any fatigue It's been mainly okay just maybe sometimes difficult to get",
+        "gt_chunk": "P: .\n\nD: OK, then how about any muscle aches or joint aches? \n\nP: Uh, no.\n\nD: OK, and have you had any muscle weakness?\n\nP: No.\n\nD: And how has your energy been? Any fatigue?\n\nP: Uhm, it's been mainly OK, just maybe sometimes difficult to get"
+    },
+    {
+        "whisper_chunk": "to sleep with all the congestion but I don't think my energy's been affected too much no Okay and sorry to go back to this I don't think I asked Did you notice any discharge from your eyes or any eye redness Not discharge but yeah maybe a little bit of redness Okay have your eyes been itchy",
+        "gt_chunk": "P: to sleep with all the all the congestion, but I don't think my energy has been affected too much, no.\n\nD: OK, and, uh, sorry to go back to this, I don't think I asked. Did you notice any discharge from your eyes or any eye redness?\n\nP: Not discharge, but yeah, maybe a little bit of redness.\n\nD: OK, have your eyes been itchy"
+    },
+    {
+        "whisper_chunk": "Yeah a little bit I would say they have been a bit itchy Okay all right Do you have any medical conditions that you see a physician for regularly Just I have what's it called It's called high like dyslipidemia Okay I see And any",
+        "gt_chunk": "P: Yeah, a little bit. I would say they have been a bit itchy.\n\nD: OK, alright then, do you have any medical conditions that you see a physician for regularly? \n\nP: Uh, just uhm, its called dyslipidemia. \n\nD: OK, I see, and any"
+    },
+    {
+        "whisper_chunk": "medications you take for that Just like a statin medication Okay do you take any other medications over the counter prescribed No just other than that I take multivitamins Okay and do you have any allergies to medications or maybe like environmental allergies that might be getting worse No not that I know of Okay so you don't experience",
+        "gt_chunk": "D: medications you take for that?\n\nP: Just like a Statin medication.\n\nD: OK, do you take any other medications? over the counter? prescribed?\n\nP: No, other than that I take multivitamins.\n\nD: OK, and do you have any allergies to medications or like environmental allergies that might be getting worse?\n\nP: Uh, no, not that I know.\n\nD: OK, so you don't experience"
+    },
+    {
+        "whisper_chunk": "any symptoms like this when the seasons change I don't think so I have had this happen to me I would say like once before it happened like two years ago Yeah It was pretty similar Okay and did you have any what was done at that time",
+        "gt_chunk": "D: any symptoms like this when the seasons change?\n\nP: I don't think so. I have had this happen to me, Uh, I would say like once before. It happened like two years ago. It was pretty similar. \n\nD: OK, uhm, and what was done at that time"
+    },
+    {
+        "whisper_chunk": "At that time it kind of just went away on its own it got better Like I feel it's definitely worse this time but at that time I didn't even go to the doctor it kind of just went away Okay I see And any reasons for hospitalizations No hospitalizations no Any surgeries Nope All right and",
+        "gt_chunk": "P: At that time it kind of just went away on it's own. It got better. I feel it's definitely worse this time. But at that time I didn't even go to the doctor, it kind of just went away.\n\nD: OK, I see. Any recent hospitalizations?\n\nP: No hospitalizations.\n\nD: Any surgeries?\n\nP: Nope. \n\nD: Alright, and"
+    },
+    {
+        "whisper_chunk": "could you tell me whereabouts you're living currently and who you're living with Yeah so I'm currently living in an apartment by myself in just north side of London Okay and anybody that you've been around who's had any symptoms No not that I know of Okay so no sick contacts And have you traveled",
+        "gt_chunk": "D: could you tell me where abouts you're living currently and who you're living with?\n\nP: Yeah, so I'm currently living in an apartment by myself, just outside of London.\n\nD: OK, and anybody that you've been around who's had any symptoms?\n\nP: Uh, no, not that I know of.\n\nD: OK, so no sick Contacts. And have you traveled"
+    },
+    {
+        "whisper_chunk": "anywhere out of the city or province No I've tried to stay home Besides going to work I just work at the grocery store Besides that nowhere else Okay and anybody any of your co workers have any symptoms or any co workers been off sick No we're pretty careful right now with the pandemic I see Yeah no that's great",
+        "gt_chunk": "D: anywhere out of the city or province?\n\nP: No, I've tried to stay home, besides going to work. I just work at the grocery store. Besides that, no, nowhere else.\n\nD: OK, and any of your coworkers have any symptoms? Or any coworkers being off sick?\n\nP: No, we're pretty careful right now with the pandemic.\n\nD: I see, yeah, that's great"
+    },
+    {
+        "whisper_chunk": "Okay and do you smoke cigarettes No I quit just a couple years ago Oh that's great Yeah it's not easy to quit so that's awesome And do you drink alcohol Just maybe like a red wine a couple of times a week I see Okay and do you use any recreational drugs",
+        "gt_chunk": "D: OK, and do you smoke cigarettes?\n\nP: No, I quit just a couple of years ago.\n\nD: Oh, that's great. It's not easy to quit, so that's awesome. And do you drink alcohol?\n\nP: Just maybe like red wine a couple of times a week.\n\nD: I see, OK, and do you use any recreational drugs"
+    },
+    {
+        "whisper_chunk": "Just in a month maybe once or twice I smoke a joint Okay and anybody in the family have any lung or heart conditions No not that I know of All right and how about any cancer in the family No no cancers Okay",
+        "gt_chunk": "P: just, in a month, maybe once or twice, I smoke a joint.\n\nD: OK, uh, and anybody in the family have any lung or heart conditions?\n\nP: No, not that I know of.\n\nD: Alright, and how about any cancer in the family?\n\nP: Uh, no, no cancers.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "I think that was everything I wanted to ask about today Was there any other symptoms or anything else that you wanted to make sure I knew about today No I think that's all I just didn't know if I needed any like medications or if I needed to get tested I just wanted to make sure Yeah so we'll certainly check your temperature",
+        "gt_chunk": "D: I think I that was everything I wanted to ask about today. Was there any other symptoms or anything else that you wanted to make sure I knew about today?\n\nP: No,  I think that's all. I just didn't know if I needed any, like, medications or if I needed to get tested. I just wanted to make sure.\n\nD: Yeah, so well, certainly check your temperature"
+    },
+    {
+        "whisper_chunk": "to see if you have a fever And if you do and it's high enough that will increase the chance that you have a bacterial sinusitis and if so with some of your symptoms including the discharge obstruction loss of smell and facial pain that all fits the picture for it",
+        "gt_chunk": "D: to see if you have a fever. And if you do and it's high enough, that will increase the chance that you have a bacterial sinusitis,  and if so, with some of your symptoms, including the discharge, obstruction, loss of smell, and facial pain, that all fits the picture for it"
+    },
+    {
+        "whisper_chunk": "And also you had a period where you felt a little bit better and then worse again So that might require antibiotics but we will yeah check your temperature and go from there All right sounds good Thank you so much All right thank you",
+        "gt_chunk": "D: and also you had a period where you felt a little bit better and then worse again. So that might require antibiotics, but we will check your temperature and go from there. \n\nP: Alright, sounds good, thank you so much.\n\nD: Thank you"
+    }
+]

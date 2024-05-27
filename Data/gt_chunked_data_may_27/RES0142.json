@@ -1,0 +1,62 @@
+[
+    {
+        "whisper_chunk": "What can I do for you Hi yeah so I just came here today because I've just been feeling like I have this really sore throat for the last week and I've also been getting some chills over the last few nights as well So yeah I just came today to check it out Okay and when did so",
+        "gt_chunk": "D: what can I do for you?\n\nP: Hi um, yeah so I, I just came here today um, because I've just been feeling um, like I have this really sore throat for the last uh, week, and I've also been getting some chills over the last few nights as well. Um, so yeah, I just came to check it out.\n\nD: Um, okay, and um, when did"
+    },
+    {
+        "whisper_chunk": "your sore throat started a week ago what about the chills Chills I've been feeling them over the last few nights and I've also just been feeling very tired and over the last whole week as well Okay have you had any difficulties swallowing",
+        "gt_chunk": "D: your sore throat started um, a week ago. What about um, the chills?\n\nP: Um, chills, I've been feeling them over the last few nights um, and I've also just been feeling very tired and um, over the last whole week as well.\n\nD: Okay, um, have you had any difficulties swallowing"
+    },
+    {
+        "whisper_chunk": "Yeah I definitely feel like I do get some pain when swallowing but I think maybe just with the sore throat Okay and have you had any headaches No headaches Any stuffy nose or runny nose No",
+        "gt_chunk": "P: yeah, I definitely feel like uh, I do get some pain ones following, but it may be just with the sore throat.\n\nD: And um, have you had, uh, have you had any headaches?\n\nP: Uh, no headaches.\n\nD: Any uh, stuffy nose or runny nose?"
+    },
+    {
+        "whisper_chunk": "nothing like that No sinus congestion No Okay what about a cough No not no cough really I've also noticed also like the back of my throat when I look in the mirror is like just very red and like angry looking And",
+        "gt_chunk": "P: nothing like that.\n\nD: No um, sinus congestion?\n\nP: Uh no.\n\nD: Okay, what about uh, cough?\n\nP: Um, no, not, not, no cough really. I've also noticed, also like the back of my throat, when I look in the mirror, is like just very red and like angry looking.\n\nD: And"
+    },
+    {
+        "whisper_chunk": "any difficulties breathing No Any pain in your chest No Do you feel like your heart is racing No nothing like that Any changes in your bowel movements or any urinary concerns No Okay",
+        "gt_chunk": "D: any difficulties breathing?\n\nP: No. \n\nD: Any um, pain in your chest?\n\nP: No.\n\nD: Um, do you feel like your heart is racing?\n\nP: No, nothing like that.\n\nD: Any changes in your bowel movements, or your urinary, or any"
+    },
+    {
+        "whisper_chunk": "no belly pain or muscle aches No nothing like that Okay alright so do you have any medical conditions that you've been diagnosed with No I've been pretty healthy all my life Any medications that you've been on No Any allergies No allergies Okay and",
+        "gt_chunk": "D: No belly pain or muscle aches?\n\nP: Uh no, nothing like that.\n\nD: Alright, um, so uh, are you um, do you have any medical conditions that you've been diagnosed with?\n\nP: No, I've been pretty healthy all my life.\n\nD: Any medications that you've been on?\n\nP: Uh no. \n\nD: Any allergies?\n\nP: No allergies. \n\nD: Okay, and"
+    },
+    {
+        "whisper_chunk": "any medical conditions that run in the family I think my mom has diabetes but that's for later Okay and who do you currently live with or do you live alone I live with my mom Anyone else at the house No it's just us two",
+        "gt_chunk": "D: any medical conditions that run in the family? \n\nP: Um, I think um, my mom has diabetes, but that's about it.\n\nD: Okay. And um, who do you currently live with? Or do you live alone?\n\nP: I live with uh, my mom.\n\nD: Anyone else at the house?\n\nP: No, it's just us two"
+    },
+    {
+        "whisper_chunk": "Alright and any recent exposures to anyone who might be sick My boyfriend he kind of had similar symptoms I would say a few weeks ago And did he get did he see a doctor No he didn't want to go to the",
+        "gt_chunk": "D: Alright, um, and any um, recent exposures to anyone who might be sick.\n\nP: Um my, my boyfriend, he kind of had similar symptoms, I would say a few weeks ago.\n\nD: Um, and um, did he, did he get um, did he see a doctor?\n\nP: No, he didn't want to go to the"
+    },
+    {
+        "whisper_chunk": "doctor and it kind of just resolved like it went on its own Okay alright and do you drink Just on the weekends maybe some wine And what about marijuana Just socially",
+        "gt_chunk": "P: doctor, and it kind of just resolved, like he, it went away on its own.\n\nD: Okay, alright. Um, and do you um, do you drink?\n\nP: Just on the weekends maybe, uh, some wine.\n\nD: And what about um, marijuana?\n\nP: Um just socially"
+    },
+    {
+        "whisper_chunk": "like right now there's no parties but like when I'm at parties What about alcohol Yeah so just socially again Right now I'll be with my mom drinking every now and then I see okay Alright well that's all the questions I had and sorry one more Have you been up to date with your immunizations so far",
+        "gt_chunk": "P: like right now there's no parties, but like when I'm at parties.\n\nD: Um, what about alcohol? \n\nP: Uh, yeah, so just uh, socially again. \n\nD: Oh, yeah.\n\nP: Right now, with my mom drinking every now and then.\n\nD: I see, okay. Um, alright, well that's all the questions I had, and uh, sorry one more. Have you been up to date with your immunizations so far"
+    },
+    {
+        "whisper_chunk": "Yeah I've been having all my immunizations I also feel like so with the sore throat I also have some pain on the sides like on my neck Like I almost feel like some lumps on both sides Oh I see I see okay Okay so I guess at this point I would like to maybe have",
+        "gt_chunk": "P: Yeah, I've been having all my immunizations. Uh, I also feel like, so with a sore throat, I also have some um, pain on the sides, like on my, on my neck. Like I almost feel like some lumps on both sides.\n\nD: Oh, I see, I see. Okay, okay. Um, so I guess I, at this point I would like to maybe have"
+    },
+    {
+        "whisper_chunk": "examined you just have a look inside your throat maybe feel your neck for those lumps and then decide what to do from there Given your symptoms this could be a viral infection or it could be a bacterial infection caused by a bacteria called or I guess strep throat It could also be mono but I'll have a look We'll do the rapid strep test",
+        "gt_chunk": "D: examine you, just have a look inside your throat, maybe feel your neck for those lumps, and uh, then decide what to do from there. Um, given your symptoms, um, this could be a viral infection, or um, it could be a bacterial infection caused by um, bacteria called, or I guess, strep, strep throat. It could also be uh, mono. Um, but I'll uh, I'll have a look, we'll do the rapid strep test"
+    },
+    {
+        "whisper_chunk": "and based on those results we'll decide what to do If it is strep you might require antibiotics If not if it's mono and if we can do maybe a blood test for that you might have to not engage in physical activity or exercise vigorous activity or sports for the next couple of weeks or months as that can cause",
+        "gt_chunk": "D: and uh, based on those results, we'll decide what to do. If it is strep, you might require antibiotics. If not, if it's mono and if we can do maybe a blood test for that, you might have to um, not engage in, in physical activity um, or exercise, vigorous activity, or like sports for the next couple of weeks or months as, as that can be"
+    },
+    {
+        "whisper_chunk": "problems If you get hit in your belly it could cause your spleen to rupture Sometimes your spleen becomes very big if you do have mono but we'll discuss all of that a little bit more after we do the strep test I'll also check your temperature and see how you're doing Have you been taking anything to help soothe your sore throat Just some lozenges Yeah so just continue",
+        "gt_chunk": "D: problems if you get hit in the, in your belly. It could cause your spleen to rupture and sometimes your spleen become very big if you do have mono, but we'll discuss all of that a little bit more after we do uh, the strep test. We'll also check your temperature, um, and see um, how you're doing. Have you been taking anything to help yourself, to help soothe your sore throat?\n\nP: Um, just some lozenges.\n\nD: Yeah, so just continue"
+    },
+    {
+        "whisper_chunk": "drinking water and taking lozenges just to provide some comfort for yourself We'll do the test and then we can chat a bit more after Sounds good Thank you so much",
+        "gt_chunk": "D: drinking water and taking lozenges just to um, provide some comfort for yourself, and we'll do the test, then we can chat a bit more after.\n\nP: Okay, sounds good, thank you so much"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "whisper_chunk": "what brings you in So yeah I've just been having cough for the last week and I think I had a little bit of a fever in the last few days Okay so you said the cough started a week ago Yeah around a week ago Okay and the fever started two to three days ago Yeah I haven't really measured it but like I definitely have been feeling chills been wearing",
+        "gt_chunk": "D: What brings you in?\n\nP: So yeah, I've just been having a cough for the last week and I think I had a little bit of a fever in the last few days.\n\nD: OK, so you said the cough started a week ago?\n\nP: Yeah, around a week ago OK and the fever started two to three days ago. Yeah, I haven't really measured it, but like I definitely have been feeling chills.I've been wearing"
+    },
+    {
+        "whisper_chunk": "like multiple blankets over the last few days Okay have you taken your you haven't you said you haven't taken your temperature right No Okay okay so let's focus on the cough Is it persistent or does it come and go I think the cough is pretty persistent over the last week Okay and does it get",
+        "gt_chunk": "P: like multiple blankets over the last few days.\n\nD: Ok, have you taken your temperature? You said you haven't taken your temperature right?\n\nP: No. \n\nD: OK. So let's focus on the cough. Is it persistent or does it come and go?\n\nP: I think the cough is pretty persistent over the last week. \n\nD: OK, and does it get"
+    },
+    {
+        "whisper_chunk": "worse with like cold air dust like maybe pets or anything like that No I think it stays around the same Okay does it get better with anything Have you tried any over the counter cough syrup Yes I tried Tylenol cold and like it I think it made it a bit better like it helped me sleep Other than that",
+        "gt_chunk": "D: worse with like cold air or dust? Like maybe pets or anything like that?\n\nP: No, I think it stays around the same.\n\nD: OK, umm, does it get better with anything? Have you tried any over the counter cough syrup?\n\nP: Yes, I tried tylenol cold and liked it. I think it made it a bit better, like it helped me sleep. Other than that"
+    },
+    {
+        "whisper_chunk": "during the day it's still around the same Okay and how would you describe this cough Is it barky Is it harsh Does it sound muffled Um I would say it's kind of like it's not too harsh it's more like a wet wet cough I'm definitely bringing up some some sputum Okay um it's like what color is",
+        "gt_chunk": "P: during the day, it's still around the same. \n\nD: OK, and how would you describe this cough? Is it barky? Is it harsh? Does it sound muffled?\n\nP: How I would say is that it's kind of like it's not too harsh. It's more like a wet cough. I'm definitely bringing up some some sputum.\n\nD: OK, um, what color is"
+    },
+    {
+        "whisper_chunk": "the sputum It's usually like a like white and sometimes like a little bit yellow as well Okay is it ever green or do you ever see blood in there No I haven't seen any of that Okay um and have you ever had a cough like this before Yeah probably like",
+        "gt_chunk": "D: the sputum?\n\nP: It's usually like a, uh like a white and sometimes like a little bit yellow as well.\n\nD: OK, is it ever green or do you ever see blood in there?\n\nP: No, I haven't seen any of that.\n\nD: OK. And have you ever had a cough like this before? \n\nP: Umm, yeah, probably like"
+    },
+    {
+        "whisper_chunk": "in the last year maybe I've gone sick like once and had a similar cough Okay um I have do you have a sore throat Uh no I don't have a sore throat Is this cough getting worse Um it's I think not really it stayed around the same and I definitely feel",
+        "gt_chunk": "P: in the last year, maybe I have gotten sick like once and had a similar cough. \n\nD: OK, do you have a sore throat?\n\nP: No, I don't have a sore throat.\n\nD: Is this cough getting worse?\n\nP: It's, I think not really, it stayed around the same and I definitely feel"
+    },
+    {
+        "whisper_chunk": "a bit better with with the Tylenol cold Okay good Any changes in your taste or smell No no changes Okay any changes in hearing or vision Nope Um have you did you have in the past week a runny or stuffy nose No Okay um any weight loss over the past",
+        "gt_chunk": "P: a bit better with the tylenol cold. \n\nD: OK, good. Any changes in your taste or smell?\n\nP: No, no changes.\n\nD: OK, any changes in hearing or vision?\n\nP: Nope. \n\nD: And did you have in the past week a runny or stuffy nose? \n\nP: No.\n\nD: OK, any weight loss over the past"
+    },
+    {
+        "whisper_chunk": "month No not really How about changes in your hair nails or skin like rashes No no changes to the skin Okay any shortness of breath Nope No How about wheezing",
+        "gt_chunk": "P: no, not really.\n\nD: How about changes in your hair, nails or skin like rashes?\n\nP: No, no changes to the skin.\n\nD: OK, any shortness of breath?\n\nP: No, no. \n\nD: How about wheezing"
+    },
+    {
+        "whisper_chunk": "No I like swelling Have you noticed any swelling in like your legs or arms or your belly area Um no I don't think so Okay how about um you feeling like your heart's racing No",
+        "gt_chunk": "D:  swelling? Have you noticed any swelling in like your legs or arms or your belly area?\n\nP: No, I don't think so.\n\nD: OK, how about you feeling like your heart's racing?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay how about um calf pain Nope Okay any dizziness or chills No nothing like that No Headaches Nope Confusion or memory loss I don't think so No Um have your bowel movements been normal Yeah I go three times a day and I don't have any",
+        "gt_chunk": "D: OK, how about a calf pain?\n\nP: No, no. \n\nD: Any dizziness or fainting spells?\n\nP: No, nothing like that. \n\nD: Headaches?\n\nP: No. \n\nD: Confusion or memory loss?\n\nP: I don't think so.\n\nD: Have your bowel movements been normal?\n\nP: Yeah, I like go three times a day and I don't have any"
+    },
+    {
+        "whisper_chunk": "like diarrhea or anything Okay how about nausea or vomiting No Joint pain or muscle ache Um no I don't think so Okay um any contacts with the sick people around you recently",
+        "gt_chunk": "P: Yeah, no trouble.\n\nD: OK,nausea or vomiting?\n\nP: No. \n\nD: Joint pain or muscle ache?\n\nP: No, I don't think so. \n\nD: OK. Any Contacts with sick people around you recently"
+    },
+    {
+        "whisper_chunk": "My wife was actually just sick last week that she recovered She had to kind of uh she did have a fever for one of the days She also had a cough Okay did she get it checked out in a clinic No she didn't get the COVID test done but that came back negative and she didn't go to the doctor or anything it kind",
+        "gt_chunk": "P: My wife was actually just sick last week, but she recovered. She did have a fever for one of the days and she also had a cough.\n\nD: OK, did she get it checked out in a clinic?\n\nP: No, I don't think so. She did get that COVID test done, but it came back negative and she didn't go to the doctor or anything. It kind"
+    },
+    {
+        "whisper_chunk": "of just Are you otherwise healthy Do you have any long standing medical conditions Just uh I as a child I had probably in my teens had my appendix removed but nothing other than",
+        "gt_chunk": "P: No.\n\nD: Are you otherwise healthy? Do you have any longstanding medical conditions?\n\nP: Just as a child. I had, probably in my teens, had my appendix removed, but nothing other than"
+    },
+    {
+        "whisper_chunk": "that Okay okay and no hospitalizations other than that too right No No Are you on any medications No I just take some multivitamins Okay and are you up to date with all your immunizations Yeah as far as I know Okay how about",
+        "gt_chunk": "P: that.\n\nD: OK. OK, no hospitalizations other than that too, right? \n\nP: No, No.\n\nD: Are you on any medications?\n\nP: No, I just take some multi vitamins.\n\nD: OK, and are you up to date with all your immunizations?\n\nP: Yeah, as far as I know.\n\nD: OK, how about"
+    },
+    {
+        "whisper_chunk": "allergies I do have some I get some runny nose around the time Probably I think I'm allergic to pollen but not too many medications I know Okay um any family history of lung conditions Uh no not that I know of How about heart conditions",
+        "gt_chunk": "D: allergies?\n\nP: I do have like some, I get some runny nose around spring time probably I think I'm allergic to pollen. \n\nD: OK. And any family history of lung conditions?\n\nP: No, not that I know.\n\nD: How about heart conditions"
+    },
+    {
+        "whisper_chunk": "No I think my um father has a high blood pressure that's like a heart condition Okay sure um and how old was he when he got that He's around like 60s right now so probably like in his 40s Okay okay um any cancers in the family Um I do",
+        "gt_chunk": "P: No, I think my father has high blood pressure if that's like a heart condition. \n\nD: OK, sure. And how old was he when he got that?\n\nP: He's around like 60s right now, so probably like in his 40s.\n\nD: OK. Any cancers in the family?\n\nP: I do"
+    },
+    {
+        "whisper_chunk": "have an aunt on my mother's side who had ovarian cancer Okay how old was she when she was diagnosed with ovarian cancer Um I think probably in her 50s Okay okay and um do you smoke No I don't smoke How about marijuana",
+        "gt_chunk": "P: have an aunt on my mother's side who had ovarian cancer.\n\nD: OK, how old was she when she was diagnosed with ovarian cancer?\n\nP: I think probably in her 50s.\n\nD: OK, and do you smoke?\n\nP: No, I don't smoke.\n\nD: How about marijuana"
+    },
+    {
+        "whisper_chunk": "Marijuana just uh maybe like um one or two joints in a month just when I'm feeling that I need to relax a little Okay um sure and by joint um you said a month right Yeah Once per month Okay okay um any other drugs No no other drugs No okay",
+        "gt_chunk": "P: Marijuana just maybe like one or two joints in a month, just when I'm feeling that I need to relax a little. \n\nD: OK, sure and by joint, you said once a month right?\n\nP: Yeah, once per month. \n\nD: OK, any other drugs?\n\nP: No, no other drugs.\n\n"
+    },
+    {
+        "whisper_chunk": "and where do you live right now Uh I live in London right now um I live with my wife in an apartment Okay any um reasons to think you have old carpet mold or asbestos No um it's a fairly new apartment Okay um",
+        "gt_chunk": "D: And where do you live right now?\n\nP: I live in London right now. I live with my wife in an apartment.\n\nD: OK, any reasons to think you have old carpet mold or asbestos?\n\nP: No, it's a fairly new apartment. \n\nD: OK, "
+    },
+    {
+        "whisper_chunk": "okay well those are all the questions that I had for you today Did you have any questions for me Um you don't think it could be COVID right Like my wife got tested and it was negative like um so I was just a bit concerned about that Yeah for sure honestly some of your symptoms do seem to be overlapping with that of COVID especially the cough and fever so we are going to do a COVID swab just to rule",
+        "gt_chunk": "D:  well those are all the questions that I had for you today. Did you have any questions for me?\n\nP: You don't think it could be COVID right? Like my wife got tested and it was negative.\n\nD: Are you concerned about that?\n\nP: Yeah, for sure.\n\nD: Honestly, some of your symptoms do seem to be overlapping with that of COVID, especially the cough and fever. So we are going to do a COVID swab just to rule"
+    },
+    {
+        "whisper_chunk": "that out um so you will get those results in 24 to 48 hours and um you should isolate for 14 days because your symptoms overlap um and public health will be in touch with you if it's positive uh just to do some contact tracing but if it's not COVID it could be another viral infection that's going around at this time of year so keep an eye on your symptoms if they become worse or if you're",
+        "gt_chunk": "D: that out. So you will get those results in 24 to 48 hours and you should isolate for 14 days because your symptoms overlap. Public health will be in touch with you if it's positive just to do some contact tracing. But if it's not COVID, it could be another viral infection that's going around at this time of year so keep an eye on your symptoms. If they become worse, or if you're"
+    },
+    {
+        "whisper_chunk": "experiencing um symptoms like neurological deficits um or weak you know like weakness or If your symptoms are persisting beyond like seven days seven to ten days uh also you should give us a call back um to see what's going on because it could be something like a bacterial",
+        "gt_chunk": "D: experiencing symptoms like neurological deficits or weakness or seizures or anything like that, get help from the ER right away and if your symptoms are persisting beyond like seven days to 10 days, also you should give us a call back to see what's going on because it could be something like a bacterial"
+    },
+    {
+        "whisper_chunk": "infection in which case we can give you some antibiotics Does that sound okay Yeah Okay great Thank you Thank you",
+        "gt_chunk": "D: infection, in which case we can give you some antibiotics. Does that sound OK?\n\nP: OK, great. Thank you.\n\nD: Thank you"
+    }
+]

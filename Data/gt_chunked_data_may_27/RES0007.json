@@ -1,0 +1,130 @@
+[
+    {
+        "whisper_chunk": "I was wondering if you could tell me a little bit about what brought you in Yeah so like a couple months ago I was in the office and they told me that I have asthma Like I had it when I was a little kid and I thought I grew out of it but apparently not or like it came back or something So yeah so they just told me to come back today I don't really have like any",
+        "gt_chunk": "D: I was wondering if you could tell me a little bit about what brought you in.\n\nP: Yeah, so like a couple months ago I was in the office and they told me that I have asthma like I had it when I was a little kid and I thought I grew out of it, but apparently not, or like it came back or something so. Yeah, so they just told me to come back today. I don't really have like any"
+    },
+    {
+        "whisper_chunk": "issues OK so what what brought on the appointment in the summertime or a couple of months ago So I have gym class at school and my teacher just always thought that I should be able to run faster like I'm a good athlete but I just couldn't go much faster And I was like saying I can't really breathe",
+        "gt_chunk": "P: issues.\n\nD: OK, So what what brought on the appointment in the summer time or a couple of months ago?\n\nP: Uh. So like I have gym class at school and my teacher justalways thought that like should be able to run faster like I'm looking good athlete but I just couldn't go much faster and I was like saying I can't really breathe"
+    },
+    {
+        "whisper_chunk": "when I'm running that fast And then you know my mom was like you should probably go We should probably make an appointment OK and when you're exercising or in gym class do you get short of breath or do you find that you have difficulty breathing Yeah yeah like I if I if I try to run fast like I kind of can't breathe anymore",
+        "gt_chunk": "P: when I'm running that fast. And then you know my mom was like you should probably go. We should probably make an appointment.\n\nD: OK, and uh, when you're exercising or in gym class, do you get short of breath or do you find that you have difficulty breathing?\n\nP: Yeah, yeah, like I will if I if I try to run fast. Like I, kinda can't breathe anymore"
+    },
+    {
+        "whisper_chunk": "so I kind of stop or go slower OK and how long does it take for the breathing difficulty to go away Uh like if I stop doing like the thing I'm doing I don't know not very long like a couple of minutes OK and",
+        "gt_chunk": "P: So I kind of stop or go slower.\n\nD: OK, and how long does it take for the breathing difficulty to go away?\n\nP: If I stop doing like the thing I'm doing it, I I don't know not very long like couple of minutes. \n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "does this happen in any other settings Uh like sometimes when it's really cold outside I'll go out and like my chest feels tight and I feel like I can't breathe and kind of sucks like my girlfriend wanted to build a snowman and do snow angels and stuff and I couldn't do it Oh and another time like I went to my friend's house and they had like a bunch of cats I felt like",
+        "gt_chunk": "D: does this happen in any other settings?\n\nP: Oh, like sometimes when it's really cold outside, I'll go out and like it. My chest feels tight and just feel like I can't breathe and kind of sucks like my girlfriend wanted to build a snowman and do snow Angels and stuff and I couldn't do it. Oh, another time, like I went to my friends house and they had like a bunch of cats I I felt like"
+    },
+    {
+        "whisper_chunk": "like that wheezy sound and I felt like that time it took longer for for the breathing to get easier like I had to leave OK so you've noticed changes to to your breathing sounds like you've had noisy breathing before Yeah mostly just with the cat OK we don't have a cat at my house so I didn't really think anything of it And then I went to my friend's house who had",
+        "gt_chunk": "P: like I got wheezy sound and I felt like that time it took longer for for the breathing to get easier like I had to leave.\n\nD: OK, so you've noticed changes to to your breathing sounds? Like you've had noisy breathing before?\n\nP: Yeah, mostly just with the cat.\n\nD: OK.\n\nP: We don't have a cat at my house, so I didn't really think anything of it. And then I went to my friends house who had"
+    },
+    {
+        "whisper_chunk": "a bunch of cats and then at that time I could actually hear it No OK and have you had a cough Uh no I don't think so OK and were there anything was there anything that you tried besides the rest to make those symptoms go away Like I have",
+        "gt_chunk": "P: a bunch of cats and. Then at that time, I could actually hear it.\n\nD: OK, and have you had a cough?\n\nP: Uh, no, I don't think so.\n\nD: OK, And. Were there anything, was there anything that you tried besides the rest to make those symptoms go away?\n\nP: Like I have"
+    },
+    {
+        "whisper_chunk": "the the inhaler that the doctor gave me last time So uh so yeah like I've been using that in gym class now OK how many days per week are you using that Well I'm a little confused now because I the one I'm supposed to use like every",
+        "gt_chunk": "P: the, uh um inhaler that the doctor gave me last time. So yeah, like I've been using it in gym class now.\n\nD: OK, how many days per week are you using that?\n\nP: Well, I'm a little confused now because. I the 1 supposed to use, like every"
+    },
+    {
+        "whisper_chunk": "day a couple of times and then there was a different one that I thought it was only supposed to be used if the other one didn't work But now the nurse just told me that I'm supposed to use them both So I only got the one at the pharmacy so I don't really I don't really know Uh I feel like a bit confused now but I always use the one supposed to be like two times a day The one that starts with an F but Sometimes I just do it once a",
+        "gt_chunk": "P: day a couple times, and then there was a different one that I thought it was only supposed to be used if the other one didn't work. But now the nurse just told me that I'm supposed to use them both, so I only got the one at the pharmacy so I don't really I don't really know. I feel like a bit confused now, but I always use the 1 supposed to be like 2 times a day, the one that starts with an \"s\", um but sometimes I just do it once a"
+    },
+    {
+        "whisper_chunk": "day if I forget the second one OK well we can definitely clarify the confusion about the medications today Sometimes for steroid medications those ones are required to be used daily in order to get the maximal benefit And so we'll take a look at your medications and see if one of those has a steroid component in it and",
+        "gt_chunk": "P: day if I forget the second one.\n\nD: OK, well um we can definitely clarify the confusion about the medications today. Sometimes, for steroid medications, those ones are required to be used daily in order to get the maximal benefit, and so will take a look at your medications and see if one of those has a steroid component in it and"
+    },
+    {
+        "whisper_chunk": "and how often you're needing it Have you been having any episodes of shortness of breath at nighttime Uh no no mostly like gym class like I said OK and have you had any other associated symptoms Uh I don't think so Like what do you mean",
+        "gt_chunk": "D: and how often you're needing it. Have you been having any episodes of shortness of breath at night time?\n\nP: Oh no. No, mostly like gym class like I said.\n\nD: OK. And have you had any other associated symptoms?\n\nP: Uh. I don't think so. Like what do you mean"
+    },
+    {
+        "whisper_chunk": "Um so anything like um like allergies like runny nose or really itchy eyes with maybe some like eye tearing When I was around the cat yeah But not the other time OK and do you ever have any rashes on your skin or really itchy skin",
+        "gt_chunk": "D: Um, so anything like like allergies like runny nose or really itchy eyes with maybe some like um tearing?\n\nP: When I was around the cats, yeah. But not the other times.\n\nD: OK. And do you ever have any rashes on your skin or or really itchy skin"
+    },
+    {
+        "whisper_chunk": "When I was a kid but not really now OK and how about any nausea or vomiting No OK any infectious symptoms overall I don't I don't think so OK any urinary problems",
+        "gt_chunk": "P: When I was a kid but not really now.\n\nD: OK, and how about any nausea or vomiting?\n\nP: No.\n\nD: OK. Any infectious symptoms overall?\n\nP: Ahh, I don't I don't think so.\n\nD: OK, any urinary problems"
+    },
+    {
+        "whisper_chunk": "Uh like No no OK any bowel problems I know No that's all good OK and any fevers or chills No OK and then how about having any night sweats What's that",
+        "gt_chunk": "P: Uh, like. No, no.\n\nD: OK. Bowel problems?\n\nP: uh no, no. No, that's all good.\n\nD: OK um. And, uh, any fevers or chills?\n\nP: No. \n\nD: OK, and then how about, uh, have you been having any night sweats?\n\nP: What's that"
+    },
+    {
+        "whisper_chunk": "Uh so uh overnight when you're sleeping you'd wake up with either your like pajamas drenched or your your sheets drenched from sweating Oh no OK not that OK so I just wanted to ask a few questions about your past health Have you been so you mentioned asthma Have you been diagnosed with any other medical conditions",
+        "gt_chunk": "P: ?\n\nD: So, uh, overnight when you're sleeping you wake up with either your like pajamas drenched, or your your sheets drenched drenched from sweating.\n\nP: Oh no.\n\nD: OK. \n\nP: Um not that. \n\nD: OK. So I just wanted to ask a few questions about your past health. Have you been, so you mentioned asthma. Have you been diagnosed with any other medical conditions"
+    },
+    {
+        "whisper_chunk": "Uh no no that's it OK and any recent hospitalizations Like I broke my leg a few years ago but like that was just like really fast OK any surgeries Uh just like my wisdom teeth OK and",
+        "gt_chunk": "D: ?\n\nP: No, no that's it.\n\nD: OK, um, and any recent hospitalizations?\n\nP: Like I broke my leg years ago but like that was just like really fast.\n\nD: OK, and any surgeries?\n\nP: Uh. Just like my wisdom teeth.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "any medications besides like that including the inhalers Uh nothing else just just those things My mom makes me take a vitamin OK and any allergies Uh well I don't know like not that I thought but maybe like cast OK and do you have any like seasonal allergies you find like in the",
+        "gt_chunk": "D: any medications besides it like that, including the inhalers?\n\nP: Nothing else, just. Just those things and my mom makes me take a vitamin.\n\nD: OK, and any allergies?\n\nP: What I don't know like not that I thought, but maybe like cats.\n\nD: OK, and do you have any like seasonal allergies? Do you find like in the"
+    },
+    {
+        "whisper_chunk": "spring or fall time or even summer that you get some like dry eyes or really itchy eyes or runny nose Uh yeah I always just thought like I had a cold but I guess like I usually feel like that in the springtime OK and uh are your immunizations up to date",
+        "gt_chunk": "D: spring or fall time or even summer that you get um like dry eyes or really itchy\neyes or runny nose?\n\nP: Yeah, I just thought like I had a cold, but I guess like I usually feel like that in the springtime.\n\nD: OK. And, uh, are immunizations up to date"
+    },
+    {
+        "whisper_chunk": "I think so like I've had all the stuff that I'm supposed to I think I don't know the names of everything OK and so actually just wanted to ask a few questions about personal and kind of lifestyle habits But first I was wondering if you could tell me a little bit about your living situation Yeah like I live with my mom and dad and like my little brother OK",
+        "gt_chunk": "P: I think so, like I've had all the stuff that I'm supposed to. I think I don't know the names of everything.\n\nD: OK, and so I actually wanted to ask a few questions about personal and kind of lifestyle habits. But first I was wondering if you could tell me a little bit about your living situation?\n\nP: You know, like I live with my mom and Dad and I like my little brother.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "yeah OK and where do you go to school To the school like high school down the road OK and what grade now I'm in grade 11 OK and what types of like hobbies or",
+        "gt_chunk": "P: Yeah. \n\nD: OK, and um, where do you go to school?\n\nP: Um to to the. The school, um like high school down the road.\n\nD: OK and in what grade now?\n\nP: And, I'm in Grade 11.\n\nD: OK, and what types of like hobbies or"
+    },
+    {
+        "whisper_chunk": "kind of activities are you interested in Uh like I like playing video games I was really wanting to join the Marines and I was really trying to get into that stuff But then I heard like you can't when you have asthma So I kind of want to know about that like is that going to stop me from doing that Yeah so something that",
+        "gt_chunk": "D: kind of activities are you interested in?\n\nP: I like I like playing video games, I was really wanting to join the Marines and I was really trying to get into that stuff, but then I heard like you can't when you have asthma. Oh so I I kinda wanna know bout that like is that gonna stop me from doing that?\n\nD: Yeah, so it's something that"
+    },
+    {
+        "whisper_chunk": "we'll look into today I'm not too sure what the details are but thank you for bringing that up and we'll be for sure to look into that together And that reminded me of a question I wanted to ask earlier And so have you had pulmonary function tests done before What is that So essentially they'll have you",
+        "gt_chunk": "D: will look into today. I'm. I'm not too sure what the details are regarding that information, but thank you for bringing that up and we'll be for sure to look into that together. And that reminded me of a question I wanted to ask earlier and so have you had pulmonary function tests done before?\n\nP: Uh, what is that?\n\nD: So essentially they'll have you"
+    },
+    {
+        "whisper_chunk": "kind of breathing into a tube where you'll have periods where you'll maximally inhale and then maximally exhale as quickly as you can And you'll do different types of breathing movements so that it gets measured on a device Oh like is that like when you breathe in the tube Yeah exactly Yeah like the last time I",
+        "gt_chunk": "D: kind of breathing into a tube where you'll have periods where you'll maximally inhale and then maximally exhale as quickly as you can, and you'll do different types of breathing movements so that it gets measured on a on a device.\n\nP: Is that like when you breathe in that the tube? \n\nD: Yeah, exactly.\n\nP: Yeah, like the last time I"
+    },
+    {
+        "whisper_chunk": "was here like a couple months ago I did that and she said that my asthma was back Okay thank you for clarifying And so for the last few questions about your personal habits I was wondering I understand that people in your age group might experience with smoking or alcohol Do any of your friends do that",
+        "gt_chunk": "P: was here like couple months ago I did that and it said that, she said that my asthma was back.\n\nD: OK. Right, thank you for clarifying. And so, so for the last few questions about. And your personal habits. I was wondering. I understand that people in your age group might experience with smoking or or alcohol. Do any of your friends do that"
+    },
+    {
+        "whisper_chunk": "I mean sometimes we'll drink beer like at parties on the weekend I don't drink a lot Okay And can you tell me a little bit about your diet Sorry I missed that I was just wondering if you could tell me a little bit about your diet Oh well my mom always like makes me a lunch like I'll have like a sandwich for lunch with like you know ham and cheese or something We usually",
+        "gt_chunk": "P: I mean, sometimes we'll drink beer like at parties on the weekend. I don't, I don't drink a lot.\n\nD: OK, and can you tell me a little bit about your diet?\n\nP: Sorry I missed that.\n\nD: Just wondering if you could tell me a little bit about your diet?\n\nP: Oh, well my mom always like makes me a lunch like I'll have like a sandwich for lunch with like you know ham and cheese or something. I'll usually"
+    },
+    {
+        "whisper_chunk": "have like cereal for breakfast and my mom makes dinner It's usually like meat and like potatoes and vegetables or something And I think it's like pretty normal Okay And are you currently sexually active Like I have a girlfriend like just with",
+        "gt_chunk": "P: have like cereal for breakfast and my mom makes dinner. It's usually like meat like potatoes and vegetables or something. I think it's like pretty normal.\n\nD: OK, and are you currently sexually active?\n\nP: Uh. Like I have a girlfriend. Just with"
+    },
+    {
+        "whisper_chunk": "her like just recently Yeah we started Okay And do you use a condom Yeah Yeah Every time or sometimes Oh yeah every time It's not that many times But yeah Okay great And have you had any other partners No",
+        "gt_chunk": "P: Uh, like just recently. Yeah we started.\n\nD: OK, and do you use a condom?\n\nP: Yeah, yeah. \n\nD: Every time or sometimes?\n\nP: Oh yeah, every time. It's not doing that many times, but yeah.\n\nD: OK, great and um have you had any other partners?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "no like I have made out with other people before but this is like the first one Okay Have you had a sexually transmitted infection before No Okay And I know this question might seem a little bit invasive but it's important to ask everybody Have you had any thoughts of hurting or harming yourself",
+        "gt_chunk": "P: no like I had made out with other people before, but this is like the first one.\n\nD: OK, but have you had a sexually transmitted infection before?\n\nP: Uh no. \n\nD: OK, and I know this question might seem a little bit invasive, but it's important to ask everybody. Have you had any thoughts of hurting or harming yourself"
+    },
+    {
+        "whisper_chunk": "No Okay Okay great And in your family has anybody ever had any of these similar symptoms before Uh like my dad I think he maybe had asthma when he was younger but like he doesn't really have it now Okay And any allergies that",
+        "gt_chunk": "P: .\n\nD: OK, great um. And in your family, has anybody ever had any of these similar symptoms before?\n\nP: Like may my dad, I think he maybe had asthma when he was younger, but like he doesn't really have it now.\n\nD: OK, and any allergies that"
+    },
+    {
+        "whisper_chunk": "run in the family Like my my dad also my dad gets like a runny nose in the spring So yeah I think that's allergies Okay So overall it's sounding like you've been having this shortness of breath or difficulty breathing episodes that you're saying that it's made worse when you're exercising out in the cold",
+        "gt_chunk": "D: run in the family?\n\nP: Mmmm, like my dad also really. Dad gets like a runny nose in the spring. So yeah, I think that's allergies. \n\nD: OK. um. So overall, it's it's sounding like you been having this shortness of breath or difficulty breathing episodes that you're saying that it's made worse when you're exercising, out in the cold"
+    },
+    {
+        "whisper_chunk": "And then around pets and sometimes when the season changes as well in the spring and so and then with a recent diagnosis on pulmonary function tests a few months ago so I think it would be important to clear up the medications today and try to get that better organized moving forward because it sounds like you're still pretty symptomatic with",
+        "gt_chunk": "D: and then around pets. And sometimes when the season changes as well and in the spring and so and then the recent diagnosis on pulmonary function tests a few months ago. So I think it would be important to clear up the medications today and try to get that better organized moving forward because it sounds like you're still pretty symptomatic with"
+    },
+    {
+        "whisper_chunk": "needing to use them daily currently And so we'll look into that And then also the question about the marine interest with asthma Yeah thank you I really want to know that Like that was my plan And now I'm like kind of worried I can do that Excellent Okay thank you",
+        "gt_chunk": "D: needing to use them daily currently. And so will look into that and then also the question about the Marines. Uh, interest with asthma.\n\nP: Yeah, thank you. I really wanna know that like that was my plan and now I'm like kinda worried I can do that.\n\nD: Excellent.\n\nP: K thank you"
+    }
+]

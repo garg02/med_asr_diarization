@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "brings you in here today I'm just having this really sharp pain in my chest and I'm scared I think I'm having a heart attack Oh wow um you know that must be really scary Yeah When did this uh when did this pain start So about three days ago Three days ago Okay and where exactly in your chest do you feel it",
+        "gt_chunk": "D: brings you here today?\n\nP: I'm just having this really sharp pain in my chest and I'm scared. I think I'm having a heart attack.\n\nD: Oh wow, yeah um that must be really scary. When did this, when did this pain start?\n\nP: So about 3 days ago.\n\nD: Three days ago, OK, and where exactly in your chest do you feel it"
+    },
+    {
+        "whisper_chunk": "It's kind of right here right over my heart I think That's where it's the worst Okay and is it uh what kind of pain is it Is it more like a dull pressure pain or is it a sharp pain How would you describe it I'd say it's a sharp pain A sharp pain Okay and um so it started three days ago Has it been coming and going or has it been constant",
+        "gt_chunk": "P: It's kind of right here, right over my heart I think, that's where it's the worst. \n\nD: OK, and is it, what kind of pain is it? Is it more like a dull pressure pain, or is it a sharp pain? How would you describe it?\n\nP: I would say it's a sharp pain.\n\nD: A sharp pain, OK. Um, so it started three days ago, has it been coming and going or has it been constant"
+    },
+    {
+        "whisper_chunk": "It just lasts for a few seconds and then it goes away Okay and does the pain uh come on when you're doing any activities or when does the pain usually come on Uh it's usually worse when I'm coughing or I'm lying down Yeah Okay and um does it improve with any positional changes at all or",
+        "gt_chunk": "P: It just lasts for a few seconds and then it goes away.\n\nD: OK, does the pain come on when you're doing any activities or When does the pain usually come on?\n\nP: Oh, it's usually worse when I'm coughing or laying down. Yeah, yeah. \n\nD: OK, and um, does it improve with any positional changes at all, or"
+    },
+    {
+        "whisper_chunk": "anything that you do that does it help When I when I lean forward it actually does get better if I think about it yeah Okay and has this ever happened to you before No no it hasn't Okay and on a scale of uh one to ten one being the least amount of pain you felt and ten being the worst how much would you rate it I'd say a six out of ten",
+        "gt_chunk": "D: anything that you do that does it help?\n\nP: When I when I lean forward, it actually does get better. I think about it, yeah.\n\nD: OK, and has this ever happened to you before?\n\nP: No, no it hasn't.\n\nD: OK and on a scale of 1 to 10, one being the least amount of pain felt and 10 being the worst, how much would you rate it? \n\nP: I would say a 6 out of"
+    },
+    {
+        "whisper_chunk": "Okay and does the pain move uh anywhere on in your chest or does it stay in the same spot Yeah I think it kind of goes to my neck sometimes Okay and do you have any other symptoms like uh do you have any shortness of breath dizziness anything like that No I don't Any okay any any palpitations Nope Okay and",
+        "gt_chunk": "D: OK, and does the pain move anywhere in your chest or does it stay in the same spot?\n\nP: Yeah, I think it kind of goes to my neck sometimes.\n\nD: OK, and do you have any other symptoms, like do you have any shortness of breath, dizziness, anything like that? \n\nP: No, I don't.\n\nD: OK any any palpitations?\n\nP: No.\n\nD: OK. "
+    },
+    {
+        "whisper_chunk": "other than that have you been having any other symptoms at all besides the pain No no nothing else that's it just have these uh short episodes of pain that last a couple seconds Okay um have you have you tried like any medications that has helped the pain Yeah I took some um I took some Tylenol and that did help Okay I took it once yesterday All right",
+        "gt_chunk": "D: other than that, have you been having any other symptoms at all besides the pain?\n\nP: No, no, nothing else, that's it, just have these sharp episodes of pain that last a couple of seconds.\n\nD: OK, um have you have you tried like any medications that has helped the pain?\n\nP: Yeah, I took some um, I took some Tylenol and that did help.\n\nD: OK.\n\nP: I took it once yesterday.\n\nD: Alright"
+    },
+    {
+        "whisper_chunk": "um any recent uh area like do you have any falls or anything like that No no I haven't Okay any headaches nausea vomiting fevers or chills any of those symptoms Nope Okay any uh cough runny nose any viral symptoms No um well",
+        "gt_chunk": "D: um, any recent injuries to the area like did you have any falls or anything like that?\n\nP: No, no I haven't.\n\nD: Any headaches, nausea or vomiting, fevers, or chills? Any of those symptoms?\n\nP: No. \n\nD: OK, any cough, runny nose, any viral symptoms?\n\nP: No, well"
+    },
+    {
+        "whisper_chunk": "not right now but uh I did have uh I did have a flu last week I had a fever I had a runny nose I did have a bit of a cough and I was feeling super tired but not anymore I'm okay now Okay and uh have you uh at all had any dizziness or have you fainted at all Nope Okay um",
+        "gt_chunk": "P: not right now, but I did have a, I did have a flu last week. I had a fever, had a runny nose. I did have a bit of a cough and I was feeling super tired, but not anymore. I'm OK now.\n\nD: OK, and have you at all had any dizziness or have you fainted at all?\n\nP: No.\n\nD: OK."
+    },
+    {
+        "whisper_chunk": "have you been noticing any kind of weakness or numbness Nope Nope Okay um in terms of your past medical history do you have any medical conditions like diabetes high blood pressure any other diagnoses No I'm a pretty healthy 25 year old Okay um and do you take any medications I sometimes take",
+        "gt_chunk": "D: Have you been noticing any kind of weakness or numbness?\n\nP: No.\n\nD: No, OK, and in terms of your past medical history, do you have any medical conditions like diabetes, high blood pressure, any other diagnosis?\n\nP: No. I'm a pretty healthy 25 year old.\n\nD: OK. Um, do you take any medications?\n\nP: I sometimes take"
+    },
+    {
+        "whisper_chunk": "Tylenol Okay and any uh allergies at all Nope Okay And um any previous surgeries No no no surgeries Do you have any family history of uh any heart conditions or any cancers or anything like that Yeah my father he",
+        "gt_chunk": "P: Tylenol.\n\nD: OK, and any allergies at all?\n\nP: No. \n\nD: OK, and any previous surgeries?\n\nP: No no, no surgeries.\n\nD: Do you have any family history of any heart conditions or any cancers or anything like that?\n\nP: Yeah, my father, he"
+    },
+    {
+        "whisper_chunk": "he had a heart attack two weeks ago and he and he passed away and I'm worried I'm having heart attack too It was just two weeks ago Yeah I'm so sorry to hear that uh it must be really difficult time for you right now Okay so you're worried you might be having a heart attack as well Yeah Okay so",
+        "gt_chunk": "P: he had a heart attack two weeks ago and he and he passed away. And I'm worried I am having a heart attack too. \n\nD: It was just two weeks ago?\n\nP: Yeah.\n\nD: I'm so sorry to hear that. Yeah, it must be really difficult time for you right now. OK, so you're worried you might be having a heart attack as well? \n\nP: Yeah.\n\nD: OK, so"
+    },
+    {
+        "whisper_chunk": "yeah we can definitely uh do some uh tests and um see what what's going on Um I just have a few more questions and then uh I'll just get to some of the management and what we'll be doing for you in the future So um currently right now do you work at all Uh no I'm a student I well uh it's a part time job I do work as a postman Okay and",
+        "gt_chunk": "D:  we can definitely do some tests and see what was going on. I just have a few more questions and then I'll just get to some of the management and what we will be doing for you in the future. So currently right now do you work at all?\n\nP: No, I'm a student. I, well as a part time job, I do work as a post man.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "uh where are you a student What do you do I'm studying engineering at Western All right and uh currently where do you live Do you live in student housing apartment or home I live with my parents well my mom now In a house All right um and do you uh drink at all alcohol Uh I drink occasionally",
+        "gt_chunk": "D:  where are you a student? What do you do?\n\nP: I'm studying engineering at Western. \n\nD: Alright, and currently where do you live? Do you live in student housing, an apartment or a house?\n\nP: I live with my parents, well my mom now, in a house.\n\nD: Right, and you drink at all any alcohol? \n\nP: I drink occasionally"
+    },
+    {
+        "whisper_chunk": "maybe one or two drinks on the weekends Okay and any recreational drug use like marijuana or cocaine No And do you smoke No All right so those are all the questions we had for you today and uh yeah it must be really uh difficult and scary for you right now to uh but we'll make sure to get to the bottom of",
+        "gt_chunk": "P: maybe one or two drinks on the weekends.\n\nD: OK, and any recreational drug use like marijuana or cocaine?\n\nP: No. \n\nD: And do you smoke?\n\nP: No.\n\nD: Alright, so those are all the questions we had for you today. And yeah, it must be really difficult and scary for you right now, but we'll make sure to get to the bottom of"
+    },
+    {
+        "whisper_chunk": "this see what's going on So what we can do is uh get you an ECG to see how your heart is functioning and then see get any blood work if we need it for the future But uh yeah right now I would say try not to worry too much about it right now and see what what some of those tests come back Thank you So",
+        "gt_chunk": "D: this to see what's going on. So what we can do is get you an ECG to see how your heart is functioning and then see getting the blood work if we need it for the future. But yeah, right now I would say try not to worry too much about it right now and see um what some of those tests come back.\n\nP: Thank you. \n\nD: So"
+    },
+    {
+        "whisper_chunk": "yeah you're welcome",
+        "gt_chunk": "D: yeah, you're welcome"
+    }
+]

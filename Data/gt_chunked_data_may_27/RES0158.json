@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "what brings you in here today I've had a new cough that started this week It's been going on the last like three or four days and I've had a headache and but yesterday I just noticed that I haven't been able to smell so I wanted to come in this morning Okay yeah so it's been going on for the last couple of days What's the cause",
+        "gt_chunk": "D: What brings you here today?\n\nP: I've had uh a new cough that started um this week, it's been going on the last like three or four days and um I've had a headache and um but yesterday I just noticed that I haven't been able to to smell, so I wanted to come in this morning.\n\nD: OK, yeah, so it's been going on for the last uh four days. Is it "
+    },
+    {
+        "whisper_chunk": "It's dry It's dry okay Are you at all bringing up any kind of sputum or blood at all No I haven't been Okay and have you been experiencing any kind of fevers or chills Yeah I feel I have felt feverish and I think that yeah that's kind of started like within the last",
+        "gt_chunk": "P: It's dry. \n\nD: It's dry, OK. Are you at all bringing up any kind of sputum or blood at all?\n\nP: No, I haven't been. \n\nD: OK and um have you been experiencing any kind of uh fevers or chills?\n\nP: Yeah, I feel, uh, I have felt feverish. Uh and I think that yeah, that's kind of started uh like within the last"
+    },
+    {
+        "whisper_chunk": "day Okay and did you get a temperature at all No I've just been really feeling yeah feverish and feeling really hot Okay and besides the cough are you having any other symptoms like muscle aches or headaches Yeah I've been having a headache kind of",
+        "gt_chunk": "P: day.\n\nD: OK, and did you um get a temperature at all?\n\nP: No, I've just been really feeling, yeah feverish and feeling really hot.\n\nD: OK and um besides the um cough, are you having any other symptoms like muscle aches or headaches?\n\nP: Uh yeah, I've been having a headache"
+    },
+    {
+        "whisper_chunk": "on and off over this past three or four days as well and I have had muscle aches My whole body kind of aches Okay and when did this start That's been over the past like three days or so Yeah I woke up but I've just been feeling achy and just not feeling good Okay yes and it all just kind of started in the last four days Are you having any kind of fainting",
+        "gt_chunk": "P: on and off for this past three or four days as well, and I have had muscle aches, my whole body kind of aches.\n\nD: OK, um and when did this start?\n\nP: That's been over the past um like 3 days or so, yeah, I woke up and I've just been feeling uh yeah achy and just not feeling good.\n\nD: OK. Yeah, so it all just kind of started in the last four days. Uh are you having any kind of fainting"
+    },
+    {
+        "whisper_chunk": "or dizziness episodes at all No I haven't had anything like that Okay and are your symptoms getting worse at all No they well initially they did but they've kind of stayed the same Okay and have you had any loss of a sense of taste or smell Yeah I",
+        "gt_chunk": "D: or dizziness episodes at all?\n\nP: Uh no, I haven't had anything like that.\n\nD: OK and any uh, are your symptoms getting worse at all?\n\nP: No, they, well I, initially they did but um they've kind of stayed the same.\n\nD: OK, and have you had any loss of sense of taste or smell?\n\nP: Yeah I"
+    },
+    {
+        "whisper_chunk": "have I've had a loss of smell and taste now that you mention it yeah And are you having any runny nose congestion sore throat any of those symptoms No not really nothing like that Okay have you traveled at all recently",
+        "gt_chunk": "P: have, I've had a loss of um smell and taste now that you mention it, yeah.\n\nD: And when did that happen?\n\nP: Um within the last uh two days.\n\nD: OK, and are you having any runny nose, congestion, sore throat, any of those symptoms? \n\nP: Uh no, not really. Nothing like that.\n\nD: OK, have you traveled at all recently"
+    },
+    {
+        "whisper_chunk": "No I haven't traveled I haven't traveled anywhere but I've just been going to work and and being at home Okay and where do you go for work I'm a nurse actually at a walk in clinic Okay and have you at all been exposed to anyone",
+        "gt_chunk": "P:  I haven't traveled um, haven't traveled anywhere. But I I've just been going to work and and being at at home.\n\nD: OK and um, where do you go for work?\n\nP: Um I'm a nurse actually at the at a um a walk in clinic.\n\nD: OK, and have you uh at all been exposed to anyone"
+    },
+    {
+        "whisper_chunk": "who's been sick anyone who has tested positive for COVID Nobody that I'm aware of that's that's like within the past week that we've seen come in with with with cough and things like like that so Okay are you having any nausea or vomiting",
+        "gt_chunk": "D: who's been sick? Uh anyone who has tested positive for Covid?\n\nP: Uh no, nobody that I'm aware of that's that's tested positive, but there has been people uh recently um that within the past week, that we've seen come in with with cough and um things like like that so.\n\nD: OK. Um are you having any nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "No I haven't had anything like that Okay any night sweats No Any chest pain or shortness of breath No Okay any changes in your bowel movements any diarrhea or constipation No Any changes in your urination No nothing like that No burning",
+        "gt_chunk": "P: no, I haven't had anything like that.\n\nD: OK, any um night sweats?\n\nP: No.\n\nD: Any chest pain or shortness of breath?\n\nP: No.\n\nD: OK, any changes in your bowel movements, any diarrhea, constipation?\n\nP: No.\n\nD: Any um changes in your urination?\n\nP: No, nothing like that.\n\nD: Um no burning"
+    },
+    {
+        "whisper_chunk": "sensation or pain at all No nothing like that Okay any changes in your sleep or appetite recently Yeah well just these past couple of days I haven't really felt like eating much I sleep's been okay but I think that's just because I haven't been feeling well so just haven't really wanted to eat Okay any weight changes recently No all right I",
+        "gt_chunk": "D: sensation or pain at all?\n\nP: No, nothing like that.\n\nD: OK, any changes in your sleep or appetite recently?\n\nP: Uh yeah, just these past couple of days, I haven't really felt like eating much. Um my sleep has been OK, but I think that's just because I haven't been feeling well so just haven't really wanted to eat.\n\nD: OK, any weight changes recently?\n\nP: No I"
+    },
+    {
+        "whisper_chunk": "wish Okay and have you been diagnosed with any medical conditions in the past at all No I've been I've been been healthy Okay and do you take any medications on a regular basis Just a multivitamin and then a like a greens supplement A green",
+        "gt_chunk": "P: wish.\n\nD: OK. And have you been diagnosed with any medical conditions in the past at all?\n\nP: No, I've been. I've been, I've been healthy. \n\nD: OK. And do you take any medications on a regular basis?\n\nP: Um just the uh the multi vitamin and then a like a greens supplement.\n\nD: A green"
+    },
+    {
+        "whisper_chunk": "supplement Yeah it's just sort of like a like a greens powder it's supposed to replace I don't know one of your servings of vegetables for the day Okay and have you been hospitalized or had any surgeries in the past I had like a scope on my knee when I was like a teenager I injured it playing soccer but that's it Okay",
+        "gt_chunk": "D: supplement?\n\nP: Yeah, it's just sort of like a like a green um powder. It's supposed to replace uh I don't know one of your servings of vegetables for the day. \n\nD: OK, um and have you been hospitalized or had any surgeries in the past?\n\nP: I I had like a scope on my knee when I was um like a teenager, I injured it playing soccer, but that's it. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "okay any family history of any heart or lung conditions My grandfather had lung cancer but he smoked his whole life Okay and currently so you work as a nurse what's your living situation like do you live with anyone do you live in a house",
+        "gt_chunk": "D: , any family history of any heart or lung conditions?\n\nP: Um my my grandfather had had lung cancer, um but he smoked his whole life \n\nD: OK. Um and currently, so you work as a nurse, uh what's your living situation like? Do you live with anyone, do you live in house"
+    },
+    {
+        "whisper_chunk": "or Okay has anyone in the house had similar symptoms or have been feeling sick lately No it's just been me Yeah my wife and daughter have been both staying home I've been the one only",
+        "gt_chunk": "P: .\n\nD: OK, has anyone in the house had similar symptoms or been feeling sick lately?\n\nP: No, it's just been me. Yeah my wife and daughter have been both uh staying home. I've been the one, only"
+    },
+    {
+        "whisper_chunk": "one really kind of leaving the house for going to work and then getting most of the groceries and that that thing since I'm already out Okay okay and currently do you smoke at all No cigarettes well I smoke weed every once in a while Okay and how often would you say you smoke weed Probably like",
+        "gt_chunk": "P: one really kind of leaving the house for well going to work and then uh getting most of the groceries and that that sort of thing, since I'm already out.\n\nD: OK. OK, and currently do you smoke at all?\n\nP: Uh no cigarettes, um well I uh smoke weed every once in awhile.\n\nD: OK, and how often would you say you smoke weed?\n\nP: Uh probably like"
+    },
+    {
+        "whisper_chunk": "probably once a week just yeah just some on the weekend maybe once Okay and do you drink alcohol A couple beers on the weekend like one or two Okay so those are all the questions I",
+        "gt_chunk": "P: probably once a week. Just yeah, just on the weekend, maybe once.\n\nD: OK, and uh, do you drink alcohol?\n\nP: Um I had some like a couple of beers on the weekend, like one or two.\n\nD: OK, um OK, so those are all the questions I"
+    },
+    {
+        "whisper_chunk": "Okay yeah so that's definitely with you working in the hospital clinical setting there is definitely a possibility and a lot of the symptoms that you're having overlap with COVID symptoms so we will definitely get a COVID swab test done for you today it usually comes back in the next 24 to 48 hours and until then I would recommend that you isolate either",
+        "gt_chunk": "D: OK, yeah, so that's definitely uh with you working in the in the hospital clinical setting, um there is definitely a possibility, and a lot of the symptoms that you're having overlap with Covid symptoms. Uh, so we will definitely get a Covid swab test done for you today. It usually comes back in the next 24 to 48 hours and until then uh I would recommend that you isolate either"
+    },
+    {
+        "whisper_chunk": "in a room separately wear a mask around your family members isolate to the best of your abilities not go outside to see if someone else can get groceries for you guys as well and then depending on the test public health will take care Take care",
+        "gt_chunk": "D: in a room separately, wear a mask around your family members, um isolate to the best of your abilities, not go outside, see if someone else can get groceries for you guys uh as well. And then um depending on the test, public health will contact"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "whisper_chunk": "Would you mind by starting with what brought you in today Yeah so I'm just coming in with my son He's six years old And yeah just over the last few days he's not been himself And he's been having this stomach ache which started around like I would say three days ago And then he's also having vomiting For the last two days he's vomited",
+        "gt_chunk": "D: Would you mind by starting with what brought you in today?\n\nP: Yeah, so I'm just coming in with my son. He's six years old and yeah, just over the last few days he's not been himself and he's been having this stomach ache. Uh, so it started around like I would say 3 days ago and then he's also having vomiting for the last two days, he's vomited"
+    },
+    {
+        "whisper_chunk": "in total six times over the last two days And then yesterday he also developed a fever as well I managed to measure it and it was 38 3 degrees Celsius Okay I see So just so that I'm understanding the timeline so he started to have abdominal pain about three days ago started",
+        "gt_chunk": "P: in total six times over the last two days and then yesterday he also developed a fever as well. I managed to measure it and it was 38.3 degrees Celsius. \n\nD: OK, I see. So I just so that I understand the timeline, so he started to have abdominal pain about 3 days ago, started"
+    },
+    {
+        "whisper_chunk": "with having vomiting and diarrhea two days ago and you checked his temperature and he's had a fever as of yesterday Yeah Okay And was there anything that he ate that was different over these last few days No we've been strictly home food during like the pandemic Like no real changes Okay",
+        "gt_chunk": "D: with having vomiting and diarrhea two days ago and you checked his temperature, he had a fever as of yesterday?\n\nP: Yeah.\n\nD: OK, and uh, was there anything that that he ate that was different over over these last few days?\n\nP: No, we've been strictly home food during like a pandemic like no, no real changes.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And what's his kind of behavior been like over these last couple of days Yeah so at first with the stomach pain he was a bit just irritable and just not himself But especially yesterday with the fever just been very quiet and just kind of sleeping pretty much the whole day Okay I see And can you describe",
+        "gt_chunk": "D: and what's his kind of behavior been like over these last couple of days?\n\nP: Yeah, so at first with the stomach pain he was a bit just irritable and just not himself, but especially yesterday with the fever just been very quiet and just kind of sleeping pretty much the whole day.\n\nD: OK, I see and uh, could you describe"
+    },
+    {
+        "whisper_chunk": "the vomit Yeah so vomit like it started two days ago So the first day was just like he puked up things that he had eaten But yesterday it was mainly just like just yellowish material I couldn't really tell if it was food or not Okay Have you noticed any bile",
+        "gt_chunk": "D: the vomit?\n\nP: Yes, so vomit like, it started two days ago. The first day it was just like he puked up the things that he had eaten, but yesterday it was it was mainly just like uh just yellowish material, I couldn't really tell if it was food or not.\n\nD: OK, have you noticed any bile"
+    },
+    {
+        "whisper_chunk": "or blood in the vomit No I didn't notice any blood and I didn't notice any green material It was mainly just like normal vomit like yellowish color Okay I see And was the vomiting triggered by anything that you're aware of like eating or drinking Yeah two days ago it was",
+        "gt_chunk": "D: or blood in the vomit?\n\nP: Uh no I didn't notice any blood and I didn't notice any green material. It was mainly just like like normal vomit, like yellowish color.\n\nD: OK, I see and, has the what was the vomiting triggered by anything that you're aware of, like eating or drinking? \n\nP: Uhm? Yeah, two days ago it was"
+    },
+    {
+        "whisper_chunk": "after lunch when he first vomited But after that it's just been kind of random I see Okay And in regards to his diarrhea has there been any blood or any color changes No I didn't notice any blood at all It's definitely just very watery And he's had to go probably even",
+        "gt_chunk": "P: after lunch when he first vomited. But after that it's just been kind of random.\n\nD: I see OK, and, uh, and with regards to his diarrhea, has there been any any blood or or any color changes?\n\nP: No, no, I didn't notice any blood at all. It's definitely just very very watery and he's had to go probably even"
+    },
+    {
+        "whisper_chunk": "just in the last day probably around like six or seven times Okay And he's vomited how many times So in total I can count six times Okay And has he been complaining of any headaches at all No not that I know of no Okay And",
+        "gt_chunk": "P: just in the last day, probably around like six or seven times.\n\nD: OK, um, and he's vomited how many times?\n\nP: So in total I can count 6 times.\n\nD: OK, and, has he been complaining of any headaches at all?\n\nP: No, not that I know. \n\nD: No. OK, and"
+    },
+    {
+        "whisper_chunk": "how about any ear pain or eye pain No not that he's mentioned to me Okay And any eye redness No Okay And has he had a runny nose No not really Okay And has he had a sore throat or any pain with swallowing No Okay Has he had any loss of taste or loss",
+        "gt_chunk": "D: how about any ear pain or or eye pain?\n\nP: No, not that he's mentioned to me.\n\nD: OK, and any eye redness?\n\nP: Nope.\n\nD: OK, and as he had a runny nose?\n\nP: No, not really.\n\nD: OK and has he had a sore throat or any pain with swallowing?\n\nP: No.\n\nD: OK, have you had any loss of taste or loss"
+    },
+    {
+        "whisper_chunk": "of smell No not that he's mentioned to me no Okay And has he had a cough No not really Okay And how about any shortness of breath or wheezing No Okay And has he had any pain anywhere any chest pain He did",
+        "gt_chunk": "D: of smell?\n\nP: Uh no, not that he has mentioned to me now.\n\nD: OK, and has he had a cough?\n\nP: Uh, no, not really.\n\nD: OK, and how about any shortness of breath or wheezing? \n\nP: No.\n\nD: OK, and has he had any any pain anywhere? Any chest pain?\n\nP: Um, he did"
+    },
+    {
+        "whisper_chunk": "point to his stomach Like it seems like he was having with all the vomiting like he was having some stomach pain as well Okay Is there any specific location that he's feeling the pain It's hard to say He was just pointing at the center of his belly Like I don't know if it's like I tried pressing on it and didn't feel any pain then but I think it's just kind of all over his stomach",
+        "gt_chunk": "P: point to his stomach like it seems like he was having with all the vomiting like, he was having some stomach pain as well.\n\nD: OK, is there any specific location that that he's feeling the pain?\n\nP: Well, it's hard to say. He was just pointing at the center of his belly like, I don't know if it's like, I tried pressing on it and he didn't feel any pain then, but I think it's just kind of all over his stomach"
+    },
+    {
+        "whisper_chunk": "Okay And has he had any urinary problems like painful voiding or been peeing more often No that's been Okay Have you noticed any rashes or skin changes No not really no Okay And has he had any muscle aches or joint pains that",
+        "gt_chunk": "D: and has he had any urinary problems like painful voiding or been peeing more often?\n\nP: No, that's been OK.\n\nD: Have you noticed any rashes or skin changes?\n\nP: Uh, no, not not really, no. \n\nD: OK. And has he had any muscle aches or uh, or joint pains that"
+    },
+    {
+        "whisper_chunk": "he's mentioned No he hasn't mentioned anything like that Okay And he's had a fever Has he had chills Yeah so that's what I that prompted me to take his temperature yesterday around the afternoon Like we had to wrap him up in like more than two blankets and he was still feeling cold So yeah definitely he was having chills Okay And",
+        "gt_chunk": "D: he's mentioned?\n\nP: No, no he hasn't mentioned anything like that. \n\nD: OK, and he's had a fever, has he had the chills?\n\nP: Yeah, so that's that's what I, that prompted me to take his temperature yesterday around the afternoon, like we had to wrap him up with like more than two blankets and he was still feeling cold so, yeah, definitely was having chills.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "has there been any concerns with his growth like either weight or height No he's been going along the charts pretty well like no concerns during his growth Otherwise he's a very healthy child Okay so no medical diagnoses previously No nothing like that Okay And",
+        "gt_chunk": "D: has there been any concerns with his growth, either weight or or height?\n\nP: So he's been going along the charts pretty well, like no concerns during his growth. Otherwise, he's a very healthy child.\n\nD: OK, so no medical diagnosis previously?\n\nP: No nothing like that.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "is he meeting all developmental milestones okay like gross motor fine motor doing well at school Yeah I think he's yeah and didn't have any issues with walking running He's pretty social with all his peers He's doing well at school No complaints Okay excellent And no",
+        "gt_chunk": "D: is he meeting all developmental milestones OK? Like gross motor, fine motor, doing well at school?\n\nP: Yeah yeah, he didn't have any issues with walking, running, he's pretty social with all his peers. He's doing well at school, no complaints.\n\nD: OK, excellent and"
+    },
+    {
+        "whisper_chunk": "medical conditions but has there been any reasons for being in the hospital before No not at all We yeah we haven't really gone to the doctor with him after like all those vaccinations I get to do So he's been good Okay great So immunizations are up to date Yeah immunizations all up to date Excellent And does he have any allergies No not",
+        "gt_chunk": "D: medical conditions, but has there been any reasons for being in the hospital before?\n\nP: No, not at all. We, yeah, we haven't really gone to the doctor with him after like all those vaccinations that he had to do, so he's been good.\n\nD: OK, great, so immunizations are up to date?\n\nP: Yeah, immunizations all up to date.\n\nD: Excellent and does he have any allergies?\n\nP: Uh, no"
+    },
+    {
+        "whisper_chunk": "anything that we know of yet Okay And just wanted to ask about his birth history Were there any complications throughout pregnancy either mom being sick or having any issues herself No so it was a normal vaginal delivery No issues He was born at 39 weeks",
+        "gt_chunk": "P: anything that we know of yet.\n\nD: OK, and I just wanted to ask about his birth history. Were there any complications throughout throughout pregnancy, either mom being sick or having any any issues herself?\n\nP: No, so it was a normal vaginal delivery, uh no issues, uh he was born at 39 weeks"
+    },
+    {
+        "whisper_chunk": "Didn't need to stay in the hospital at all Yeah it was a pretty smooth pregnancy compared to some of the other ones Okay that's great Do you remember APGAR score or his birth weight I don't exactly remember his APGAR scores I think they were like just they",
+        "gt_chunk": "P: didn't need to stay in the hospital at all. Yeah, it was a pretty smooth pregnancy compared to some of the other ones.\n\nD: OK, oh, that's that's great. Do you remember the Apgar score or his birth weight?\n\nP: Uhm, I don't exactly remember his Apgar scores, I think they were like just"
+    },
+    {
+        "whisper_chunk": "were normal Like there was nothing concerning about them And birth weight I think he was probably around three kilograms Okay great So yeah healthy birth weight at term it sounds like And so healthy does he take any medications regularly No no medications Okay And",
+        "gt_chunk": "P: were normal like there was nothing concerning about them, and birth weight I think he was probably around 3 kilograms. \n\nD: OK, great so, yeah healthy birth weight at term it sounds like. And so, healthy, does he take any medications regularly?\n\nP: No, no medications.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "can you tell me about who he's living with currently and who's looking after him Yeah so he's living with myself his mother and then my husband And he has two older siblings One is a boy seven years old and another one like a 10 year old girl Okay And has anybody in the house been sick",
+        "gt_chunk": "D:  you tell me about who is living with currently and then who's looking after him?\n\nP: Yeah, so he's living with myself, his mother and, and then my husband, and he has two older siblings. One is a boy, seven years old, and another one like a 10 year old girl.\n\nD: OK, and has anybody in the house been sick"
+    },
+    {
+        "whisper_chunk": "No no one has been sick recently However he does they did let them go back into school at one point so I don't know I don't know if so that was just last week so I don't know if he caught something from school Okay but nobody that you know that's had similar symptoms No Okay And have you traveled anywhere No we've been at home",
+        "gt_chunk": "P: no, no one has been sick recently, however he does, they did let them go back into school at one point, so I don't know, I don't know, so that was just last week, so I don't know if he caught something from school.\n\nD: OK, but nobody that you know that's had similar symptoms?\n\nP: No.\n\nD: OK, and have you traveled anywhere?\n\nP: No, we've been, we"
+    },
+    {
+        "whisper_chunk": "Okay And no recent changes to anything in the diet you've mentioned No diet's been fine Okay And any concerns for safety in the home whether physical or verbal abuse No no concerns like that Okay Yeah a question that",
+        "gt_chunk": "D: know recent changes to anything in the diet you've mentioned?\n\nP: No, that's been fine. \n\nD: OK, and any concerns for safety in the home, whether physical or or verbal abuse?\n\nP: No, no concerns like that.\n\nD: OK, yeah a question that"
+    },
+    {
+        "whisper_chunk": "we have to ask everybody And is there any smoking in the home No no we don't smoke Okay great And are there any pets No no pets All right And in the family has there been anybody who's had any heart problems or any lung problems",
+        "gt_chunk": "D: we have to ask everybody and is there any smoking in the home?\n\nP: No, no, we don't smoke. \n\nD: OK, great then, are there any pets?\n\nP: Nope, no pets.\n\nD: Alright, and uh and in the family, has there been anybody who's had any heart problems or any lung problems"
+    },
+    {
+        "whisper_chunk": "We are getting the 10 year old tested for just asthma Okay But nothing diagnosed yet no Okay Anybody in the family have any congenital diseases or any genetic diseases No not that I know of Okay Anybody in the family have",
+        "gt_chunk": "P: we are getting the 10 year old tested for just uh, asthma. \n\nD: OK.\n\nP: But nothing diagnosed yet, no.\n\nD: OK, anybody in the family have any congenital diseases or any genetic diseases?\n\nP: No, not that I know of.\n\nD: OK, uh, anybody in the family have"
+    },
+    {
+        "whisper_chunk": "celiac disease or Crohn's disease No no history of any kind of bowel diseases Okay So I think that's everything I wanted to ask about today Was there anything that maybe I forgot to ask or that I missed that you wanted to tell me Yeah no it's also just",
+        "gt_chunk": "D: celiac disease or Crohn's disease?\n\nP: No, no, uh no history of any kind of bowel diseases. \n\nD: OK, so I think that's, uh, everything I want I wanted to ask about today. Uh, was there anything that maybe I I forgot to ask or or that I missed that you wanted to tell me?\n\nP: Uh, yeah, no it's, it's also just"
+    },
+    {
+        "whisper_chunk": "like I was just reading up can it be like I don't know if it can be COVID as well if it can do this as well It is possible Especially with nonspecific symptoms COVID can cause a variety of different presentations and for some people it can be more gastrointestinal issues like your son has with",
+        "gt_chunk": "P: like I was just reading up like, can it be like I don't know if it can be COVID as well, if it can, it can do this as well?\n\nD: It is possible. Uh, it's uh, especially with nonspecific symptoms, COVID can cause a variety of different presentations, and there for some people it can be more gastrointestinal issues like like your son has with"
+    },
+    {
+        "whisper_chunk": "vomiting and diarrhea and belly pain but it also could be another type of gastrointestinal virus itself or a viral illness like the common cold which can also end up causing symptoms like this as well So we will go ahead and do a COVID test today along with some other blood work",
+        "gt_chunk": "D: vomiting and diarrhea and belly pain. But it also could be well, uh, another type of gastrointestinal virus itself or or a viral illness like the common cold, which can also end up causing symptoms like this as well. So we will, I will go ahead and do a COVID test today, along with some other blood work"
+    },
+    {
+        "whisper_chunk": "and maybe increase the hydration as well It sounds like he has lost a lot of fluid over these last couple of days So we'll check electrolytes and go from there on the test results All right Sounds good Thank you so much",
+        "gt_chunk": "D: And maybe increase the hydration as well, because it sounds like he has lost a lot of fluid over these last couple of days. So we will check electrolytes and go from there on the test results.\n\nP: Alright, sounds good. Thank you so much"
+    }
+]

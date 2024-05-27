@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "and I'm gonna be having a chat with you today get an idea of how things are going and then I'll go over it with the physician that I'm working with and we can come back together and talk to you about the next steps Does that sound good to you Okay I hear that you've been experiencing a cough Can you tell me a little bit about that Yeah I've had this cough for the past two weeks and it just doesn't go Okay have you ever had",
+        "gt_chunk": "D: : I'm going to be having a chat with you today get an idea of how things are going and then I'll go over it with the opposition that I'm working with and we can come back together and talk to you about the next steps, that sound good to you? \n\nP: Yeah.\n\nD: I know that you've been having experiencing a cough. Can you tell me a little bit about that?\n\nP: Yeah, I um I've had this cough for the past two weeks and it just doesn't go.\n\nD: OK. have never had"
+    },
+    {
+        "whisper_chunk": "anything like this before I usually get a cold once a year or so but the cough doesn't last this long Like it's usually over in a week or a week and a half or so And it's just not letting up Okay okay I'm gonna ask you a few questions about the cough itself Is this a",
+        "gt_chunk": "D: anything like this before?\n\nP: I\u2019m I usually get a cold once a year or so. But the cough doesn't last this long, like it's usually over in a week or week and a half or so. \n\nD: Mm. And it's it's not letting up. \n\nP: Mm.\n\nD: OK um. I'm gonna ask you a few questions about the cough itself. Is this a"
+    },
+    {
+        "whisper_chunk": "dry cough that you're experiencing or are you producing any mucus or coughing up anything There was some mucus earlier on but now it's a dry cough Now it's dry Okay how long what was the timeline for that I guess How long Yeah so maybe for the first four or five days there was this whitish clear kind",
+        "gt_chunk": "D: dry cough that you're experiencing? Or are you producing like any any mucus or coughing up anything?\n\nP: There was some mucus um earlier on, but now it's it's all, it\u2019s a dry cough.\n\nD: Now, it's dry OK how long, what was the timeline for that? I guess how long?\n\nP: Yeah, so maybe for the first four or five days there was this like whitish clear kind"
+    },
+    {
+        "whisper_chunk": "of mucus that was coming up and then after that was a dry cough Okay okay And do you feel like the intensity of the cough got worse over the last two weeks or has it gotten any better It's kind of the same I would say Okay And has the cough gotten more frequent over this time as well No Okay how often would you say that",
+        "gt_chunk": "P: of mucus that was coming up and then after that was a a dry cough.\n\nD: OK, OK. And do you feel like the intensity of the cough got worse over the last two weeks, or has it gotten any better?\n\nP: Kind of the same, I would say.\n\nD: And has the cough gotten more frequent over this time as well?\n\nP: No. \n\nD: How often would you say that"
+    },
+    {
+        "whisper_chunk": "you're coughing It's hard for me to quantify Maybe a couple times an hour maybe three or four times an hour or so Okay Is there anything you can think of that triggers the cough Or is it spontaneous It's kind of spontaneous Can't really think of anything Okay And along",
+        "gt_chunk": "D: you're coughing? \n\nP: Uhm? It's hard for me to quantify, maybe a couple of times an hour, maybe three or four times an hour or so.\n\nD: Is there anything you can think of that triggers the cough, or is it spontaneous?\n\nP: It\u2019s kinda, spontaneous um. Can't really think of anything.\n\nD: OK. And along"
+    },
+    {
+        "whisper_chunk": "with the cough are you experiencing any difficulty breathing No Okay Have you noticed any fevers No Okay Have you had any sore throat I did initially for the first two or three days and then that got better Okay Have you had any runny",
+        "gt_chunk": "D: with the cough, are you experiencing any difficulty breathing?\n\nP: No. \n\nD: OK, have you noticed any fevers?\n\nP: Uhm, no. \n\nD: OK um. Have you had any sore throat?\n\nP: Um I did initially um for the first two or three days and then that got better.\n\nD: OK um. Have you had any runny"
+    },
+    {
+        "whisper_chunk": "nose I did initially yeah I had all those flu symptoms for the first couple of days but the cough just kind of stayed Everything else resolved in the first three or four days I would say Okay Thank you for sharing that Did you have any chest pain at any point No but I guess like sometimes when I'm coughing too much",
+        "gt_chunk": "D: nose?\n\nP: I did initially yeah, I have like had all those flu symptoms for the first couple of days, but the cough just kinda stayed. Everything else resolved in the first uhm three or four days I would say. \n\nD: OK. Thank you for sharing that have you had, did you have any chest pain at any point?\n\nP: No, but I guess like sometimes when I'm coughing too much"
+    },
+    {
+        "whisper_chunk": "my chest hurts a little bit Oh okay So it feels kind of sore after all of that Yeah Okay Okay Have you been in contact I guess it's hard to say because it started a while ago but before it started were you in contact with anyone that's been sick I worked at the hospital but I'm wearing PPE all the time and I'm very careful",
+        "gt_chunk": "P: my chest hurts a little bit.\n\nD: OK, so it feels kind of sore after all that? \n\nP: Yeah. \n\nD: OK. OK, have you been in contact, I guess it's hard to say because it started a while ago, but before it started bringing contact with anyone that's been sick?\n\nP: I I work at the hospital, but. Um I'm wearing PPE all the time, and I'm very careful"
+    },
+    {
+        "whisper_chunk": "so Have you traveled anywhere outside of the province No Okay Okay Have you had any nausea or vomiting No Okay any belly pain No Okay So I'm just gonna ask you some questions about your",
+        "gt_chunk": "D: . Have you traveled anywhere outside of the province? \n\nP: No.\n\nD: OK, have you had any nausea or vomiting?\n\nP: No. \n\nD: OK, any belly pain? \n\nP: Uhm, no.\n\nD: OK, um so I'm just gonna ask you some questions about your"
+    },
+    {
+        "whisper_chunk": "overall health Have you had any respiratory problems in the past No Okay Or do you have any chronic conditions that you see your family doctor for regularly I've got acid reflux and I also have anxiety Are you currently taking any medications I used to not anymore",
+        "gt_chunk": "D: overall health. Have you had any respiratory problems in the past? \n\nP: No. \n\nD: OK. Or do you have any chronic conditions that you see your family doctor for regular thing?\n\nP: I\u2019ve got acid reflux and uh, I also have anxiety.\n\nD: Are you currently taking any medications?\n\nP: Um. I I used to, not anymore"
+    },
+    {
+        "whisper_chunk": "Was there any particular medication that you stopped recently No no I used to take something for anxiety two three years ago Okay okay And what do you do for your reflux I just avoid right now I'm just trying to avoid the foods that make things worse for me and I feel like that's helped me quite a bit so yeah I avoid",
+        "gt_chunk": "D: was there any particular medication that you stopped recently?\n\nP: No, no. I used to take. I used to take something for anxiety two three years ago.\n\nD: OK. And what do you do for your reflux?\n\nP: I just avoid right now, I'm just trying to avoid the foods that make things worse for me and I feel like that's helped me quite a bit, uhm so yeah. I"
+    },
+    {
+        "whisper_chunk": "acidic foods and chocolates and things like that Sure That's no fun Yeah Okay Do you have any allergies Just hay fever Okay And do you have any family history of respiratory problems or heart problems No Okay Okay and just in terms of your",
+        "gt_chunk": "P: acidic foods and chocolates and things like that.\n\nD: Sure. That's no fun. \n\nP: Yeah.\n\nD: Do you have any allergies?\n\nP: Just hay fever. \n\nD: And do you have any family history of respiratory problems or heart problems? \n\nP: No. \n\nD: OK, and this is in terms of your"
+    },
+    {
+        "whisper_chunk": "lifestyle do you live with family do you live alone I live with my partner Okay And do you have any kids or pets living with you No Do you smoke I don't no Do you drink alcohol Occasionally on Christmas",
+        "gt_chunk": "D: lifestyle. Do you live with family, alone?\n\nP: I I live with my partner.\n\nD: OK, and do you have any kids or pets living with you? \n\nP: No.\n\nD: Do you smoke? \n\nP: Uh I don\u2019t, no.\n\nD: Drink alcohol?\n\nP: Um occasionally. On Christmas"
+    },
+    {
+        "whisper_chunk": "Oh okay I see And do you use any other substances No Okay And what do you do for work I'm a clerk at the hospital Oh okay Right you did say you work in the hospital Okay And I can't I thought I had another question for you but I can't remember it Is there anything",
+        "gt_chunk": "D: Oh OK, I see. And do you use any other substances?\n\nP: No. \n\nD: OK. Uhm, and what do you do for work?\n\nP: I\u2019m a clerk at the hospital. \n\nD: OK. Right, you just say you working at the hospital. And, uh. I can't think I thought I had another question for you, but I can't remember it. Anything"
+    },
+    {
+        "whisper_chunk": "else that you wanted to tell me about that I didn't ask you No I guess I was just wondering why I still have a cough It's been such a long time Yeah And I was wondering if I could get any medications just to help with it It's not really yeah everyone's like scared at work when I cough I have had the COVID test done and I don't have it So yeah",
+        "gt_chunk": "D: else that you wanted to tell me about that I didn't ask you.\n\nP: Um. No, I guess I was just wondering why I still have a cough. It's been such a long time. Um yeah, and I was wondering if I could get any medications just to help with that. It's not really. Yeah, it's everyone's like scared at work when I cough. I have. I have had the covid test and I don't have it, um so yeah"
+    },
+    {
+        "whisper_chunk": "Okay when was that last test done I had the test done when I first started having symptoms about two weeks ago Since then I've been at home and I'm just waiting for my symptoms to get better but I kind of want to get back and I don't want to be coughing when I get back Yeah Okay Well I'm going to have a quick listen to your heart and lungs I'll do a quick physical exam and then I will go get the doctor that I'm working with I'll kind of go over everything you",
+        "gt_chunk": "D:  we got the last test done?\n\nP: Um I had the test done when I first started having symptoms about two weeks ago? Since then I've been at home and I'm just waiting for my symptoms to get better, but I you know, I kind of like get back, and I don't want to be coughing when I get back. Um yeah.\n\nD: OK. Well, I'm gonna have a quick listen to your heart and lungs I'll do a quick physical exam and then I will go get the doctor that I'm working with all kind of go over everything you"
+    },
+    {
+        "whisper_chunk": "talked about and then we'll come back and talk to you about where to go from here Sounds great Okay well thanks for chatting with me You're welcome",
+        "gt_chunk": "D: talked about, and then we'll come back and talk to you about where to go from here.\n\nP: Sounds great.\n\nD: OK well thanks for chatting with me.\n\nP: Your welcome"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "whisper_chunk": "How may I help you I've been having difficulties breathing over these last few days When did it start It started about three or four days ago Since then has it gotten any better",
+        "gt_chunk": "D: How may I help you?\n\nP: I've been having difficulties breathing over these last few days.\n\nD: When did it start? \n\nP: It started about, like, three or four days ago. \n\nD: OK, and since then, has it gotten any better"
+    },
+    {
+        "whisper_chunk": "or worse It has maybe gotten a little bit worse Are there certain times when you feel that you're more short of breath than other times Anything in particular that you're doing that makes it worse Not really I",
+        "gt_chunk": "P:  worse, but not, maybe, a little worse.\n\nD: And are there certain times when you feel that you're more short of breath than other times? Anything in particular that you're doing that makes it worse?\n\nP: Uhm, not really,"
+    },
+    {
+        "whisper_chunk": "just feel like it's just more difficult to breathe most of the time Has it happened to you before No nothing like this has happened before Do you have a history of any lung problems No I don't",
+        "gt_chunk": "P: just feel like, it's just more difficult to breathe, uh, most of the time. \n\nD: And, has this happened to you before?\n\nP: Uhm, not like, no, nothing like this has happened before. \n\nD: OK, do you have a history of any lung problems?\n\nP: No, I don't"
+    },
+    {
+        "whisper_chunk": "I've been healthy So no COPD no asthma nothing like that right No nothing like that Okay so you're just having difficulties breathing for the past three or four days Do you have a cough Yeah I've had a cough as well over these last few days",
+        "gt_chunk": "P: I've been healthy.\n\nD: So no COPD, no asthma, nothing like that,  right?\n\nP: No, nothing like that.\n\nD: OK, so you're just having difficulties breathing for the past three-four days. Do you have any, uh, do you have a cough?\n\nP: I did have a, uh, yeah, I've had a cough as well, over these last few days"
+    },
+    {
+        "whisper_chunk": "Has it been a dry cough or a wet cough I've been bringing up some whitish sputum Yeah like whitish or clear And you haven't seen blood any time right in your sputum No Okay And has the cough",
+        "gt_chunk": "D: has it been a dry cough or wet cough?\n\nP: I've been bringing up, some, like, uh, whitish sputum. It's like, yeah, whitish or clear.\n\nD: And you haven't seen blood anytime right? In your sputum?\n\nP: No. \n\nD: OK, and has the cough"
+    },
+    {
+        "whisper_chunk": "gotten any worse over time It's been about the same And have you had fevers or chills I have felt hot but no chills Okay What about any",
+        "gt_chunk": "D: gotten any worse overtime?\n\nP: Uh, it's been about the same.\n\nD: And have you had fevers or chills?\n\nP: I have felt hot but no chills.\n\nD: OK. What about, any"
+    },
+    {
+        "whisper_chunk": "redness in your eyes or any congestion in your nose I haven't noticed anything like that Okay Have you had a sore throat It's felt a little itchy I guess but no pain with swallowing And",
+        "gt_chunk": "D: redness in your eyes or any congestion in your nose?\n\nP: Uh, I haven't noticed anything like that.\n\nD: OK, have you had a sore throat?\n\nP: Uh, it's felt a little itchy I guess but no pain with swallowing.\n\nD: And"
+    },
+    {
+        "whisper_chunk": "do you have any chest pain or chest pressure Yeah when I like I don't know take a deep breath or after I cough I've been having some chest pain To give it a number from one to ten what would you say in terms of how severe it is with ten being the worst pain ever I would say",
+        "gt_chunk": "D: do you have any chest pain or chest pressure?\n\nP: Yeah, when I like, uh, take a deep breath or after after I cough I've been having some chest pain.\n\nD: To give it a number from one to ten, what would you say in terms of how severe it is with ten being the worst pain ever.\n\nP: I would say"
+    },
+    {
+        "whisper_chunk": "maybe six It feels pretty sharp when it happens and it goes away after a few minutes Okay And where exactly is it Yeah I kind of feel it yeah just over on the right side of the sternum",
+        "gt_chunk": "P: maybe six. It feels pretty sharp when it happens and it goes away after a few minutes.\n\nD: OK, and where exactly is it, is the pain?\n\nP: Uh yeah, I kind of feel it, Yeah, just over on the right side of the sternum"
+    },
+    {
+        "whisper_chunk": "Okay All right And does it radiate anywhere Does it go anywhere other than that one location No I feel like just in the one spot Okay Okay And has that pain gotten worse over time No that pain started",
+        "gt_chunk": "D: OK. Alright, and does it radiate anywhere? Does it go anywhere other than that one location?\n\nP: No, I feel it just in the one spot.\n\nD: OK, uhm, and has that pain gotten worse overtime?\n\nP: No, that pain started"
+    },
+    {
+        "whisper_chunk": "I guess like two days ago More recent than the cough or shortness of breath I see I see Okay And so you said that coughing makes it worse and sometimes breathing in So just sort of normal breathing or sort of when you're breathing in very like when you're doing like deep breathing Deep breathing Deep breathing hurts Okay All right",
+        "gt_chunk": "P: I guess like two days ago. More recent than the cough or shortness of breath.\n\nD: I see, I see, OK. And so you said that coughing makes it worse and sometimes breathing in. So is it just normal breathing or when you're doing like, deep breathing?\n\nP: Deep breathing. \n\nD: Deep breathing hurts? OK. Alright"
+    },
+    {
+        "whisper_chunk": "And you've never experienced this before right No I haven't had a pain like this before Okay When you sort of touch that area over your chest does touching it make it worse No Yeah I haven't noticed that Touching it doesn't make it worse Okay All right Have you had",
+        "gt_chunk": "D: and you've never experienced this before, right?\n\nP: No, I haven't had a pain like this before.\n\nD: OK, when you sort of touch that area over your chest, does touching it make it worse?\n\nP: Uhm, no, I haven't noticed that, touching it doesn't make it worse.\n\nD: OK. Uhm, alright, have you had"
+    },
+    {
+        "whisper_chunk": "a headache No No Okay What about fatigue or muscle aches I've been fatigued No muscle aches Okay Any pain in your belly No Any diarrhea No Constipation No",
+        "gt_chunk": "D: a headache? \n\nP: Uh, no.\n\nD: No, OK. What about fatigue or muscle aches?\n\nP: I've been fatigued. No muscle aches.\n\nD: OK, any pain in your belly? \n\nP: No.\n\nD: Any diarrhea? \n\nP: No.\n\nD: Constipation?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Any changes in your any changes when you pee Nothing there No Okay Any rash that you've noticed on your skin No Okay Any changes in your sense of taste No Changes in your sense of smell",
+        "gt_chunk": "D: Any changes in your, uh, any changes when you pee?\n\nP: Uh, nothing there.\n\nD: No. OK. Any rash that you've noticed on your skin?\n\nP: No. \n\nD: OK. Any changes in your sense of taste?\n\nP: No.\n\nD: Changes in your sense of smell"
+    },
+    {
+        "whisper_chunk": "No Okay All right So it sounds like for the past three four days you've had difficulties breathing and a cough with this whitish sputum a whitish or clear sputum You've also been feeling a little bit feverish Have you checked your temperature No I haven't I don't have a thermometer at home Yeah no problem",
+        "gt_chunk": "P: No.\n\nD: OK, alright. So sounds like for the past three-four days you've had difficulties breathing and a cough with this whitish sputum, whitish or clear sputum. You've also been feeling a little bit feverish. Have you checked your temperature?\n\nP: No, I haven't. I don't have a thermometer at home.\n\nD: Yeah, no problem"
+    },
+    {
+        "whisper_chunk": "And your throat's been a little bit itchy And then two days ago you also started having this pain in your chest Is there any other symptom that I have not mentioned that you have been experiencing over the past couple of days No that's everything Yeah okay And you mentioned that you don't have a history of asthma or COPD Do you have any other medical conditions",
+        "gt_chunk": "D: and your throat's been a little bit itchy and then two days ago you also started having this pain in your chest. Is there any other symptom that I have not mentioned that you have been experiencing over the past couple of days?\n\nP: No, that's everything. \n\nD: Yeah, OK. And you mentioned that you don't have a history of asthma or COPD. Do you have any other medical conditions"
+    },
+    {
+        "whisper_chunk": "I have high blood pressure and I take amlodipine for that Okay Any other over the counter medications or any other medications that you're on No Any allergies No allergies Okay And where do you currently live In a townhouse",
+        "gt_chunk": "P: I have high blood pressure. And I take Amlodipine, for that.\n\nD: OK any other over the counter medications or any other medication that you're on?\n\nP: No.\n\nD: Any allergies?\n\nP: No allergies.\n\nD: OK, and where do you currently live?\n\nP: In a townhouse"
+    },
+    {
+        "whisper_chunk": "just outside of the city here I see I see Do you live alone No I live with my wife and daughter And have you or your wife or your daughter been sick recently or have either of you had contact with someone who's been sick",
+        "gt_chunk": "P: just outside of the city here.\n\nD: I see, do you live alone?\n\nP: No, I live with my wife and daughter.\n\nD: And have your wife and daughter been sick recently or have either of you had contact with someone who's been sick"
+    },
+    {
+        "whisper_chunk": "I've been working from home but my daughter has recently started going back to high school And she's had a runny nose recently and a sore throat but that's about it And what about your wife She's been fine Yeah she's been healthy Okay good",
+        "gt_chunk": "P: I've been working from home, uhm, but my daughter has recently started going back to high school and she's had a runny nose recently and a sore throat, but that's about it.\n\nD: And what about your wife?\n\nP: She's been fine. Yeah, she's been healthy.\n\nD: OK, good"
+    },
+    {
+        "whisper_chunk": "Other than your daughter have you been in contact with anyone else who might be sick or might have symptoms similar to what your daughter has I don't think so Okay All right And have you traveled anywhere recently No I've been just working from home Okay And do you smoke",
+        "gt_chunk": "D: Other than your daughter, have you been in contact with anyone else who might have, who might be sick or might have symptoms similar to what your daughter has?\n\nP: I don't think so. \n\nD: OK, alright, and do you, have you traveled anywhere recently?\n\nP: No, I've been just, uh, working from home.\n\nD: OK, and do you smoke"
+    },
+    {
+        "whisper_chunk": "No Ever smoked in the past No I've never smoked before Marijuana I mean I'll have a joint sometimes with friends at a party or something but that's I mean maybe once a month Sure And any street drugs Nope nothing like that Okay And do you drink alcohol I'll have a beer",
+        "gt_chunk": "P: No.\n\nD: Ever smoked in the past?\n\nP: No, I've never smoked before.\n\nD: Marijuana?\n\nP: I mean, I'll have a joint sometimes with friends at a party or something, but that's maybe once a month?\n\nD: Sure, and any street drugs?\n\nP: Nope, nothing like that.\n\nD: OK, and do you drink alcohol?\n\nP: I have a beer"
+    },
+    {
+        "whisper_chunk": "a couple of times per week All right all right And you told me about your medical history but do you have have you ever had any surgeries or any hospitalizations in the past I've had a hernia repair about seven years ago I haven't had any issues since All right okay",
+        "gt_chunk": "P: a couple of times per week.\n\nD: Alright, and you told me about your medical history, but do you have, have you ever had any surgeries or any hospitalizations in the past?\n\nP: Uh, I've had a hernia repair, about seven years ago. I haven't had any issues since.\n\nD: Alright,"
+    },
+    {
+        "whisper_chunk": "And are there any medical conditions that run in your family My grandfather had a heart attack in his 70s and I think my dad has high blood pressure as well but I think that's it All right well so I think that's all that I wanted to know I",
+        "gt_chunk": "D: and are there any medical conditions that run in your family? \n\nP: Uhm, my grand-father had a heart attack, in his seventies. And, I think my dad has high blood pressure as well, but, I think that's it.\n\nD: Alright, well, so, I think that's all that I wanted to know. I"
+    },
+    {
+        "whisper_chunk": "can see that you haven't been feeling well over the past couple of days and I'll go talk to my attending and we'll come back and chat with you a little bit more and do a physical exam and go from there Sounds good Thank you You're welcome",
+        "gt_chunk": "D: can see that you haven't been feeling well over the past couple of days and I'll go back to my attending and we will come back and chat with you little bit more and do a physical exam and go from there.\n\nP: Sounds good, thank you.\n\nD: You're welcome"
+    }
+]

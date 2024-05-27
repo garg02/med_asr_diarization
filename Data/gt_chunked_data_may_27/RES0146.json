@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "What brings you in today You know yesterday right after leaving work I started to not feel well And this morning I woke up with a fever this like bad headache and just feeling really sore all over I'm sorry that doesn't sound good",
+        "gt_chunk": "D: What brings you in today?\n\nP: Uh, yesterday, right after leaving work I started to not feel well and this morning I woke up with fever, ah, this like bad headache and just feeling really really sore all over.\n\nD: I'm sorry that's doesn't sound good"
+    },
+    {
+        "whisper_chunk": "So all this started yesterday or I guess yesterday you were just you were not feeling too good and then you noticed all these symptoms this morning Did you measure your temperature Yeah I checked it this morning and it was 38 5 Great And",
+        "gt_chunk": "D: So all this started yesterday or I guess yesterday was just with you were, not feeling too good and then just noticed all these symptoms this morning. Did you measure your temperature?\n\nP: Yeah, I checked it this morning and it was 38.5. \n\nD: And"
+    },
+    {
+        "whisper_chunk": "did you can you tell me about your headache Yeah so I started to get a little bit of a headache last night so I tried some Tylenol It helped relieve the pain a little bit so I could sleep and this morning I woke up but I didn't have a headache at first but it came on maybe an hour",
+        "gt_chunk": "D: did you, can you tell me about your headache? \n\nP: Yeah, so I I started to get a little bit of a headache last night, so I tried some Tylenol. It helped relieve the pain a little bit so I can sleep then. And this morning I woke up but I uh, didn't have a headache at first, but it came on maybe an hour"
+    },
+    {
+        "whisper_chunk": "after waking up and it feels like there's just a band around squeezing my head Is it on both sides or only one side It's on both sides You kind of feel it wrapping around And if you had to give it a number from one to 10 the 10 being the worst pain ever what would you say About a five Okay",
+        "gt_chunk": "P: after waking up and it feels like a there's a band around squeezing my head.\n\nD: Is it on both sides or only one side?\n\nP: It's on both sides. Kind of feel that real wrapping around.\n\nD: And if you had to give it a number from 1 to 10, with 10 being the worst pain ever, what would you say?\n\nP: About a five.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And do you have any other symptoms such as a runny nose or a stuffy nose Yeah my nose has been runny I started noticing that a little bit yesterday too actually now that you mentioned it Hmm And what was the discharge like or what is the discharge like It's pretty",
+        "gt_chunk": "D: and do you have any other symptoms, such as a runny nose or a stuffy nose?\n\nP: Yeah, my nose has been, been runny. I started noticing, noticing that a little bit yesterday too actually, now that you mention it. \n\nD: And what was the discharge? Or what was the discharge like?\n\nP: It's pretty"
+    },
+    {
+        "whisper_chunk": "runny yeah it's pretty runny and clear Okay And do you have a cough No Okay any sore throat No No Have you had any difficulties with breathing No Okay any chest pain No",
+        "gt_chunk": "P: runny in in. Yeah, it's pretty running clear.\n\nD: OK. Uhm, and do you have a cough?\n\nP: No. \n\nP: OK. \n\nD: Any sore throat? \n\nP: No.\n\nD: Uhm, have you had any difficulties with breathing?\n\nP: No. \n\nD: OK, any chest pain?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay Any I guess itchy eyes or itchy nose or any sneezing Yeah well my nose has been itchy and I have been sneezing Okay All right and have you had any diarrhea or",
+        "gt_chunk": "D: any, I guess itchy eyes or itchy nose or any sneezing?\n\nP: Yeah well, well my nose has been itchy and I, I have been I have been sneezing.\n\nD: Alright, and have you had any diarrhea or"
+    },
+    {
+        "whisper_chunk": "constipation No Any nausea or vomiting No Okay any belly pain No Okay Have you been around anyone who could have been sick I mean maybe",
+        "gt_chunk": "D: constipation?\n\nP: No. \n\nD: Any nausea or vomiting?\n\nP: No. \n\nD: OK, any belly pain? \n\nP: No.\n\nD: OK. Have you been around anyone who could have been sick?\n\nP: Uhm, maybe"
+    },
+    {
+        "whisper_chunk": "There was one of my colleagues at work was off last week I think he was sick with something Did he get tested Did he go see a do you know if he went to see a doctor Or was he tested for COVID I'm not sure I just know like well he wasn't there on Thursday and Friday last week and he hasn't been",
+        "gt_chunk": "P: there was a, one of my colleagues at work was off last week. I think he was sick, with something.\n\nD: Did you get tested? Do you know if you went to see a doctor? Or was he tested for Covid?\n\nP: Uhm, I'm not sure, I just don't like well he wasn't there on Thursday and Friday last week and he hasn't been"
+    },
+    {
+        "whisper_chunk": "here this week and I just heard that he was sick Okay all right And have you had any medical conditions that you've been diagnosed with Yeah I've been told I have high cholesterol and a high",
+        "gt_chunk": "P: here, this week and I, I just heard that that he was sick.\n\nD: OK, alright. Uhm, and have you have you had any medical conditions that you've been diagnosed with?\n\nP: Yeah, I've been told I have high high high cholesterol and high"
+    },
+    {
+        "whisper_chunk": "BMI Yeah and so I take a statin medication for that and yeah I've been told I have pre diabetes as well so I've been trying to work on diet Any other medications I take vitamin D and multivitamin And",
+        "gt_chunk": "P: , yeah and so I I take a statin medication for for that and yeah I've been told I have pre-diabetes as well so I've been trying to work on diet.\n\nD: Are you taking any other medications?\n\nP: I take vitamin D and a multivitamin.\n\nD: And"
+    },
+    {
+        "whisper_chunk": "do you have any allergies No Okay And do you live alone or do you live with other people Yeah I live with my wife Okay and since you've been feeling sick have you been maintaining social distance maintaining some distance from her Yeah yeah we have We have separate",
+        "gt_chunk": "D: do you have any allergies? \n\nP: No.\n\nD: OK. Uhm, and you do you live alone or do you live with other people?\n\nP: Yeah, I I live with my, with my wife.\n\nD: OK, and since you've been feeling sick, have you, been maintaining social distance, maintaining some distance from her?\n\nP: Yeah, yeah we have. We we have separate"
+    },
+    {
+        "whisper_chunk": "rooms that we've been able to distance for the last few days Okay that's good And have you traveled anywhere recently outside the province No travel Okay and do you smoke or have you ever smoked No I don't And",
+        "gt_chunk": "P: rooms that we've been able to distance for the last few days.\n\nD: OK, that's good. And do you ah, have you traveled anywhere recently, outside the province? \n\nP: No travel.\n\nD: OK, and do you smoke or have you ever smoked?\n\nP: No. I I don't. \n\nD: And"
+    },
+    {
+        "whisper_chunk": "marijuana No Any recreational drugs No Have you ever had or do you currently consume alcohol Yeah I'll have a few beers on the weekend but I've been trying to cut down after I was told I have pre diabetes Okay that's really good And",
+        "gt_chunk": "D: marijuana?\n\nP: No.\n\nD: Any recreational drugs.\n\nP: No.\n\nD: Have you ever had or do you currently consume alcohol?\n\nP: Yeah, have a few beers on the weekend, but I've been trying to cut down after I was told I have, uh, pre diabetes. \n\nD: Ok, that's really good."
+    },
+    {
+        "whisper_chunk": "okay let's see Do you have any family history of any heart problems or any lung issues or any cancers My grandfather had lung cancer and he smoked his whole life And yeah I know my dad had he had a heart attack when he was in his 70s Okay all right Well those are all the questions we have So those are all the questions I had for you We will do a COVID",
+        "gt_chunk": "D: , let's see, do you have any family history of any heart problems or any lung issues or any cancers?\n\nP: My grandfather had lung cancer. He smoked his whole life and yeah, I know my dad had you had a heart attack when he was in his 70s.\n\nD: OK. Alright, well those are all the questions I had for you. We will do a"
+    },
+    {
+        "whisper_chunk": "test today simply because your symptoms overlap with some of the symptoms of COVID It's also possible that you just have a just the common cold and that would get better over time You might have caught something from your colleague who was sick last week So it's great that you've been sort of isolating yourself and staying away from your wife I would also recommend if you haven't already done so to not",
+        "gt_chunk": "D: test today simply because your symptoms overlap with some of the symptoms of Covid. It's also possible that you just have a, just the common cold and that would get better over time. You might have caught something from your colleague who was sick last week, so it's great that you've been, instead of isolating yourself and staying away from your wife, I would also recommend, if you haven't already done so to not"
+    },
+    {
+        "whisper_chunk": "I know that the symptoms started yesterday evening but just try to work from home or take some time off of work for the next couple of days at least until your COVID test results are back in the next 24 to 48 hours And then from there on follow the advice that you'll be getting from public health That sounds really good Yeah thank you",
+        "gt_chunk": "D: I know that the you have symptoms started yesterday evening, but just to try to work from home or take some time off of work for the next couple of days at least until you recover, test results are back in the next 24 to 48 hours and then from there on, follow the advice that you'll be getting from public health.\n\nP: That sounds really good. Yeah, thank you"
+    }
+]

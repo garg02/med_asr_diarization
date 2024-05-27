@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "What brings you in today Yeah I brought my son here I'm a little bit worried about him because yesterday he had this temperature of 38 5 so he's been feeling a little bit hot and he's not swallowing his food We've been feeding him some mashed up food but he's not swallowing it He's just kind of",
+        "gt_chunk": "D: What brings you in today?\n\nP: Yeah, I brought my son here. I'm a little bit worried about him because like yesterday he had he had this temperature of like 38.5 um so he's been feeling a little bit hot and he's not swallowing his food, like we've been feeding him some mashed up food but he's not swallowing it. He's just kind of"
+    },
+    {
+        "whisper_chunk": "throwing it back out there He's drooling now and he sounds kind of muffled and he's been very short of breath That doesn't sound good Yeah I'm currently looking at him and he doesn't look great While the doctor's taking his vitals and",
+        "gt_chunk": "P: throwing it back out there. Um he's drooling now uh and he sounds kind of muffled um and he's been very short of breath.\n\nD: That doesn't sound good. Um uh yeah, I'm I'm currently looking at him and he doesn't uh look great. While the uh while the doctor's um taking his vitals and"
+    },
+    {
+        "whisper_chunk": "examining the baby I'll just ask you a couple of questions Sure You said that all of this started about a day ago How was he doing before that He was fine before that He had some sort of viral infection recently like about a week back He had a runny nose and a cough but that went away",
+        "gt_chunk": "D: examining the baby, I'll just ask you a couple of questions.\n\nP: Sure\n\nD: So you said that all of this started about a day ago. How was he doing before that?\n\nP: He was fine before that, he had like a an infection, like some sort of viral infection recently, like about a week back, he had like a runny nose and a cough, but that went away"
+    },
+    {
+        "whisper_chunk": "Okay so he had these symptoms about a week ago Did you take him to the hospital or to a clinic I took him to our family doctor and they just suggested some supportive treatments which we've been doing at home We try to keep him well hydrated and we've been keeping an eye on his wet diapers and things like that Okay how many diapers",
+        "gt_chunk": "D: OK, so he had these symptoms about a week ago. Did he see any, did you take him to the hospital or to a clinic?\n\nP: I took him to our family doctor um and they just suggested some supportive treatments um which we've been doing at home like we try to keep him well hydrated, and we've been keeping an eye on his like um diapers and things like that.\n\nD: OK, has"
+    },
+    {
+        "whisper_chunk": "are you changing a day Usually like about five six but yesterday it was like two Okay and has he been irritable or agitated since last night He has been",
+        "gt_chunk": "D: are you changing a day?\n\nP: Usually like about 5, 6, but yesterday it was like 2.\n\nD: OK. Um and uh has he been uh irritable or agitated?\n\nP: Uh he has been"
+    },
+    {
+        "whisper_chunk": "very irritable and fussy Has he been sleeping okay No you know what Last night he didn't sleep well at all He was crying the whole night So how much has he had to eat or drink in the past day or two",
+        "gt_chunk": "P: very irritable and fussy.\n\nD: Has he been sleeping OK?\n\nP: I um no you know what last night he didn't sleep well at all. He was crying the whole night.\n\nD: Um and uh in terms of uh, so how much has he has he had to eat or drink in the past uh day or two"
+    },
+    {
+        "whisper_chunk": "He's had about maybe a bottle of his milk if that Okay that's it Yeah he's not taking anything else He's been so fussy and he's unwilling to try anything Okay and do",
+        "gt_chunk": "P: he's had about like maybe a bottle of his milk, like of that.\n\nD: OK.\n\nP: Yeah.\n\nD: That's it?\n\nP: Yeah, he's not taking. He's not he's not taking anything else like he's been so fussy and so like he's unwilling to try anything.\n\nD: OK, um and,"
+    },
+    {
+        "whisper_chunk": "you feel like he's been drowsy and lethargic Yeah I feel like he's been a little bit lethargic Like today he's more lethargic All of yesterday he was very fussy and irritable but today it seems like he's very slow Okay and just a couple questions about his past medical history Does he have",
+        "gt_chunk": "D: you feel like he's been drowsy uh and um lethargic?\n\nP: Um yeah, I feel like he's been a little bit lethargic. Like today, he's more lethargic. All of yesterday, he was very fussy and irritable, but today seems like, he's very slow.\n\nD: OK, and just a couple of questions about um his past medical history. Does he have"
+    },
+    {
+        "whisper_chunk": "any medical conditions that he was diagnosed with No he's been healthy otherwise How was your pregnancy with him Normal yeah no complications there And did you have GBS or gestational diabetes Nope No okay Did you have any viral infections during that time during pregnancy",
+        "gt_chunk": "D: any uh medical conditions uh that he was diagnosed with?\n\nP: Uh no, he's been healthy otherwise.\n\nD: How was your pregnancy with him?\n\nP: Normal, yeah no complications there.\n\nD: Did did you have GBS or gestational diabetes? \n\nP: No.\n\nD: No, OK. Did you have any viral infections during that time, during pregnancy"
+    },
+    {
+        "whisper_chunk": "No no Was he born via a cesarean section or a C section or a vaginal birth A vaginal Okay any complications during birth No Was he kept in the hospital for a couple days in the NICU after he was born No Did he develop jaundice No Okay and he's been okay for the past two years Any concerns",
+        "gt_chunk": "P: No, no.\n\nD: Was he born via Caesarean section or uh C-section or a vaginal birth? \n\nP: Uh vaginal. \n\nD: OK. Any complications during birth?\n\nP: No.\n\nD: Was he um kept in the hospital for a couple days in the NICU after he was born?\n\nP: No. \n\nD: Did he develop jaundice? \n\nP: No.\n\nD: OK, and and he's been OK for the past two years? Any concerns"
+    },
+    {
+        "whisper_chunk": "about his growth his height and weight and his head circumference Has your family doctor said anything about that No he's been pretty good He's been growing and gaining weight okay Any developmental issues Nope Okay all right And any medical conditions that run in the family No just like",
+        "gt_chunk": "D: about his growth, his height and weight, and his head circumference? Has your family doctor uh said anything about that?\n\nP: No, he's been pretty good. Um he's been growing and gaining weight OK.\n\nD: Any um developmental issues?\n\nP: No.\n\nD: OK, alright, and any medical conditions that run in the family?\n\nP: Uh no, just like"
+    },
+    {
+        "whisper_chunk": "some heart issues Okay and does he I forgot to ask has he had any hospitalizations in the past No Any surgeries No surgeries Has he been on any medications any antibiotics recently No Okay has he been vaccinated Has his",
+        "gt_chunk": "P: some heart issues.\n\nD: Um OK, and uh does he, I forgot to ask, has he had any hospitalizations in the past?\n\nP: No.\n\nD: Any surgeries?\n\nP: No surgeries.\n\nD: Uh has he been on any medications? Any antibiotics recently?\n\nP: No.\n\nD: OK. Has um has he been vaccinated? Uh has his"
+    },
+    {
+        "whisper_chunk": "immunizations up to date Yeah they're all up to date so far Okay all right that's good Okay and does he have any allergies that you're aware of Pardon me Any allergies Oh no allergies Okay all right Well it looks like",
+        "gt_chunk": "D: immunizations up to date?\n\nP: Yeah, they're all up to date so far.\n\nD: OK, alright, that's that's good. Um OK, and does he have any allergies that you're aware of?\n\nP: Pardon me?\n\nD: Any allergies?\n\nP: Oh, uh no allergies.\n\nD: OK alright um well it looks like"
+    },
+    {
+        "whisper_chunk": "it's great that you brought him into the emergency room If he hasn't been eating drinking well hasn't slept well has been fussy and has been lethargic and tired and is having difficulty swallowing food that's definitely very serious We'll have a look inside his mouth and see what's going on It could be that he has an infection or an inflammation of some sort Given his",
+        "gt_chunk": "D: it's great that you brought him into the emergency room. Um if he hasn't been eating, drinking well, hasn't slept well, has been fussy, and and has been lethargic and tired, uh and is having difficulty swallowing food, um that's definitely very um serious. Uh we'll have a look inside his mouth and see what's going on. It could be that he has an infection or an inflammation of some sort. Um given his"
+    },
+    {
+        "whisper_chunk": "fever he probably has an infection And we'll likely start him on antibiotics and put in an IV drip just to get some fluids inside him just to get him hydrated and monitor him very closely We'll also check his vitals And we'll do yeah we'll go from there Do you have any questions",
+        "gt_chunk": "D: fever, he probably has an infection, um and uh we'll likely start him on antibiotics and put in an IV drip just to get in get some fluids inside him, just to get him hydrated, uh and monitor him very closely. We'll also check his vitals and um we'll do uh, yeah, we'll go from there. Do you have any questions"
+    },
+    {
+        "whisper_chunk": "No thank you Okay",
+        "gt_chunk": "P: no, thank you. \n\nD: OK"
+    }
+]

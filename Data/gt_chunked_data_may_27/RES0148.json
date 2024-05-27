@@ -1,0 +1,94 @@
+[
+    {
+        "whisper_chunk": "how may I help you Hi I've had a cough for the past three days and I also developed a fever I think as I checked it yesterday night it was 38 and I just decided to come into the",
+        "gt_chunk": "D: How may I help you? \n\nP: Hi, I've had um I've had a cough for the past um three days and uh I also developed a fever, um I think, so I checked it yesterday night, it was um 38. And uh I just decided to uh come into the"
+    },
+    {
+        "whisper_chunk": "just to get myself checked out Yeah certainly it sounds like you've had a fever as well So with the cough you said that started three days ago has it been getting any better or any worse It's gotten a little bit better I'd say Okay that's good And prior to three days ago have did you have",
+        "gt_chunk": "P: just to get myself checked out.\n\nD: Yeah certainly, it it sounds like you um have had a fever as well, so uh with the cough, you said that started three days ago, has it been getting uh any better or any worse?\n\nP: It's gotten a little bit better, I'd say.\n\nD: OK, that's good. Um and and prior to three days ago, um did you have"
+    },
+    {
+        "whisper_chunk": "a cough before or was it a new new cough It's a new cough All right and are you bringing up any sputum No Are you bringing up any blood No And have you had any shortness of breath No I haven't Okay how about any wheezing",
+        "gt_chunk": "D: a cough before or was it a new new cough? \n\nP: It's a new cough.\n\nD: Alright, and uh are you bringing up any sputum?\n\nP: No. \n\nD: Um are you bringing up any blood? \n\nP: No.\n\nD: And have you had any shortness of breath?\n\nP: Uhm no, I haven't.\n\nD: OK, um how about any wheezing"
+    },
+    {
+        "whisper_chunk": "Yeah I guess a little bit A little bit okay Are you having any chest pain No Okay and so you mentioned with the fever have you had any chills Yeah",
+        "gt_chunk": "P: Yeah, I guess a little bit.\n\nD: A bit, OK. Um is it uh, are you having any chest pain?\n\nP: Uhm, no.\n\nD: OK, um and so you mentioned um, with a fever have have you had any chills?\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "I did I had the chills yesterday Okay and have you had any night sweats No All right and have you had any eye redness runny nose or even a sore throat No I haven't All right have you had any nausea or vomiting",
+        "gt_chunk": "P: I did. Um I had the chills yesterday. \n\nD: OK. And have you had any night sweats? \n\nP: Uhm, no.\n\nD: Alright, and um have you had any eye redness, runny nose, or even a sore throat?\n\nP: No, I haven't. \n\nD: Alright, have you had any uh nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "No A loss of taste or a loss of smell No Okay and any abdominal pains No Any diarrhea No You got any urinary problems No Okay and have you had any skin changes or rashes",
+        "gt_chunk": "D:  a loss of taste or loss of smell?\n\nP: No. \n\nD: OK and any um abdominal pains?\n\nP: Uhm, no.\n\nD: Any uh diarrhea?\n\nP: No. \n\nD: You got any urinary problems?\n\nP: No.\n\nD: OK, and have you had any skin changes or uh rashes"
+    },
+    {
+        "whisper_chunk": "No And how has your energy been Have you had fatigue A little bit Okay All right and have you had any muscle aches or body pains Not much No but yeah it's just I've been feeling yeah I guess a little bit I have been feeling achy but I just thought it was my fibromyalgia acting",
+        "gt_chunk": "P: No.\n\nD: And how has your energy been? Have you had fatigue?\n\nP: Um a little bit.\n\nD: Alright, and have you had any muscle aches or or body pains?\n\nP: Uhm, not much. No, but yeah, it's just I've been feeling, yeah, I guess a little bit. I have been feeling achy, uhm but I just thought it was my fibromyalgia acting"
+    },
+    {
+        "whisper_chunk": "up But yeah it's been worse over the past three days Okay so you had this cough a dry cough a fever chills and been more tired and been a little bit more achy these past three days Mm hmm Have you had any other symptoms I don't think so",
+        "gt_chunk": "P: up, but yeah, it's it's been worse over the past three days.\n\nD: OK. Uh so you've had um this cough, a dry cough, a fever, chills, and uh been more tired and and been a little bit more achy these past uh three days. Have you had any other symptoms?\n\nP: I don't think so"
+    },
+    {
+        "whisper_chunk": "Okay and have you tried anything to make it better I just took DO2 off of work and I just rested and had a lot of hot water It helped me It helped with the cough Okay great And have you had any symptoms like this before Yeah",
+        "gt_chunk": "D: OK, and have you tried anything to make it better?\n\nP: Uh I just took a day or two off of work and I just rested and um had a lot of uh hot water. It helped me, uh It helped with the cough.\n\nD: OK great, and um have you had any uh like symptoms like this before?\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "Yeah I mean when I I guess I get sick I do get similar symptoms when I get the cold or the flu but I usually have like a runny nose or like a stuffy nose with it It's kind of this time a little bit Okay And in the past have you been diagnosed with any medical conditions I have fibromyalgia and I also have",
+        "gt_chunk": "P: yeah I mean, when I I guess I get sick I do get similar symptoms like when I get the cold or the flu, but I usually have like a runny nose um or like a stuffy nose, but that's kind of different this time, a little bit.\n\nD: OK, and in the past have you been uh diagnosed with any medical conditions?\n\nP: I have fibromyalgia and uh I um also have"
+    },
+    {
+        "whisper_chunk": "schizophrenia Okay and are you taking medications currently Yeah I take Quetiapine and I was just I take Advil when my joint pains are really bad or like I guess my muscles are bad yeah Okay",
+        "gt_chunk": "P: schizophrenia.\n\nD: OK, and are you taking medications currently? \n\nP: Uh yeah. Uhm, I take um quetiapine and uh I just I take Advil um when my uh joint pains are really bad.\n\nD: OK, and do you have a"
+    },
+    {
+        "whisper_chunk": "and do you have a somebody that follows you along for either fibromyalgia or schizophrenia My family doc and then yeah it's pretty much just him He yeah Okay and do you have any allergies to medications No All right and are you aware if your immunizations are up",
+        "gt_chunk": "D: and do you have a um somebody that follows you along for either uh fibromyalgia or or schizophrenia?\n\nP: Um my family doc. And then um yeah, it's pretty much just him. Um he, yeah.\n\nD: OK. And uh do you have any allergies to medications? \n\nP: No.\n\nD: Alright and um are you aware if your immunizations are up"
+    },
+    {
+        "whisper_chunk": "to date Yeah All right and could you tell me I'm sorry actually have you had any hospitalizations or previous surgeries Well I've been hospitalized I was kept in the psych unit for a couple of days two years ago but nothing other than",
+        "gt_chunk": "D: to date?\n\nP: Um yeah. \n\nD: Alright, and could you tell me, alright then sorry actually, uh have you had any hospitalizations or uh previous surgeries?\n\nP: Uhm well, I uh I've been hospitalized. I I was kept in the psych unit for a couple of days, um two years ago. But nothing other than"
+    },
+    {
+        "whisper_chunk": "that Okay and have things been stable since then Yeah Okay great and I just wanted to ask a little bit about your personal history I was just wondering if you could tell me a little bit where you're living and who you're living with Sure so I'm living with my",
+        "gt_chunk": "P: that.\n\nD: OK. Um and it's been stable since then?\n\nP: Yeah.\n\nD: OK, great. And I um I just wanted to ask a little bit about um your personal history. I was just wondering if you could talk a little bit about uh where you're living and and who you're living with.\n\nP: Uh sure, so I'm living with my"
+    },
+    {
+        "whisper_chunk": "I'm living with my husband and we live in an apartment Okay and has he been sick or has anybody you've been around been sick He was sick last week but he got better on his own Okay and",
+        "gt_chunk": "P: I'm living with my husband and uh we live in an apartment.\n\nD: OK, and has he been sick or has anybody you've been around been sick?\n\nP: Uhm, he was sick last week but he got better on his own.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "were his symptoms similar to yours or were they different They were kind of different I would say He just had he had a sore throat and that kind of lasted for three or four days and then he just got better Okay and are you currently working or I no",
+        "gt_chunk": "D: were his symptoms similar to yours or or uh or were they different?\n\nP: Um they were kind of different, I would say. He just had a um he had a sore throat and uh that kind of lasted for three or four days, and then he just got better.\n\nD: OK, and um are you currently working or"
+    },
+    {
+        "whisper_chunk": "I'm just I'm gonna stay at home I just stay at home I don't work Okay and so and have you traveled anywhere or any other potential exposures No Okay and do you smoke cigarettes I do Okay yeah how much Two or three a day",
+        "gt_chunk": "P: I'm a I'm a stay at home, I just stay at home, I don't work.\n\nD: OK, and so and have you traveled anywhere or any other uh potential exposures?\n\nP: Uh no.\n\nD: OK, um and do you smoke cigarettes?\n\nP: I do. \n\nD: OK yeah, how much?\n\nP: Uh two or three a day"
+    },
+    {
+        "whisper_chunk": "And for how long or when did you start smoking Sorry So I've been smoking since I was 20 years old so about 30 years ago Okay and have you tried to quit before I did but then I just didn't I just went back to it",
+        "gt_chunk": "D: and for how long or for, when did you start smoking? Sorry.\n\nP: Uh so I've been uh smoking since I was uh 20 years old, so about 30 years ago was when I started. \n\nD: OK and and have you could, have you thought of, have you tried to quit before?\n\nP: Uhm I did, but then I just didn't. Uh I just went back to it"
+    },
+    {
+        "whisper_chunk": "but I'm trying to cut down Okay that's good that you've been able to cut down so congratulations on that And do you drink alcohol I do I'll drink sometimes with my friends maybe once a month or once in two three months but",
+        "gt_chunk": "P: but I'm trying to cut down.\n\nD: OK, uh it's good that you've been able to cut down, so congratulations on that. Um and do you drink alcohol?\n\nP: Uhm I I do. Uh, I'll drink um sometimes with my friends maybe uh once a month or once in two three months. Um but"
+    },
+    {
+        "whisper_chunk": "I haven't been going out with them since the pandemic started so I haven't had much to drink I haven't had anything to drink since the past year Okay I see and have you had any history of heart or lung conditions in the family No Okay and I think that was all the questions that",
+        "gt_chunk": "P: I haven't been going out with them since the pandemic started, so I haven't had much to drink. I haven't had anything to drink um since the past year.\n\nD: OK. Um I see. And uh have you had any um history of heart or lung conditions in the family?\n\nP: No.\n\nD: OK, yeah, and I think that that was all the questions that"
+    },
+    {
+        "whisper_chunk": "I wanted to ask on history today before we head on to the physical exam Did you have anything that you wanted to add maybe before that I forgot to ask about No Okay so we will start with some investigations including a COVID swab today just because of your general",
+        "gt_chunk": "D: I wanted to ask on on history today before we go ahead on to the physical exam. Uh did you have anything that you wanted to add maybe before um that I forgot to ask about?\n\nP: Uh no.\n\nD: OK, um so we will start with um some investigations, including a a Covid swab today, just because of your uh general"
+    },
+    {
+        "whisper_chunk": "symptoms which do overlap with COVID although it could as you mentioned be something like the common cold as well and so we will be sure to test for COVID and in the meantime we have to self isolate for 14 days and we will get back the results as soon as we can",
+        "gt_chunk": "D: symptoms which do overlap with with Covid, um although it could as you mentioned uh be something like the common cold um as well. Um and so we will uh be sure to test for Covid and in the meantime we ask you to self isolate um for for 14 days, um and we will get back the results um as soon as we can"
+    },
+    {
+        "whisper_chunk": "and if your symptoms get worse at any point then we will accordingly",
+        "gt_chunk": "D: and if your symptoms get worse at any point, um then we will uh act accordingly"
+    }
+]

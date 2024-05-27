@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "What brings you in Hi I was just really worried My son just yesterday night I noticed that he was making these grunting noises And I did notice that he was a bit warm yesterday as well And today he just hasn't been himself just very very irritable crying a lot So yeah I just got a bit worried",
+        "gt_chunk": "D: What brings you in?\n\nP: Hi, I was just really worried. My son just yesterday night I noticed that he was making these grunting noises and I did notice that he was a bit warm yesterday as well, and today I, he just hasn't been himself, just very, very irritable, crying a lot. Yeah, I just got bit worried"
+    },
+    {
+        "whisper_chunk": "Yeah for sure What started first I would say there was a little bit of coughing earlier like yesterday but then later on during the night it kind of turned into this grunting noise And he's kind of like his chest is moving a lot more when he's taking a breath in and all that Okay did you measure his temperature at home",
+        "gt_chunk": "D: Yeah, for sure. What started first?\n\nP: I would say the there was a little bit of coughing earlier, like yesterday. But then later on during the night, it kind of turned into this grunting noise, and he's kind of like his chest is moving a lot more when he's taking a breath in and all that.\n\nD: OK. Uhm did you measure his temperature at home"
+    },
+    {
+        "whisper_chunk": "Yeah so I think it was 38 5 degrees Celsius Okay and did you do that oral or rectal or under armpit I did it under the armpit Okay okay So you mentioned that he's had a fever he's been grunting and he just seems a little bit more fussy is that right Yeah Okay is he coughing at all",
+        "gt_chunk": "P: Yeah, so I think it was 38.5 degrees Celsius.\n\nD: OK, and did you do that orally or rectal or under armpit?\n\nP: I did it under the armpit. \n\nD: OK. OK, uhm so you mentioned that he's had a fever, he's been grunting and he just seems a little bit more fussy. Is that right?\n\nP: Yeah.\n\nD: OK is he coughing at all"
+    },
+    {
+        "whisper_chunk": "He was yesterday but not really now Okay and was it a dry cough I think so nothing really came out Okay that's good so no blood no sputum No Okay and did he seem wheezy No No okay So there's no wheezing when they're grunting Maybe a little bit like just",
+        "gt_chunk": "P: He was yesterday but not really now. \n\nD: OK and was it a dry cough? \n\nP: I think so. I mean, not-nothing really came out.\n\nD: OK, that's good. So no blood, no sputum?\n\nP: No. \n\nD: OK, and did he seem wheezy?\n\nP: Uh, no. \n\nD: No, OK. So there's no wheezing with the grunting?\n\nP: Maybe a little bit like "
+    },
+    {
+        "whisper_chunk": "a little bit of a noise but it's mostly the grunting Okay has he had any weight loss No not that I have really we haven't really weighed him since his last appointment Okay does he seem excessively tired or fatigued More so today I would say he's like earlier he was very fussy but now he seems a bit more",
+        "gt_chunk": "P: a little bit of a noise, but it's mostly the grunting. \n\nD: OK. Has he had any weight loss?\n\nP: No, not that I really, we haven't really weighed him now since his last appointment. \n\nD: OK. Does he seem excessively tired or fatigued?\n\nP: Uhm, moreso today I would say he's like earlier, he was very fussy, but now he seems a bit more"
+    },
+    {
+        "whisper_chunk": "tired Okay any rashes that you've noticed No No okay Any changes in his vision or hearing No not that I can tell No okay so he's responding to like sounds and he's still looking at you and things like that Yeah Okay Have you noticed a runny nose",
+        "gt_chunk": "P: tired.\n\nD: OK. Any rashes that you've noticed?\n\nP: No.\n\nD: No, OK. Uhm any changes in his vision or hearing?\n\nP: Uh, no, not that I can tell.\n\nD: No, OK. So he's responding to like sounds and he's still looking at you and things like that?\n\nP: Yeah.\n\nD: OK. Have you noticed a runny nose"
+    },
+    {
+        "whisper_chunk": "or stuffy nose No nothing like that No okay And he hasn't had any like fainting spells No I don't think so No okay And how many wet diapers is he producing in a day now Probably five or six Five to six okay Has that changed from before",
+        "gt_chunk": "D: or stuffy nose?\n\nP: Uhm, no, nothing like that.\n\nD: No, OK. And he said he hasn't had any like fainting spells?\n\nP: Uh, no, I don't think so.\n\nD: No, OK. And how many wet diapers is he producing in a day now? \n\nP: Probably 5 or 6.\n\nD: 5 or 6 OK. Has that changed from before"
+    },
+    {
+        "whisper_chunk": "No it's pretty much the same Okay And any changes to his bowel movements No No how about his urine No No okay Okay And you said he was fussy Is he still eating and drinking okay No",
+        "gt_chunk": "P: No, it's pretty much the same.\n\nD: OK, and uhm any changes to his bowel movements?\n\nP: No.\n\nD: No. How about his urine?\n\nP: No.\n\nD: No, OK. OK. And then you said he was fussy, is he still eating and drinking "
+    },
+    {
+        "whisper_chunk": "today he's not really taking anything in like very fussy very hard to feed him today Okay is he crying a lot Earlier today he was crying a lot but now he's calmed down and just I guess tired himself out Yeah okay All right And is he an otherwise healthy child Yeah he was premature",
+        "gt_chunk": "P: today he's not really taking anything in, like very fussy, very hard to feed him today.\n\nD: OK, is he crying a lot?\n\nP: Earlier today was crying a lot, but now has calm down and just I guess tired himself out.\n\nD: Yeah, OK. Alright, and is he an otherwise healthy child?\n\nP: Yeah he was, he was premature"
+    },
+    {
+        "whisper_chunk": "by three weeks So other than that like I remember when he was born they did have earlier some issues with his oxygen not being high enough and then they had to keep us in the hospital for a bit longer But yeah after that there haven't really been too many",
+        "gt_chunk": "P: by three weeks so, Other than that like I remember when he was born they did have earlier some issues with his oxygen not being high enough and they had to like keeping, keep us in the hospital for a bit longer.\n\nD: OK.\n\nP: But yeah, after that, like there haven't really been too many"
+    },
+    {
+        "whisper_chunk": "concerns Okay so he's hitting all the developmental milestones like in terms of motor movements eyes speech behavior all of that Yeah no issues there so far Okay And how about medications Is he on any No No medications okay And is he up to date with all his immunizations Yeah",
+        "gt_chunk": "P: concerns.\n\nD: OK, so he's hitting all the developmental milestones like in terms of motor movements, ah speech, behaviour, all of that?\n\nP: Yeah, no issues there so far.\n\nD: OK, and how about medications? Is he on any?\n\nP: No.\n\nD: No medications, OK. And is up to date with all his immunizations?\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "he had all his immunizations so far Okay How about allergies Does he have any Not that I know of No okay Any family history of lung or heart conditions No Okay And does anyone at home smoke No no one smokes Okay Has he been in contact with anyone sick recently",
+        "gt_chunk": "P: he had all his immunizations so far. \n\nD: OK. How about allergies? Does he have any?\n\nP: Not that I know of. \n\nD: No, OK. Any family history of lung or heart conditions?\n\nP: No.\n\nD: OK, and does anyone at home smoke?\n\nP: No, no one smokes. \n\nD: OK. Has he been in contact with anyone sick recently"
+    },
+    {
+        "whisper_chunk": "No not that I know of His older sister does go to school though I don't know if she might have carried something home Okay how old is she She's six years old Six okay And is she healthy or is she having similar symptoms No she's healthy no symptoms Okay Any travel recently No No okay",
+        "gt_chunk": "P: no, not that I know of. Uhm his older sister does go to school though, but I don't know if she might have carried something home.\n\nD: OK, how old is she? \n\nP: She's six years old.\n\nD: Six, OK. And is she healthy or is she having similar symptoms?\n\nP: No, she's healthy. No, no symptoms.\n\nD: OK. Any travel recently? \n\nP: No. \n\nD: No,"
+    },
+    {
+        "whisper_chunk": "And who does he live with at home So his older sister me and his mother Okay Any reasons to believe like you have old carpet dust mold asbestos pets anything like that that could worsen his symptoms No nothing like that Okay So I think those are all the questions that I had for you Did you have any questions or any concerns anything that I missed that",
+        "gt_chunk": "D: And who does he live with at home?\n\nP: Uh, so his older sister, me and his mother.\n\nD: OK, any reasons to believe like you have old carpets, dust, mold, asbestos, pets, anything like that that could worsen his symptoms?\n\nP: Uh, no nothing like that.\n\nD: OK, so I think those are all the questions that I had for you. Did you have any questions or any concerns? Anything that I missed that"
+    },
+    {
+        "whisper_chunk": "you wanted to add No I think that was all Okay So for him we'll do a COVID swab just to rule that out because some of his symptoms do overlap with that But it's really sounding like a picture of like a community acquired pneumonia So we'll do a couple of things for him We",
+        "gt_chunk": "D: you wanted to add?\n\nP: No, I think that was all.\n\nD: OK, uhm so for him we'll do a Covid swab just to rule that out because some of his symptoms do overlap with that. But it it's really sounding like a picture of like community acquired pneumonia, so we'll do a couple of things for him."
+    },
+    {
+        "whisper_chunk": "can get his temperature get his oxygen saturation and right away we'll get a chest X ray We'll do some blood work as well And he might need to be admitted depending on the oxygen saturation and the fact that he's grunting So if he's admitted we'll give him some extra oxygen and",
+        "gt_chunk": "D: can get his temperature, get his oxygen oxygen saturation right away we'll get a chest x-ray. We'll do some blood work as well and uhm, he might need to be admitted depending on uhm, the oxygen, oxygen saturation and the fact that he's grunting. So if he's admitted will give him some extra oxygen and"
+    },
+    {
+        "whisper_chunk": "keep monitoring him and keep him hydrated We'll also give him some antibiotics if it turns out he has pneumonia Yeah Does that sound okay That sounds good Thank you Okay Yeah no worries",
+        "gt_chunk": "D: keep monitoring him and keep him hydrated. Uhm we'll also give him some antibiotics if, if it turns out he has pneumonia. Yeah, does that sound OK?\n\nP: That sounds good. Thank you.\n\nD: OK yeah, no worries"
+    }
+]

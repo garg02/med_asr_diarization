@@ -1,0 +1,106 @@
+[
+    {
+        "whisper_chunk": "So what brings you in today Yeah I've had a cough for a number of years now but over these past day it's gotten quite a bit worse And I've been really short of breath OK and so how many days would you say you've been short of breath Less than a day maybe just really kind of started last night and has carried out throughout this morning I called this morning",
+        "gt_chunk": "D: So what brings you in today?\n\nP: Yeah, I've had, I've had a cough for a number of years now, but store these past like day, it's gotten a lot quite a bit worse and I've been really short of breath.\n\nD: OK, and so how many days would you say you've been short of breath?\n\nP: Less than a day, maybe just really kind of started last night and has carried out throughout this morning. I, I called this morning"
+    },
+    {
+        "whisper_chunk": "to get an appointment OK and was it brought on by any activities or were you doing anything at that time before it started No last night I was just doing my regular kind of routine after dinner cleaning up And just the cough started first And over the night it got worse I just couldn't catch",
+        "gt_chunk": "P: to get an appointment.\n\nD: OK, and it, was it brought on by any activities or were you doing anything at that time before it started?\n\nP: No, last last night I was, well, I was just doing my regular kind of routine after dinner - cleaning up and just the cough started first. And over, the over the night it got worse. I could just couldn't catch"
+    },
+    {
+        "whisper_chunk": "my breath And it was similar this morning OK so you've also had a cough Yeah I have yeah I've had a cough for a long time now but it's been worse over this last day Is it like a wet cough or dry cough It's wet I bring up sputum most of the time But it's usually",
+        "gt_chunk": "P: my breath and that was similar this morning.\n\nD: OK, so you've also had a cough.\n\nP: Yeah I have. Yeah, uh, I've had a cough for a long time now, but it's been worse over this last day.\n\nD: Yeah, is it like a wet cough or dry cough?\n\nP: It's wet, I I'm bring up sputum most of the time, but it's"
+    },
+    {
+        "whisper_chunk": "like white or clear And it's a lot more greenish yellow and yeah OK and are you having any kind of fevers or chills anything like that Um yeah I did have some chills last night I'm not sure about a fever though OK",
+        "gt_chunk": "P: like, uh it's a lot more greenish, yellow and, yeah.\n\nD: OK, and are you having any kind of fevers or chills anything like that?\n\nP: Uhm yeah I, I did have some chills last night, so I'm not sure about a fever though.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and are your symptoms at all So you do have a shortness of breath but any kind of chest pain at all I do have some chest pressure for sure I just feel like I can't catch my breath OK so is it mostly related to your breathing or do you have it at rest or do you have it with any exertion Yeah I think it's there kind of most of the time",
+        "gt_chunk": "D: And are your symptoms at all, so you do have a shortness of breath, but any kind of chest pain at all?\n\nP: I do have some chest pressure for sure. I just feels like I can't, can't ah, catch my breath.\n\nD: OK, so is it mostly related to your breathing or do you have it at rest? Or do you have it with any exertion?\n\nP: Yeah, I think it, it's there kind of most of the time"
+    },
+    {
+        "whisper_chunk": "like the chest pressure I kind of feel it throughout my chest when I'm breathing but also just kind of sitting here I can kind of feel it OK I see And are all of your symptoms constant or do they come and go They've been constant and they've been getting worse since last night OK and has this happened to you before It has yeah I",
+        "gt_chunk": "P: like the chest pressure. I kind of feel it throughout my chest when when I'm breathing but, but also just kind of sitting here I can kind of feel it.\n\nD: OK I see. And are all of your symptoms constant? Or do they come and go?\n\nP: They've been constant and they've got been getting worse since since last night. \n\nD: OK, and have you had this happen to you before?\n\nP: It has, yeah, I"
+    },
+    {
+        "whisper_chunk": "actually last winter I was hospitalized for a COPD exacerbation for a few days I know I got some antibiotics and I needed some oxygen I see And did you go home on home oxygen at all Like do you use oxygen at home No I was told I didn't need any yet but if I didn't quit smoking I",
+        "gt_chunk": "P: actually last last winter I was hospitalized for a COPD exacerbation for, for a few days. I I know I got some antibiotics and umm, I needed some oxygen.\n\nD: I see and did you go home on home oxygen at all? Like do you use oxygen at home?\n\nP: No, I was told I didn't need any any yet, but if I didn't quit smoking I"
+    },
+    {
+        "whisper_chunk": "might in the future OK and are you using any kind of puffers at all Yeah I do I use I think it's called like Spiriva or something like that I use that every day And there's another one that I'll use like if my symptoms are getting bad the blue one I did try that actually last night and it didn't it helped a little bit but not enough OK so have you just tried",
+        "gt_chunk": "P: might in the future. \n\nD: OK, and are you using any kind of puffers at all?\n\nP: Yeah, I I do I I use I think it's called like Spiriva or something like that. I use that every day and there's another one that I'll use like if my symptoms are getting bad. My blue one. I did try that actually last night and it didn't, it helped a little bit, but, not not enough.\n\nD: OK, so have you just tried"
+    },
+    {
+        "whisper_chunk": "like tried it one time last night Have you tried it after that Yeah we just tried it last night OK so nothing today right No nothing today OK Other than that so you did have an admission before for this and you have COPD Do you have any other symptoms right now like runny nose sore throat any cold like symptoms No",
+        "gt_chunk": "D: like tried it one time last night? Have you tried it after that?\n\nP: Yeah, we just tried it last night.\n\nD: OK, so nothing today right?\n\nP: No, nothing today. \n\nD: OK. Other than that, so you did have an admission before for this. And you have COPD. Do you have any other symptoms right now? Like runny nose, sore throat, any cold like symptoms?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "I don't Did you have it before these symptoms started No I've been feeling I've been feeling OK OK And have you travelled at all recently I did just go up to the trailer not too long ago to visit some family but that's just an hour away",
+        "gt_chunk": "P: I don't.\n\nD: Did you have it before these symptoms started? \n\nP: Uhm no, I've been feeling, I've been feeling OK.\n\nD: OK. And have you traveled at all recently?\n\nP: Uh, well, I did, I just go up to the trailer not too long ago to visit some family, but that's just an hour away"
+    },
+    {
+        "whisper_chunk": "OK Anyone sick around you recently No I don't think so OK And is there are you having any headache or nausea or vomiting No I haven't had anything like that OK And besides the time you got hospitalised have you had any exacerbations after that",
+        "gt_chunk": "D: OK. Anyone sick around you recently?\n\nP: No, I don't, I don't think so.\n\nD: And is there, are you having any headache or nausea or vomiting?\n\nP: No, I haven't had anything like that. \n\nD: OK. And besides the time you got hospitalized, have you had any exacerbations after that"
+    },
+    {
+        "whisper_chunk": "No I just had that happen the one time last year OK And do you feel that your symptoms are similar worse or how did they compare to last time if you remember Pretty similar I think last time was worse but I waited longer last time So that's why I was concerned and wanted to come in",
+        "gt_chunk": "P: No, I just had that, had that happen, the one time, last year.\n\nD: OK. And do you feel that your symptoms are similar, worse, or how do they compare to last time, if you remember?\n\nP: Pretty similar. I think last time I was worse, but I waited longer last time and so that's why I was concerned and and wanted to come in"
+    },
+    {
+        "whisper_chunk": "Early OK OK All right So have you had any fevers at all or chills Yeah I've had some chills last night I just couldn't get warm I was loading up on blankets and it didn't seem to help OK So yeah we'll get a temperature on you today as well Do you feel that you're breathing faster at all Not necessarily It's",
+        "gt_chunk": "P: early.\n\nD: OK. OK, uh, alright, so uh, have you had any fevers at all or chills?\n\nP: Yeah, I've I've had some chills last night like I just couldn't get warm. I was loading up on blankets and it didn't seem to help.\n\nD: OK so we'll get a temperature on you today as well. Do you feel that you're breathing faster at all?\n\nP: Uh, not necessarily it"
+    },
+    {
+        "whisper_chunk": "just harder to feel like I can catch my breath OK Do you feel fatigued at all Yeah I have I mean I have been feeling just tired this morning but I think that's more to do with the fact that I just can't really do a whole lot of exertion because as soon as I move around I can't breathe I see OK And are you having any kind of diarrhea",
+        "gt_chunk": "P: just harder to to, feel like I can't catch my breath.\n\nD: OK, do you feel fatigued at all?\n\nP: Ah yeah, I I have a, I mean I have been feeling just tired this morning, but I think that's more to do with the fact that I just can't really do a whole lot of exertion because as soon as I move around I'm, I can't breathe.\n\nD: I see. Uhm OK, and are you having any kind of diarrhea"
+    },
+    {
+        "whisper_chunk": "constipation or any urinary troubles at all No I'm not OK Any changes in your sleep or appetite That's been normal I've been eating well OK Any kind of confusion Do you feel like yourself Yeah I do OK Any confusion at all that anyone has noticed No I don't think so I",
+        "gt_chunk": "D: constipation, or any urinary troubles at all?\n\nP: No, I'm not.\n\nD: OK. Any changes in your sleep or appetite?\n\nP: That's been that's been normal. Been eating well.\n\nD: OK. Any kind of confusion or any do you feel like yourself?\n\nP: Yeah, I do. \n\nD: OK, any confusion at all that anyone's noticed?\n\nP: No, I don't think so. I"
+    },
+    {
+        "whisper_chunk": "feel like that's been OK Any wheezing Yeah I have noticed some wheezing I usually well I've been told I have a wheeze but I can actually hear it right now OK Yeah we'll do like a full physical examination as well And we'll get like your oxygenation level and everything like that Do you have any besides COPD",
+        "gt_chunk": "P: feel like that's been ok.\n\nD: Any wheezing?\n\nP: Yeah I I have noticed some wheezing. It's usually I usually, uh well I've been told I have a wheeze, but I can actually hear it right now.\n\nD: OK, yeah, we'll do like a full physical examination as well. And we'll get like your oxygenation level and everything like that. Umm, do you have any, besides COPD"
+    },
+    {
+        "whisper_chunk": "So when were you diagnosed with COPD About 10 years ago OK Do you have any other medical conditions I do yeah I have high blood pressure type 2 diabetes and there's something wrong with my kidneys as well I think my EGFR is low or something like that Oh I see",
+        "gt_chunk": "D: so when were you diagnosed with you please?\n\nP: About 10 years ago.\n\nD: OK, do you have any other medical conditions?\n\nP: I do, yeah. I have a high blood pressure, type two diabetes and like and there's something wrong with my, with my kidneys as well. I think my EGFR is low or something like that. \n\nD: Oh, I see"
+    },
+    {
+        "whisper_chunk": "OK And do you take any medications besides your puffers Yeah I do I take an ACE inhibitor Metformin SGLT2 inhibitor and I'm also taking a water pill as well because over these last couple of years I've had some more swelling in my feet OK",
+        "gt_chunk": "D: OK. And do you take any medications besides your puffers? \n\nP: Yeah, I I do. I I take on an ACE inhibitor, Metformin, SGLT2 inhibitor and I'm also taking a, uh, a water pill as well 'cause I, over these last couple of years I've had some more swelling in my in my feet.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "I see Do you have any swelling increased swelling right now No it has been pretty constant OK And do you feel recently at all that you're short of breath when lying down or do you have to wake up to take a deep breath anything like that No I haven't had any issues like that OK Any kind of dizziness or fainting episodes No I haven't had",
+        "gt_chunk": "D: I see. Do you have any swelling, increased swelling right now?\n\nP: No, I that's been about this. Been pretty constant. \n\nD: OK. And do you feel recently at all that you're short of breath when lying down, or do you have to wake up to take a deep breath? Anything like that?\n\nP: No, I haven't only brought issues like that.\n\nD: OK, any any kind of dizziness or fainting episodes?\n\nP: No, I haven't had"
+    },
+    {
+        "whisper_chunk": "anything like that Any increased sweating associated with your chest or pressure or anything like that No I haven't been sweaty OK And other than that any previous surgeries in the past I had a uterine prolapse so I had surgery for that I had five kids",
+        "gt_chunk": "P: anything like that.\n\nD: OK, any increased sweating associated with your chest tight or pressure or anything like that?\n\nP: No, no, I haven't been sweaty.\n\nD: OK. Yeah. And other than that, any previous surgeries in the past?\n\nP: Uhm, I, yeah I had a Uterine prolapse, so I had surgery for that. I have five kids"
+    },
+    {
+        "whisper_chunk": "OK Any complications after that surgery at all No it helped It actually fixed the leaking that I was having so I was happy with that That's good Currently right now do you work at all or are you retired I'm retired OK And what is your living situation like right now Yes we live in a house",
+        "gt_chunk": "D: , any complications after that surgery at all? \n\nP: No, it helped, it actually fixed the leaking at the time I was having, so was happy with that.\n\nD: That's good. Currently right now, do you work at all or are you retired?\n\nP: I am retired.\n\nD: OK, uh, and what is your living situation like right now?\n\nP: Yes, we live in a house"
+    },
+    {
+        "whisper_chunk": "just outside of the city with my husband OK Any exposures to any dust fumes asbestos or anything like that in your home No I don't believe so OK And do you currently smoke I do yeah Currently yeah maybe half a pack to a",
+        "gt_chunk": "P: just outside of the city with my, with my husband.\n\nD: OK. Any exposures to any dust, fumes, asbestos or anything like that in your home?\n\nP: No, I don't believe so.\n\nD: OK. Uhm and do you currently smoke?\n\nP: Uhm, I do, yeah. Currently, yeah, maybe half a pack to a"
+    },
+    {
+        "whisper_chunk": "pack per day OK And how long have you smoked for I started in my teens so most of my life I've smoked I grew up around it It's just what my parents did and everybody smoked OK And do you use any recreational drugs like marijuana No I don't OK And do you",
+        "gt_chunk": "P: pack per day.\n\nD: OK, and how long have you smoked for?\n\nP: Oh, I started in my teens, so most of my life I've I've smoked. I grew up around it, it's just what my parents did and everybody smoked.\n\nD: OK, uhm, and do you use any recreational drugs like marijuana?\n\nP: No, I don't. \n\nD: OK. And do you"
+    },
+    {
+        "whisper_chunk": "drink alcohol at all Very rarely Don't really drink it anymore OK OK so yeah those are some of the questions I had for you today We'll do a full physical examination get your vitals and get your oxygenation done right now Do you have any questions at all No that makes sense Thank you You're welcome And yeah so we'll also do some lab work as well",
+        "gt_chunk": "D: drink alcohol at all?\n\nP: Uh, very rarely, don't really drink it anymore.\n\nD: OK. Alright, so yeah, those are some of the questions I had for you today. We'll do a full physical examination, get your vitals and get your oxygenation done right now. Do you have any questions at all?\n\nP: No, that that makes sense. Thank you.\n\nD: You're welcome and yeah so we'll, we'll also do some lab work as well"
+    },
+    {
+        "whisper_chunk": "We'll get some blood work done We want to make sure we don't miss any kind of infection You can be having another COPD exacerbation But we also want to make sure you don't have like pneumonia or anything like that So we might have to do a chest X ray as well But for now I would say just sit tight We'll get all your vitals done and then go on from there Does that sound good Yeah that sounds good",
+        "gt_chunk": "D: We'll get some blood work done. Want to make sure we don't miss any kind of infection. Umm, you're in, like your you can be having another COPD exacerbation. But we also want to make sure you don't have like pneumonia or anything like that so. We might have to do a chest x-ray as well, but for now I would say just sit tight. We'll get all your vitals done and then go on from there. Does that sound good?\n\nP: Yeah, that sounds good"
+    },
+    {
+        "whisper_chunk": "Thank you All right And if you feel at all you're very short of breath we can give you some Ventolin here as well And then if you need we can give you systemic steroids as well to help some of your symptoms But yeah let's do some of the physical examinations first OK that sounds good Thank you You're welcome Take care Bye",
+        "gt_chunk": "P: Thank you.\n\nD: Alright, and if you feel at all you're very short of breath and we can give you some ventil in here as well. And then if you need like we can give you like systemic, core steroids as well to help some of your symptoms. But yeah, let's, let's do some of that, physical examinations first.\n\nP: OK, that sounds good. Thank you.\n\nD: Welcome. Take care.\n\nP: Bye"
+    }
+]

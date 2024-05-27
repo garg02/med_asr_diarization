@@ -1,0 +1,126 @@
+[
+    {
+        "whisper_chunk": "how may I help you I am here because I've had this intense pain in my right foot for the past six hours or so and I thought it was important to come get it checked out by you guys Okay so it started six hours ago has the pain been getting better or getting worse",
+        "gt_chunk": "D: How may I help you? \n\nP: I'm I am here because I've had this intense pain in my right foot for the past six hours or so or so, and I thought it was important to come get it checked out by you guys.\n\nD: OK, so you say it started six hours ago has the pain been getting better or getting worse"
+    },
+    {
+        "whisper_chunk": "Um it's been the same since it started Okay and was there any trauma to the foot or anything happen within the last day or in the last six hours No no trauma Okay and where is the pain located if you had to try to pinpoint it with one finger It's just below my big",
+        "gt_chunk": "P:  it's been the same since it started.\n\nD: OK, and was there any trauma to the foot or anything happen within the last day, or in the last six hours?\n\nP: No, not no trauma.\n\nD: OK and, where is the pain located if you had to try to pinpoint it with one finger?\n\nP: It's just below my big"
+    },
+    {
+        "whisper_chunk": "toe kind of like on the medial side Okay do you feel the pain radiating anywhere else or are you just feeling it at that one spot I'm feeling it just in that one spot Okay and how would you describe the pain Um",
+        "gt_chunk": "P: toe, kind of like on the medial side.\n\nD: OK. Do you feel the pain radiating anywhere else, or you just feeling it at that one spot?\n\nP: I'm feeling it just in that one spot.\n\nD: OK. And how would you describe the pain?"
+    },
+    {
+        "whisper_chunk": "it's intense it's sharp Okay and has there been anything that you've tried that's made the pain better Um no I haven't really tried anything I've um I can't seem to move it so um every time I move it it hurts I'm trying to keep it pretty still and stationary",
+        "gt_chunk": "P: It's intense, it's sharp.\n\nD: OK, and and has there been anything that you've tried that's made the pain better?\n\nP: Um no I haven't really tried anything. I've I can't seem to move it so every time I move it, it hurts. I'm trying to keep it pretty still and stationary"
+    },
+    {
+        "whisper_chunk": "I took an ibuprofen and that's not that doesn't seem to help Okay and uh so like any movement makes it it worse Um is there is there anything else that that makes it worse like putting socks on or even having um I don't know I don't know clothing touch it or your shoes touch it Yeah I guess yeah my shoes",
+        "gt_chunk": "P: I took an ibuprofen, that's not, that doesn't seem to help.\n\nD: OK. And so like any movement makes it it worse, is there anything else that makes it worse, like putting socks on or even having I don't know clothing touch it or your shoes touch it?\n\nP: Yeah, I guess yeah, my shoes"
+    },
+    {
+        "whisper_chunk": "my shoes touching it hurts Okay and are you able to to walk I'm able to walk on it It's just very painful and I can't um you know I can't bend that toe Um I can't flex it or extend it but my other toes are okay All right and um well how would you describe the severity of this pain One being uh",
+        "gt_chunk": "P: my shoes touching it hurts.\n\nD: OK, and are you able to walk?\n\nP: I'm able to walk on it, it's just very painful and I can't you know, I can't bend that toe. I can't flex it or extend it, but my other toes are OK.\n\nD: Alright, and how would you describe the severity of this pain. One being"
+    },
+    {
+        "whisper_chunk": "the worst pain you've ever felt Um I'd say it's like an eight Okay and uh have you ever had a pain like this before and in your toes or or any of your other joints No never Okay um and uh have you had any neurological symptoms such as like numbness or tingling or sensory loss Uh",
+        "gt_chunk": "D: the worst pain you've ever felt.\n\nP: I say it's like an 8.\n\nD: OK, and have you ever had a pain like this before and in your toes or or any of your other joints?\n\nP: No, never.\n\nD: OK. And have you had any neurological symptoms such as like numbness or tingling or sensory loss?"
+    },
+    {
+        "whisper_chunk": "no Okay and how about any muscle weakness No nothing like that All right and uh have you had any uh any headaches No no headaches Have you had any memory loss or or uh or confusion No Okay have you had any fevers or chills No Have you had any unexpected weight loss No",
+        "gt_chunk": "P: No.\n\nD: OK, how about any muscle weakness?\n\nP: No, nothing like that.\n\nD: Alright, and have you had any any headaches?\n\nP: No, no headaches. \n\nD: Have you had any memory loss or or or confusion? \n\nP: No.\n\nD: OK. Have you had any fevers or chills? \n\nP: No.\n\nD: Have you had any unexpected weight loss?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "And have you had any any night sweats No Okay and how about any sensory changes like changes to your vision hearing sense of smell or sense of taste Uh no changes there All right and have you had a sore throat or or a runny nose No And how about um having a cough or shortness of breath Um no nothing like that Okay",
+        "gt_chunk": "D: And have you had any any night sweats?\n\nP: No. \n\nD: OK, and how about any sensory changes like changes to your vision, hearing, sense of smell or sense of taste?\n\nP: No changes there.\n\nD: Alright and have you had a sore throat or runny nose?\n\nP: No. \n\nD: And how about having a cough or shortness of breath?\n\nP: No, nothing like that.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "um and have you had any chest pain No And how about any uh heart palpitations or um feeling like your heart is racing No Okay um and have you had any lightheadedness or dizziness No Okay um and how about",
+        "gt_chunk": "D: , and have you had any chest pain?\n\nP: No.\n\nD: And how about any heart palpitations or feeling like your heart is racing.\n\nP: No.\n\nD: OK. And have you had any lightheadedness or dizziness?\n\nP: No. \n\nD: OK. And how about"
+    },
+    {
+        "whisper_chunk": "any nausea or vomiting No All right and have any abdominal pain Nope Any changes to your um bowel habits like diarrhea or constipation Uh no I don't think so Okay and have you had any changes to urinary patterns like pain frequency or uh incontinence No Okay and have you had any skin changes like rashes",
+        "gt_chunk": "D: any nausea or vomiting?\n\nP: No.\n\nD: Alright, have any abdominal pain? \n\nP: Nope.\n\nD: Any changes to your bowel habits like diarrhea or constipation?\n\nP: No, I don't think so.\n\nD: OK, and have you had any changes to urinary patterns like pain frequency or incontinence? \n\nP: No. \n\nD: OK. And have you had any skin changes like rashes"
+    },
+    {
+        "whisper_chunk": "or uh any changes to your nails or hair No Okay uh and how about your energy Have you had uh fatigue or malaise recently Uh no nothing like that All right and and any muscle aches or body pains or or any joint pains anywhere else No Okay um and have you been diagnosed with any medical conditions in the past",
+        "gt_chunk": "D: or any changes to your nails or hair?\n\nP: No.\n\nD: OK, and how about your energy, have you had a fatigue or malaise recently?\n\nP: Uh no, nothing like that.\n\nD: Alright, and any muscle aches or body pains or or any joint pains anywhere else?\n\nP: No.\n\nD: OK, um and have you been diagnosed with any medical conditions in the past"
+    },
+    {
+        "whisper_chunk": "Um no I um actually sorry I have um high blood pressure as well as um diabetes and I am a little overweight um but other than that nothing else Okay do you take medications um for any of those things Um I take gramopril for the high blood pressure and",
+        "gt_chunk": "P: Um no, I am. Actually sorry I have um high blood pressure as well as diabetes and I am a little overweight. But other than that, nothing else.\n\nD: OK, do you take medications for any of those things?\n\nP: Um I take ramipril for high blood pressure and"
+    },
+    {
+        "whisper_chunk": "I'm on insulin for the diabetes Okay have you had any medication changes uh recently Um no no medication changes Okay um and um have you had any prior hospitalizations or surgeries Um I was recently hospitalized for uh kidney stones but",
+        "gt_chunk": "P: I'm on insulin for the diabetes. \n\nD: OK, have you had any medication changes recently?\n\nP: Um no, no medication changes.\n\nD: OK. And have you had any prior hospitalizations or surgeries?\n\nP: I was recently hospitalised for kidney stones. But"
+    },
+    {
+        "whisper_chunk": "that since um has resolved Okay have you had any uh any surgeries No surgeries uh just the lithotripsy for the kidney stone Okay and are your immunizations up to date Yep they are Excellent um okay and um do you smoke cigarettes No I don't",
+        "gt_chunk": "P: that since has resolved.\n\nD: OK.  Have you had any any surgeries?\n\nP: No surgeries, just the lithotripsy for the kidney stone.\n\nD: OK, and are your immunizations up to date?\n\nP: Yep they are. \n\nD: Excellent, um OK and do you smoke cigarettes? \n\nP: No, I don't"
+    },
+    {
+        "whisper_chunk": "How about uh marijuana or using uh other cannabis products No Okay and do you use any recreational drugs Uh nope Okay um and how about alcohol um how many drinks per week would you have usually Um alcohol I'll have about I usually have about two glasses of wine a day Okay and",
+        "gt_chunk": "D: How about marijuana or using other cannabis products?\n\nP: No. \n\nD: OK and do you use any recreational drugs?\n\nP: Uh no.\n\nD: OK, and how about alcohol, how many drinks per week would you have usually?\n\nP: Um alcohol have about. I usually have about 2 glasses of wine a day.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "has that changed uh recently for you Um no not really I've just been um I've also been uh drinking like a beer every day as well recently Okay um all right and um could you tell me a little bit about your living situation right now like who you're living with and uh and where Um",
+        "gt_chunk": "D: has that changed recently for you.\n\nP: No, not really. I've just been I've also been start drinking like a beer every day as well recently.\n\nD: OK. Alright, and alright could you tell me a little bit about your living situation right now who you're living with and and where?"
+    },
+    {
+        "whisper_chunk": "I live with uh my son in a house Okay uh and have you been around anybody who's been sick No All right and have you traveled anywhere recently Uh no no travel recently Okay um and can you tell me a little bit about your diet and and like do you eat a lot of red meat and",
+        "gt_chunk": "P: I live with my son in a house.\n\nD: OK, uh, and have you been around anybody who's been sick? \n\nP: No. \n\nD: Alright, and have you traveled anywhere recently?\n\nP: Um no no travel recently. \n\nD: OK, and and can you tell me a little bit about your diet an and like do you eat a lot of red meat and"
+    },
+    {
+        "whisper_chunk": "uh or a lot of uh seafoods like like shellfish Uh I eat a lot of red meat um but not a lot of um seafood Okay um and um okay and anybody in the family have a history of uh musculoskeletal",
+        "gt_chunk": "D:  or a lot of seafood like like shell shellfish?\n\nP: I eat a lot of red meats. But not a lot of um seafood.\n\nD: OK. And. OK, and anybody in the family have a history of musculoskeletal"
+    },
+    {
+        "whisper_chunk": "or um or neurological conditions Um so who okay so my my um father had uh like arthritis um and I don't remember what kind of arthritis he had but he had um severe arthritis He",
+        "gt_chunk": "D: or or neurological conditions?\n\nP: Um so. Who OK, so my my father had like arthritis and I don't remember what kind of arthritis he had but he had severe arthritis. He"
+    },
+    {
+        "whisper_chunk": "also had high blood pressure and diabetes and on my mother's side um there's some arthritis there as well and um as well as um gout and kidney stones Okay so that was everything I wanted to ask on the the history and so um next I'll ask you to have a look at your feet um and are you seeing",
+        "gt_chunk": "P: also had high blood pressure and diabetes, and on my mother's side. Um there is some arthritis there as well and as well as gout and kidney stones.\n\nD: OK.  So that that was everything I wanted to ask all the history. And so, uh, next to ask you to have a look at your feet. And are you seeing"
+    },
+    {
+        "whisper_chunk": "any swelling uh redness or uh discoloration Um I see some redness and uh some swelling in that area Okay um and are you feeling any temperature changes Yes uh the right one is definitely warmer than the left Okay",
+        "gt_chunk": "D: any swelling, redness, or discolouration?\n\nP: I see some redness and uh, some swelling in that area.\n\nD: OK, and are you feeling any temperature changes?\n\nP: Yes, and the right one is definitely warmer than the left.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and how about uh any muscle atrophy in the foot or or lower leg uh or any joint malalignment or deformities Um so in terms of um deformities like it just looks swollen and um so there's like a big bump on the right side of my foot where uh it's completely straight on my left uh but other than",
+        "gt_chunk": "D:  how about any muscle atrophy in the foot or or lower leg or any joint malalignment or deformities?\n\nP: Uh, so in terms of deformity is like it just looks swollen and so there's like a big bump on the right side of my foot, whereas it's completely straight on my left, but other than"
+    },
+    {
+        "whisper_chunk": "that no deformities Okay um and if you're to uh palpate or press on um areas of your foot or or joints of your toes are you feeling any um any pains along the top of your foot or or in any of your other toes None of my other toes Okay and how about any pains uh at the ankle",
+        "gt_chunk": "P: that, no deformities.\n\nD: OK, and if you were to a palpate or press on areas of your foot or joints of your toes, are you feeling any any pains along the top of your foot or or in any of your other toes?\n\nP: None of my other toes.\n\nD: OK, and how about any pains at the ankle"
+    },
+    {
+        "whisper_chunk": "Uh no pain at the ankle Okay so the metatarsals um are not having any pain and then the joints of um the second to fifth digits are pain free uh along with the ankle as well Um and when it comes to range of motion are you able to uh flex your toes downwards and extend them upwards towards your nose",
+        "gt_chunk": "P: Um no pain at the ankle.\n\nD: OK, so the metatarsals are not having any pain and then the joints of the 2nd 5th digits are pain free along with the ankle as well. Um and when it comes to range of motion, are you able to flex your toes downwards and extend them upwards towards your nose"
+    },
+    {
+        "whisper_chunk": "Yes I can do that Okay and how about your ankle Are you able to um um move your ankle on a full range of motion I can Okay and uh are you having uh limping with walking or otherwise called an antalgic gait Um somewhat because I'm trying not to put too much um weight on my right",
+        "gt_chunk": "P: Yes, I can do that.\n\nD: OK, and how about your ankle, are you able to um move your ankle on a full range of motion.\n\nP: I can.\n\nD: OK, and are you having a limping with, walking or otherwise called an antalgic gait?\n\nP: Somewhat because I'm trying not to put too much weight on my right"
+    },
+    {
+        "whisper_chunk": "big toe Okay um all right and so I think that was everything that I wanted to ask and uh check today Um so did you have any other questions or anything that I maybe forgot to ask about you wanted to mention today Uh no just uh what can I do for my foot How do I make the swelling go down Yeah for sure It's uh",
+        "gt_chunk": "P: big toe.\n\nD: OK. Alright, and so I think that was everything that I wanted to ask and check today. So did you have any other questions or anything that I maybe forgot to ask about you wanted to mention today?\n\nP: Um no just what can I do for my foot how do I make the swelling go down?\n\nD: Yeah, for sure it's"
+    },
+    {
+        "whisper_chunk": "so right now um with having a uh like a red um warm and swollen joint that's that's extremely tender and has limited uh range of motion We it's important to rule out a septic arthritis Um however based on uh several of the risk factors um such as diet or diabetes and um uh",
+        "gt_chunk": "D: so right now with having a like a red, warm and swollen joint that that's extremely tender and has limited range of motion. It's important to rule out a septic arthritis, however. Based on several of the risk factors such as diabetes, and"
+    },
+    {
+        "whisper_chunk": "obesity as well as your family history of arthritis and and gout um thinking the most likely thing is that this is um a gout flare And in particular in the uh toe like that it could be called podegra Um and so we'll need to get a uh aspiration of the joint fluid just to send",
+        "gt_chunk": "D: obesity, as well as your family history of arthritis and gout. Taking the most likely thing is that this is a gout flare, and in particular in the toe like that it could be called podagra and so we will need to get a aspiration of the joint fluid just to send"
+    },
+    {
+        "whisper_chunk": "it that we're treating the right thing Um if this is gout and it comes back this way um it's treated with that high dose high doses of anti inflammatories Um and we'll start with uh um medication called the Colchicine um to to help with this flare Um and in the meantime",
+        "gt_chunk": "D:  that we're treating the right thing. If this is, gout and it comes back that this way it's treated with that high dose, high doses of anti inflammatories. I will start with medication called colchicine to help with this flare, and in the meantime"
+    },
+    {
+        "whisper_chunk": "important things for preventing this in the future are um diet and uh kind of lifestyle related with reducing things like red meats um alcohol uh weight loss and um just trying to improve um the diabetes management um as well Okay That sounds great Thank you All right Thank you We'll get that started",
+        "gt_chunk": "D: important things for preventing this in the future are diet and kind of lifestyle related with reducing things like red meats, alcohol, weight loss and um just trying to improve the diabetes management as well.\n\nP: OK, that sounds great. Thank you.\n\nD: Alright, thank you, we will get that started"
+    }
+]

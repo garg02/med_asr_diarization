@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "Would you mind starting with telling me what brought you in Sure I have had this cough for the past five days and it doesn't seem to be getting any better so I'm just here to ask you what it possibly could be Has the cough been getting any better staying the same or getting worse over these last five days I think",
+        "gt_chunk": "D: Would you mind starting with telling me what brought you in?\n\nP: Sure I have had this cough for the past five days and it doesn't seem to be getting any better so I'm just here to ask you what it what it possibly could be.\n\nD: Has the cough been getting any better, staying the same or getting worse over these last five days?\n\nP: I think"
+    },
+    {
+        "whisper_chunk": "it's getting worse Okay Are you bringing up any phlegm No Okay Are you bringing up any blood No Okay Have you been coughing at nighttime as well like interfering with your sleep or is the cough just during the day It's mostly during the day and in the evenings",
+        "gt_chunk": "P: it's getting worse.\n\nD: Are you bringing up any any phlegm?\n\nP: No.\n\nD: Okay, are you bringing up any blood?\n\nP: No. \n\nD: OK, have you been coughing at night time as well? Is it interfering with your sleep? Or is the cough just during the day?\n\nP: Um, it is mostly during the day and in the evenings"
+    },
+    {
+        "whisper_chunk": "It doesn't wake me up from sleep Okay And any triggers that you noticed five days ago or anything that changed at that time to bring on the cough No nothing Okay And have you been having any other symptoms with the cough I have a sore throat and I feel like",
+        "gt_chunk": "P: it doesn't wake me up from sleep.\n\nD: OK, and any triggers that you've notice 5 days ago or anything that changed at that time to bring on the cough?\n\nP: No, nothing.\n\nD: OK. And have you been having any other symptoms with the cough?\n\nP: I have a sore throat and I feel like"
+    },
+    {
+        "whisper_chunk": "I can't taste things the same Okay Are you having any pain with swallowing either liquids or food Mostly with foods Okay And when did the sore throat start It started around the same time as my cough Okay",
+        "gt_chunk": "P: I can't taste things the same.\n\nD: OK, um, are you having any pain with swallowing either liquids or food?\n\nP: Um, mostly with foods.\n\nD: OK, and when did the sore throat start?\n\nP: It started up around the same time as my cough.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And you can't taste your food as well When did you notice that That was two days ago Okay Have you noticed any loss of smell No I don't think so Okay And have you had any difficulties breathing or short of breath No Okay",
+        "gt_chunk": "D: and you can't taste your food as well, and when did you notice that?\n\nP: That was two days ago.\n\nD: OK, have you noticed any any loss of smell?\n\nP: No, no I don't think so.\n\nD: OK, and have you had any difficulties breathing or short of breath?\n\nP: No. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And have you had any symptoms like this before No nothing like this Okay And how has your energy level been Have you been fatigued A little bit yes Okay Have you had any changes to your vision or hearing No Any mucus or pain or",
+        "gt_chunk": "D: And have you had any symptoms like this before?\n\nP: No, nothing like this. \n\nD: OK. And how has your energy level been? Have you been fatigued?\n\nP: A little bit, yes. \n\nD: OK. Have you had any changes to your vision or or hearing? \n\nP: No.\n\nD: Any mucous or pain or"
+    },
+    {
+        "whisper_chunk": "discharge from either your ears or nose No Okay So your nose hasn't been runny but has it felt congested No Okay And have you had any fevers or chills I don't know about fevers I guess I was feeling a little bit hot last night but I didn't take my",
+        "gt_chunk": "D: discharge from either your ears or nose?\n\nP: No.\n\nD: OK, so your nose hasn't been runny, but has it felt congested?\n\nP: umm, no.\n\nD: OK, have you had any fevers or chills?\n\nP: I don't know about fevers. I guess I was feeling a little bit hot last night, but I didn't take my"
+    },
+    {
+        "whisper_chunk": "temperature Okay So possibly a fever We'll certainly check your temperature today to investigate that Have you had any night sweats No no night sweats All right And have you had any weight loss in the last few months No",
+        "gt_chunk": "P: temperature.\n\nD: OK, so possibly a fever. I will certainly check your temperature today to investigate that. Have you had any night sweats?\n\nP: Umm, no night sweats. \n\nD: Alright. And have you had any weight loss in the last few months? \n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay And have you had any chest pain No chest pain Have you noticed any heart palpitations or heart racing No Okay Have you had any wheezing No All right And have you had any abdominal pain No Any nausea or vomiting",
+        "gt_chunk": "D: OK. And have you had any chest pain?\n\nP: No chest pain.\n\nD: Have you noticed any heart palpitations or heart racing? \n\nP: No.\n\nD: Right, OK, have you had any wheezing?\n\nP: No. \n\nD: Alright. And have you had any abdominal pain?\n\nP: No. \n\nD: Any nausea or vomiting"
+    },
+    {
+        "whisper_chunk": "No Okay How about any urinary problems No Any bowel problems like diarrhea or constipation No Okay And any muscle aches or body pains No Have you had any rashes Nope Okay So the",
+        "gt_chunk": "P: No.\n\nD: OK, how about any urinary problems? \n\nP: No.\n\nD: Problems like diarrhea or constipation?\n\nP: No.\n\nD: OK, and any muscle aches or or body pains?\n\nP: No.\n\nD: Have you had any rashes?\n\nP: No.\n\nD: OK, so the"
+    },
+    {
+        "whisper_chunk": "cough started five days ago You had a sore throat so you've been feeling a bit more tired and haven't been able to taste your food the last couple of days Yes Okay Have you been diagnosed with any medical conditions before No I don't think so Okay Nothing you see a physician regularly for No All right Do you take any medications",
+        "gt_chunk": "D: cough started 5 days ago, you had a sore throat, you've been feeling a bit more tired and haven't been able to taste your food for the last couple of days.\n\nP: Yes. \n\nD: OK. Have you been diagnosed with any medical conditions before?\n\nP: Um, no, I don't think so.\n\nD: OK, nothing you see a physician regularly for?\n\nP: No.\n\nD: Alright, do you take any medications"
+    },
+    {
+        "whisper_chunk": "No All right Do you know if you have any allergies to medications Possibly penicillin Okay Do you know what the reaction was I think I had a rash Okay Are your immunizations up to date Yep I think so Excellent And any surgeries before",
+        "gt_chunk": "P: No.\n\nD: Alright, do you know if you have any allergies to medications?\n\nP: Umm, possibly penicillin.\n\nD: OK, do you know what the reaction was?\n\nP: I think I had a rash. \n\nD: OK. Are your immunizations up to date?\n\nP: I think, yeah, I think so.\n\nD: Excellent and any surgeries before"
+    },
+    {
+        "whisper_chunk": "No And have you been in the hospital for any reason No no Okay And are you in school now I am I'm in grade six Okay Cool What's your favorite class I would say it's math Awesome And has there been anybody in your class",
+        "gt_chunk": "P: no. \n\nD: And have you been in the hospital for any reason?\n\nP: Umm, no, no. \n\nD: OK. And are you in school now?\n\nP: I'm in grade 6.\n\nD: OK, cool, what's your favorite class?\n\nP: I would say it's math.\n\nD: Awesome and has there been anybody in your class"
+    },
+    {
+        "whisper_chunk": "who's been sick No Everything's virtual right now Okay cool So have you traveled anywhere No All right And who are you living with I live with two of my younger siblings and my mom and dad Okay And is there any physical or verbal abuse in",
+        "gt_chunk": "D: who's been sick?\n\nP: No, everything's virtual right now.\n\nD: OK cool, so have you traveled anywhere?\n\nP: Umm, no.\n\nD: Alright, and who are you living with?\n\nP: I live with two of my younger siblings and my mom and dad.\n\nD: OK, and is there any physical or verbal abuse in"
+    },
+    {
+        "whisper_chunk": "the home No Okay So do you feel safe in the home Yes yes Okay And do you smoke cigarettes I don't Okay And I know some people in your age group might even start and you might see people using other types of substances Have you noticed",
+        "gt_chunk": "D: the home?\n\nP: No. \n\nD: OK, so you do feel safe in the home?\n\nP: Yes yes. \n\nD: OK. And do you smoke cigarettes?\n\nP: I don't. \n\nD: OK and I know some people in your age group might even start using other types of substances. Have you noticed"
+    },
+    {
+        "whisper_chunk": "anything like that or have you used anything like that No Okay And so do you drink alcohol I have had a sip of wine but that's about it Okay great And has anybody in your family had similar symptoms",
+        "gt_chunk": "D: anything like that, or have you used anything like that?\n\nP: Umm, no.\n\nD: OK. And so do you drink? do you drink alcohol?\n\nP: I have had a sip of wine, but that's that's about it.\n\nD: OK, great. And has anybody in your family had had similar symptoms"
+    },
+    {
+        "whisper_chunk": "No I don't think so Okay And anybody in the family have asthma or heart or lung conditions I think my aunt has asthma but I was checked for asthma when I was younger and it turns out I don't have it Okay",
+        "gt_chunk": "P: No, I don't think so. \n\nD: OK, um and anybody in the family have asthma or lung conditions?\n\nP: I think my aunt has asthma but I was I was checked for asthma when I was younger and it turns out I don't have it.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And any diseases that run in the family like genetic or congenital I think Crohn's disease Okay And who in the family has that My father Okay And so that was everything that I wanted to ask",
+        "gt_chunk": "D: and any diseases that run in the family like genetic or congenital?\n\nP: I think Crohn's disease.\n\nD: OK, and umm, who in the family has that?\n\nP: My father. \n\nD: OK, so that was everything that I wanted to ask"
+    },
+    {
+        "whisper_chunk": "today Was there anything you wanted to tell me No that's it What do you think I have Well it is sounding like it could be most likely an infectious type of process going on with the possibility of having a fever with a cough and sore throat So we'll do a physical exam and also some investigations which will include a COVID test",
+        "gt_chunk": "D: today, was there anything else you wanted to tell me?\n\nP: No, that's it. What do you think I have?\n\nD: Well, it is sounding like it could be most likely an infectious type of process going on with the possibility of having a fever with a cough and sore throat. So we'll do a physical exam and also some investigations which will include a covid test"
+    },
+    {
+        "whisper_chunk": "today because some of these symptoms do overlap But it could be something like the common cold like adenovirus that's bringing this on So it's not necessarily COVID But because we're doing the test it will require 14 days of self isolation And we'll get back to you with the results as quickly as we can Okay Sounds great Thank you",
+        "gt_chunk": "D: today. Because some of these symptoms do overlap, but it could be something like the common cold. I don't know the virus that's bringing this on but it's not necessarily covid. But because we're doing the test, it will require 14 days of self isolation. We'll get back to you with the results as quickly as we can.\n\nP: OK, sounds great, thank you"
+    }
+]

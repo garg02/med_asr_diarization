@@ -1,0 +1,126 @@
+[
+    {
+        "whisper_chunk": "What brings you in I just come in today because I've been having some issues with my hips as well as my knees Just over the last probably a month or two I've been just getting this stiffness and pain especially throughout the day as the day goes along I also",
+        "gt_chunk": "D: What brings you in?\n\nP: I've just come in today because I've been having some issues with my hips as well as my knees. Just over the last probably a month or two, I've been just getting, this stiffness and pain especially, uh, throughout the day as the day goes along, and I also"
+    },
+    {
+        "whisper_chunk": "experience some stiffness when I wake up in the morning in my hips and knees So I just wanted to come and check out what that might be And you said it started in the past month Yeah maybe up to two months actually I would say two months And is the pain and stiffness always there or does it come and go It comes and goes it's worse in the so it's stiff more stiff in",
+        "gt_chunk": "P: experience some stiffness when I wake up in the morning, uh, in my hips and knees, so I just wanted to come and check out what that might be.\n\nD: OK, and you said it started in the past month?\n\nP: Yeah, maybe up to two months actually. Yeah, I would say two months.\n\nD: OK, and is the pain and stiffness always there or does it come and go?\n\nP: It's, it comes and goes. It's worse in the, so it's stiff, more stiff in"
+    },
+    {
+        "whisper_chunk": "the morning first but as the day goes on probably near the afternoon it gets worse So I've had to stop some of my activities like gardening and being outdoors and things like that Okay And you said it gets worse with activity is there anything else that makes it better or worse It probably yeah if I'm just exerting",
+        "gt_chunk": "P: the morning first, but like as the day goes on, probably near the afternoon it gets worse. So I've had to stop some of my activities like gardening and being outdoors and things like that.\n\nD: OK. And you said it's, it gets worse with activity. Is there anything else that makes it better or worse?\n\nP: Uhm, it probably, yeah, if I'm just exerting"
+    },
+    {
+        "whisper_chunk": "myself too much In terms of better I think I've taken some Advil that does help with the pain Okay okay And then if you were to describe the quality of this pain would you say it's achy throbbing dull or sharp It's kind of like this achy pain kind of deep",
+        "gt_chunk": "P: myself too much. Uh, in terms of better, I I think I've taken some Advil that does help with the pain.\n\nD: OK, OK. And then if you were to describe the quality of this pain, would you say it's achy, throbbing, dull, or sharp?\n\nP: It's kind of like this uh, achy pain, kind of deep"
+    },
+    {
+        "whisper_chunk": "within the joints themselves Okay Yeah it just gets worse as I walk more and as I do more activities Yeah Okay And does the pain radiate elsewhere or is it pretty localized to your hips and knees It's mainly in those areas Okay And severity wise 1 to 10 10 being the worst pain you've ever felt how bad is this pain",
+        "gt_chunk": "P: within the joints themselves.\n\nD: OK.\n\nP: Yeah, it just gets worse. I, as I walk more and do more activities.\n\nD: OK, and does the pain radiate also or does it, or is it pretty localized to your hips and knees?\n\nP: It's mainly in those areas.\n\nD: OK. And severity wise, one to 10, 10 being the worst pain you've ever felt, how bad is this pain"
+    },
+    {
+        "whisper_chunk": "Probably like a 7 7 okay And have you ever experienced this type of pain before No not really Okay And do you think your pain is getting worse I think so like over the last two months I feel like my pain there's more stiffness there's more pain throughout the day Okay okay And",
+        "gt_chunk": "P: Probably like a 7.\n\nD: Seven, OK. And have you ever experienced this type of pain before?\n\nP: Uh, no, not really.\n\nD: And do you think your pain is getting worse?\n\nP: Uhm, I think so. Like over the last two months, I feel like my pain, there's more stiffness, there's more pain throughout the day.\n\nD: OK, OK. And"
+    },
+    {
+        "whisper_chunk": "yeah so are you experiencing any sort of numbness or tingling in the areas No not really No okay Any muscle weakness Nope No Are you still able to walk and do the things that you used to enjoy doing I know you said gardening was hard for you How about like other activities of like daily living like",
+        "gt_chunk": "D: you, are you experiencing any sort of numbness or tingling in the areas?\n\nP: No, not really.\n\nD: No, OK. Any muscle weakness?\n\nP: Nope.\n\nD: No. Are you still able to walk and do the things that you used to enjoy doing? I know you said gardening was hard for you. How about like other activities of like daily living like"
+    },
+    {
+        "whisper_chunk": "cooking using the washroom things like that Yeah those things I don't really have too much trouble with Okay Okay that's good at least And any dizziness or fainting spells No No okay How about memory loss or confusion No nothing like that Any headaches",
+        "gt_chunk": "D: cooking, using the washroom, things like that?\n\nP: Yeah, those things I don't really have too much trouble with.\n\nD: OK, OK, that's good at least. And any dizziness or fainting spells?\n\nP: No.\n\nD: No, OK. How about memory loss or confusion?\n\nP: No, nothing like that.\n\nD: Any headaches"
+    },
+    {
+        "whisper_chunk": "Nope No okay How about joint pains or muscle aches elsewhere No I haven't really felt any pain in any other joints so far Okay And any weight loss recently No No okay How about",
+        "gt_chunk": "P: No.\n\nD: No, OK. How about joint pains or muscle aches elsewhere?\n\nP: Uhm, no, I haven't really felt any other pain in any other joint so far.\n\nD: OK. And any weight loss recently?\n\nP: No. \n\nD: No, OK. How about"
+    },
+    {
+        "whisper_chunk": "fevers or chills No fevers or chills No fevers or chills Okay How about rashes No No And changes in your vision hearing smell or taste Nope How about coughing wheezing or shortness of breath Nope Chest pain heart palpitations",
+        "gt_chunk": "D: fevers or chills?\n\nP: Uh, no fevers or chills.\n\nD: No fevers or chills, OK. How about rashes?\n\nP: No.\n\nD: And changes in your vision, hearing, smell or taste?\n\nP: Nope. \n\nD: Uhm how about coughing, wheezing or shortness of breath?\n\nP: Nope.\n\nD: Uhm, chest pain, heart palpitations"
+    },
+    {
+        "whisper_chunk": "or fainting Nope Changes in your bowel movements Nope Changes in your urinating Nope Okay And then are you otherwise healthy or do you have any past medical conditions So I do have a prior history of hypertension",
+        "gt_chunk": "D: or fainting?\n\nP: No.\n\nD: Changes in your bowel movements?\n\nP: Nope.\n\nD: Uh, changes in your urinating?\n\nP: Uh, no.\n\nD: OK. And then are you otherwise healthy or do you have any past medical conditions?\n\nP: Uhm, so I do have a prior history of hypertension"
+    },
+    {
+        "whisper_chunk": "as well as high cholesterol type 2 diabetes and also a bit more on the overweight side Okay Are you taking any medications for all of this Yeah so blood pressure I'm taking this medication called Talmisartan",
+        "gt_chunk": "P: as well as high cholesterol, diabetes, type 2 diabetes and also a bit more on the overweight side.\n\nD: OK, uhm, are you taking any medications for all of this?\n\nP: Yeah, so blood pressure, I'm taking this medication called Telmisartan"
+    },
+    {
+        "whisper_chunk": "And then for blood pressure I'm taking Metformin Sorry not blood pressure For diabetes I'm taking Metformin Okay And then for the cholesterol I'm taking this medication called Torvastatin Okay All right And do you have any allergies No allergies",
+        "gt_chunk": "P: And then for blood pressure, I'm taking uh, metformin. Sorry, not blood pressure, for diabetes I'm taking metformin.\n\nD: OK.\n\nP: And then for the cholesterol I'm taking, and this medication, called Atorvastatin.\n\nD: OK. Alright, and do you have any allergies?\n\nP: No allergies"
+    },
+    {
+        "whisper_chunk": "No allergies How about immunizations are you up to date with them Yeah as far as I know Okay that's good How about family history of musculoskeletal issues Not that I know of no No okay And then how about lung",
+        "gt_chunk": "D: No allergies. And how about immunizations? Are you up to date with them?\n\nP: Yeah, as far as I know.\n\nD: OK, that's good. How about family history of musculoskeletal issues?\n\nP: Not that I know of, no.\n\nD: No, OK. Then how about "
+    },
+    {
+        "whisper_chunk": "or heart conditions No I think my father maybe he had some heart issues He did have a heart attack in his let's see like in his 70s In his 70s Okay Okay All right And how about autoimmune conditions",
+        "gt_chunk": "D: or heart conditions?\n\nP: No. I I think my father, maybe he had some heart issues. He did have a heart attack in his, let's see, like in the 70s.\n\nD: In his 70s, OK. OK, and then alright, and how about autoimmune conditions"
+    },
+    {
+        "whisper_chunk": "I don't think so I can't recall any autoimmune condition Okay And do you smoke Yeah I used to smoke probably up until when I was like 65 or something So probably for 40 years of my life Okay how much did you use to smoke Probably",
+        "gt_chunk": "P: I don't think so. Uh, I can't, I can't recall any autoimmune condition.\n\nD: OK, an and do you smoke?\n\nP: Yeah, I used to smoke a probably up until when I was like 65 or something. So, probably for 40 years of my life.\n\nD: OK, how much did you used to smoke?\n\nP: Probably"
+    },
+    {
+        "whisper_chunk": "a pack a day A pack a day okay Well congrats for quitting I'm sure that wasn't hard I mean sorry I'm sure that was hard Yeah so that's good And do you consume marijuana No No okay How about other recreational drugs No no other recreational drugs Okay that's good",
+        "gt_chunk": "P: a pack a day pack a day.\n\nD: OK, uhm well, congrats for quitting. I'm sure that wasn't hard. I mean sorry, I'm sure that was hard. Uhm, yeah, so that's good. And have you, do you consume marijuana? \n\nP: No.\n\nD: Go to other recreational drugs?\n\nP: No. No other recreational drugs.\n\nD: OK, that's good"
+    },
+    {
+        "whisper_chunk": "Do you drink alcohol Nope not anymore I used to probably drink some wine here and there but I've stopped drinking alcohol too Okay And who do you live with right now and where do you live Right now I live with my wife and we live in a small condominium",
+        "gt_chunk": "D: Do you drink alcohol?\n\nP: Uh, nope, not anymore. I used to probably drink some wine here and there, but I've stopped drinking alcohol too.\n\nD: OK. And who do you live with right now? And where do you live?\n\nP: Right now, I live with my wife and we live in a small condominium"
+    },
+    {
+        "whisper_chunk": "Okay All right and then any recent sick contacts No No okay How about travel anywhere No No okay that's good And now I'm just going to get you to do the physical exam part of this interview with me Is that okay Yeah Okay so",
+        "gt_chunk": "D: alright, and then any recent sick contacts?\n\nP: No. \n\nD: No, OK, how about uhm, uh travel anywhere?\n\nP: No.\n\nD: No, OK, that's good. And now I'm just going to get you to do the physical exam part of this interview with me, is that OK?\n\nP: Yeah.\n\nD: OK, so"
+    },
+    {
+        "whisper_chunk": "we'll take a look at if you can if you have a mirror we'll take a look at both hips first Do you notice any redness or swelling on those hips No not really No okay How about any atrophy deformities or skin changes No No okay And then how about on your knees Do you see any redness or swelling there",
+        "gt_chunk": "D: we'll take a look at, if you can, if you have a mirror, we'll take a look at both hips first. Do you notice any redness or swelling on those hips?\n\nP: No, not really.\n\nD: No, OK. How about any atrophy, deformities, or skin changes?\n\nP: No.\n\nD: No, OK. And then how about on your knees? Do you see any redness or swelling there"
+    },
+    {
+        "whisper_chunk": "Not really no No any atrophy deformity or skin changes there No No okay I'm going to get you to palpate your hip bones Does that hurt No not really Okay how about when you do that to your knees The knee I can feel a little bit of I would say it's more of",
+        "gt_chunk": "P: Not really, no.\n\nD: No. Any atrophy, deformity, or skin changes there?\n\nP: Uh, no.\n\nD: No, OK. I'm gonna get you to palpate your hipbones. Does that hurt?\n\nP: No, not really. \n\nD: OK, how about when you do that to your knees?\n\nP: Uh, the knee I can feel a little bit of I would say it's more of"
+    },
+    {
+        "whisper_chunk": "a discomfort than tenderness Okay so some discomfort on the patella palpation All right and when you palpate those areas do you feel like there's a grating sensation or does it feel warm No No okay",
+        "gt_chunk": "P: a discomfort then tenderness.\n\nD: OK, so some discomfort on the patella palpation. Uhm, alright and then when you palpate those areas, do you feel like there is a grading sensation? How, does it feel warm?\n\nP: No. \n\nD: No,"
+    },
+    {
+        "whisper_chunk": "And then I'm going to get you to can you flex your hips all the way So bend so from a sitting position stand up first Does it hurt when you extend your hips like that Not right now I think I'm pretty my hips are pretty well rested right now but there is still a little bit of stiffness Okay Okay so some stiffness",
+        "gt_chunk": "D: And then I'm gonna get you to, can you flex your hips all the way so bend so from a sitting position stand up first? Does it hurt when you extend your hips like that?\n\nP: Not right now. I think, I'm pretty sure my hips are pretty well rested right now, but there is still a little bit of stiffness. \n\nD: OK. OK, so some stiffness"
+    },
+    {
+        "whisper_chunk": "on hip extension How about when you bend your hips all the way Yeah that I can't really go down that far But yeah even bending as much as I can there is some discomfort there Okay so some discomfort and some pain on hip flexion as well as limited",
+        "gt_chunk": "D: on hip extension. How about when you bend your hips all the way?\n\nP: Yeah, that's a I can't really go down that far. But yeah, even bending, as much as I can, there is some discomfort there.\n\nD: OK, so some discomfort and some pain on hip flexion as well as limited"
+    },
+    {
+        "whisper_chunk": "range of motion Okay all right And when you do both of those do you hear any like what's called a crepitus or like a grating sensation where you feel like bone maybe hitting bone No not really No okay All right And I'm going to get you to extend",
+        "gt_chunk": "D: range of motion. \n\nP: Mhmm.\n\nD: OK. Alright, and when you do both of those, do you hear any like what's called a crepitus or like a grating sensation where you feel like bone maybe hitting bone?\n\nP: No, not really.\n\nD: No, OK. Alright, and I'm going to get you to, uh, extend"
+    },
+    {
+        "whisper_chunk": "your knees so straighten it out Yeah does that hurt Yeah a little stiffness in my knees And I feel like I feel more of the grating sound in my knees Okay okay And then how about when you bend your knees all the way backwards You can do one at a time Yeah",
+        "gt_chunk": "D: your knee, so straighten it out. Yeah, does that hurt?\n\nP: Uhm, yeah, a little stiffness in my knees. I feel like I feel more of the grating sound in my knees. \n\nD: OK, OK. And then how about when you bend your knees all the way backwards? You can do one at a time.\n\nP: Uh"
+    },
+    {
+        "whisper_chunk": "I definitely feel some discomfort there as well Yeah okay All right And how about when you point your toes to the ceiling No that's fine I can do that And then how about when you point your toes to the ground Yeah no issues Okay so no pain or limited range of motion with plantar flexion or dorsiflexion Okay",
+        "gt_chunk": "P: I definitely feel some discomfort there as well.\n\nD: Yeah, OK. Alright, and how about when you point your toes to the ceiling?\n\nP: No, that's fine. I can do that.\n\nD: And then how about when you point your toes to the ground?\n\nP: Yeah no issues.\n\nD: OK, so no pain or limited range of motion with plantar flexion or dorsiflexion. OK"
+    },
+    {
+        "whisper_chunk": "so those were all the tests that I want to do with you today Did you have any questions or concerns No not really No okay So it sounds like what you may have is something called arthritis which basically happens when the cushions at the ends of your bones and your joints",
+        "gt_chunk": "D: so those were all the test that I want to do with you today. Did you have any questions or concerns?\n\nP: Uh, no, not really.\n\nD: No, OK, uhm, so it sounds like what you may have is something called arthritis, which basically happens, uhm, when the cushions at the ends of your bones and your joints"
+    },
+    {
+        "whisper_chunk": "kind of degenerate over the years And so bone can eventually rub on bone which causes like that degrading sensation and causes the pain And it happens in old age and happens with wear and tear So to diagnose it we did the physical exam We can also get an X ray of your hips",
+        "gt_chunk": "D: kind of degenerate over the years, and so bone can eventually rub on bone, which causes like the grading sensation and causes the pain. Uhm, and it's it happens in old age, it happens with wear and tear so to diagnose it, we we'll, yeah, we did the physical exam. We can also get an x-ray of your hips"
+    },
+    {
+        "whisper_chunk": "and knees which can have some findings that align with osteoarthritis And basically for now we'll try to manage it conservatively So you can take NSAIDs like ibuprofen for the pain or acetaminophen for the pain We'll also refer you to physiotherapy to strengthen those muscles around your joint and to increase flexibility and reduce that pain",
+        "gt_chunk": "D: and knees which can have some findings that align with osteoarthritis and basically for now we'll try to manage it conservatively so you can take and sets like ibuprofen for the pain or acetaminophen for the pain. We'll also refer you to physiotherapy to strengthen those muscles around your joint and to increase flexibility and reduce that pain"
+    },
+    {
+        "whisper_chunk": "And another thing that may be worth considering is occupational therapy because they can help you find ways to do everyday tasks without putting too much stress on an already painful joint And if these things don't work in the future we can also discuss things like steroid injections or joint replacement Does that sound like a good plan Yeah that sounds great Thank you so much Okay yeah no worries",
+        "gt_chunk": "D: and another thing that may be worth considering is occupational therapy because they can help you find ways to do everyday tasks without putting too much stress on an already painful joint. And if these things don't work in the future, we can also discuss things like steroid injections or joint replacement. Does that sound like a good plan?\n\nP:: Yeah, that sounds great, thank you so much.\n\nD: OK yeah, no worries"
+    }
+]
