@@ -1,0 +1,58 @@
+[
+    {
+        "whisper_chunk": "How may I help you today I've been having like nasal congestion and I've been sneezing a lot over these last couple of days And I've also had a sore throat Oh when did that start So the sore throat started like two days ago Hmm OK and since then you've developed this nasal congestion and you've been sneezing as well Yeah",
+        "gt_chunk": "D: How may I help you today?\n\nP: I've been having, uhh, like, nasal congestion and I've been sneezing a lot, over these last couple of days, and I've also been having a sore throat.\n\nD: Oh no, when did that start?\n\nP: So the store throat started like 2 days ago.\n\nD: OK, and since then you've developed this nasal congestion and sneezing as well?\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "exactly It started a bit afterwards OK Yeah All right And do you have any other symptoms No I don't I don't think so OK do you have any difficulty swallowing It yeah it has been a bit sore when eating food but it hasn't been so painful to prevent me from eating OK do you have a cough No I haven't had a cough OK",
+        "gt_chunk": "P: exactly, it started a bit afterwards or around the same time.\n\nD: Yeah, alright and have you have any other symptoms? Do you have a fever?\n\nP: Uh, no, I don't think so.\n\nD: OK, do you have any difficulties swallowing?\n\nP: Uh, Yeah, it has been a bit sore when eating food, but it hasn't been so painful to prevent me from eating.\n\nD: OK, do you have a cough?\n\nP: No, I haven't had a cough. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and do you have a runny nose Any discharge Yeah there's been a little bit of watery discharge My nose has been running Any ear pain or any pain in your cheeks or your head when you're bending over Anything like that Yeah now that you say it Yeah when I was bending over to put",
+        "gt_chunk": "D: and do you have a runny nose, any discharge? \n\nP: Uh, Yeah, there's been a little bit of a like watery discharge, my nose has been running.\n\nD: Any ear pain or any pain in your cheeks or your head when you're bending over, anything like that?\n\nP: Uh, yeah, now that you say it, yeah, when I was bending over to put"
+    },
+    {
+        "whisper_chunk": "my shoes on it felt just a bit of pressure on the front of my face OK and you haven't been feeling feverish or having any chills right No OK any fatigue malaise any aches or pains I know I felt OK Yeah OK That way that way Yeah Any rashes No No OK Have you been up to date with your immunizations",
+        "gt_chunk": "P: my shoes on, I felt just a bit of pressure on the front of my face.\n\nD: OK, and you haven't been feeling feverish or having having any chills, right?\n\nP: No \n\nD: OK, any fatigue, malaise, any aches or pains?\n\nP: Uh. no, I felt OK, that way, yeah.\n\nD: Any rashes?\n\nP: Uh, no. \n\nD: No, OK, Have you been up to date with your immunizations"
+    },
+    {
+        "whisper_chunk": "I have yes All right And just a couple more questions just to see if anything else is going on Do you have a headache at all Yeah I've had a headache since this morning It's pretty mild It feels like my head is squeezing I think I've had headaches like this before If I don't sleep well or I'm dehydrated Yeah",
+        "gt_chunk": "P: I have yes.\n\nD: Alright, and just have a couple more questions just to see if anything else is going on. Do you have a headache at all?\n\nP: Uh, yeah, I've had a headache, since this morning. It's pretty mild. It feels like my head is squeezing. I think, uh, I've had headaches like this before, if I don't sleep well or dehydrated.\n\n"
+    },
+    {
+        "whisper_chunk": "Are you more stressed out than usual Do you have exams or anything going on right now No school's been pretty good We've been doing a lot of stuff online so yeah that's been good OK do you find that your eyes are runny or red or anything like that No I haven't noticed anything like that OK all right And any difficulties breathing No Any chest pain No chest pain OK any pain in your belly or any problems with your bowel movements No",
+        "gt_chunk": "D: Are you more stressed out than usual? Do you have exams or anything going on right now?\n\nP: No, schools been pretty good. We've been doing a lot of stuff online, so uh, yeah that's been good.\n\nD: OK, any, uh, do you find that your eyes are runny or red or anything like that?\n\nP: Uh, no, I haven't noticed anything like that.\n\nD: OK, alright and any difficulties breathing?\n\nP: No. \n\nD: Any chest pain? \n\nP: No chest pain.\n\nD: Ok, any pain in your belly or any problems with your bowel movements?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "OK Any urinary symptoms No OK all right good So can you tell me if you have any medical conditions No I had dermatitis when I was a kid but I haven't had any issues since I used I remember using some creams for that but I haven't needed to use them recently OK and any medications that you're taking",
+        "gt_chunk": "D: OK, any urinary symptoms?\n\nP: No\n\nD: OK, alright good. So can you tell me if you have any medical conditions?\n\nP: Uh, no, I had dermatitis when I was a kid but I haven't had any issues since. I remember using some creams for that but I haven't needed to use them recently.\n\nD: OK, and any medications that you're taking"
+    },
+    {
+        "whisper_chunk": "currently including over the counter pills I don't take anything currently OK did you take any medications to reduce the symptoms that you're having the headache or the sore throat Oh sorry yeah I used some Advil this morning I think it was 400 milligrams OK and do you have any allergies Yeah to cats Have you been around a cat recently No we used",
+        "gt_chunk": "D: currently, including over the counter pills?\n\nP: I don't take anything currently.\n\nD: OK, did you take any medications, to reduce the symptoms that you're having, the headache or the sore throat?\n\nP: Oh sorry, yeah I used some Advil this morning. I think it was 400 milligrams.\n\nD: OK and do you have any allergies?\n\nP: Um, yeah, to cats.\n\nD: Have you been around a cat recently?\n\nP: No, we used"
+    },
+    {
+        "whisper_chunk": "to have a cat but unfortunately we were unable to keep it because the allergies were so bad Yeah do you have any environmental allergies at all Yeah sometimes in the spring or fall I can get itchy eyes and a runny nose So that's why I didn't think much about the runny nose at first but with the sore throat and been sneezing more I thought to come in Yeah",
+        "gt_chunk": "P: to have a cat, but unfortunately we were unable to keep it because allergies were so bad.\n\nD: Yeah, do you have any environmental allergies at all? \n\nP: Uhm, yeah sometimes in the spring or fall I can get like itchy eyes and a runny nose, so that's why I didn't think much about the runny nose at first, but with a sore throat and, been sneezing more, I thought to come in. \n\nD: Yeah"
+    },
+    {
+        "whisper_chunk": "OK so in terms of your general information do you live alone or do you live with your parents or anyone else Yeah I live with my mom dad and a younger brother All right and are you currently working or going to school Yeah I'm finishing up grade eight",
+        "gt_chunk": "D: OK. So in terms of your, uh, so general information. Do you live alone or do you live with your parents or anyone else?\n\nP: Yeah, I live with my mom, dad and a younger brother.\n\nD: Alright, and are you currently working or going to school?\n\nP: Yeah, I'm finishing up Grade"
+    },
+    {
+        "whisper_chunk": "and we're doing the courses online OK great So have you spent any time outdoors or spent time with people who you think might be sick Well I've played some basketball outside with one of the neighbors but I don't think he's been sick OK all right And have you traveled anywhere recently No I've been at home",
+        "gt_chunk": "P: and we're doing the courses online.\n\nD: OK, great so, have you spent any time outdoors or spent any time with people who you think might be sick?\n\nP: Well, I've played some, like, basketball outside with one of the neighbors, but I don't think he's been sick.\n\nD: OK, alright, and have you traveled anywhere recently?\n\nP: No, I've been at home"
+    },
+    {
+        "whisper_chunk": "OK all right And do you have you had these symptoms any time recently before Have you No not that I can think of No Have you been tested for COVID any time in the recent past No I haven't Have you taken any antibiotics recently No No OK All right Well it sounds like you're probably having a just",
+        "gt_chunk": "D: , alright, and do you, uhm, have you had these symptoms anytime recently before?\n\nP: No, not that I can think of.\n\nD: No, have you been tested for covid anytime in the recent past?\n\nP: No, I haven't.\n\nD: Have you taken any antibiotics recently?\n\nP: No. \n\nD: OK, alright well it sounds like you're probably having just"
+    },
+    {
+        "whisper_chunk": "a common cold likely viral So I think that it's only been two days Have your symptoms gotten better or worse in the past couple of days They've gotten worse since it started Yeah OK well it's only been two days so far Let's just keep an eye on your symptoms and see how you're doing It might also be a good idea just to get a COVID swab done And if your symptoms continue to worsen give me a call again and we can talk about it a little bit more",
+        "gt_chunk": "D: a common cold, likely viral. So, and seeing that it's only been two days, have your symptoms gotten better or worse in the past couple of days?\n\nP: They've gotten worse since it's started.\n\nD: Yeah, OK, well, it's only been two days so far, let's just keep an eye on your symptoms and see how you're doing. It might also be a good idea just to get a covid swab done, and if your symptoms continue to worsen, give me a call again and we can talk about it a little bit more"
+    },
+    {
+        "whisper_chunk": "and see if maybe a bacterial infection or if there's something else that's going on You don't have any difficulties breathing do you No I don't All right OK All right We'll do a physical exam and then try a little bit more after OK thank you",
+        "gt_chunk": "D: and see if maybe a bacterial infection or if there's something else that's going on. You don't have any difficulties breathing, do you?\n\nP: No, I don't.\n\nD: Alright, OK, alright umm, we'll do a physical exam and then chat a little bit more after.\n\nP: OK, thank you"
+    }
+]

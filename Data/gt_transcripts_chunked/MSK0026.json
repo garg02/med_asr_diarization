@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "How may I help you I'm here because my right knee is very painful It looks kind of swollen and it's also a little bit warm So I'm just worried I'm worried about it and I was wondering if you could look at it Yeah certainly So where are you feeling the pain exactly So it's right in the middle of",
+        "gt_chunk": "D: How may I help you?\n\nP: I'm I'm here because my right knee is very painful. It looks kind of swollen and it's it's also a little bit warm so I'm just worried, I'm worried about it and I was wondering if you could look at it.\n\nD: Yeah, certainly, um. So where are you feeling the the pain exactly?\n\nP: So it's where, so right in the middle of"
+    },
+    {
+        "whisper_chunk": "my knee so just below the big knee bone Okay so like underneath the kneecap like below that Yeah just a little bit below Okay so slightly below the patella sounds like somewhere in the region of the kneecap Okay and when did this pain start It started about two weeks ago Okay two weeks ago when the pain started was there any trauma or",
+        "gt_chunk": "P: my knee. So just below the bone that, the big knee bone.\n\nD: OK, so like underneath the kneecap, like below that?\n\nP: Yeah just just a little bit below.\n\nD: OK, so slightly below the Patella. Sounds like somewhere in the region of the tibial through tuberosity. \n\nP: Right.\n\nD: OK, and when did this pain start?\n\nP: It started about two weeks ago.\n\nD: OK, two weeks ago when the pain started, was there any trauma or"
+    },
+    {
+        "whisper_chunk": "could you remember any movement that caused the pain Nothing like that but I recently found out that I had some osteoarthritis on my right knee whenever I was doing my gardening work and I think something may have happened when I was doing that Something maybe maybe I put too much strain on it Okay I see and",
+        "gt_chunk": "D: could you remember any movement that that caused the pain? \n\nP: Nothing like that, but I recently found out that I had some osteoarthritis on my left knee, so I was trying to put more pressure on my right knee one whenever I was doing like gardening work um and I think something something may have happened when I was doing that, something maybe, maybe I put too much strain on it.\n\nD: OK, I see an"
+    },
+    {
+        "whisper_chunk": "like are you doing a lot of kneeling during the gardening work I am Okay and how long has the pain been going on for Has it been constant over these two weeks Yes it has been Okay and how would you describe the pain Is it sharp burning achy I would say mostly achy but it can be sharp Okay and do you feel the pain radiate anywhere",
+        "gt_chunk": "D: like are you doing a lot of kneeling on on or during the gardening work?\n\nP: I am. \n\nD: OK. Um, and. How long has the pain been going on for, has it been constant over these two weeks?\n\nP: Yes, it has been.\n\nD: OK, and how would you describe the pain, is it sharp, burning, achy?\n\nP: I would say mostly achy, but it can be sharp.\n\nD: OK, and do you feel the pain radiate anywhere"
+    },
+    {
+        "whisper_chunk": "else No just it's pretty local Okay have you tried anything to make the pain better I tried some topical like where those like ice and fire gels those seem to help temporarily but the pain comes back Okay and have you has anything made the pain worse I guess like when I kneel down on it it gets painful or",
+        "gt_chunk": "D: else?\n\nP: No, just it's pretty local.\n\nD: OK, have you tried anything to make the pain better?\n\nP: I tried some topical like what are those like ice and fire gels. Those seem to help temporarily, but the pain comes back.\n\nD: OK. And. Have you tried, has anything made the pain worse?\n\nP: I guess like when I kneel down on it, it gets painful or"
+    },
+    {
+        "whisper_chunk": "if I touch it or palpate it it gets painful If I'm flexing my knee too much that hurts as well Kind of keeping it straight and not touching it makes it feel better Okay and what would you say the severity of the pain is with 10 being the worst pain you've ever felt and one being the least pain",
+        "gt_chunk": "P: If I touch it or palpate it, I guess painful if I'm I'm flexing my knee too much that hurts as well. Kind of keeping it straight and not touching it makes it feel better.\n\nD: OK, and. What would you say the severity of the pain is with 10 being the worst pain you've ever felt and one being the least pain"
+    },
+    {
+        "whisper_chunk": "I'd give it about a six Okay and have you had a pain like this in your right knee before No nothing like this I have osteoarthritis in my left knee but it feels different Okay and have you had any fevers or chills No Okay and how about any night sweats No Okay and have you had",
+        "gt_chunk": "P: I give it about a 6.\n\nD: OK, and have you had a pain like this in your right knee before?\n\nP: No, nothing like this and I have osteoarthritis in my left knee but it feels different.\n\nD: OK, and um. OK, and have you had any fevers or chills?\n\nP: Uhm, no.\n\nD: OK, and how about any night sweats?\n\nP: No. \n\nD: OK, and have you had"
+    },
+    {
+        "whisper_chunk": "any unexpected weight loss over the last several months No Have you had any headaches No Have you had any changes to your senses like vision or hearing No Any changes to your sense of smell or taste No Okay have you had any sore throat or a cough No All right have you had any shortness of breath No Have you had any wheezing No Have you had any chest pain No Have you had any lightheadedness or dizziness No Have you had any heart",
+        "gt_chunk": "D: any unexpected weight loss over the last several months?\n\nP: No.\n\nD: Have you had any headaches?\n\nP: No.\n\nD: Have you had any changes to your senses like vision or hearing?\n\nP: No \n\nD: Any changes to your sense of smell or taste?\n\nP: No.\n\nD: OK, have you had any sore throat or cough?\n\nP: No. \n\nD: Alright, have you had any shortness of breath? \n\nP: No.\n\nD: Have you had any wheezing?\n\nP: No.\n\nD: Have you had any chest pain? \n\nP: No.\n\nD: Had any lightheadedness or dizziness?\n\nP: Um no.\n\nD: Have you had any heart"
+    },
+    {
+        "whisper_chunk": "palpitations No Okay and have you had any nausea or vomiting No Have you had any abdominal pain No Have you had any diarrhea or constipation or blood in the stool No Have you had any pain with urination or frequency with urination No Okay and have you had any like muscle aches or joint pains anywhere else No Okay and have you had any neurological symptoms such as numbness",
+        "gt_chunk": "D: palpitations? \n\nP: No.\n\nD: OK um an have you had any nausea or vomiting?\n\nP: No.\n\nD: Have you had any abdominal pain?\n\nP: No. \n\nD: Have you had any diarrhea or constipation, or blood in the stool? \n\nP: No.\n\nD: Have you had any pain with urination or frequency with urination? \n\nP: No.\n\nD: OK, and have you had any like muscle aches or joint pains anywhere else?\n\nP: No.\n\nD: OK, and have you had any neurological symptoms such as numbness"
+    },
+    {
+        "whisper_chunk": "or tingling or reduced sensation No Okay and how has your energy been recently Have you had any fatigue No not really It's been the same Okay and in the past have you been diagnosed with any medical conditions I have class 2 obesity and then osteoarthritis in my left knee as well as high blood pressure I see and do",
+        "gt_chunk": "D: or tingling or reduced sensation?\n\nP: No.\n\nD: OK, and how is your energy been recently have you had any fatigue?\n\nP: No, not really. It's been the same.\n\nD: OK, and in the past have you been diagnosed with any medical conditions?\n\nP: Uhm I have Class 2 obesity. And then also arthritis in my left knee. As well as high blood pressure.\n\nD: I see and. Do"
+    },
+    {
+        "whisper_chunk": "you take any medications currently I'm on Ramipril and I take some ibuprofen sometimes for the osteoarthritis in my left knee Okay and do you have any allergies to medications No Have you had any surgeries before Nope Or have you had any hospitalizations for any reason No Okay and have you been pregnant in the past",
+        "gt_chunk": "D: you take any medications?\n\nP: Currently I'm on Ramipril and I take some ibuprofen sometimes for the osteoarthritis in my left knee.\n\nD: OK and, do you have any allergies to medications?\n\nP: No.\n\nD: Have you had any surgeries before?\n\nP: Nope.\n\nD: Or have you had any hospitalizations for any reason?\n\nP: No. \n\nD: OK. And. Have you been pregnant in the past"
+    },
+    {
+        "whisper_chunk": "I have one child She was born through C section Okay and are you currently sexually active I am Okay could you tell me about your partner or partners Yeah so just with my husband of 10 years Okay any concerns for a sexually transmitted infection like vaginal discharge or pain or itchiness No Okay and could you tell me a",
+        "gt_chunk": "P: I have one, one child, she was born through c-section.\n\nD: And are you currently sexually active?\n\nP: I am. \n\nD: OK, could you tell me about your partner or partners?\n\nP: Yeah, so just with my husband of 10 years.\n\nD: OK, any concerns for a sexually transmitted infection like vaginal discharge or or pain or itchiness?\n\nP: No.\n\nD: OK. And could you tell me a"
+    },
+    {
+        "whisper_chunk": "little bit about your living situation currently like who you're living with and whereabouts I live in downtown London I live in a house with my husband and my daughter Okay and have you been around anybody who's been sick recently No And have you traveled anywhere recently No Okay are you currently working right now Yes I am Okay and what do you do I",
+        "gt_chunk": "D: little bit about your living situation currently, like who you're living with an whereabouts?\n\nP: Um I live in downtown London I live in a house with my husband and my daughter.\n\nD: OK. And have you been around anybody who's been sick recently?\n\nP: No.\n\nD: And have you traveled anywhere recently? \n\nP: No.\n\nD: OK, are you currently working right now?\n\nP: I yes I am.\n\nD: OK, well then what what do you do?\n\nP: I"
+    },
+    {
+        "whisper_chunk": "work as a full time gardener for a landscaping company Okay I see So you're spending a lot of time doing kind of like repetitive kneeling type movements to do your job Yes that's right Okay and do you smoke cigarettes I don't All right and do you drink alcohol I'll have a glass of wine every other night Okay and",
+        "gt_chunk": "P: work as a full time gardener for a landscaping company. \n\nD: OK, I see. So you're spending a lot of time doing kind of like repetitive kneeling type movements to do your job?\n\nP: Yes, that's right.\n\nD: OK And do you smoke cigarettes? \n\nP: I don't.\n\nD: Alright, and do you drink alcohol?\n\nP: I'll have a glass of wine every other night.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "do you use any recreational drugs No I don't Have you used anything like that in the past No Like IV drugs Okay And in the family is there a history of any musculoskeletal or neurological conditions No Okay and so next I just wanted to do the physical exam portion and ask you to have a look at the knee first And let me know if you're having any swelling redness",
+        "gt_chunk": "D: do you use any recreational drugs?\n\nP: No, I don't.\n\nD: Have you used anything like that in the in the past.\n\nP: No\n\nD: like IV drugs, no, OK. And in the family or is there a history of any musculoskeletal or neurological conditions? \n\nP: No. \n\nD: OK. So next I just wanted to do the physical exam portion and ask you to have a look at the knee first and let me know if the if you're having any swelling, redness"
+    },
+    {
+        "whisper_chunk": "or warmth to the knee compared to the other side Sure Sorry so you are having swelling warmth and redness to the right knee Yes Okay and are you having pain to like palpation Is there a specific spot you can press on that causes a sharp pain So just below the kneecap area there's some swelling there And",
+        "gt_chunk": "D: or warmth to the knee compared to the other side.\n\nP: Sure.\n\nD: Sorry so you are having, having swelling, warmth and redness to the right knee?\n\nP: Yes.\n\nD: OK and are you having pain to like palpation is there a specific spot you can press on that causes a sharp pain?\n\nP: Um so just below that kneecap area there is some swelling there and"
+    },
+    {
+        "whisper_chunk": "when I press down on that swollen area it causes a bit of pain Okay and are you able to fully bend and straighten the knee I can do that but when I bend my knee it really hurts Okay and are you able to walk normally or do you have a limp I can walk normally It just hurts Okay",
+        "gt_chunk": "P: when I press down on that swollen area, it causes a bit of pain.\n\nD: OK. And are you able to fully bend, bend and straighten the knee?\n\nP: I can do that, but when I bend my knee it really hurts.\n\nD: OK. And are you able to walk normally or do you have a limp?\n\nP: Um I can walk normally, it just hurts.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "so that was everything that I wanted to ask today on the history and physical Was there anything that maybe I forgot about you wanted to add No I don't think so Okay so right now it's sounding like this could possibly be a knee bursitis or a pre patellar or sorry an infrapatellar",
+        "gt_chunk": "D: So that was a everything that I wanted to ask today on the history and and physical. Was there anything? That you maybe I forgot about you wanted to add? \n\nP: No, I don't think so.\n\nD: OK, so right now it's sounding like this could possibly be a knee Bursitis. Or Prepatellar, or sorry, infra patellar"
+    },
+    {
+        "whisper_chunk": "bursitis or a pre patellar bursitis which are the kind of the more common types One thing to make sure that we rule out would be a septic bursitis Although you're not having any fevers or chills so that makes it a little bit less likely But if your symptoms are getting worse and you're developing a fever and it's becoming even more painful then certainly we'll have to rule out an",
+        "gt_chunk": "D: bursitis or a prepatellar bursistis which are the kind of the more common types. One thing to make sure that we rule out would be a septic Bursitis. Although you're not having any fevers or chills so that makes it a little bit less likely.\n\nP: Mmmm\n\nD: But if your symptoms are getting worse and you're developing a fever, it's becoming even more painful then certainly will have to rule out"
+    },
+    {
+        "whisper_chunk": "infection And as well if things are not improving potentially a structural disease in the knee such as a meniscal injury or a ligamental injury from all of the kneeling and repetitive movements But right now I think it's mostly sounding like a knee bursitis Okay Okay and treatment for that will be activity",
+        "gt_chunk": "D: infection. And as well if things are not improving, potentially a structural disease and any, such as a meniscal injury, or like a ligamental injury from all of the like kneeling and and repetitive movements. But right now I think it's mostly sounding like a knee bursitis.\n\nP: OK.\n\nD: OK, and treatment for that will be activity"
+    },
+    {
+        "whisper_chunk": "modification as well as using things like NSAIDs and icing to help with the inflammation Okay that sounds good Thank you",
+        "gt_chunk": "D: modification as well as using things like as um NSAIDS and icing to help with um the inflammation. \n\nP: OK, that sounds good, thank you"
+    }
+]

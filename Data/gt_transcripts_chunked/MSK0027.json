@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "How may I help you Hi I'm here with my three year old daughter She's been holding her elbow awkwardly and she seems like she's in pain So I was just wondering if something happened to her elbow and if you can fix it Yeah for sure Okay so is she holding her arm against the wall In any particular position like with her elbow kind of flexed",
+        "gt_chunk": "D: How may I help you?\n\nP: Hi, I'm here with my 3 year old daughter and she's been holding her elbow awkwardly and um she seems like she's in pain and so I was just wondering if like something happened to her elbow and if you can fix it.\n\nD: Yeah for sure. OK so. Is she holding her arm, like any particular position, like with her elbow, kind of flexed"
+    },
+    {
+        "whisper_chunk": "or is her arm extended It seems kind of flexed She's holding it awkwardly She's not stretching it Okay And when did this start When did you first notice I noticed this yesterday Okay And has she been holding her arm kind of like this the whole time Yeah there's just like a slight bend to it It's not fully straightened It's not fully like fully flexed",
+        "gt_chunk": "D: or is her arm extended?\n\nP: It's it seems kind of flex is holding it awkwardly and she can't she she's not, she's not stretching it.\n\nD: OK, uhm. And when did this start, when did you first notice?\n\nP: I notice this yesterday.\n\nD: OK. And and I, had she been holding her, her arm, kind of like this the whole time?\n\nP:  Yeah, there's just like a slight bend to it. It's not fully straightened. It's not fully like fully flexed"
+    },
+    {
+        "whisper_chunk": "It's just kind of hanging at her side Okay And has there been anything that's made the pain worse No I don't think so I think no I think she's just been holding it awkwardly like that I'm assuming so it doesn't cause more pain Okay And is the pain sharp burning or achy I think it's sharp The sharp pain okay And does the pain radiate",
+        "gt_chunk": "P: It's just kind of hanging out her side.\n\nD: OK, um and. Has there been anything that's made the pain worse? \n\nP: Uhm no, I don't think so, I think. No, I think she she's just been holding it awkwardly like that I I'm assuming so it doesn't cause more pain.\n\nD: OK, and is the pain sharp, burning or achy?\n\nP: I think it's it's. It's sharp. \n\nD: A sharp pain, OK and does the pain radiate"
+    },
+    {
+        "whisper_chunk": "anywhere else like pain in the hand or wrist or pain up into the arm or shoulder I don't think so Okay And has there been like was there anything that happened around the time that you first noticed her holding her arm like this such as a fall or maybe like somebody pulling on her hand like swinging her from her arm or anything like that I know her father",
+        "gt_chunk": "D: anywhere else like pain in the hand or wrist, or pain up into the arm or shoulder?\n\nP: I don't think so.\n\nD: OK, and has there been like was there anything that happened around the time that you first noticed her holding her arm like this, such as a fall, or maybe like somebody pulling on on her hand like swinging her from her arm or anything like that?\n\nP: Um I know her father"
+    },
+    {
+        "whisper_chunk": "was swinging her arms yesterday They were playing in the park so maybe Okay so she was swinging from her arms yesterday Okay And has she talked about having any numbness or tingling No Okay And any muscle weakness that you've noticed No no muscle weakness Okay And has she had any fevers or chills",
+        "gt_chunk": "P: was swinging her arms yesterday, They were playing in the park, so maybe.\n\nD: OK, so just uh, she's swinging from arms yesterday, OK and. Has she talked about having any numbness or tingling? \n\nP: No.\n\nD: OK. And any muscle weakness that you've noticed?\n\nP: Ah no, no muscle weakness.\n\nD: OK. And has she had any?\n\nD: Fevers or chills"
+    },
+    {
+        "whisper_chunk": "No Okay And has she had any headaches No Has she had any sensory changes like any issues with vision or hearing No Any issues with sense of smell or taste No Has she had a cough or a sore throat No Okay Has she had any night sweats No And has she had any weight loss No Okay And has she had a runny nose or a sore throat No How about a cough or shortness of breath No Has she had",
+        "gt_chunk": "P: No.\n\nD: OK, and it has she had any headaches?\n\nP: No.\n\nD: Has she had any sensory changes like any issues with vision or hearing?\n\nP: Uhm no.\n\nD: any issues with sense of smell or taste?\n\nP: No.\n\nD: How she had a cough or sore throat.\n\nP: No.\n\nD: OK, has she had any night sweats?\n\nP: No. \n\nD: And has she had any weight loss?\n\nP: No. \n\nD: OK.  And you has she had a runny nose or sore throat? \n\nP: No.\n\nD: How about a cough or shortness of breath?\n\nP: No.\n\nD: Has she had"
+    },
+    {
+        "whisper_chunk": "any wheezing or chest pain No All right And any abdominal pain No Any nausea or vomiting No Any diarrhea constipation or blood in the stool No Any changes to her urinary patterns No Okay And has she had any appetite loss No And how has her energy been It's been the same She's just not doing as much because her arm is in pain Okay But no fatigue No I see Okay And how about",
+        "gt_chunk": "D: any wheezing or chest pain?\n\nP: No. \n\nD: Alright, and any abdominal pain?\n\nP: No.\n\nD: Any nausea or vomiting?\n\nP: No.\n\nD: any diarrhea, constipation, or blood in the stool?\n\nP: No.\n\nD: Any changes to her urinary patterns?\n\nP: Um no.\n\nD: OK, and as you had any appetite loss?\n\nP: No.\n\nD: How is your energy been?\n\nP: It's been the same she's just not doing as much because her arm is in pain.\n\nD: OK, but no fatigue?\n\nP: No. \n\nD: I see OK. And how about"
+    },
+    {
+        "whisper_chunk": "any memory loss or confusion No nothing like that Does she have any muscle aches or body pains or any joint pains anywhere else No Okay And how about skin changes such as rashes or any changes to her hair or nails No nothing like that Okay And in the past has she had any medical problems or has she been diagnosed with any medical conditions before No",
+        "gt_chunk": "D: any memory loss or confusion?\n\nP: No, nothing like that.\n\nD: Does she have any muscle aches or body pains or or any joint pains anywhere else?\n\nP: No.\n\nD: OK, and how about skin changes such as rashes or any changes to her hair or nails?\n\nP: No, nothing like that.\n\nD: OK. And in the past, has she had any medical problems or has she been diagnosed with any medical conditions before?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "she's been pretty healthy otherwise Okay Does she take any medications No Does she have any allergies No And has she been hospitalized for any reason or has she had any surgeries No Okay Any concerns for reaching developmental milestones such as walking talking and social interactions No No issues there yeah No problems Okay And then how about just growth and development Does she be getting taller and gaining",
+        "gt_chunk": "P: she's been pretty healthy otherwise.\n\nD: OK, does she take any medications?\n\nP: No.\n\nD: Did she have any allergies? \n\nP: No \n\nD: And has she been hospitalized for any reason or has she had any surgeries?\n\nP: No.\n\nD: OK, any concerns for reaching developmental milestones such as walking, talking and like social interactions.\n\nP: No. No issues there.\n\nD: No problems?\n\nP: Yeah.\n\nD: OK and then how about like just growth and and development? Is she getting taller and I'm gaining"
+    },
+    {
+        "whisper_chunk": "weight Yeah all of that's been pretty good Okay Oh that's good And were there any concerns with the pregnancy with her Any like gestational diabetes high blood pressure or infections No everything went smoothly Okay Was she at term or was she preterm She was at term She was like 37 and a half weeks or something like that Okay And was it a vaginal delivery Was it a C section It was a vaginal delivery Okay And was there any reason for her to",
+        "gt_chunk": "D: weight?\n\nP: Yeah like that's been pretty good.\n\nD: OK, well that's good and were there any concerns with the pregnancy with her? Any like gestational diabetes, high blood pressure or infections?\n\nP: No everything went smoothly.\n\nD: OK, was she at term or where she pre term?\n\nP: She was at term. She was like a 37 1/2 weeks or something like that. \n\nD: OK, And was it vaginal delivery or c-section?\n\nP: It was vaginal. \n\nD: OK, and was there any reason for her to"
+    },
+    {
+        "whisper_chunk": "stay in hospital afterwards No Okay And can you tell me a little bit about the living situation currently Like who's the primary caregiver for her and like who she's living with and whereabouts She's living with both her parents so myself as well as her dad And she has a seven year old brother and we live in a house just outside of London",
+        "gt_chunk": "D: stay in hospital afterwards? \n\nP: No. \n\nD: OK. And can you tell me a little bit about the living situation currently like who is the primary caregiver for her and like who she who she's living with then whereabouts?\n\nP: And she's living with both her parents and myself as well as her dad. And she has a 7 year old brother and we live in a house just outside of London"
+    },
+    {
+        "whisper_chunk": "I see Okay And is she going to daycare right now or anything like that No she's at home with me Okay Has she been around anybody who's been sick No And have you traveled anywhere No Okay And any concern for like physical or emotional violence in the home No nothing like that Okay And is there anybody who smokes in the home No no",
+        "gt_chunk": "D: I see OK and is she going to daycare right now or anything like that?\n\nP: Umm no she's she's at home with me.\n\nD: OK, she been around anybody who's been sick, \n\nP: No.\n\nD: And have you traveled anywhere?\n\nP: No.\n\nD: OK, an any concern for like physical or emotional violence in the home?\n\nP: No nothing like that.\n\nD: OK, and is there anybody who smokes in the home?\n\nP: Uhm no"
+    },
+    {
+        "whisper_chunk": "one smokes at home Okay And are there any musculoskeletal or neurological conditions that run in the family No How about any heart or lung conditions No Okay So I'll ask you to just have a look at her elbow now and let me know if you're seeing any strain swelling or redness Okay So the elbows",
+        "gt_chunk": "P: one smokes at home.\n\nD: OK. And are there any musculoskeletal or neurological conditions that run in the family? \n\nP: Uhm no.\n\nD: How about any heart or lung conditions?\n\nP: No.\n\nD: OK, so I ask you to just have a look at her elbow now and.\n\nP: Sure.\n\nD: Let me know the if you're seeing any swelling or redness?\n\nP: OK. And so the elbows"
+    },
+    {
+        "whisper_chunk": "look fine Neither elbow appears red or swollen Okay And are you seeing any muscle atrophy or any joint deformity or malalignment No I don't see that I also actually it might be slightly it looks a little bit awkward the way she's holding it so I can't tell if it's misaligned Okay And any skin changes over the elbow No All right",
+        "gt_chunk": "P: look fine, neither elbow appears red or swollen.\n\nD: OK, and. Are you seeing any muscle atrophy or any joint deformity or or malalignment?\n\nP: No, I don't see that. I also actually it might be slightly. It looks a little bit awkward the way she's holding it, so I can't tell if it's misaligned.\n\nD: OK, and any skin changes over the elbow?\n\nP: No.\n\nD: Alright"
+    },
+    {
+        "whisper_chunk": "And if you were to press over the elbow various portions of the elbow are there any areas that cause pain like the lateral side medial side or anterior posterior It hurts she's in pain whenever I touch anywhere near the elbow area Okay And is there any pain with movement Yes Whenever I try to bend",
+        "gt_chunk": "D: Ann. If you were to press over various portions of the elbow, are there any areas that cause pain like the lateral side, medial side, or anterior posterior?\n\nP: It hurts she's in pain whenever I touch anywhere near the elbow area. \n\nD: OK, and um is there any pain with with movement?\n\nP: Yes. Whenever I tried to bend"
+    },
+    {
+        "whisper_chunk": "it or straighten it out all the way she complains of pain Okay How about moving the wrist or shoulder No that's fine Okay So that was everything that I wanted to ask about and look for on the physical today Did you have anything else that perhaps I forgot to mention that might be important No that was kind of it I just was wondering how we can fix her elbow Yeah certainly So",
+        "gt_chunk": "P: it or straighten it out all the way she she complaints of pain.\n\nD: OK, how about moving the rest or shoulder?\n\nP: No, that's fine.\n\nD: OK, so that that was everything that I wanted to ask about and and look for on the physical today. Did you have anything else that perhaps I forgot to mention that might be important?\n\nP: Uhm no that was kind of it, I just was wondering how we can fix her elbow.\n\nD: I yeah certainly so"
+    },
+    {
+        "whisper_chunk": "it will be so we'll want to get an elbow x ray but typically to fix this type of injury so currently I'm thinking this could be like a radial head subluxation and possibly a radial head fracture but most likely a radial head subluxation where there's a mechanism of pulling on a child's arm And it's just that the what could happen is the",
+        "gt_chunk": "D: It will be so when I get an elbow X Ray. And. But typically to fix this type of injury, so currently I'm thinking this could be a like a radial head subluxation, and possibly a radial head fracture, but most likely I radial head subluxation, where there's a mechanism of pulling on a child's arm. And it's just that the what could happen is the"
+    },
+    {
+        "whisper_chunk": "part of the radius which is a forearm bone can pull out of the ligament that's holding it down We just because of the structures there are not yet fully matured and strong in somebody who's that young And so it will cause pain reduced range of motion at the elbow and you won't really see much swelling or redness And with just a physical exam maneuver you can reduce",
+        "gt_chunk": "D: part of the radius, which is that a forearm bone can pull out of the ligament that's holding it down.\n\nP: OK.\n\nD: An just because of the structures there, not yet fully matured and strong, and somebody who's that young. And so it will cause pain reduced range of motion at the elbow and you won't really see much swelling or redness, and with just the physical exam maneuver you can reduce"
+    },
+    {
+        "whisper_chunk": "it and put the head of the radius back into place and things will be usually back to normal But if there is a fracture which we'll look for on x ray then the pain may be last a little bit longer but a mobilization of the arm is not required And most kids will regain full mobility in a short time after the reduction",
+        "gt_chunk": "D: it and then put the head of the radius back into place and things will be usually back to back to normal. But if there is a fracture which will look for an X-Ray then there the pain might be last a little bit longer, but immobilization of the arm is not required and most kids will regain full mobility in in a short time after the reduction"
+    },
+    {
+        "whisper_chunk": "Okay that sounds good Thank you",
+        "gt_chunk": "P: OK, that sounds good, thank you"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "How may I help you Hi so I've had a sore throat for the past three days It doesn't seem to be getting any better And I've also had a fever So I thought I should get it checked out by you Yeah for sure So you said that the sore throat started three days ago Has it been getting any better or any worse Neither It's been the same OK Is it painful to swallow food or liquids It's painful to swallow",
+        "gt_chunk": "D: How may I help you?\n\nP: Hi, umm, so I've had a sore throat for the past three days and it doesn't seem to be getting any better, and I've also had a fever. So, I thought I should get it checked out by you. \n\nD: Yeah, for sure. So you said that the sore throat started three days ago. Has it been getting any better or any worse?\n\nP: Neither, it's been the same.\n\nD: OK, is it painful to swallow food or liquids?\n\nP: It's painful to swallow"
+    },
+    {
+        "whisper_chunk": "solids yeah OK Have you had any voice changes like a hot potato voice or it sounded like muffled or any voice changes at all No not really No OK And have you noticed any neck swelling No OK And how about your appetite Has that changed I'm still hungry I just don't eat as much because my throat is sore Right OK",
+        "gt_chunk": "D: , have you had any voice changes like a hot potato voice or sound like muffled or any voice changes at all?\n\nP: No, not really. No.\n\nD: OK. And have you noticed any like neck swelling?\n\nP: No.\n\nD: OK. And how about your appetite? Has that changed?\n\nP: Uhm, I'm still hungry, I just don't eat as much 'cause my throat is sore.\n\nD: Right, OK"
+    },
+    {
+        "whisper_chunk": "that makes sense And so you mentioned that you also had a fever When did that start That started two days ago OK And did you check it It was 38 8 OK All right so yeah certainly a fever OK And have you had any runny nose No not that I've noticed How about any red eyes or itchy eyes or eye discharge No OK How about any loss",
+        "gt_chunk": "D: that makes sense. And so you mentioned that you also had a fever. When did that start?\n\nP: That started two days ago.\n\nD: OK, OK and did, did you check it?\n\nP: It was 38.8. \n\nD: OK. Alright, so yeah, certainly a fever. OK, and have you had any, uh, like any runny nose?\n\nP: No, not that I've noticed.\n\nD: How about any red eyes or itchy eyes or eye discharge? \n\nP: No.\n\nD: OK, how about any loss"
+    },
+    {
+        "whisper_chunk": "or changes to your sense of smell or taste No OK Have you had any headaches No headaches no OK How about any cough No cough No cough OK And how about any shortness of breath No OK Have you had any wheezing No How about any chest pain No chest pain Any fainting or dizziness No OK And have you had any heart palpitations No OK",
+        "gt_chunk": "D: or changes to your sense of smell or taste? \n\nP: No.\n\nD: OK. Have you had any any headaches?\n\nP: Um, no headaches, no.\n\nD: OK. How about any cough?\n\nP: No cough. \n\nD: No coughing, OK. And how about any shortness of breath?\n\nP: No. \n\nD: OK, have you had any wheezing?\n\nP: No. \n\nD: How about any chest pain?\n\nP: No chest pain.\n\nD: Any fainting or dizziness? \n\nP: No.\n\nD: OK, and have you had any heart palpitations?"
+    },
+    {
+        "whisper_chunk": "And so you haven't had any cough but have you had any instances of bringing up any sputum or any blood No OK And have you had any nausea or vomiting No Have you had any abdominal pain No Have you had any diarrhea or constipation No OK How about any urinary problems No nothing like that I see OK And any skin changes",
+        "gt_chunk": "D:  you haven't had any cough, but have you had any instances of bringing up any sputum or or any blood?\n\nP: No. \n\nD: OK. And have you had any nausea or vomiting?\n\nP: No. \n\nD: Have you had any abdominal pain?\n\nP: No. \n\nD: You had any diarrhea or, or constipation?\n\nP: Uh, no. \n\nD: OK. How about any urinary problems?\n\nP: Um, no, nothing like that. \n\nD: I see, OK. And any skin changes"
+    },
+    {
+        "whisper_chunk": "or rashes No Any muscle aches or body pains No And how's your energy been Have you had fatigue Yeah I've been tired OK And have you been diagnosed with any medical conditions in the past I have type 1 diabetes OK And insulin wise do you use a pump Or is it how do you manage the diabetes I use an insulin pump yeah OK excellent And do you see an endocrinologist for that I do",
+        "gt_chunk": "D: or rashes? \n\nP: No.\n\nD: Alright, any muscle aches or body pains?\n\nP: No. \n\nD: And any, and how's your energy been? Have you had fatigue?\n\nP: I have been, yeah, I've been tired.\n\nD: OK. And have you had any, have you been diagnosed with any medical conditions in the past?\n\nP: Um, I have type one diabetes. \n\nD: OK, and uh, insulin wise, do you use a pump or is it like, how do you manage diabetes?\n\nP: I use an insulin pump, yeah.\n\nD: OK, excellent, and do you see an endocrinologist for that?\n\nP: I do"
+    },
+    {
+        "whisper_chunk": "OK well that's good And have you had any complications Or have things been stable Things have been pretty stable When I was younger I had a few episodes of hypoglycemia But now things are pretty stable OK And you can recognize those signs like feeling jittery and sweaty maybe a little anxious when that comes on I'm an expert now OK No that's great that you can recognize those signs It's important",
+        "gt_chunk": "D: OK. Well that's good and have you had any complications or have things been stable?\n\nP: Things have been pretty stable. I had, when I was younger, I had a few episodes of like hypoglycemia. But now things are pretty stable.\n\nD: OK, and you can recognize those signs like feeling jittery and sweaty might, maybe a little anxious when that comes on?\n\nP: Yes, I'm an expert now.\n\nD: OK, that's great that you can recognize that those signs. It's important"
+    },
+    {
+        "whisper_chunk": "And have you had any allergies No allergies And are your immunizations up to date Yes OK And any hospitalizations or surgeries before No OK And currently are you in school or working I'm in school I'm in grade 10 And we're doing half days now OK And half days like in person Yeah half in person and half online OK Have you been around anybody who's been sick",
+        "gt_chunk": "D: And have you had any allergies?\n\nP: Uhm, no allergies.\n\nD: Any, and all your immunizations up to date?\n\nP: Ah, yes. \n\nD: OK. Uhm, and any hospitalizations or surgeries before?\n\nP: No. \n\nD: OK, uh, and uh currently, are you in, in school or working?\n\nP: I'm in school. I'm in Grade 10 and we're doing half days now.\n\nD: OK. Err, half days like in person?\n\nP: Yeah half in person and half online.\n\nD: OK. Have you been around anybody who's been sick"
+    },
+    {
+        "whisper_chunk": "No no one at school has been sick actually OK And have you traveled anywhere Nope not since COVID OK I see And who are you living with I live with both my parents and three of my siblings OK And anybody at home have any sore throat or cough or anything like that So my younger sister had a sore throat like a week back",
+        "gt_chunk": "P: No, no one at schools been sick actually.\n\nD: OK. Uhm and have you traveled anywhere?\n\nP: Ah, nope, not not since COVID.\n\nD: OK, I see an are you ah, who are you living with?\n\nP: I live with both my parents and three of my siblings.\n\nD: OK, and anybody at home have any sore throat or cough, or or anything like that?\n\nP: Uhm, so my younger sister had a sore throat like a week back"
+    },
+    {
+        "whisper_chunk": "But that's all she had She never had a fever And her sore throat went away in like two days OK OK Does she need any treatment No OK And I know people around your age might experiment with drugs or alcohol Have you used anything like that or your friends Oh no No nothing like that OK And do you smoke cigarettes or have you tried I tried once but I don't",
+        "gt_chunk": "P: but that's all she had. She never had a fever and her sore throat went away in like 2 days.\n\nD: OK. Uh, OK and does she need any treatment?\n\nP: No.\n\nD: OK. Uh, and uh, and I I know people around your age might experiment with drugs or alcohol. Have you used anything like that or your friends?\n\nP: Oh no, no, nothing like that.\n\nD: OK. And do you smoke cigarettes or have you tried?\n\nP: Uhm, I tried once but I don't"
+    },
+    {
+        "whisper_chunk": "ever do it regularly OK And do you smoke cannabis or use cannabis products No I never have tried OK And is there a family history of any heart or lung conditions I know my grandfather had lung cancer but he used to smoke OK I see How old was he roughly He was in his late 60s OK I'm sorry to hear that",
+        "gt_chunk": "P: ever do it regularly.\n\nD: OK. And uh, and do you smoke cannabis or use cannabis products?\n\nP: Um, no, I never have tried. \n\nD: OK. And and is there a family history of any heart or or lung conditions?\n\nP: Uhm, I know my grandfather had lung cancer, but he used to smoke.\n\nD: OK, I see. How old was he? Roughly?\n\nP: Uhm, he was in his late 60s.\n\nD: OK, I'm sorry to hear that"
+    },
+    {
+        "whisper_chunk": "Thank you And oh sorry I forgot to ask Are you currently sexually active No OK Have you been sexually active before No OK So that was all the questions that I wanted to ask Was there anything else that you wanted to mention today No I don't think so When you asked me if my neck was swollen my neck's",
+        "gt_chunk": "D: thank you and oh sorry, I forgot to ask her are you currently sexually active?\n\nP: No.\n\nD: OK. Have you been sexually active before?\n\nP: Uh, no. \n\nD: OK, so umm, OK. Uhm, so that was all the questions that, uhm that, that I wanted to ask, was there anything else that you wanted to umm, mention today?\n\nP: Uh no, I don't think so. Is it, when you asked me if my neck was swollen, my necks"
+    },
+    {
+        "whisper_chunk": "not swollen but I feel like inside the back of my throat my tonsils feel a little bit swollen OK Have you looked Does it look like you have redness in the back of your mouth Yeah it looks pretty red and angry OK And it's sore Yeah OK So just to kind of summarize it sounds like the symptoms you've been having so the sore throat like the redness and swelling of",
+        "gt_chunk": "P: not swollen but I feel like inside the back of my throat, my tonsils feel a little bit swollen.\n\nD: OK. And have you looked? Does it look like you have like redness in the back of your, back of your mouth?\n\nP: Yeah, it looks pretty red and angry.\n\nD: OK, and it's sore?\n\nP: Yeah.\n\nD: OK, so it's just to kind of summarize, this happens like this sometimes you been having so the sore throat, like the redness and swelling of"
+    },
+    {
+        "whisper_chunk": "the tonsils in the back of your mouth as well as a fever and being pretty tired over these last few days Yeah OK Yeah All right So it's sounding like most likely this would be strep throat or group A strep pharyngitis because you have no cough and with the high fever and swelling and",
+        "gt_chunk": "D: the tonsils in the back of your mouth, as well as a fever and being pretty tired over these last few days.\n\nP: Yes.\n\nD: OK, yeah. Um alright, so it's sounding like most likely this would be strep throat or, or Group A strep pharyngitis with, because you have no cough, and with a high fever and swelling"
+    },
+    {
+        "whisper_chunk": "redness that you notice in the back of your mouth And so we'll do a rapid strep antigen test and it will require just a throat swab to detect for that However with \u2013 yeah I guess that's what \u2013 yeah we'll start with that now",
+        "gt_chunk": "D: redness that you notice in the back of your mouth. And so we'll do a rapid strep antigen test and it will require just a throat swab. To see, to to detect for that, however with a, uh, umm, yeah, I guess that's it. That's what I yeah, well, we'll start with with that now"
+    },
+    {
+        "whisper_chunk": "and could potentially be something like a viral illness but that's lower on the differential than the bacterial infection is right now And because of COVID we'll do a swab as well because people can get fever and sore throat with COVID as well OK So just to make sure that we're being comprehensive OK That sounds",
+        "gt_chunk": "D: and it could potentially be something like uhm, a viral illness, but that's lower on the on the differential then the bacterial infection is right now. And because of COVID it will be, we'll do a swab as well because people can get fever and sore throat with with COVID as well. \n\nP: Ok.\n\nD: So just to make sure that we're being comprehensive.\n\nP: OK. That sounds"
+    },
+    {
+        "whisper_chunk": "good Thank you so much Thank you",
+        "gt_chunk": "P: good. Thank you so much. \n\nD: Thank you"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "I was wondering if you could tell me what brought you in Sure I've been coughing for the past three days and I can't seem to stop It's affecting my sleep So I just really like to get this fixed Okay with the cough have you been bringing up any sputum No it's dry it's very dry Okay have you brought up any blood No no blood Okay and the cough started three days ago Has",
+        "gt_chunk": "D: I was wondering if you could tell me what brought you in?\n\nP: Sure, I've been coughing for the past three days and it I can't seem to stop. It's affecting my sleep, so I just really like to get this fixed.\n\nD: OK, ah is the cough, with the cough have you been bringing up any sputum?\n\nP: No, it's it's dry. It's very dry.\n\nD: OK, have you brought up any blood?\n\nP: No no blood.\n\nD: OK and the cough started three days ago. Has"
+    },
+    {
+        "whisper_chunk": "it gotten worse gotten better stayed the same You know it seems to be getting worse and now I even feel hot like I have a fever or I see Has there any triggers associated with the cough like going outside into the cold smoke inhalation or dust or pets No not that I noticed Okay have you tried anything to help with the cough I tried over the",
+        "gt_chunk": "D: it gotten worse, gotten better, stayed the same?\n\nP: Ah you know, it seems to be getting worse, and now I even feel hot like I have a fever or something.\n\nD: I see. Is there any triggers associated with the cough like going outside into the cold, smoke inhalation or or dust or pets?\n\nP: Um, no, not that I noticed.\n\nD: OK, have you tried anything to you help with the cough?\n\nP: I tried over the"
+    },
+    {
+        "whisper_chunk": "counter cough syrup but it's not helping Okay and you mentioned the coughs interrupting your sleep Is the cough constant all day or are there particular times of the day that it's worse It's just all day I see okay And you mentioned that you started to feel hot When did you notice that That was just today Just today Have you taken your temperature No I haven't Okay and have you been",
+        "gt_chunk": "P: counter cough syrup, but it's it's not helping.\n\nD: OK, and you mentioned the coughs interrupting your sleep. Has is the cough constant all day or are there particular times of the day that it's worse?\n\nP: It's just all day.\n\nD: Let's see OK, Um, and you mentioned that you started to feel hot when when did you notice that?\n\nP: That was just today.\n\nD: Just today, have you taken your temperature?\n\nP: No, I haven't. \n\nD: OK, and have you been"
+    },
+    {
+        "whisper_chunk": "experiencing any other symptoms I've been tired but I don't know if that's because I can't get any seem to get any sleep Oh because the cough's been keeping you up Mm hmm Okay Right Um so have you had any headaches Mm maybe a slight headache but also I'm not too sure if that's because I've been coughing and it's putting strain on my head Okay How about any discharge like mucus",
+        "gt_chunk": "D: experiencing any other symptoms?\n\nP: Mmm. I've been really tired but I don't know if that's because I can't get any seem to get any sleep.\n\nD: Well, because the coughs been keeping you up OK. Um, so have you had any headaches?\n\nP: Maybe a slight headache, but also I'm not too sure if that's because I've been coughing and it's putting strain on my head.\n\nD: OK, how about any discharge like mucus"
+    },
+    {
+        "whisper_chunk": "or tears from your eyes or ears No nothing like that Okay How about any pain around your eyes or ears No Okay Have you had a runny nose No no All right And within the last month or so have you had any cold like symptoms with a runny nose headache sore throat or a cough No Okay so it's just been these last few days Yeah",
+        "gt_chunk": "D: or tears from your eyes or ears?\n\nP: No, nothing like that.\n\nD: OK, how about any pain around your eyes or ears?\n\nP: No.\n\nD: OK, have you had a runny nose?\n\nP: Mmmm, no no. \n\nD: Alright. And within the last month or so, have you had any cold like symptoms with a runny nose, headache, sore throat, and or a cough?\n\nP: Ah no. \n\nD: OK, so it's just been these last few days?\n\nP: Yes"
+    },
+    {
+        "whisper_chunk": "All right And do you have a sore throat now No Okay And how has your appetite been My appetite's been okay Also it's just hard to eat because I'm coughing so much Okay Have you had any troubles with swallowing like being painful No Well no no I would say no Okay And in the last several months have you had any weight loss",
+        "gt_chunk": "D: alright, and do you have a sore throat now?\n\nP: Um, no.\n\nD: OK and, and how is your appetite been?\n\nP: My appetite's been OK. I also it's just hard to eat because I'm coughing so much.\n\nD: OK, have you had any troubles with swallowing, like being painful?\n\nP: No, well, no no. I would say no.\n\nD: OK, um an in the last several months. Have you had any weight loss"
+    },
+    {
+        "whisper_chunk": "No weight loss All right And have you had any chills Maybe a little bit last night now that I think about it Okay And how about any night sweats A little bit last night Okay so you were a bit chilly and sweaty last night Yes a little bit Okay and feeling hot today Yeah Have you had any chest pain No no chest pain no All",
+        "gt_chunk": "P: no weight loss. \n\nD: Alright, and have you had any chills?\n\nP: Maybe a little bit last night now that I think about it.\n\nD: OK, and how about any night sweats?\n\nP: A little bit last night.\n\nD: OK, so you were a bit chilly and and then sweaty late last night?\n\nP: Yes, a little bit.\n\nD: OK and feeling hot today?\n\nP: Yeah.\n\nD: Have you had any chest pain?\n\nP: Um no, no chest pain no."
+    },
+    {
+        "whisper_chunk": "right And how about shortness of breath No All right Any wheezing No All right And have you had any instances where you felt as though your heart was racing or beating out of your chest No All right And have you had any heart attacks And any instances where you felt like you were gonna faint or maybe blackout No Okay And have you felt dizzy at all No no dizziness All right And have you had any loss of",
+        "gt_chunk": "D: Alright, and how about shortness of breath?\n\nP: No.\n\nD: Alright, any wheezing?\n\nP: No. \n\nD: Alright, and have you had any instances where you felt as though your heart was racing or beating out of your chest?\n\nP: No.\n\nD: Alright, and any instances where you felt like you were gonna faint, or maybe blackout?\n\nP: No.\n\nD: OK and, have you felt dizzy at all?\n\nP: Um no, no dizziness.\n\nD: Alright and have you had any loss or"
+    },
+    {
+        "whisper_chunk": "your sense of taste or loss of your sense of smell No Okay And have you had any diarrhea No diarrhea All right And then how about any nausea or vomiting No Okay And so you've been fatigued Have you had any muscle aches or body aches A little bit of both yeah I see Okay And have you had any painful urination or",
+        "gt_chunk": "D: your sense of taste or loss of your sense of smell?\n\nP: Um no. \n\nD: OK. And have you had any diarrhea?\n\nP: No diarrhea.\n\nD: Alright, and then how about any nausea or vomiting? \n\nP: No.\n\nD: OK um. And so you have been fatigued? Have you had any muscle aches or or body aches?\n\nP: A little bit of both, yeah.\n\nD: I see OK and have you had any painful urination or"
+    },
+    {
+        "whisper_chunk": "feeling the need to urinate frequently No Okay And any skin rashes or skin changes No All right In regards to your past health have you been diagnosed with any medical conditions before I have hypothyroidism I see Okay And are you taking any medications for that I'm on Synthroid Okay great When was your last TSH checked I believe",
+        "gt_chunk": "D: feeling the need to urinate frequently?\n\nP: No. \n\nD: OK, and any skin rashes or or skin changes?\n\nP: Ah no.\n\nD: Alright, um in regards to your past health. Have you been diagnosed with any medical conditions before?\n\nP: I have hypothyroidism.\n\nD: I see OK and um, are you taking any medications for that?\n\nP: I'm on Synthroid.\n\nD: OK, great, when was your last TSH checked?\n\nP: I believe"
+    },
+    {
+        "whisper_chunk": "I did it six months ago Okay And were there any concerns with the range at that time No I think it was normal All right excellent Do you take any other medications or over the counter I take this multivitamin I can't remember the name of it but it's just something that I take every day Okay Any allergies to medications No All right And have you had any surgeries",
+        "gt_chunk": "P: I did it six months ago.\n\nD: OK, and were there any concerns with the range at that time?\n\nP: No, I think it was normal.\n\nD: Alright excellent, do you take any other medications or over the counter?\n\nP: I I take this multi vitamin. I can't remember the name of it, but it's just something that I take every day.\n\nD: OK, any any allergies to medications?\n\nP: No.\n\nD: Alright, and have you had any surgeries"
+    },
+    {
+        "whisper_chunk": "before I had my appendix removed when I was a teenager Okay And any complications with that surgery No All right So next I was wondering if you could just tell me a little bit about your living situation Sure I live with my husband and two children who are both teenagers We live in",
+        "gt_chunk": "D: before?\n\nP: Um, I had my appendix removed when I was a teenager.\n\nD: OK, and any complications with that surgery? \n\nP: No.\n\nD: Alright, um so next I was wondering if you could just tell me a little bit about your living situation?\n\nP: Sure, I live with my husband and two children who are both teenagers. I, we live in"
+    },
+    {
+        "whisper_chunk": "a townhouse and we moved recently Okay Anybody in the home been sick Okay My husband has been throwing up for the past two days and I think he was feeling a little hot too Okay Has he been assessed by a physician No I tried to bring him today but",
+        "gt_chunk": "P: a townhouse, and we moved recently.\n\nD: OK, and anybody in the home been sick?\n\nP: My husband has been throwing up for the past two days and I think he was feeling a little hot too.\n\nD: OK, has he been assessed by a physician?\n\nP: No, I tried to bring him today, but"
+    },
+    {
+        "whisper_chunk": "he refused I see okay And has he been around anybody who's been sick that you're aware of Like at work or anything He works at this IT company There aren't a lot of them and they all have their own cubicles So maybe in the lunchroom or something but other than that I don't think so Okay And how about yourself Any other exposures or sick contacts or maybe at work or something like that",
+        "gt_chunk": "P: he refused. \n\nD: I see OK. Has he been around anybody who's been sick that you're aware of, like at work or anything?\n\nP: He works at this IT company. There aren't a lot of them and they all have their own cubicles, so you know, maybe in the lunch room or something, but other than that, I don't think so.\n\nD: OK, and how about yourself? Any other exposures or sick contacts or maybe at work or something like that"
+    },
+    {
+        "whisper_chunk": "So I do marketing stuff online but I work from home Okay And your kids have been well Oh yeah they've been healthy All right And do you smoke cigarettes No And do you drink alcohol I'll have a glass of wine with dinner once in a while Okay And what's once in a while Maybe every three or four days Okay",
+        "gt_chunk": "P: so I do marketing stuff online, but I I work from home. \n\nD: OK. Um and your kids have been well?\n\nP: Oh yeah, they've been. They've been healthy.\n\nD: Alright. And do you smoke cigarettes?\n\nP: No.\n\nD: And do you drink alcohol?\n\nP: I'll have a glass of wine with dinner once in awhile. \n\nD: OK, do you and what's once in awhile?\n\nP: Maybe every three or four days.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "So a couple of drinks per week All right And do you smoke marijuana I have smoked marijuana I don't regularly do it Nope Okay And do you use any other recreational drugs No Okay And has anybody in the family had a lung condition or a heart condition before My sister who's 15 years older than I am she had",
+        "gt_chunk": "D: so a couple of drinks per week? \n\nP: Yeah.\n\nD: Alright, and do you smoke marijuana?\n\nP: I have smoked marijuana. I don't regularly do it.\n\nD: No, OK, um and do you use any other recreational drugs?\n\nP: No.\n\nD: OK um and has anybody in the family had a lung condition or or a heart condition before?\n\nP: My sister, who's 15 years older than I am, she had"
+    },
+    {
+        "whisper_chunk": "a heart attack quite recently Oh I'm sorry to hear that And do you know what happened I'm not too sure She doesn't always eat the healthiest and she doesn't do a lot of exercise So I think maybe that had something to do with it Okay And did your parents have any heart problems No they were both healthy They passed away a few years ago",
+        "gt_chunk": "P: a heart attack quite recently.\n\nD: Oh, I'm sorry to hear that. Do you know what happened?\n\nP: Um, you know, I'm not too sure she doesn't always eat the healthiest, and she doesn't do a lot of exercise. So I think maybe that had something to do with it.\n\nD: OK, um and did your parents have any heart problems?\n\nP: No, they were both healthy and they passed away a few years ago"
+    },
+    {
+        "whisper_chunk": "but they died of old age I guess you can say Okay Any cancers in the family No All right So I think that's all I wanted to cover on the history today Was there anything that you wanted to tell me I maybe didn't ask No I was just curious if you think I had COVID Certainly one of the top things that",
+        "gt_chunk": "P: but they died of old age, I guess you can say.\n\nD: OK. Any cancers in the family?\n\nP: No.\n\nD: Alright so I think that's all I wanted to cover on the history today. Was there anything that you wanted to tell me I maybe didn't ask?\n\nP: Um no, I was just curious if you think I had COVID?\n\nD: Certainly one of the top things that"
+    },
+    {
+        "whisper_chunk": "I'm considering after hearing about your symptoms of having this cough and fever and being tired these last few days especially with your husband being sick with vomiting and not feeling well That being said it could be another type of viral illness or possibly a bacterial infection but certainly we'll order some investigations",
+        "gt_chunk": "D: I'm considering after hearing about your symptoms of having this cough and fever and being tired these last few days, especially with your husband being sick with nausea, vomiting, and not feeling well. That being said, it could be another type of viral illness, or possibly a bacterial infection. But certainly we will order some investigations"
+    },
+    {
+        "whisper_chunk": "some blood work a PCR nasal swab that will actually test for COVID as well as a chest x ray to start with Okay And we will wait for some of those results to come back Okay yeah that sounds good All right so we'll get that started Okay thank you",
+        "gt_chunk": "D: some blood work, a PCR nasal swab that will actually test for COVID as well as a chest X Ray to start with. Um and we will wait for some of those results to come back. \n\nP: OK, yeah, that sounds good.\n\nD: Alright, so we'll get that started.\n\nP: OK, thank you"
+    }
+]

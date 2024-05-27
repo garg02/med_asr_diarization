@@ -1,0 +1,82 @@
+[
+    {
+        "whisper_chunk": "what brings you in today Yeah I've had a shortness of breath and even at rest I'm really feeling like it's difficult to breathe and when I take a deep breath I get a chest pain When did this start This started yesterday How bad is your shortness of breath I feel like I'm okay in terms",
+        "gt_chunk": "D: What brings you in today?\n\nP: Yeah, I've had a shortness of breath, and even at at rest. Really, feeling like it's difficult to breathe, and when I take a deep breath I get a chest pain.\n\nD: When did this start?\n\nP: This started yesterday.\n\nD: How bad is your shortness of breath?\n\nP: Like, I don't"
+    },
+    {
+        "whisper_chunk": "of being able to breathe but I mean if I exert myself at all there's no way I would be able to I just feel like even at rest it's hard to breathe Okay has it gotten worse since yesterday or better or been the same It's mostly been the same or actually sorry it's got a little bit worse At first it was more with exertion and now it's at rest as well so",
+        "gt_chunk": "P: of being able to breathe, but I mean if I exert myself at all, there's no way I would be able to. It's, I just feel like even at rest it's hard to breathe.\n\nD: OK, has it gotten worse since yesterday or better, or kind of been the same?\n\nP: It's mostly been that been the same or actually sorry it's got, got a little bit worse at first. It was more more with exertion, and now it's, at rest as well. So"
+    },
+    {
+        "whisper_chunk": "yeah it's got worse I see okay Are you able to talk in full sentences or do you need to sort of take a deep breath I can talk in full sentences Okay and the chest pain does it only occur when you're taking a deep breath or are there other times as well Pretty much yeah only when I'm taking a deep breath and I mean maybe that's why I can't take a deep breath so it's making me feel if it's making the breathing more difficult",
+        "gt_chunk": "P: yeah, it's got worse. \n\nD: I see, OK. Are you able to talk in full sentences or do you need to take a deep like stop to take a breath?\n\nP: I could talk in full sentences. \n\nD: And the chest pain, does it only occur when you take a deep breath, or are there other times as well?\n\nP: I pretty much yeah only when I'm taking a deep breath and say, I mean, maybe that's why part of the I can't take a deep breath so it's making me feel it's making the breathing more difficult"
+    },
+    {
+        "whisper_chunk": "making me feel more short of breath Okay any other symptoms that you've had a fever or a headache No nothing like that Any cough Yeah I've had a cough as well over the same time period Is it a dry cough or are you bringing something up It's dry yeah I haven't brought up any sputum or any blood Okay any other flu",
+        "gt_chunk": "P: making me feel more short of breath. \n\nD: OK. Any other symptoms that you've had? A fever or headache?\n\nP: No, nothing like that. \n\nD: Any cough? \n\nP: Yeah, I, I've had a cough as well over that the same same time period.\n\nD: Is it a dry cough? Are you bringing something up?\n\nP: It's dry, yeah, I haven't brought up any sputum or any any any blood.\n\nD: OK any other flu"
+    },
+    {
+        "whisper_chunk": "like symptoms Runny nose stuffy nose sore throat anything like that No I've just had the shortness of breath and chest pain Okay and have you I guess like just more general questions about other potential symptoms Do you feel like your heart is racing or do you feel like you have do you have any belly pain or any changes in your bowel movement No",
+        "gt_chunk": "D: like symptoms, runny nose, stuffy nose, sore throat? Anything like that?\n\nP: No, I just had um, yeah, the shortness of breath and chest pain.\n\nD: OK, uhm. And have you, I guess I just invited more general questions about others potential symptoms. Do you feel like your heart is racing or do you feel like you have, uhm, do you have any belly pain or any changes in your bowel movements?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "belly pain or changes to bowel movements but I do feel like my heart is beating really fast really fast though Yeah okay you said that this started yesterday were you like completely fine the day before I was yeah Anything that's happened recently that's different or new Well like",
+        "gt_chunk": "P: belly pain or changes to bowel movements, but I do feel like my heart is beating really fast really fast though.\n\nD: Yeah, OK. Uhm, you said this started yesterday. Were you like completely fine the day before?\n\nP: Uh I was yeah. \n\nD: Anything that's happened recently that's different or new?\n\nP: I'm well it like"
+    },
+    {
+        "whisper_chunk": "about two weeks ago I had a hysterectomy because I for abnormal bleeding so yeah I had surgery two weeks ago What have you been doing these past two weeks in terms of sort of physical activity Have you been moving around or no It's certainly been less I've been moving a little bit but I've had a lot of pain so",
+        "gt_chunk": "P: about two weeks ago I had a hysterectomy 'cause I, for abnormal bleeding. Yeah I had surgery 2 weeks ago.\n\nD: What have you been doing these past two weeks in terms of sort of physical activity? Have you been moving around or no?\n\nP: It's it's certainly been less I I've been moving a little bit, but I've had a lot of pain so"
+    },
+    {
+        "whisper_chunk": "I just haven't been doing as much activity that's for sure I see and have you had any I guess any pain in your legs Are swelling in your leg one or the other Yeah I have had actually yeah my right my right calf is pretty sore Definitely have a look at that Have you noticed that it's been",
+        "gt_chunk": "P: I just haven't been doing as much activity, that's for sure.\n\nD: I I see and have you had any, I guess any pain in your legs. Or swelling in your leg? One or the other?\n\nP: Yeah, I have had actually, yeah my right my right calf is pretty sore. \n\nD: Definitely have a look at that. Have you noticed that it's been"
+    },
+    {
+        "whisper_chunk": "bigger or more red or warm No I haven't noticed anything like that It just really hurts Okay any medical conditions that you've been diagnosed with Yeah and I have a high BMI type 2 diabetes",
+        "gt_chunk": "D: bigger or more red or warm? \n\nP: Um, no, I don't notice anything like that, just I, just really hurts. \n\nD: Uh, OK. Any medical conditions that you've been diagnosed with?\n\nP: Um, yeah, yeah and I have a high BMI. Type 2 diabetes"
+    },
+    {
+        "whisper_chunk": "and anxiety Do you have any bleeding disorders No I think it said fibroids Okay and do you take any medications Yeah so insulin bombette formin and that's it Okay I'm sorry not an SSRI",
+        "gt_chunk": "P: and anxiety.\n\nD: Do you have any bleeding disorders?\n\n\nP: Um other yeah, no. I think you're right. It said fibroids.\n\nD: OK, OK. And do you take any medication?\n\nP: Yeah, so uh insulin, well metformin. And then that's it. \n\nD: OK.\n\nP: I'm sorry and then an SSRI"
+    },
+    {
+        "whisper_chunk": "like I said low pram for anxiety All right and do you have any allergies No I don't And who do you live with Do you currently live alone No I know I live with my husband and our two sons Okay and do you have anyone sort of come",
+        "gt_chunk": "P: Like I said, low pram for anxiety. \n\nD: Alright. And do you have any allergies?\n\nP: No, I don't.\n\nD: And, who do you.. do you currently live alone?\n\nP: Uh no, I live with my husband and and our two sons. \n\nD: OK and, do you, have anyone sort of come"
+    },
+    {
+        "whisper_chunk": "in to help you out over these past two weeks Are you getting any outside help from nurses etc Or are your family members being supportive and helpful Yeah it's been mostly the family members My husband's been working from home and the kids have been helpful as well They're 10 and 12 so they're able to do some things on their own and so yeah they've been supportive That's great that's great",
+        "gt_chunk": "D: in to help you out over these past two weeks? Are you getting any outside help from nurses etc. Or are your are your family members being supportive and helpful? \n\nP: Yeah, it's been mostly the the family members. My husband's been working from home and the kids have been helpful as well. They are 10 and 12 so they are able to do some things on their own so yeah they've been supportive.\n\nD: That's great. That's great"
+    },
+    {
+        "whisper_chunk": "Okay and do you smoke at all I do yes I smoke about a half a pack per day For how long Yeah I mean I started after the kids were born actually so like 10 years ago Okay have you tried cutting it down at all Yeah I have I've kind of gone through spurts of quitting and restarting quitting and restarting So",
+        "gt_chunk": "D: OK, and you smoke at all?\n\nP: I do yes I I smoke about a half a pack per day. \n\nD: For how long?\n\nP: Um, yeah, but I I started in my, yeah, after the kids were born actually, uh so like 10 years ago.\n\nD: OK, have you tried cutting it down at all? \n\nP: Yeah, I have. I've kind of gone through spurts of quitting and restarting, quitting and restarting. So"
+    },
+    {
+        "whisper_chunk": "yeah I've tried before Okay and what about marijuana or recreational drugs No I don't use anything like that And alcohol You know I'll have some wine on the weekends but maybe that's like a glass or two Okay okay And do you have any medical conditions that run in the family",
+        "gt_chunk": "P: yeah, I've tried before.\n\nD: OK, and what about marijuana or recreational drugs?\n\nP: No, don't use anything like that.\n\nD: And alcohol? \n\nP: Yeah I'll have some wine on the on the weekends, but maybe that's like a glass or two.\n\nD: OK, OK uhm, and do you have any medical conditions that long run in the family"
+    },
+    {
+        "whisper_chunk": "Just yeah my father actually had a stroke when he was 68 and that's it Okay okay You haven't ever had one have you No I haven't had anything like that Okay all right So I guess in terms of smoking you said that you've tried to quit",
+        "gt_chunk": "P: Just, uh, yeah, my father actually had a stroke when he was 68, and that's it.\n\nD: OK OK uhm. You haven't ever had one, have you?\n\nP: No, I I haven't had anything like that. \n\nD: OK, alright. So. I guess come to in terms of smoking, you said that you've tried to quit"
+    },
+    {
+        "whisper_chunk": "a couple of times in the past Do you intend on trying again I know it can be very hard to quit smoking Yeah it's certainly something that is always kind of on the back of my mind Okay I'm happy to assist you and share resources and medications and things like that that could help you if you're interested so we can talk more about that Talking about your",
+        "gt_chunk": "D: a couple of times in the past. Do you intend on trying again? I know it can be very hard to, to quit smoking.\n\nP: Yeah, it's only something that is always kind of in the back of my mind.\n\nD: OK, if there's I'm happy to assist you and share resources and problems like medications and things like that that could help you if you're interested so we can talk more about that. talking about your"
+    },
+    {
+        "whisper_chunk": "I guess you mentioned that your weight is a little bit higher than or is outside the normal range Is that something that you would like to cut down Yeah I really try to eat more vegetables and I've been trying to do that sort of thing I've lost a few pounds but not enough Definitely want to keep going Okay good good As long as you feel that",
+        "gt_chunk": "D: I guess you mentioned that your weight is a little higher than or, its outside the normal range, is that something that you would like to cut down?\n\nP: Yeah, I really try to eat more vegetables and have been trying to do that sort of thing. I've lost a few pounds, but not enough, definitely want to keep going.\n\nD: OK, good good, as long as you feel that"
+    },
+    {
+        "whisper_chunk": "what you're currently doing is helping you and it's helping you reduce weight that's great But also I'm here for you if you need more education or guidance on that So given what you've told me so far it sounds like you might have developed a clot in your leg somewhere simply because you had a surgery and you were not moving around very much Sometimes that causes the blood to kind of not move around your body",
+        "gt_chunk": "D: what you're currently doing is helping you and is helping you reduce weight. That's great. But also I'm here for you if you need more education or guidance on that. So, given what you've told me so far, it sounds like you might have developed a clot in your leg somewhere, simply because you had a surgery and you were not moving around very much. Sometimes that causes the blood to kind of, not move around your body"
+    },
+    {
+        "whisper_chunk": "as much as it usually does and kind of stays in one place and turns into a clot and that clot can sometimes get dislodged and settle into your lungs and that can make it difficult for you to breathe So we'll do some tests That's what my understanding is given what you've told me so far but we do have to confirm it using a test Also the fact that you smoke and your BMI is high increases your risk of developing a clot So I would definitely strongly",
+        "gt_chunk": "D: as much as it usually does, and kind of stays in one place and get turned into a clot and that clot can sometimes get dislodged and settle into your lungs, and that can make it difficult for you to breathe. So, we'll do some tests that that's what my understanding is. Given what you've told me so far, but we do have to confirm it using a test. Also, the fact that you smoke and your weight, and your BMI is high, increases your risk of developing a clot, so I would definitely strongly"
+    },
+    {
+        "whisper_chunk": "recommend that you continue to try to reduce both and try to quit smoking And so we'll do an ultrasound of your leg and we'll do a scan of your chest and see what's going on and then decide if we need to give you any medications like any blood thinning medications Okay yeah that sounds really good Thank you Welcome",
+        "gt_chunk": "D: recommend that you continue to try to reduce both and try to quit smoking. And so we'll do an ultrasound of your leg and we'll do a scan of your chest and see what's going on and then decide if we need to give you any medications, like any blood thinning medications.\n\nP: OK, yeah, that sounds really good. Thank you.\n\nD: Welcome"
+    }
+]

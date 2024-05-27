@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "What brings you in here today Yeah so I have this cough I'm coughing up blood so that's made me a little bit worried So I thought I should come and get it investigated Okay yeah no definitely that's definitely concerning So when did this start The coughing up blood started about a week and a half ago but it's not getting any better and it's not stopping Okay",
+        "gt_chunk": "D: What brings you in here today?\n\nP: Yeah, um, so I have been, I have this cough, I'm coughing up blood so that's made me a little bit worried, um, so I thought I should come and get, get it investigated.\n\nD: OK, yeah no definitely, that, that's definitely concerning, is, so when did this start?\n\nP: It, the coughing up blood started about a week and a half ago.\n\nD: Mhm.\n\nP: Uhm, but it's not getting any better, and it's not stopping.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and did the cough just start with the blood in the cough or did it just start as a normal cough first It started off as a normal cough first Okay and did you have any kind of production of sputum with yellow or greenish material at all Not really I mean it was a little bit yellow but now it's just mostly blood Okay",
+        "gt_chunk": "D: , did the cough just start, uh with, uh, blood in the cough or what, did it just start as a normal cough first?\n\nP: It started off as a normal cough first.\n\nD: OK, and did you have any kind of production of sputum with yellow or greenish material at all?\n\nP: Uh, not really, I mean there, it's, it was a little bit yellow, but now it's just mostly blood.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and were you in contact with anyone that was sick recently or did you have any travel I recently immigrated to Canada from India Okay and were you in contact at all when you were in India with anyone who might have had tuberculosis or was sick at all around you I mean it's possible like people",
+        "gt_chunk": "D: , were you in contact with anyone that was sick recently, or did you have any travel?\n\nP: I recently immigrated to Canada from India.\n\nD: OK, and were you in contact at all when you were in India with anyone who might have had tuberculosis or was sick at all around you?\n\nP: Uh, I mean it's possible, like people"
+    },
+    {
+        "whisper_chunk": "get sick in my family all the time in India so it's possible And were you at all in India were you living in like close quarters like in a smaller space with other people at all I have a big family so we all live together Okay So it's yeah so there are about like 10 of us Okay all right so it started one you said around one and a half week ago Yeah that's right And",
+        "gt_chunk": "P: get sick in my family all the time in India, so it's possible.\n\nD: And were you at all, in India when, were you were you living in like close quarters like in a smaller space with other people at all?\n\nP: I have a big family so we all live together. \n\nD: OK. \n\nP: Uh, so it's yeah, so there are about like ten of us.\n\nD: OK great, so it started one, you said around one and a half weeks ago.\n\nP: Yeah, that's right."
+    },
+    {
+        "whisper_chunk": "is it like a constant cough or does it come and go It's pretty constant well I guess it comes and goes It's not there all the time Okay and have you had this happen before at all No never Okay Great Is there anything that makes your symptoms better or worse I don't think so nothing I've tried has worked Okay and do you have",
+        "gt_chunk": "D: is it like a constant cough? Or does it come and go?\n\nP: It's uh, it's pretty constant, well, I guess it comes and goes, it's, it's not there all the time.\n\nD: OK, and have you had this happen before at all? \n\nP: No, never.\n\nD: OK. Right, is there anything that makes your symptoms better or worse?\n\nP: Uhm, I don't think so, nothing that, nothing I've tried has worked.\n\nD: OK, and do you have"
+    },
+    {
+        "whisper_chunk": "any other symptoms like a fever or shortness of breath anything like that I have been feeling chills and I haven't actually taken my temperature but I feel hot so it's possible that I have a fever Okay and do you have any significant weight loss at all in the past few weeks Yeah now that you mention it I think I've lost about 10 pounds in the past month Okay and how much do you weigh Right now I",
+        "gt_chunk": "D: any other symptoms like a fever or shortness of breath, anything like that?\n\nP: I have been feeling chills and uhm, I haven't actually taken my temperature, but I feel hot, so it's possible that I have a fever.\n\nD: OK, and do you, do you have any significant weight loss at all in the past few weeks?\n\nP: Yeah, now that you mention it, I think I've lost about ten pounds in the past month.\n\nD: OK, and how much do you weigh?\n\nP: Right now I"
+    },
+    {
+        "whisper_chunk": "weigh 110 Okay so yeah definitely that's more than like the 10 Yes that is pretty significant Have you been experiencing any night sweats Yes yeah I've been having night sweats I thought that was just me being hot but I guess I feel chilly and then I have night sweats so I probably do have a fever Okay and how about fatigue Do you feel more tired throughout the day Yeah I would say so Okay and do you have",
+        "gt_chunk": "P: .\n\nD: OK, so yeah, definitely, that's more than like the ten percent, yes, that is pretty significant. Have you been experiencing any night sweats?\n\nP: Yes, yeah, I've been having night sweats. I thought that was just me being hot, but I guess, I feel chilly and then I have night sweats so I probably do have a fever.\n\nD: OK, and how about fatigue? Are you, do you feel more tired throughout the day?\n\nP: Uh, yeah, I would say so.\n\nD: OK, and do you have"
+    },
+    {
+        "whisper_chunk": "any symptoms like chest pain or racing heart or anything like that No nothing like that Okay any headaches nausea vomiting No Okay any changes in your bowel movements Nope Okay any issues with your sleep or appetite No Okay and any exposures to fumes or dust or animals or pets No Okay and currently right now have you been in contact with anyone",
+        "gt_chunk": "D: any symptoms like chest pain or racing heart or anything like that?\n\nP: No, nothing like that. \n\nD: OK, uhm, any headaches, nausea, vomiting?\n\nP: Uhm, no.\n\nD: Any changes in your bowel movements?\n\nP: uh, nope.\n\nD: OK, any issues with your sleep or appetite?\n\nP: No.\n\nD: OK and, um, any exposures to fumes or dust or animals or pets?\n\nP: No.\n\nD: OK, and uh, currently right now, have you been in contact with anyone"
+    },
+    {
+        "whisper_chunk": "else Do you go to work or anyone living with you right now So I go to work I am working for an assembly line so there are a lot of people around me And I live with two housemates Okay and anyone at work or your housemates anyone showing any similar symptoms at all I don't think so I haven't asked them but nothing I've seen Okay and previously do you have any medical conditions that you",
+        "gt_chunk": "D: else, do you go to work or anyone living with you right now?\n\nP: So I go to work, uhm, I'm working for an assembly line, so there are a lot of people around me and I live with two housemates.\n\nD: OK, and anyone at work or your housemates, anyone showing any similar symptoms at all?\n\nP: No, I don't think so. I haven't asked them, but nothing I've seen.\n\nD: OK, and previously do you have any medical conditions that you"
+    },
+    {
+        "whisper_chunk": "were diagnosed with Nope I'm healthy otherwise Okay any allergies No no allergies Okay any kind of loss of taste or smell No nothing like that Okay are you on any medications at all Nope just some vitamins Okay and any previous hospitalizations or surgeries No Okay Other than",
+        "gt_chunk": "D: were diagnosed with?\n\nP: Nope, I'm healthy otherwise.\n\nD: OK, any allergies?\n\nP: No, no allergies.\n\nD: OK, any kind of loss of taste or smell?\n\nP: Uh, no, nothing like that.\n\nD: OK, are you on any medications at all?\n\nP: Uhm, no, just some vitamins. \n\nD: OK, and any previous hospitalizations or surgeries? \n\nP: Uh, no.\n\nD: OK, other than"
+    },
+    {
+        "whisper_chunk": "that have you had any family history of any heart or lung conditions Nope nothing like that Okay Currently right now so you live with roommates Is it like an apartment Is it a home like a house I live in an apartment Okay Do you currently smoke No Okay do you drink alcohol No Any recreational drugs like marijuana No No okay All right so those are all the questions we had Do you have any questions or concerns No what do you think I have and",
+        "gt_chunk": "D: that, have you had any family history of any heart or lung conditions?\n\nP: Nope, nothing like that. \n\nD: OK, uhm, currently right now, so you live with roommates. Is it like an apartment, is it a home, like a house?\n\nP: I live in an apartment.\n\nD: OK, uhm, do you currently smoke? \n\nP: No.\n\nD: OK, do you drink alcohol? \n\nP: No.\n\nD: Any recreational drugs like marijuana?\n\nP: No. \n\nD: No, OK, alright, so those are all the questions we had. Do you have any questions or concerns?\n\nP: No, what do you think I have and"
+    },
+    {
+        "whisper_chunk": "is there anything I need to do right now Yeah so some of your symptoms are concerning especially the coughing up blood which is something that we always think of with tuberculosis You don't have any family history of lung cancer or anything like that So right now especially since you just moved from India where tuberculosis is endemic we need to make sure that we test you",
+        "gt_chunk": "P: is there anything I need to do right now?\n\nD: Yeah, So what, uh, some of your symptoms are concerning, especially the coughing up blood, which is something that we always think of with tuberculosis. You don't have any history of, uh, family history of lung cancer or anything like that, so right now, especially since you just moved from India where tuberclosis is endemic, we need to make sure that we test you"
+    },
+    {
+        "whisper_chunk": "for tuberculosis In the meantime though you will need to stay in the hospital and be in an isolated room where we can filter some of the air and make sure it's a very infective condition if you do have it So while you're getting all the tests done you will need to stay here in an isolated room Also we will get some sputum smears and cultures to test for TB And",
+        "gt_chunk": "D: for tuberculosis. In the meantime though, you will need to stay in the hospital and be in an isolated room, uh, where we can filter some of the air and make sure, it's a very infective condition if you do have it so while you're getting all the tests done, you will need to stay here in an isolated room. Also, we will get some sputum smears and cultures to test for TB and"
+    },
+    {
+        "whisper_chunk": "we will also I will need to if the test comes back positive we will need to contact public health and let your contacts know as well Lastly we will also be getting since you're having the hemoptysis like coughing up blood we might also do a chest x ray to see if you have active TB So those are some of the things that we'll get started with Is that okay with you Any questions or concerns No nothing like that",
+        "gt_chunk": "D: we will also, I will need to, if the test comes back positive we will need to contact public health and let your contacts know as well. Lastly, we will also be getting, since you're having the hemoptysis, like coughing up blood, we will, we might also do a chest X-ray to see if \n   you, if you have active TB.\n\nP: OK\n\nD: So those are, those are some of the things that we'll get started with. Is that OK with you? Any questions or concerns?\n\nP: Uhm, no nothing like that"
+    },
+    {
+        "whisper_chunk": "Do I need to isolate Yeah so we will keep you in an isolated room right now when you're getting all those tests And if you do have TB you will need to isolate and stay away from contacts not be at work We will if you do in fact have TB which it seems likely right now you will be started in hospital on like antibiotic therapy Okay Which consists",
+        "gt_chunk": "P: do I need to isolate?\n\nD: Yeah, so we will keep you in an isolated room right now, when you're getting all those tests. And if you do have TB, you will need to isolate, uhm, and stay away from contacts, not be at work, we will, if you do in fact have TB, which it seems likely right now, you will be started in hospital on a ,like antibiotic therapy, uh, which consists"
+    },
+    {
+        "whisper_chunk": "of like four different medications and people with active TB will do have to isolate during that time period So yeah we'll get some of those tests done and we'll get back to you as soon as possible Okay great thank you You're welcome",
+        "gt_chunk": "D: of like four different medications and people with the active TB will do have to isolate during that time period, so yeah, we'll get some of those tests done and, we'll get back to you as soon as possible.\n\nP: OK, great, thank you.\n\nD: You're welcome"
+    }
+]

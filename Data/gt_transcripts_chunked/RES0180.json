@@ -1,0 +1,58 @@
+[
+    {
+        "whisper_chunk": "What brings you in Hi So I started to have this cough that started like two days ago And also these last couple of days I've just had this headache and feeling really achy all over Okay I'm sorry you said it started a day two days ago Yeah it's been like one to two days all of this has kind of started I think the cough started first and then the headache and achiness has come after I felt a bit feverish as",
+        "gt_chunk": "D: What brings you in?\n\nP: Hi I umm, so I started to have this cough that started like 2 days ago and also these last couple of days I've just had this headache and feeling really achy all over.\n\nD: OK, I'm sorry you said it started a day, two days ago?\n\nP: Yeah, it's more like one to two days. All of this is kind of started. I think the the cough started 1st and then the headache and achiness has come after. I felt a bit feverish as"
+    },
+    {
+        "whisper_chunk": "well I haven't checked my temperature but I felt feverish Okay The cough is it dry or are you bringing up any phlegm It's pretty dry Dry okay So no blood and no sputum No blood or sputum Okay Do you feel short of breath No I haven't been short of breath Okay How about wheezy No wheezing Okay And any chest pain No I haven't had any chest pains Okay All right And the",
+        "gt_chunk": "P: well. I haven't checked my temperature but I, I felt feverish.\n\nD: OK. The cough, is it dry, or are you bringing up any phlegm?\n\nP: It's pretty dry.\n\nD: Dry, OK, so no blood and no sputum?\n\nP: No blood or sputum.\n\nD: OK, do you feel short of breath?\n\nP: No thats I haven't been short of breath.\n\nD: OK, how about wheezing? \n\nP: No wheezing.\n\nD: OK. And any chest pain?\n\nP: No, I haven't had any chest pains.\n\nD: OK, alright. And the"
+    },
+    {
+        "whisper_chunk": "headache one to 10 10 being the worst pain you've ever been in how bad was it I'd say a four It's just been kind of there the whole so it's really annoying I've tried some Tylenol and it's taken a little bit off of the I mean the edge off a little bit but it's just been kind of there still Okay And is it a throbbing kind of pain or is it a dull achy pain It's kind of a dull achy pain Okay",
+        "gt_chunk": "D: headache one to 10, 10 being the worst head, worst pain you've ever been in. How bad was it?\n\nP: I'd say a four. It's just been kind of there the whole, so it's really annoying. I've tried some Tylenol and it's taken a little bit off the the I mean the edge off a little bit, but it's just been kinda there still.\n\nD: OK. And is it a throbbing kind of pain or is it a dull, achy pain?\n\nP: It's a kind of a dull, achy pain.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "All right And where is it located Kind of in the front of my head and on both sides as well Okay Okay Any feelings of feeling like your heart's racing No I haven't felt like that Okay Any dizziness or fainting spells No I haven't had anything like that Confusion or memory loss No nothing",
+        "gt_chunk": "D: alright and where is it located?\n\nP: Uh kind of in the front of uh I have my over my head and on both sides as well. \n\nD: OK, OK. Any feelings of feeling like your heart's racing?\n\nP: No, I haven't felt like that.\n\nD: OK, any dizziness or fainting spells?\n\nP: No, I haven't had anything like that.\n\nD: Confusion or memory loss?\n\nP: No, nothing"
+    },
+    {
+        "whisper_chunk": "like that Okay And any neck pain or stiffness No I haven't had anything like that Okay Runny or stuffy nose No I haven't had anything like that Sore throat No No okay How about a loss of smell or taste Yeah I have actually Yeah I have Okay both Yeah both I've actually yeah I noticed that in the last day It's kind of weird I didn't even think of it until you asked there But yeah I",
+        "gt_chunk": "P: like that.\n\nD: OK, and any neck pain or stiffness?\n\nP: No, nothing like that.\n\nD: OK, running or stuffy nose?\n\nP: No, my, I haven't had anything like that.\n\nD: Sore throat?\n\nP: No.\n\nD: No, OK, how about that loss of smell or taste?\n\nP: Uh yeah I have actually. Yeah, I have. \n\nD: OK, both?\n\nP: Yeah, both it's uh, I've actually yeah, I notice that in the last day, it's kind of weird. I didn't even think of it until you until you asked there. \n\nD: OK.\n\nP: But yeah, I"
+    },
+    {
+        "whisper_chunk": "haven't really noticed being able to smell or taste Okay Any changes in your vision or hearing No Okay Weight loss No weight loss I've been that's been stable I wish Okay And you mentioned you might have had a fever so we'll check your temperature today as well Any fatigue Not really That's been okay But been achy so certainly doing less Okay Any rashes No rashes Okay",
+        "gt_chunk": "P: haven't really noticed being able to smell or taste.\n\nD: OK, any changes in your vision or hearing?\n\nP: No. \n\nD: OK. Weight loss?\n\nP: No weight loss, I've been, that's been stable. I wish.\n\nD: OK and you mentioned you might have had a fever so we'll check your temperature today as well. Any fatigue?\n\nP: Uh, not really. That's been OK, but been achey, so certainly doing less.\n\nD: OK. Any rashes?\n\nP: No rashes.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Any changes to your bowel movements No everything has been normal there I haven't had any diarrhea or no blood in the stool Okay Any nausea or vomiting No nausea or vomiting Okay Changes to your appetite Yeah I've been less interested in food for sure I think I've been had a decreased appetite Okay Changes in your urine No I haven't had any",
+        "gt_chunk": "D: any changes to your bowel movements?\n\nP: No, that, everything has been normal there. I haven't had any diarrhea or no blood in the stool.\n\nD: OK. Any nausea or vomiting?\n\nP: No nausea or vomiting.\n\nD: OK. Changes to your appetite?\n\nP: Yeah, I've been, less interested in food for sure. I think I've been been, been, had a decreased appetite.\n\nD: OK. Changes in your urine?\n\nP: No, I haven't had any"
+    },
+    {
+        "whisper_chunk": "pain or anything changing to my urinary habits Okay Are you otherwise healthy Do you have any long standing medical conditions I do have high blood pressure and high cholesterol and I take a statin as well as a what is it an ACE inhibitor I think for the blood pressure Yeah",
+        "gt_chunk": "P: pain or any anything changing to my urinary habits.\n\nD: OK. Are you otherwise healthy? Do you have any longstanding medical conditions?\n\nP: Uh, I I do have high blood pressure and high cholesterol and I take a statin as well as a what is it, an ACE inhibitor, I think, for the blood pressure, yeah"
+    },
+    {
+        "whisper_chunk": "Okay And are you up to date with your immunizations I am yes I think so Yeah okay All right And are you allergic to anything No I don't think so No okay All right And any family history of lung or heart conditions No nothing like that Okay All right And do you smoke I don't no No okay",
+        "gt_chunk": "D: and are you up to date with your immunizations?\n\nP: Uh, I am yes I think so.\n\nD: Yeah, OK. Alright, and are you allergic to anything?\n\nP: No, I don't think so. \n\nD: No, OK. Alright, and any family history of lung or heart conditions.\n\nP: No, nothing like that. \n\nD: OK, umm, alright. Do you smoke?\n\nP: I don't, no.\n\nD: No,"
+    },
+    {
+        "whisper_chunk": "Any other recreational drugs No Okay Do you drink alcohol Yeah sometimes I'll have a glass of wine on the weekend or something like that but that'll just be one or two maybe with dinner Okay And have you been in contact with anyone sick recently No I don't think so I mean I've been working from well some days I've had to go into the office for work but",
+        "gt_chunk": "D: Any other recreational drugs?\n\nP: Uh, no. \n\nD: OK. Do you drink alcohol?\n\nP: Yeah, sometimes I'll have a glass of wine on the weekend or something like that, but that will just be one or two, maybe with dinner.\n\nD: OK. And have you been in contact with anyone sick recently?\n\nP: No, I I don't think so. I mean, I've been working from well, some days I've had to go into the office for work, but"
+    },
+    {
+        "whisper_chunk": "I've been mostly just working from home Okay Okay And where do you live right now So I live in a house downtown in the city here and I live with my wife and our two sons Okay Are they okay They're all healthy Yeah they well my son actually had a heart attack and he had a cough and a sore throat I think like last week or something like that but it just went",
+        "gt_chunk": "P: I've been mostly just working from, from home.\n\nD: OK. OK. Uhm and where do you live right now?\n\nP: So I live in a house downtown in the city here and I live with my wife and our two sons. \n\nD: OK, any are they, they're ok, they're all healthy?\n\nP: Uhm, yeah they they, they uh, well my son actually had a cough and a sore throat I think like last week or something like that but it just went"
+    },
+    {
+        "whisper_chunk": "away Okay And do you have any old carpets asbestos mold anything like that in your home No nothing like that No okay All right I think those were all the questions that I had for you Did you have any questions of your own for myself I was just well worried about COVID and was just wondering what I should do Yeah for sure So we a lot of your symptoms do overlap with",
+        "gt_chunk": "D: , and do you have any old carpets? Asbestos, mold, anything like that in your home?\n\nP: Uh, no, nothing like that. \n\nD: No, OK. Uhm alright, I think those are all the questions that I had for you. Did you have any questions of your own for myself?\n\nP: I was just well worried about Covid and was just wondering what I should do.\n\nD: Yeah, for sure. So we are, you're a lot of your symptoms do overlap with"
+    },
+    {
+        "whisper_chunk": "those of COVID so we are going to take a swab today and you should hear back in about 24 to 48 hours but you should isolate for 14 days and that includes from family members if possible And basically just keep an eye on your symptoms If they get worse or you're having like neurological symptoms you should seek help from the ER But otherwise keep yourself hydrated eat well",
+        "gt_chunk": "D: those of Covid, so we are going to take a swab today and you should hear back in about 24 to 48 hours, but you should isolate for 14 days. And that includes from family family members if possible. Uhm, and basically just keep an eye on your symptoms. If they get worse, or you're having like neurological symptoms, you should seek help from the ER, but otherwise keep yourself hydrated, eat well"
+    },
+    {
+        "whisper_chunk": "If you have a humidifier in the basement use it And for your fevers you can take antipyretics like Tylenol And just it's just a lot of supportive care How does that sound And obviously like if your symptoms aren't going away after like a few weeks call us back and it could be something like bacterial in which case we can give you some antibiotics Okay yeah that sounds great Thank you Yeah no problem",
+        "gt_chunk": "D: If you have a humidifier in the basement, use it, and for your fevers you can take antipyretics like Tylenol. And just it's it's just a lot of supportive care. How does that sound and obviously like if your symptoms aren't going away after like a few weeks, call us back and it could be something like bacterial, in which case we can give you some antibiotics.\n\nP: OK yeah, that sounds great. Thank you.\n\nD: Yeah, no problem"
+    }
+]

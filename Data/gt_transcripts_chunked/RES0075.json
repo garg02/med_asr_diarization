@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "what brought you in today Yeah so just randomly like two days ago I just started having this chest pain when I when I'm breathing and it's just been getting worse and then I because of that I'm finding that I'm very short of breath as well so I just got really concerned Okay I see when did the chest pain start So it was there was some discomfort like just",
+        "gt_chunk": "D: What brought you in today?\n\nP: Yeah, so uh, just randomly like 2 days ago I just started having this chest pain when I'm breathing and it's just been getting worse and then because of that, I'm finding that I'm very short of breath as well, so I just got really concerned.\n\nD: OK, I see. When did the chest pain start?\n\nP: So, there was some discomfort like just"
+    },
+    {
+        "whisper_chunk": "two days ago but then just yesterday it started getting very very painful when I was breathing so yeah I would say one day ago Okay and were you doing anything at the time when the chest pain started like did you get in a car accident maybe or any trauma to the chest or anything you can think of No not really I was just at home and then I I noticed that when I",
+        "gt_chunk": "P:  days ago, but then just yesterday it started getting very painful when I was breathing. So yeah, I would say 1 day ago.\n\nD: OK, and were you doing anything at the time when the chest pain started? Like did you get in a car accident maybe? Or any trauma to the chest or anything you can think of?\n\nP: No, not really. I was just at home and then I noticed that when, I"
+    },
+    {
+        "whisper_chunk": "like take a deep breath in it's just like a very sharp pain it's kind of like in my right side of the chest and it feels like it's like a stabbing pain Okay and so the pain comes on when you breathe in is it or yeah when you take a deep breath does the pain come on at any other points or does it go away It's mostly I feel the sharp pain when I'm breathing Okay so the pain's intermittent",
+        "gt_chunk": "P: like, take a deep breath in, it's just, like, a very sharp pain. It's kind of like in my right side of the chest and it feels like a stabbing pain.\n\nD: OK, and so the pain comes on when you breathe in, or yeah, when you take a deep breath. Does the pain come on at any other points or does it go away?\n\nP: Uh, it's mostly, yeah, I feel the sharp pain when I breathe in.\n\nD: OK, so the pain is intermittent"
+    },
+    {
+        "whisper_chunk": "then it sounds like and has there been anything you've done to make the pain better Not really just more shallow breathing it hurts less with that but that's about it Okay and are there any positions that help make the pain any better like leaning forward or laying down Not really it's it's pretty much the same I think Okay",
+        "gt_chunk": "D: then, it sounds like. And has there been anything you've tried that's made the pain better?\n\nP: Not really, just more shallow breathing, and it hurts less with that, but that's about it.\n\nD: OK, and are there any positions that help make the pain any better like leaning forward or laying down?\n\nP: Not really, it's uh, it's pretty much the same, I think.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and you mentioned you had shortness of breath as well when does this come on It's pretty like since since yesterday it's been pretty constant and it's more like just I'm really having trouble getting any deep breaths in so I feel like I'm having to just breathe faster and more shallow I see okay and has anything like this happened to you before",
+        "gt_chunk": "D: and uh, you mentioned you had shortness of breath as well. When does this come on?\n\nP: Since yesterday it's been pretty constant and it's more like, Uh, just uh, I'm really having trouble getting any deep breaths in, so I feel like I'm having to just breathe faster and more shallow.\n\nD: I see, OK, and has anything like this happened to you before"
+    },
+    {
+        "whisper_chunk": "No never Okay and have you been experiencing any headaches No How about any viral like eye redness nasal discharge or nasal congestion or cough I've been having a little bit of a cough but that's it like it's kind of started today but it's nothing too significant Okay is the cough dry or",
+        "gt_chunk": "P: No, never. \n\nD: OK, and have you been experiencing any headaches?\n\nP: No. \n\nD: How about any viral symptoms, like eye redness, nasal discharge, or nasal congestion or cough?\n\nP: I have been having a little bit of a cough, but that's it, like, it kind of started today, but it's nothing too significant.\n\nD: OK, alright, is the cough dry or"
+    },
+    {
+        "whisper_chunk": "have you had a sore throat No How about a loss of taste or a loss of smell No Okay how has your appetite been My appetite's been pretty good it's like definitely with the pain I don't really feel like eating today but I don't think it's changed Okay so has your weight been stable over the last several months Yeah it's been",
+        "gt_chunk": "D: have you had a sore throat?\n\nP: Uh, no.\n\nD: How about a loss of taste or a loss of smell?\n\nP: No. \n\nD: OK, how has your appetite been?\n\nP: My appetite's been pretty good. It's like, definitely with the pain, I don't really feel like eating today, but I don't think it's changed.\n\nD: OK, so has your weight been stable over the last several months.\n\nP: Yeah, weight has been"
+    },
+    {
+        "whisper_chunk": "stable Okay and have you had any fevers chills or night sweats Nope Okay and have you had any episodes where you feel like your heart's like racing or beating out of your chest No I don't think so Any dizziness or lightheadedness No Okay and have you had any any wheezing No I don't think so Okay and with the cough have you brought up any blood No Okay and have you had any",
+        "gt_chunk": "P: stable.\n\nD: OK, and have you had any fevers, chills, or night sweats? \n\nP: Uhm, Nope.\n\nD: OK, and have you had any episodes where you feel like your heart is, like, racing or beating out of your chest?\n\nP: No, I don't think so.\n\nD: Any dizziness or Lightheadedness?\n\nP: No.\n\nD: OK, and have you had any wheezing?\n\nP: No, I don't think so.\n\nD: OK, and with the cough, have you brought up any blood?\n\nP: No. \n\nD: OK, and have you had any"
+    },
+    {
+        "whisper_chunk": "like urinary problems Nope Any bowel problems like diarrhea or constipation No nothing like that And any abdominal pain No Have you had any nausea or vomiting No Okay and have you had any muscle aches joint pains or skin changes No Okay and in the past have you been diagnosed with any medical conditions No I've been pretty healthy Okay so do you take any medications",
+        "gt_chunk": "D: like urinary problems?\n\nP: No.\n\nD: Any bowel problems like diarrhea or Constipation?\n\nP: No, nothing like that.\n\nD: And any abdominal pain?\n\nP: No.\n\nD: Have you had any nausea or vomiting?\n\nP: No.\n\nD: OK, and have you had any muscle aches, joint pains or skin changes?\n\nP: No. \n\nD: OK, and uhm, in the past have you been diagnosed with any medical conditions?\n\nP: No, I've been pretty healthy.\n\nD: OK, so do you take any medications"
+    },
+    {
+        "whisper_chunk": "regularly No nothing at all And do you have any allergies No no allergies Any hospitalizations in the past or any surgeries Nope Okay and currently can you tell me just a little bit about your living situation Yeah so I just live with a couple of my roommates I'm going to university Okay I live in like a student housing situation Okay and do",
+        "gt_chunk": "D: regularly?\n\nP: No, nothing at all.\n\nD: And do you have any allergies?\n\nP: No, no allergies. \n\nD: Any hospitalizations in the past or any surgeries?\n\nP: No. \n\nD: OK, and currently, can you tell me just a little bit about your living situation?\n\nP: Yeah, so I just live with uh, a couple of my roommates. I'm going to University.\n\nD: OK.\n\nP: I live in like a student housing situation.\n\nD: OK, has"
+    },
+    {
+        "whisper_chunk": "you has anybody in the house been sick or anybody that you've been around been sick Nope we've been all pretty healthy Okay and do you smoke cigarettes or use any like vape products or anything like that No I haven't ever smoked I do smoke weed like I would say once or twice",
+        "gt_chunk": "D: , has anybody in the house been sick or anybody that you've been around been sick? \n\nP: No, we've been all pretty healthy.\n\nD: OK, and do you smoke cigarettes or use any like vape products or anything like that?\n\nP: No, I haven't ever smoked. I do smoke weed like, I would say, once or twice"
+    },
+    {
+        "whisper_chunk": "a week last like two weeks Okay okay and do you drink alcohol Yeah just a couple beers maybe on the weekend Okay and are you currently sexually active Yeah just one partner and my",
+        "gt_chunk": "P:  lasts like 2 weeks.\n\nD: OK, and do you drink alcohol?\n\nP: Yeah, just a couple of beers maybe on the weekend. \n\nD: OK, and are you currently sexually active?\n\nP: Yeah, just one partner, my"
+    },
+    {
+        "whisper_chunk": "girlfriend Okay and have you or do you use condoms Yeah we use condoms We're pretty safe Okay and have you had a sexually transmitted infection before No never Okay any concerns right now or anything like that No we've been pretty safe and we've both been tested before and everything so I'm not really concerned Okay great and has anybody and the like a",
+        "gt_chunk": "P: girlfriend.\n\nD: OK, and, do you use condoms?\n\nP: Yeah, we use condoms, we're pretty safe.\n\nD: OK, and have you had a sexually transmitted infection before?\n\nP: No, never. \n\nD: OK, any concerns right now or anything like that?\n\nP: No, uh, we've been pretty safe and we've both been tested before and everything, so I'm not really concerned.\n\nD: OK, great and has anybody in the"
+    },
+    {
+        "whisper_chunk": "similar presentation before like any any any lung problems or heart problems No no no I think my sister she she has asthma but that's about it Okay and any cancers that run in the family Not that I know of Okay so it sounds like you've had this uncomfortable feeling in your chest",
+        "gt_chunk": "D: similar presentation before, like any lung problems or heart problems?\n\nP: No, I think my sister, she has asthma, but that's about it. \n\nD: OK, and uh, any cancers that run in the family?\n\nP: Not that I know of.\n\nD: OK, so it sounds like you had this uncomfortable feeling in your chest"
+    },
+    {
+        "whisper_chunk": "about two days ago but the pain really came on yesterday with and it's really painful when you when you have a deep deep breath so in conjunction with your symptoms of it being not able to take a deep breath and be short of breath it sounds like you possibly have what's called the pneumothorax and so we'll do a physical exam and do a chest x ray",
+        "gt_chunk": "D: about two days ago, but the pain really came on yesterday and it's really painful when you have a deep deep breath. So, in conjunction with your symptoms of not being able to take a deep breath and being short of breath, it sounds like you possibly have what's called a pneumothorax and so we'll do a physical exam and do a chest X-ray"
+    },
+    {
+        "whisper_chunk": "as well to examine this and check vitals as well to make sure that your work of breathing is is okay and and maybe do some blood work and go from there Okay yeah sounds good should I be like worried at all I think right now that you're speaking in full sentences and you're",
+        "gt_chunk": "D: as well to examine this and check vitals as well to make sure that you're work of breathing is OK and we can do some blood work and go from there.\n\nP: OK, yeah, sounds good. Should be like, worried at all?\n\nD: I think right now, you're speaking in full sentences and you're"
+    },
+    {
+        "whisper_chunk": "not short of breath at rest typically when this this happens if it's small enough it'll usually resolve on its own and so we'll get some more information from the the imaging and the lab results but it's reassuring that you're haven't been getting worse since it happened Okay all right sounds good thank you so much",
+        "gt_chunk": "D: not short of breath at rest, typically, when this this happens, if it's small enough, it'll usually resolve on its own and so we'll get some more information from the imaging and the lab results, but it's reassuring that you haven't been getting worse since it happened.\n\nP: OK, alright, sounds good. Thank you so much"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "What brings you in Hi I'm here with my daughter We noticed that since yesterday she's been having this pain just in her elbow And today we've noticed after she woke up she's just been in pain and also just keeping her elbow protected kind of just flexing it and just holding on to it So I think it's giving her a lot of discomfort and she's been crying as",
+        "gt_chunk": "D: What brings you in?\n\nP: Um, hi, I'm here with my daughter. Uh, we noticed that uh, since yesterday she's been having this pain just in her elbow. Um, and like today, we've noticed right after she woke up, she's been in pain and also just keeping her elbow like protected, um, kind of like just flexing it and just holding on to it. So I think it's uh, giving her a lot of discomfort and she's been crying as"
+    },
+    {
+        "whisper_chunk": "well Oh yeah for sure When did this start I think it started after we went for a walk last evening and we just went to the park And since then like she's been having that pain Okay okay Did anything happen to trigger this Did she fall on that arm or like injuries I think like just she was playing",
+        "gt_chunk": "P: well.\n\nD: Oh yeah, for sure. Um, when did this start?\n\nP: I think it started, uh, after we went for a walk last uh, evening. Um, and we just went to the park and since then like she's been having that pain. \n\nD: Okay, okay, and did anything happen to trigger this? Did she fall on that arm? Or like, injuries?\n\nP: Um, I think like just uh, she was playing"
+    },
+    {
+        "whisper_chunk": "and then she was about to fall like right onto the playground pavement So I remember like but I like caught her right away so to protect her And then since then I don't know if like there was like a jerk movement as like I kind of pulled her back up or when I was stopping her from falling like if that caused it but she didn't hit herself or anything like that Okay all right",
+        "gt_chunk": "P: and then um, she was about to fall like right, like right on to the playground pavement. So I remember like, but like I caught her right away, so to protect her, and then since then, I don't know if like there was like a jerk movement as like I kind of pulled her back up, or um, when I was stopping her from falling, like if that caused it. But she didn't hit herself or anything like that.\n\nD: Okay. Alright"
+    },
+    {
+        "whisper_chunk": "And in terms of the type of pain she's having right now did she say if it was a dull achy kind of pain or is it sharp She says it's aching a lot Okay and has it been constant since she started experiencing this or does it come and go It's been pretty constant since then And yeah she just kind of keep she's kind of keep just keeping it like her arms extended and then yeah just holding onto",
+        "gt_chunk": "D: and in terms of the type of pain she's having right now, did she say if it was a dull, achy kind of pain, or is it sharp?\n\nP: She says it's aching a lot.\n\nD: Okay, and has it been constant since she um, started experiencing this? Or does it come and go?\n\nP: It's, it's been pretty constant since then and yeah, she just kind of keep, keeping, she's kind of keep, just keeping it like, her arms extended um, and then yeah, just holding on to"
+    },
+    {
+        "whisper_chunk": "it Okay And then is the pain just in the elbow or does it radiate down into her hands or up to her shoulders It kind of goes into her upper arm like from her elbows to her upper arm Okay have you tried anything for this pain No I haven't tried any medications or anything I just wanted to come in before I try anything Yeah one to 10 10 being the worst type of pain how bad is this pain for her I would say it's probably",
+        "gt_chunk": "P: it.\n\nD: Okay. Um, and then, is the pain just in the elbow, or does it radiate down into her hands or up to her shoulders?\n\nP: Um, it kind of goes into her upper arm, like from her elbows to her upper, upper arm.\n\nD: Okay, have you tried anything for this pain?\n\nP: Uh, no, I haven't tried any medications or anything. I just wanted to come in before I tried anything. \n\nD: Yeah, 1 to 10, 10 being the worst type of pain, how bad is this pain for her?\n\nP: I would say it's probably"
+    },
+    {
+        "whisper_chunk": "at least a seven Okay and then has she ever experienced pain like this in the past No this is the first time Okay and then does she have any numbness or tingling in the area No not that I know of Okay how about memory loss or confusion No Any headaches No Dizziness or fainting spells No Any weight loss recently",
+        "gt_chunk": "P: at least a 7.\n\nD: Okay, and then um, has she ever experienced pain like this in the past? \n\nP: Um, no. This is the first time.\n\nD: Okay. Um, and then does she have any numbness or tingling in the area?\n\nP: Um, no, not that I know of.\n\nD: Okay, how about memory loss or confusion?\n\nP: No. \n\nD: Um, any headaches?\n\nP: Nope. \n\nD: Um, dizziness or fainting spells?\n\nP: No. \n\nD: Any weight loss recently"
+    },
+    {
+        "whisper_chunk": "No Fevers or chills Nope Rashes No Changes in vision hearing smell or taste No Any coughing shortness of breath or wheezing No Any chest pain or heart palpitations Nope Any changes in bowel movement Nope How about changes in urine Nope no changes Okay and is she otherwise healthy Does she have any long standing medical conditions She's been healthy so far no concerns at all Okay and",
+        "gt_chunk": "P: No.\n\nD: Fevers or chills?\n\nP: Nope. \n\nD: Uh, rashes?\n\nP: Uh, no. \n\nD: Uh, changes in vision, hearing, smell or taste?\n\nP: No.\n\nD: Uh, any coughing, shortness of breath, or wheezing?\n\nP: Um, no. \n\nD: Uh, any chest pain or heart palpitations?\n\nP: No.\n\nD: Uh, any changes in bowel movements?\n\nP: Uh, no.\n\nD: Um, how about changes in urine?\n\nP: Um, no. No, no changes.\n\nD: Okay, and is she otherwise healthy? Does she have any longstanding medical conditions?\n\nP: She's been healthy so far, no concerns at all.\n\nD: Okay, and"
+    },
+    {
+        "whisper_chunk": "with her mother's pregnancy with her were there any complications at that point No it was like a normal pregnancy no complications She was born at 39 weeks like a vaginal delivery Didn't have to stay in the hospital or anything like that Okay and no issues as a neonate No we were able to bring her home pretty quick Okay that's good",
+        "gt_chunk": "D: with her mother's pregnancy with her, were there any complications at that point?\n\nP: Um, no, it was like a normal pregnancy, no complications. She was born at 39 weeks, like with vaginal delivery, didn't have to stay in the hospital or anything like that.\n\nD: Okay, and no issues as a neonate?\n\nP: Uh, no, she, we were able to bring her home pretty quick.\n\nD: Okay, that's good"
+    },
+    {
+        "whisper_chunk": "And then she hasn't had any hospitalizations or surgery since then No no surgeries or hospitalizations All right is she on any medications No no medications Okay is she up to date with her immunizations Yeah we give her or get all the immunizations Okay how about allergies does she have any No allergies Okay any family history of musculoskeletal issues No Lung or heart",
+        "gt_chunk": "D: and then, she hasn't had any hospitalizations or surgery since then?\n\nP: No, no surgeries or hospitalizations.\n\nD: Alright, his she on any medications?\n\nP: No, no medications. \n\nD: Okay, um, is she up-to-date with her immunizations?\n\nP: Yeah, we've had, we've got all the immunization.\n\nD: Okay, how about allergies? Does she have any?\n\nP: Um, no allergies.\n\nD: Okay, any uh, family history of musculoskeletal issues?\n\nP: Nope.\n\nD: Uh, lung or heart"
+    },
+    {
+        "whisper_chunk": "conditions No Autoimmune conditions No Cancers No Is she on par with her peers in terms of development And reaching milestones No like she's been meeting all her milestones been on par with her siblings and other children No concerns from the doctor whatsoever Okay and who does she live with at home She lives with me her dad and",
+        "gt_chunk": "D: conditions?\n\nP: Nope.\n\nD: Um, autoimmune conditions?\n\nP: No.\n\nD: Cancers?\n\nP: Um, nope.\n\nD: Um, is she like on par with her peers in terms of developments and reaching milestones?\n\nP: Uh, no, like she's been meeting, all her milestones have been on par with her siblings and other children. No concerns from the doctor whatsoever.\n\nD: Okay, and who does she live with at home?\n\nP: She lives with me, her, her dad, and"
+    },
+    {
+        "whisper_chunk": "she has two siblings two older brothers Okay and does anyone at home smoke No Any concerns for her safety at home No I don't think so No okay And how are things at school for her School's been well it's been difficult with the pandemic but she's doing well Okay that's good Has she come in contact with anyone sick recently",
+        "gt_chunk": "P: she has two siblings, two older brothers.\n\nD: Okay, um, and does anyone at home smoke?\n\nP: Nope.\n\nD: Any concerns for her safety at home?\n\nP: No, like we're, like, no, I don't think so.\n\nD: No, okay. And how are things at school for her?\n\nP: Schools been well, like it's been difficult with the pandemic, but um, she's doing well.\n\nD: Okay, that's good. Has she come in contact with anyone sick recently"
+    },
+    {
+        "whisper_chunk": "No Have you done any travel recently No Okay All right those are all the questions I have for history taking Let's move on to the physical exam part of this interview I'm just gonna get you to take a look at both her elbows and arms Do you see any redness or swelling in the right elbow compared to the left No I don't see any",
+        "gt_chunk": "P: no.\n\nD: Have you done any travel recently?\n\nP: Nope.\n\nD: Okay. Alright, and those are all the questions I had for history taking. Let's move on to the physical exam part of this interview. Um, I'm just going to get you to take a look at both her elbows and arms. Do you see any, um, redness or swelling in the right elbow compared to the left?\n\nP: No, I don't see"
+    },
+    {
+        "whisper_chunk": "Yeah No I don't see any changes Okay how about any muscle atrophy deformities or skin changes like bruises No I don't see anything like that Okay How about when you palpate her elbows is she in pain She doesn't really let me but if I",
+        "gt_chunk": "P: . No, I don't see any changes.\n\nD: Okay, how about um, any muscle atrophy, deformities, or skin changes, like bruises?\n\nP: Um, no, I don't see anything like that.\n\nD: Okay. How about, um, when you palpate her elbows, does, is she in pain? \n\nP: Um, she doesn't really let me, but if I"
+    },
+    {
+        "whisper_chunk": "try to I think that does cause her some pain Okay how about when you palpate her forearm muscles No not as much Okay how about her biceps and triceps No not really No okay All right and those are all the questions that I kind of had for you Did you have any questions of your own for myself No I just wanted to find out if she broke something or like yeah I didn't know what was going",
+        "gt_chunk": "P: try to, I think that does cause her some pain. \n\nD: Okay, how about when you palpate her like forearm muscles?\n\nP: Um, no, not as much.\n\nD: Okay, how about her biceps and triceps?\n\nP: Um, no, not really.\n\nD: No, okay. Um, alright, and those are all the questions that I kind of had for you. Did you have any questions of your own for myself?\n\nP: No, I just wanted to find out if she broke something, or like, yeah, I didn't know what was going"
+    },
+    {
+        "whisper_chunk": "on Okay yeah it seems like someone of her age and just the kind of history that you're giving me it sounds like she has something called a radial head subluxation and that's usually caused in young children when they're like pulled or lifted by the hand or wrist while their arm is held straight which can kind of pull the bone out of its socket a little bit So",
+        "gt_chunk": "P: on.\n\nD: Okay. Yeah, it seems like someone of her age and just the kind of history that you're giving me, it sounds like she has something called a radial head subluxation. Um, and that's usually caused in young children when they're like pulled or lifted by the hand or wrist while their arm is held straight, um, which can kind of pull the bone out of its socket a little bit."
+    },
+    {
+        "whisper_chunk": "in terms of like a management plan you can try conservative things like ice packs over the counter painkillers Otherwise we can try to put the radius back into its normal position here which will just take like a few minutes And then after we reduce it back into its place she should have normal",
+        "gt_chunk": "D: in terms of like a management plan, you can try conservative things like ice packs, um, over the counter painkillers. Um, otherwise, we can try to um, put the radius back into its normal position here, which will just take uh, like a few minutes. Um, and, and then after we reduce it back into its place, um, she should have normal"
+    },
+    {
+        "whisper_chunk": "function of her arm again If she's still experiencing pain we can continue keeping it on a splint But otherwise I don't think we need any imaging for this at this time So did you have any questions or any concerns about that No I think that's a good plan Okay great Thank you Thank you",
+        "gt_chunk": "D: function of her arm again. Um, if she's still experiencing pain, we can continue keeping it on a splint, um, but otherwise, I don't think we need any imaging for this at this um, at this time. So did you have any questions or any concerns about that?\n\nP: No, I think that's, um, that's a good plan.\n\nD: Okay, great. Um, thank you.\n\nP: Thank you"
+    }
+]

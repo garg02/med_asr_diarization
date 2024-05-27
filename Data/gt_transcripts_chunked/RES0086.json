@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "brings you in Yeah so I just came in today I actually had asthma as a kid and I used to be on the puffers and it pretty much resolved by the time I was around like 18 years old and I've been pretty good since then I haven't even been really using the puffers for the last five years but just recently just during the winter I",
+        "gt_chunk": "D: brings you in?\n\nP: Yeah, so I just came in today, I actually had asthma as a kid and I used to be on the puffers and it pretty much resolved by the time I was around like 18 years old, and I've been pretty good since then. I haven't even been really using the puffers for the last five years, but just recently, just during the winter I"
+    },
+    {
+        "whisper_chunk": "started noticing some of my symptoms coming back and now especially over the last few months whenever I'm doing something like going to the gym or exercising I do get that shortness of breath and I feel my throat closing in again and recently for the last I would say a week I've also been having some wheezing as well So yeah I just wanted to come back and make sure everything's all right Okay sure So just to rewind",
+        "gt_chunk": "P: started noticing some of my symptoms coming back and now, especially over the last few months whenever I'm doing something like going to the gym or exercising, I do get that shortness of breath and I feel my throat closing in again and recently for the last, I would say a week I've also been having some wheezing as well. So yeah, I just wanted to come back and make sure everything is alright.\n\nD: OK sure, so just to rewind"
+    },
+    {
+        "whisper_chunk": "a little bit when were you first diagnosed with asthma So I was diagnosed when I was I think it was like when I was 13 years old 13 okay And you've been using puffers since Yeah so from then to like maybe when I was 18 I was using puffers and then I continued using them on and off like just the",
+        "gt_chunk": "D: a little bit. When were you first diagnosed with asthma?\n\nP: So I was diagnosed when I was, I think it was like when I was 13 years old.\n\nD: 13, OK, and you've been using Puffers since?\n\np: Yeah so from then to like maybe when I was 18 I was using Puffers, and then I continued using them on and off like, just the"
+    },
+    {
+        "whisper_chunk": "blue one whenever I needed it But for the last five years I haven't even had to use any puffers at all Okay So can you tell me a little bit about the symptoms that you're experiencing right now Okay so you said some shortness of breath when did that start So yeah in the last I would say two months I've noticed it similarly to when I was younger especially when I'm on the treadmill or running I do feel I",
+        "gt_chunk": "p: blue one whenever I needed it. But for the last five years, I haven't even had to use any puffers at all.\n\nD: OK, OK. So can you tell me a little bit about the symptoms that you're experiencing right now? OK, so you said some shortness of breath, when did that start? \n\nP: So yeah, in the last, I would say two months I've noticed it, similarly to when I was younger, especially when I'm on the treadmill or running, I get"
+    },
+    {
+        "whisper_chunk": "get short of breath very easily But at rest I'm fine I don't have any trouble but I've noticed it for the last few months Okay So it's mostly when you're exercising or with activities Okay And do you feel wheezy as well Yeah in the last one to two weeks I would say I'm also wheezing as well Maybe mainly during like if I'm",
+        "gt_chunk": "P: get short of breath very easily. But at rest I'm fine, I don't have any trouble, but I've noticed it for the last few months.\n\nD: OK, so it's mostly when you're exercising or with activities?\n\nP: Mhm.\n\nD: OK. And do you feel wheezy as well?\n\nP: Yeah, in the last one to two weeks I would say I'm also wheezing as well. Mainly during like, if I'm"
+    },
+    {
+        "whisper_chunk": "running or still with exercise I feel myself wheezing Yeah so that's been an issue for the last couple of weeks So once you stop activity does your shortness of breath and wheeziness eventually resolve Yeah yeah So if I just have to kind of sit down and relax for a bit and then it goes away on its own Okay How long does it last before it goes away Probably at least like I would say 10 to 15 minutes Okay Until it",
+        "gt_chunk": "P: running or still, with exercise, I feel myself wheezing. Yeah, so that's been an issue for the last couple of weeks.\n\nD: So once you stop activity, does your shortness of breath and wheezing eventually resolve?\n\nP: Yeah, yeah, so I just have to kind of sit down and relax for a bit and then it goes away on its own. \n\nD: OK, how long does it last before it goes away?\n\nP: Probably, at least, like I would say 10 to 15 minutes.\n\nD: OK, OK. \n\nP: Until"
+    },
+    {
+        "whisper_chunk": "fully kind of recovers Are you coughing as well Yeah when I'm exercising and that's when all of that happens the wheezing the coughing But throughout the day otherwise I'm not coughing Okay And when you cough do you bring up phlegm Or is it more like a dry cough It's mostly a dry cough Sometimes I do bring up some white clear whitish material But usually it's dry Okay All right And do you feel like your heart's racing",
+        "gt_chunk": "P: fully kind of recovered.\n\nD: Ok, Ok. Are You coughing as well?\n\nP: Uhm, yeah, when I'm exercising, that's when all of that happens. The wheezing, the coughing, but throughout the day otherwise, I'm not coughing.\n\nD: OK. And, when you cough, do you bring up phlegm or is it more like a dry cough?\n\np: It's mostly a dry cough, sometimes I do bring up some clear, whitish material, but usually it's dry.\n\nD: OK. Alright, and do you feel like your heart's racing"
+    },
+    {
+        "whisper_chunk": "No no nothing like that No you don't feel like you're breathing a lot more than usual No I don't think so Okay Do you still have coughers at home I actually haven't used them for a while So no I don't have any puffers Okay Okay Any weight loss recently No No fevers or chills No nothing like that Okay Any rashes or changes in your hair or skin or nails",
+        "gt_chunk": "P: No, no, nothing like that.\n\nD: No, you don't feel like you're breathing a lot more than usual?\n\nP: Uh, no, I don't think so. \n\nD: OK, Do you still have puffers at home?\n\nP: I actually, like I haven't used them for a while so no I don't have any puffers.\n\nD: OK. Any weight loss recently?\n\nP: No.\n\nD: No, fevers or chills?\n\nP: No, nothing like that.\n\nD: OK, any rashes or changes in your hair or skin or nails"
+    },
+    {
+        "whisper_chunk": "I do I do have just eczema like I've had it for most of my life now So especially during the winter I do get some irritation especially on my hands So yeah some rashes but that's about it Okay Any changes in your vision or hearing No no changes Okay Stepping nose running nose changes in your taste No Okay Changes in smell No No Okay Chest pain No chest pain",
+        "gt_chunk": "P: I do, I have just, uh, eczeme, I've had it for most of my life now, so especially during the winter I do get some irritation, especially on my hands. So yeah, some rashes, but that's about it.\n\nD: OK, any changes in your vision or hearing?\n\nP: No, no changes. \n\nD: Stuffy nose, runny nose, changes in your taste?\n\nP: No.\n\nD: Changes in smell?\n\nP: No.\n\nD: Chest pain?\n\nP: No chest pain"
+    },
+    {
+        "whisper_chunk": "Okay Do you find you get short of breath when you're laying down or it wakes you up at night No just when I'm exercising especially running Okay Sure Any dizziness or fainting spells No No Any headaches No headaches Any like reflux heartburn No no No Okay Nausea vomiting No Changes to your bowel movements Nope Okay So you mentioned",
+        "gt_chunk": "P: .\n\nD: Do you find you get short of breath when you're laying down or it wakes you up at night?\n\nP: No, just when I'm exercising, especially running.\n\nD: OK, sure, any dizziness or fainting spells?\n\nP: No. \n\nD: Any headaches?\n\nP: No headaches.\n\nD: Any like, reflux, heartburn? \n\nP: No.\n\nD: Nausea, vomiting?\n\nP: No.\n\nD: Changes to your bowel movements?\n\nP: Nope. \n\nD: OK, so you mentioned"
+    },
+    {
+        "whisper_chunk": "you were diagnosed with asthma and eczema in the past Any other longstanding medical conditions that you have No those are the only ones Okay Any allergies I do have I think I would like just seasonal allergies I don't know if I'm allergic to pollen or yeah So in during the springtime I get allergies and then during the winter now I'm getting some of these symptoms that I'm talking about So yeah",
+        "gt_chunk": "D: you were diagnosed with asthma and eczema in the past, any other longstanding medical conditions that you have?\n\nP: Uh, no those those are the only ones.\n\nD: OK, any allergies?\n\nP: I do have, I think like, just seasonal allergies. I don't know if I'm allergic to pollen, but during the spring time I get allergies and then during the winter now I'm getting some of these symptoms that I'm talking about. So yeah"
+    },
+    {
+        "whisper_chunk": "but none to any medications that I know of Okay So you're not getting any nighttime symptoms and you're only getting daytime symptoms with activity right Yeah Has this prevented you from going to work or school Yeah So just this past week I usually do my running like morning workout right before work Yeah And just one of the days after I worked out I felt just",
+        "gt_chunk": "P: but none to any medications that I know of.\n\nD: OK, so you're not getting any night time symptoms, and you're only getting day time symptoms with activity, right?\n\nP: Yeah. \n\nD: Has this prevented you from going to work or school?\n\nP: Oh yeah, so I, just this past week, I usually do my running, like morning workout right before work, and just one of the days after I worked out, I felt just"
+    },
+    {
+        "whisper_chunk": "terrible was just coughing and short of breath So I just decided to take a day off work that day But then I realized it kind of goes away on its own So for the other days I have been going to medications that you're on I'm on just one",
+        "gt_chunk": "P: terrible, with this coughing and short of breath so I just decided to take a day off work that day. But then I realized it kind of goes away on its own, so for the other days I have been going to work.\n\nD: OK, OK, good. And, alright, and then any medications that you're on?\n\nP: I'm on a, Just one"
+    },
+    {
+        "whisper_chunk": "of those steroid creams for my eczema Okay Are you up to date with all your immunizations Yep Okay How about family history of lung conditions or heart conditions No heart conditions but yeah asthma is pretty big in my family as well as eczema My mom has it my sister has it So yeah asthma is pretty big Okay How about cancers No I don't think anyone in the family has",
+        "gt_chunk": "P: of those steroid creams for my eczema.\n\nD: OK, OK. Are you up to date with all your immunizations?\n\nP: Yep.\n\nD: OK, uhm, how about family history of lung conditions or heart conditions?\n\nP: No heart conditions, but yeah asthma is pretty big in my family, as well as eczema, like my mom has it, my sister has it, so yeah asthma is pretty big.\n\nD: OK, how about cancers?\n\nP: Uhm, no, I don't think anyone in the family has"
+    },
+    {
+        "whisper_chunk": "any cancers Okay And do you smoke No I've never smoked I'm pretty health focused and I can't even take if someone else is smoking so no No Okay Do you drink alcohol No I don't drink alcohol no drugs I like to stay very fit and healthy so nothing like that Okay And have you been",
+        "gt_chunk": "P: any cancers.\n\nD: OK, and do you smoke?\n\nP: No, I've never smoked. I'm pretty health focused and I can't even take if someone else is smoking, so no.\n\nD: No, OK. Do you drink alcohol?\n\nP: No, I don't drink alcohol, no drugs, yeah, I'm pretty, I like to stay very fit and healthy so nothing like that.\n\nD: OK, and have you been"
+    },
+    {
+        "whisper_chunk": "in contact with any sick people recently No not that I know of I live by myself in my apartment I've been working from home I work as a programmer and so I only go outside for runs and stuff or groceries So I haven't really seen anyone sick around me Yeah And have you traveled anywhere recently No I've mainly been at home Okay good And where's home Home is",
+        "gt_chunk": "D: in contact with any sick people recently?\n\nP: No, not that I know of. I live by myself in my apartment. I've been working from home. I work as a programmer and so I only go outside for runs and stuff for groceries, so I haven't really seen anyone sick around me.\n\nD: Yeah, and have you traveled anywhere recently?\n\nP: No, I've mainly been at home.\n\nD: OK, good, and where's home?\n\nP: Home is"
+    },
+    {
+        "whisper_chunk": "in Hamilton Ontario and I've just been working from home Okay Do you live in a house apartment Who do you live with I just live in an apartment by myself I did have a roommate that moved out just a couple of months ago but yeah right now I'm just by myself Okay Any old carpets pets mold or asbestos in the house No nothing like that Okay good",
+        "gt_chunk": "P: in Hamilton Ontario and I've just been working from home.\n\nD: OK, do you live in a house, apartment, who do you live with?\n\nP: I just live in an apartment by myself. I did have a roommate, like uh, that moved out just a couple of months ago. But yeah, right now I'm just by myself.\n\nD: OK, OK, any old carpets, pets, mold or asbestos in the house?\n\nP: No, nothing like that.\n\nD: OK, good"
+    },
+    {
+        "whisper_chunk": "So those are all the questions that I had for you Did you have any questions of your own for myself Yeah I was just wondering if I should go back on the puffers I don't have any right now I just don't know if my asthma has just come back Yeah So what we're going to do is we're going to",
+        "gt_chunk": "D: So those are all the questions that I had for you. Did you have any questions of your own for myself?\n\nP: Yeah, I was just wondering if I should go back on the puffers. I don't have any right now, I just don't know if my asthma has just uh, come back.\n\nD: Yeah so, what we're gonna do is, we're going to"
+    },
+    {
+        "whisper_chunk": "do a PFT so pulmonary function test on you because it's been a while since you've had one of those done And that's just to check how well your lung is functioning So we'll do that We'll also maybe get a chest x ray as well for baseline And depending on what those do come back as we'll probably get you to use your short acting beta agonist puffer again and we'll also give",
+        "gt_chunk": "D: do a PFT, so pulmonary function test on you, cause it's been a while since you've had one of those done. And that's just to check how well your lung is functioning, so we'll do that. We'll also maybe get a chest X-ray as well for baseline and depending on what those two come back as, we'll probably get you to use your short acting beta agonist puffer again and we'll also give"
+    },
+    {
+        "whisper_chunk": "you a long acting as well as an inhaled corticosteroid Actually you know what We'll give you an inhaled corticosteroid and a short acting beta agonist because you can't use both the steroid and the lung So we'll start with those two We'll start with the short acting as well as inhaled corticosteroid And if we find that your asthma is just based on",
+        "gt_chunk": "D: you a long acting.\n\nP: OK.\n\nD: As well as an inhaled cortico steroid. So, actually, you know what, we'll give you an inhaled cortico steroid and a short acting beta agonist because you can't use both the steroid and the long, so we'll start with those two. We'll start with the short acting as well as inhaled cortico steroid. And if we find that your asthma is just based on"
+    },
+    {
+        "whisper_chunk": "like exertion or like something called athletic asthma we can also try something called cromalin instead But we'll discuss that more Right now our priority is to get your symptoms under control So we'll start with the short acting as well as the inhaled corticosteroid How does that sound Yeah that sounds good Thank you so much Yeah no problem",
+        "gt_chunk": "D: like, exertion or like something called athletic asthma, we can also try something called Cromolyn instead but we'll discuss that more. Right now our priority is to get your symptoms under control, so we'll start with the short acting as well as the inhaled cortico steroid. How does that sound?\n\nP: Yeah, that sounds good. Thank you so much.\n\nD: Yeah, no problem"
+    }
+]

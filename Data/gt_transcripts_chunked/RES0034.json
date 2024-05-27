@@ -1,0 +1,98 @@
+[
+    {
+        "whisper_chunk": "Hi there I was just hoping to ask you a few questions today but I was wondering if you could tell me what brought you in today I'm just calling about my daughter She's been sick over the last few days She has a fever and a cough I see okay When did the fever and cough start So they started around three to four days ago and around the same time she was also having like a runny nose Okay and",
+        "gt_chunk": "D: Hi there, I was just hoping to ask you a few questions today but I was wondering if you could tell me what brought you in today.\n\nP: I am just calling about my daughter. She's been sick over the last few days. She has fever and a cough.\n\nD: I see, OK. When did the fever and cough start?\n\nP: So they started around three to four days ago. And around the same time she was also having like a runny nose.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "has the fever and cough been present the whole time Yeah I would say they started around the same time and they've been going on for the last three and a half to four days Okay so has there been a period when she hasn't had a fever or a cough No every time I've measured it she has had a fever and she's been coughing for the last few days It hasn't really changed Okay can you think of anything leading up to",
+        "gt_chunk": "D: has the fever and cough been present the whole time?\n\nP: Uh, yeah I would say they started around the same time and ah, they have been going on for the last three and a half to four days. \n\nD: OK, so has there been a period when she hasn't had a fever or a cough?\n\nP: Uh no, every time I've measured it, she has had a fever and she's been coughing for the last few days. Hasn't really changed.\n\nD: OK, can you think of anything leading up to"
+    },
+    {
+        "whisper_chunk": "these symptoms No she was fine just three to four days ago Before that she was her playful self no issues But yeah for the last couple of days just this non stop cough and the fevers is what's really worrying me Okay have the symptoms gotten worse or stayed the same I would say the fever has been getting a little bit worse over the last like especially today But the cough coughing is about the same as what it was when it first",
+        "gt_chunk": "D: these symptoms?\n\nP: Uh, no, she was she was fine, just three to four days ago. Like before that she was her playful self. No issues. But yeah, it's for the last couple of days just this nonstop cough and the fevers is what's really worrying me. \n\nD: OK, uh, have the symptoms have gotten worse or stayed the same?\n\nP: I would say the fever has been getting a little bit worse over the last like, especially today, but the cough, coughing is about the same as what it was when it first"
+    },
+    {
+        "whisper_chunk": "started three days ago Okay has she been sick like this before She often gets sick like her brother goes to daycare and he brings a lot of bugs from there and every time he gets sick she also gets sick The last time she had like a similar cough was around two months ago But at that time I wasn't that worried because she didn't have any fevers Okay",
+        "gt_chunk": "P: started three days ago.\n\nD: OK. Has she been sick like this before?\n\nP: She's, she often gets sick, like her brother goes to daycare and he brings a lot of bugs from there and every time he gets sick, she also gets sick. The last time she had like a similar cough was\naround two months ago, but at that time I wasn't that worried because she didn't have any fevers.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "has there been anything that you've tried to help with the cough or fever Tylenol I gave her Tylenol It did help her a little bit but then the fever came right back I'd say like a few hours later Okay and anything you've noticed that's made the cough or fever worse over the last three or four days Not anything that I know of Her fever's been getting worse but I don't really know why that is Okay",
+        "gt_chunk": "D: has there been anything that you've tried to help with the cough or fever?\n\nP: Uh Tylenol, I gave her Tylenol. It did help her a little bit, but then the fever came right back, uhm say like a few hours later.\n\nD: OK, and anything you notice that's made the cough or fever worse over the last three or four days?\n\nP: Not anything that I know of. Her fevers been getting worse, but I don't really know why that is.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "has she been having any other symptoms Other than like yeah she had the runny nose when it first started And then she's also been having some diarrhea Okay and when did the diarrhea start I think I would say it started around two days ago She's like every time I change her diaper she would have like four to different diaper changes throughout the day And they seem pretty liquid I think yeah she's been having diarrhea for the last two days",
+        "gt_chunk": "D: has she been having any other symptoms?\n\nP: Um, other than like, yeah, she had that runny nose when it first started, and then she's also been having some diarrhea.\n\nD: OK, and when did the diarrhea start?\n\nP: I think I would say it started around two days ago. She's, like every time I change her diaper she would have like 4-5 different diaper changes throughout the day, and they they seem pretty liquid. So I\nthink yeah, she's been having diarrhea for the last two days"
+    },
+    {
+        "whisper_chunk": "Okay you mentioned liquid appearing stool What would you say So I guess could you comment on the consistency and color Consistency I would say it's pretty watery like diarrhea And color I didn't really think there's any changes in the color Okay so you didn't think there was any blood in the stool No no no I didn't see any blood Okay as for the fever",
+        "gt_chunk": "D:  you mentioned liquid appearing stool, what would you say say, so I guess, could you comment on the consistency and colour?\n\nP: Consistency, I'd say it's pretty watery, like diarrhea and colour I didn't really think there's any changes in in the colour.\n\nD: OK. So you didn't think there was any blood in the stool?\n\nP: No, no, no, I didn't see any blood.\n\nD: OK, as for the fever"
+    },
+    {
+        "whisper_chunk": "what was the fever Just a regular non digital thermometer in her ear And her temperature today was around 103 degrees Fahrenheit Okay did you notice any tugging or pulling at her ear No she didn't seem to have any irritation there Okay",
+        "gt_chunk": "P: have just a regular non digital thermometer in her ear and her temperature today was around 103 degrees Fahrenheit.\n\nD: OK. Uh, did you notice any tugging or pulling at her ear?\n\nP: No, no, she doesn't seem to have any irritation there.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "how about any vomiting or regurgitation No she's been keeping food down no issues there Okay and notice any discharge from either eye No How about any discharge from ears Not that I've noticed no Notice any rashes Nope no new rashes nope Okay and how has she been in terms of mood or behavior She's been pretty like she's not herself over the last few days She's been crying a lot more",
+        "gt_chunk": "D: how about any vomiting or regurgitation?\n\nP: No, she's been keeping food down. No issues there.\n\nD: OK, and notice any discharge from either eye?\n\nP: Uh, no.\n\nD: How about any discharge from ears?\n\nP: Not that I've noticed, no.\n\nD: Notice any rashes?\n\nP: Uh, no, I didn't not know like new rashes, no.\n\nD: OK and how is she been in terms of mood or or behaviour?\n\nP: Oh she's been pretty like she's not herself over the last few days. She's been crying a lot more"
+    },
+    {
+        "whisper_chunk": "just very irritable Okay would you say inconsolable at times Sometimes like yesterday like she I couldn't get her to stop crying Okay and I know you said no vomiting but has she been coughing up any sputum Yeah I would say this green slimy content Yeah it's like green and slimy Okay how much would you say like a cup",
+        "gt_chunk": "P: just very irritable.\n\nD: OK, would you say inconsolable at times?\n\nP: Sometimes like yesterday like she, I couldn't get her to stop crying. \n\nD: OK and uh, I know you said no vomiting, but has she been coughing up any sputum?\n\nP: Yeah, I would say, uh, this green slimy content. Yeah, it's like green and slimy. \n\nD: OK, um, how much would you say, uhm, like a cup"
+    },
+    {
+        "whisper_chunk": "or more I would say probably like at least a couple spoonfuls at a time she would cough up Okay and did you notice any at all Okay and with the cough have you noticed any difficulties breathing I don't know if it's difficulty breathing but I have noticed sometimes she's",
+        "gt_chunk": "D: or more?\n\nP: I would say probably like at least, at least a couple spoonfuls at a time, she would cough up.\n\nD: OK, and did you notice any blood in it?\n\nP: No, I didn't notice any blood at all. \n\nD: OK, and with the cough, have you noticed any difficulties breathing?\n\nP: Uh, I don't know if it's difficulty breathing, but I have noticed sometimes she's"
+    },
+    {
+        "whisper_chunk": "like breathing faster than normal like taking a lot more breaths I see okay Is she having troubles with drooling or trouble speaking No I haven't noticed that Okay and does her voice sound normal to you Yeah I think her voice hasn't really changed that much Okay with the noticing",
+        "gt_chunk": "P: like breathing faster than normal, like taking a lot more breaths.\n\nD: I see, OK. Uh, is she having troubles with drooling or your trouble speaking?\n\nP: Uh, no. I haven't noticed that.\n\nD: OK, and does her voice sound normal to you?\n\nP: Yeah, I think her note, her voice hasn't really changed that much.\n\nD: OK, um, with the noticing"
+    },
+    {
+        "whisper_chunk": "the faster rate of breathing is the breathing noisy at all No like she's not wheezing or anything Okay and do you notice any like retraction of the skin between her ribs when breathing So like what do you mean by that Like just So when she's breathing in and out yeah she's generating a lot of force",
+        "gt_chunk": "D: the faster rate of breathing is the breathing noisy at all?\n\nP: Uh, no, like she's not wheezing or anything. \n\nD: OK, and do you notice any like retraction of the skin between her ribs when breathing. \n\nP: Uh so like, uhm, like what do you mean by that? \n\nD: Like just so when she's breathing in and out. Is she generating a lot of force"
+    },
+    {
+        "whisper_chunk": "and effort to really kind of suck in and blow out So you can kind of see maybe some impressions over the ribs Oh no I don't think I've noticed that okay And have you noticed any bluish discoloration around her lips or mouth No Okay and any urinary problems No she's being fine Okay and how has she been sleeping the last few days She",
+        "gt_chunk": "D: and effort to really kind of suck in and blow out so you can kind of see impressions over the ribs. \n\nP: Uh no, I I don't think I've noticed that, no.\n\nD: OK. And, and, have you noticed any blueish discolouration around her lips or mouth?\n\nP: Uh, no.\n\nD: OK, and any urinary problems?\n\nP: Uh, no, she's peeing fine.\n\nD: OK. And how has she been sleeping the last few days?\n\nP: She"
+    },
+    {
+        "whisper_chunk": "hasn't really been sleeping in between the crying and like just being so irritable I think she's just very uncomfortable when she's trying to get to sleep So I would say not like maybe a couple hours for the last few nights Okay any evidence of seizure or limb jerking No not that I noticed nope Okay and have you noticed her being",
+        "gt_chunk": "P: hasn't really been sleeping in between the crying and like just being so irritable. I think she's just very uncomfortable when she's trying to get to sleep, so\nI would say not, like maybe a couple hours for the last few nights. \n\nD: OK. Any evidence of seizure or limb jerking? \n\nP: Uh no, not that I've noticed.\n\nD: No, OK. And and have you notice an her being"
+    },
+    {
+        "whisper_chunk": "like really lethargic at all She's not herself but she's still like pretty active Like she just seems really unhappy and irritated but no she still has energy Okay and is she drinking a lot more fluids or a lot less How is she tolerating oral intake I would say I think she's more on the drier side Like her mouth is very dry her lips are like all cracked",
+        "gt_chunk": "D: like really lethargic at all?\n\nP: Uh, she's not herself and she's still like pretty active, like she's, she just seems really unhappy and irritated. But no, she still has energy.\n\nD: OK. And uh, is she drinking yeah, a lot more fluids or or a lot less? How is she tolerating oral intake?\n\nP: I would say I think she's more on the dryer side like she, her mouth is very dry. Her lips are like all cracked"
+    },
+    {
+        "whisper_chunk": "down and it seems that she's drinking less water too I see okay And how many wet diapers would you say in the last 24 hours Yeah it's difficult to say I think like yesterday changed four to five times They were all diarrhea so not really sure but maybe around five Okay and have you guys traveled anywhere recently No no we've been here Okay so next just some questions about past medical",
+        "gt_chunk": "P:  it seems that she's drinking\nless water too. \n\nD: I see, OK. And, uh, how many wet diapers would you say in the last 24 hours?\n\nP: Um? Yeah, it's difficult to say. I think I like yesterday changed four to five times. They were all diarrhea, so not really sure, but maybe around 5.\n\nD: OK, and have you guys traveled anywhere recently?\n\nP: No. No, we've been here.\n\nD: OK, so next just some questions about past medical"
+    },
+    {
+        "whisper_chunk": "history Has she had any medical problems in the past The only thing I could think of was after she was born she had to be given the light treatment for my jaundice but after that no other problems Okay any prior surgeries No Any previous hospitalizations No just the light treatment but other than that nothing Okay and throughout pregnancy were there any complications",
+        "gt_chunk": "D: history. Uh, has she had any medical problems in the past?\n\nP: The only thing I could think of was after she was born, she had to be given the light treatment for like jaundice, but after that no other problems.\n\nD: OK. And any prior surgeries?\n\nP: No. \n\nD: Any previous hospitalizations?\n\nP: No, just the light treatment, but other than that nothing.\n\nD: OK, and throughout pregnancy were there any complications"
+    },
+    {
+        "whisper_chunk": "No my pregnancy was completely normal No complications during the pregnancy Okay so no gestational diabetes or hypertension No Okay and were you sick at all at any point with infectious symptoms No everything came back clear All the tests were normal Okay and any allergies to medications No allergies Okay and is she currently taking any medications No",
+        "gt_chunk": "P: No, my pregnancy was completely normal. No complications during the pregnancy. \n\nD: OK, so no gestational diabetes or hypertension?\n\nP: Uh, no.\n\nD: OK and uh, were you sick at all at any point with infectious symptoms?\n\nP: No, everything came back clear. All the tests were normal.\n\nD: OK, and um. Any allergies to medications?\n\nP: No allergies.\n\nD: OK, and is she currently taking any medications? \n\nP: No"
+    },
+    {
+        "whisper_chunk": "just tried the Tylenol but it didn't really seem to work Okay and has she been around anybody sick recently Just her big brother who goes to daycare was also like a bit sick with a cough and some runny nose for the last four days but he didn't have a fever and he seemed to recover pretty fast but it seems she may have caught it from him Okay and anybody in the family have any similar symptoms",
+        "gt_chunk": "P: just tried the Tylenol but it didn't really seem to work.\n\nD: OK, and has she been around anybody sick recently?\n\nP: Just her big brother who goes to daycare was also like a bit sick with a cough and some runny nose for the last four days. But, uhm, he didn't have a fever and he seemed to recover pretty fast but seems she may have caught it from him.\n\nD: OK, and anybody in the family um, have any similar symptoms"
+    },
+    {
+        "whisper_chunk": "right now I guess besides her brother No just her and her brother Okay and in regards to birth history was it a vaginal delivery or a C section It was a normal vaginal delivery at 38 weeks There were no problems after the delivery or a C section Okay and are immunizations up to date Yeah all our",
+        "gt_chunk": "D: right now? I guess besides her brother?\n\nP: No, just just her and her brother.\n\nD: OK. And, and in regards to birth, birth history, was it a vaginal delivery or C-section?\n\nP: It was a normal vaginal delivery at 38 weeks there were no problems after the delivery or before the delivery.\n\nD: OK, and uh are her immunizations up to date?\n\nP: Yeah uh, all our"
+    },
+    {
+        "whisper_chunk": "immunizations are up to date Okay and in regards to growth and development have you had any concerns No we've been getting her checked regularly It seems that she's been growing well and developing well Okay and who is the primary caregiver for her at home Primary caregiver right now I'm staying home with her and her brother goes to daycare so yeah it would be me Okay and",
+        "gt_chunk": "P: immunizations are up to date.\n\nD: OK, and um, in regards to growth and development, have you had any concerns? \n\nP: Uh, no, we've been getting her checked regularly. It seems that she's been growing well and developing well.\n\nD: OK, and who is the primary caregiver for at home?\n\nP: Primary caregiver, right now I'm staying home with her and her brother goes to daycare. So yeah, it would be me.\n\nD: OK."
+    },
+    {
+        "whisper_chunk": "could you tell me about her eating habits and typical appetite So now she's able to eat everything like vegetables fruits breads and meat Over the last few days she has been just irritable with everything so even eating food has just not been great for the last few days Okay and when was her last checkup So it was around one month ago and everything was fine and no concerns from the doctor Okay thank",
+        "gt_chunk": "D: could you tell me about her eating habits and typical appetite?\n\nP: Uh, so now like she is able to eat like everything like vegetables, fruits, breads and meat, but over the last few days she has been just irritable with everything. So even eating food has just not been great for the last few days.\n\nD: OK, and when was her last checkup?\n\nP: So it was around one month ago and everything was fine then. No concerns from the doctor.\n\nD: OK. Thank"
+    },
+    {
+        "whisper_chunk": "you",
+        "gt_chunk": "D: you"
+    }
+]

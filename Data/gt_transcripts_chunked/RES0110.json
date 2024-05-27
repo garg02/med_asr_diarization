@@ -1,0 +1,90 @@
+[
+    {
+        "whisper_chunk": "how may I help you today Hi so for the past week or so I've had this cough and some shortness of breath I feel hot and I just feel kind of fuzzy like I just I can't concentrate on things very well I get confused sometimes so I thought I'll come to",
+        "gt_chunk": "D: How may I help you today?\n\nP: Hi, um so for the past week or so I've um I've had this cough um and some shortness of breath. I feel hot and I just feel kind of uh fuzzy like I just I can't concentrate on things very well. I get confused sometimes so I thought I'll come to"
+    },
+    {
+        "whisper_chunk": "you to get it checked out Yeah that was a really good idea to come in to get checked out So can you I'll talk I'll ask about each symptom a little bit So starting with the shortness of breath can you tell me how bad the shortness of breath is It's been sometimes it's not so bad some other times it's really bad At first it wasn't that bad but now like I'm having",
+        "gt_chunk": "P: you to get it checked out.\n\nD: Yeah, yeah it's it's that was a really good idea to come in to get checked out. Um so can you uh, I'll talk I'll ask about each symptom a little bit. So starting with the shortness of breath can you um tell me how uh bad the shortness of breath has been?\n\nP: Uh it's been sometimes it's not so bad, some other times it's really bad. Um at first it wasn't that bad, but now like I'm having"
+    },
+    {
+        "whisper_chunk": "a hard time taking a deep breath in It hurts and I just feel like I can't walk like two blocks even before getting short of breath And before this week did you ever feel short of breath before this No nothing like this before Okay and do you feel that the shortness of breath has gotten kind of worse over time Yeah I think so And",
+        "gt_chunk": "P: a hard time taking a deep breath in. Um it hurts and I just feel like I can't walk like 2 blocks even before getting short of breath. \n\nD: And uh before this week how much did, did you ever feel short of breath before this?\n\nP: No, nothing like this before.\n\nD: No, OK. Um do you feel that the shortness of breath has gotten kind of worse over time?\n\nP: Yeah, I think so.\n\nD: And"
+    },
+    {
+        "whisper_chunk": "what about the cough did that start at the same time as the difficulty with breathing It started before the difficulty with breathing Can you is it a dry cough or a wet cough It was a dry cough at first but now I'm seeing some phlegm and it looks kind of yellow Have you seen any blood in this No And are",
+        "gt_chunk": "D: what about the cough? Did that start at the same time as the as the difficulty with breathing?\n\nP: Um it started before the difficulty with breathing.\n\nD: Can you, uh is it a dry cough or a wet cough?\n\nP: Um it was it was a dry cough at first, but now I'm seeing some phlegm um and it looks kind of yellow.\n\nD: Have you seen any blood in the"
+    },
+    {
+        "whisper_chunk": "you hearing any wheezing sounds Yeah a little bit And has the cough sort of improved or gotten worse It's gotten worse Okay And you mentioned you also have a fever Did you check your temperature I did It was like 38 5 this morning",
+        "gt_chunk": "D: you hearing any wheezing sounds? \n\nP: Yeah, a little bit.\n\nD: OK. Um how uh, has the cough sort of improved or gotten worse over time?\n\nP: Um it's it's gotten worse.\n\nD: OK. And you mentioned you also you also have a fever. Did you check your temperature?\n\nP: Um I did I it was like 38.5 this morning"
+    },
+    {
+        "whisper_chunk": "And have you been checking your fever this past week or was that the first time you checked it It's the first time I checked it I've felt hot though in the past and I felt like I had chills Yeah And you're also feeling a little bit fuzzy When did that start And can you explain that a little bit That started about I think like yesterday morning I just feel fuzzy",
+        "gt_chunk": "D: And have you been checking your fever this past week, or was that the first time you, um, checked it?\n\nP: It's the first time I checked it. I I've felt hot though in the past and I've felt like I had chills. \n\nD: Yeah. You're also feeling a little bit fuzzy. When did that start, and can you explain that a little bit?\n\nP: That started about um, I think like yesterday morning. Um I just feel fuzzy"
+    },
+    {
+        "whisper_chunk": "Like I can't concentrate on things as much as I used to be able to And the other day I was cooking something and then I forgot I was cooking it Yeah just a little bit confused Okay Did you leave the stove on No no I had turned it off I just forgot I left like the pot on the stove and made dinner Okay And you feel",
+        "gt_chunk": "P: like I can't concentrate on things as much as I used to be able to. And the other day I uh was cooking something and then I forgot I was cooking it. Um yeah, just a little bit confused.\n\nD: Did you leave the stove on?\n\nP: No, no, I had turned it off. I just forgot I left like the pot on the stove and made dinner.\n\nD: OK, OK and you feel"
+    },
+    {
+        "whisper_chunk": "that this is very new that this has not been going on for weeks or months where you forget things or are having difficulties with concentration No this has never happened before Okay I'm gonna ask you about a couple of other symptoms just to make sure that you don't have any other just get a full picture So do you have a headache at all No no headache Okay Any changes in your vision or your",
+        "gt_chunk": "D:  this is very new, that this has not been going on for weeks or months where you forget things or having difficulties with concentration?\n\nP: No this has never happened before.\n\nD: Uh OK. I'm gonna ask you about a couple of other uh symptoms just to make sure that you don't have any other um, just to get a full picture. So do you have a headache at all?\n\nP: Um no, no headache.\n\nD: OK, any changes in your vision or your"
+    },
+    {
+        "whisper_chunk": "hearing that has been very sudden or that has happened over the past week No Nothing like that Okay Any change in your taste sense of smell No Sense of taste No Okay And any runny nose or congestion A little bit of a runny nose yeah Okay And what's that discharge like What color It's also yellow",
+        "gt_chunk": "D: has that has uh been very sudden or that has happened over the past week?\n\nP: No. \n\nD: Nothing like that, OK. Um any change in your taste, change uh, sense of smell?\n\nP: No.\n\nD: Sense of taste?\n\nP: No.\n\nD: OK uhm and uh any runny nose or congestion? \n\nP: Um a little bit of a runny nose, yeah.\n\nD: And what's that discharge like? What colour?\n\nP: It's also yellow"
+    },
+    {
+        "whisper_chunk": "Any sore throat No no sore throat Okay And any chest pain Yeah It hurts when I try to take a deep breath in When did that start That started about the same time as my shortness of breath Okay And any do you feel like your heart is racing No not really",
+        "gt_chunk": "D:  sore throat?\n\nP: Uhm no, no sore throat.\n\nD: OK. And um any chest pain? \n\nP: Yeah, it hurt hurts when I try to take a deep breath in.\n\nD: When did that start?\n\nP: That started about the same time as my shortness of breath. \n\nD: OK, uhm and uh any uh do you feel like your heart is racing?\n\nP: Um no, not really"
+    },
+    {
+        "whisper_chunk": "no Okay Do you get any chest pain otherwise in this week when you're not trying to take a deep breath No there's no chest pain at rest Where is your chest pain It kind of feels like central to my chest Yeah just in the chest area It doesn't radiate to anywhere else Okay okay Does it get better right away after you sort of stop",
+        "gt_chunk": "P: no\n\nD: OK. Do you get any chest pain otherwise um in this week when you're not trying to take a deep breath?\n\nP: No, there's no chest pain at rest.\n\nD: Where is your chest pain?\n\nP: It kind of feels like central to my chest um uh yeah, just in the chest area, it doesn't radiate to anywhere else.\n\nD: OK OK. Does it get better right away after you um sort of stop"
+    },
+    {
+        "whisper_chunk": "taking that deep stop doing deep breathing No otherwise it doesn't hurt It doesn't Okay very good All right And any belly pain No Any nausea or vomiting No Any changes in your bowel movement like diarrhea or constipation That is new in the past week or two weeks or so No Okay Any difficulties with peeing Do you have any pain or any increase in how often",
+        "gt_chunk": "D: taking that deep, stop doing deep breathing?\n\nP: Uh no otherwise it doesn't hurt.\n\nD: It doesn't hurt, OK good. Um alright, and any uh belly pain?\n\nP: Uh no.\n\nD: Any nausea or vomiting?\n\nP: No.\n\nD: Uh any changes in your bowel movements like diarrhea or constipation that is new in the past week or two weeks or so?\n\nP: No. \n\nD: OK. Um any um difficulties with uh peeing? Do you have uh any pain or any increase in how often"
+    },
+    {
+        "whisper_chunk": "you're going to the bathroom or how urgently you need to get to the bathroom Anything like that No No Okay Any pains in your joints or muscles No Any fatigue in the past week Yeah I've been feeling tired Any weight loss recently No Okay Any night sweats Do you feel like you're drenched in sweat at night No No night sweats but I do feel chills Yeah",
+        "gt_chunk": "D: you're going to the bathroom, or how um urgently you need to get to the bathroom? Anything like that?\n\nP: No. \n\nD: No, OK. Any pains in your joints or muscles?\n\nP: Uh no.\n\nD: Any fatigue uh in the past week?\n\nP: Yeah, I've been feeling tired.\n\nD: Um any um any weight loss recently?\n\nP: Uh no.\n\nD: OK, any um night sweats? Do you feel like you're drenched in sweat at night?\n\nP: Um no, no night sweats, but I do feel chills.\n\nD: Yeah"
+    },
+    {
+        "whisper_chunk": "And any swelling in your belly or your feet and your legs No Okay Okay Can you tell me about any medical conditions that you have I had CBT two years ago I have diabetes for which I am",
+        "gt_chunk": "D: and any swelling in your your belly or your um in your feet, in your legs?\n\nP: No.\n\nD: No, OK. OK uhm can you tell me about any uh medical conditions that you might have?\n\nP: Um sure I had a DVT uh two years ago. I have diabetes, for which I am"
+    },
+    {
+        "whisper_chunk": "on insulin And I have hypothyroid Okay I've got to say it's quite impressive that you know the word CBT Most patients don't know that I've had a blood clot So are you on any medications other than the insulin Yeah so I'm on insulin and I'm on thyroid I'm on aspirin as well like baby aspirin Have you ever had any COPD No Ever been diagnosed with asthma",
+        "gt_chunk": "P: on insulin. And I have hypothyroid.\n\nD: OK. I've got to say it's quite impressive that you know uh the word DVT, most patients don't know that.\n\nP: I've had a blood clot.\n\nD: Any um, so are you on any medications uh other than the insulin?\n\nP: Um yeah, so I'm on insulin and I'm on Synthroid. I'm on aspirin as well, like baby aspirin.\n\nD: Have you ever had any um COPD?\n\nP: No.\n\nD: Ever been diagnosed with asthma"
+    },
+    {
+        "whisper_chunk": "No Heart attack or any heart related problems No Okay Okay Have you had any hospitalizations in the past No Actually sorry I have for the DVT Yeah Yeah Yeah I see Any surgeries No No surgeries Okay What caused your DVT Do you remember or do you know I was flying back from somewhere and I got off the plane and I guess they",
+        "gt_chunk": "P: No \n\nD: Heart attack or any heart related problems? \n\nP: No.\n\nD: OK, OK. Um has, have you had any hospitalizations in the past?\n\nP: Um no. Actually sorry, I have, for the DVT.\n\nD: Yeah, yeah, yeah, I see. Any surgeries?\n\nP: Uh no, no surgeries. \n\nD: OK. Um what what caused your DVT? Do you remember or do you know?\n\nP: Uh I was, I was flying somewhere. I was well, I was flying back from somewhere and I got off the plane and um I guess they"
+    },
+    {
+        "whisper_chunk": "found blood clots I see I see Okay Any allergies Do medications environmental allergies food allergies anything No I don't think so Okay And I forgot to ask in terms of your medications are you taking anything over the counter any herbal pills any vitamins et cetera Just some calcium vitamin D Oh that's great Yeah that's great Yeah that's very important for women above the age of 65 I think 50",
+        "gt_chunk": "P: found uh blood clots.\n\nD: I see, I see. OK. Any allergies to medications, environmental allergies, food allergies, anything?\n\nP: Uh no, I don't think so.\n\nD: OK. And I forgot to ask in terms of medications, are you taking anything over the counter? Any herbal pills, any vitamins, etc.\n\nP: Just some um calcium, vitamin D.\n\nD: Well, that's great.\n\nP: Yeah.\n\nD: That's great. Uh yeah, that's very important that you know for women um um above the age of 65, I think, 50"
+    },
+    {
+        "whisper_chunk": "Okay So in terms of your situation are you living with someone Are you living alone I live with my husband Okay And is there anybody else in the house any pets animals No we don't have any pets or animals And are you able to take care of things like dressing changing going to the bathroom on your own Do you need help No I am pretty independent Okay What about things like groceries or taking care of finances",
+        "gt_chunk": "D: OK, so in terms of your living situation, are you living with someone? Are you living alone?\n\nP: Um I live with my husband. \n\nD: OK, and are you, um, is there anybody else in the house? Any pets, animals?\n\nP: Uh no, we don't have any pets or animals.\n\nD: And uh are you able to take care of things like uh dressing, uh changing, going to the bathroom on your own? Do you need help?\n\nP: Uh no, I am pretty independent.\n\nD: What about things like groceries or taking care of finances"
+    },
+    {
+        "whisper_chunk": "No I'm pretty independent in that aspect as well Okay that's wonderful Have you had any recent travels No I've been trying to stay at home because of COVID That's good And do you think any exposures to anyone who could possibly be sick for you or your husband I mean we do laundry at a laundromat But other than that no Okay Okay All right Well I think I",
+        "gt_chunk": "P: no, I'm pretty independent in in that aspect as well.\n\nD: OK, that's wonderful. Um have you had any recent travels?\n\nP: No, I've been trying to stay at home because of Covid.\n\nD: That's good. Um and any, do you think any exposures to anyone who could possibly be sick? For you or your husband?\n\nP: Um I mean we we do laundry at a laundromat. Um but other than that, no.\n\nD: OK. Um OK. Uh alright, well I think I"
+    },
+    {
+        "whisper_chunk": "have all the information I need today Let me go talk to my preceptor And we'll come and do physical exams and listen to your chest and do a few lab tests to draw your blood and do a chest x ray likely And then go from there It sounds like with the fuzzy feeling the fevers the difficulties breathing I think it would be a good idea for you to stay here for a couple of days maybe But we'll let you know",
+        "gt_chunk": "D: have all the information I need today. Um let me go talk to my my preceptor and we'll come and do physical exams and listen to your chest and uh do a few uh lab tests to draw your blood and do a chest X Ray likely and then um uh go from there. You, it sounds like um sounds like with the with the fuzzy feeling, the fevers, the difficulties breathing, I think it would be a good idea for you to stay here for a couple of days maybe, but we'll um we'll let you know"
+    },
+    {
+        "whisper_chunk": "what happens and what the results show I'm really glad that you decided to come in today Do you have any questions for me No thank you so much So the likely diagnosis is pneumonia either bacterial or viral But given yeah could be either Okay Do I still need to isolate in this case Oh that's very true Yep Yep So well you will be in the hospital So yeah you do We will be we will be",
+        "gt_chunk": "D: what happens and what the results show. I'm really glad that you decided to come in today. Do you have any questions for me?\n\nP: Um no, thank you so much.\n\nD: Welcome. Um so the likely diagnosis is um a pneumonia, either bacterial or viral, but given yeah, yeah could be either, OK. \n\nP: Do I still need to isolate in this case?\n\nD: Oh that's very true. Yep, Yep uh so.\n\nP: OK. \n\nD: Well, you will be in the hospital, so yes you do. We will be we will be"
+    },
+    {
+        "whisper_chunk": "doing a COVID test But that's a really good point Because your symptoms do overlap with COVID symptoms We will also have you in an isolated room away from other patients until your COVID swabs are back And we will follow the guidelines put forth by public health Okay sure",
+        "gt_chunk": "D: doing a Covid test, but that's a really good point um uh because your symptoms do overlap with Covid symptoms um we will also uh have you in an isolated room away from other patients until your Covid swabs are back and we know whether um, yeah, we'll follow the guidelines um put forth by the public health. \n\nP: OK, sure"
+    }
+]

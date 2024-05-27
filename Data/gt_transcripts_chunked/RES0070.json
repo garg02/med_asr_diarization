@@ -1,0 +1,62 @@
+[
+    {
+        "whisper_chunk": "I was wondering if we could start with you telling us what brought you in today Yeah absolutely I have had this awful awful headache for the past two days I want to say It's horrible Okay Has the headache um uh stayed the same gotten worse gotten any better Um it's only gotten worse over the past two days Okay And when the headache started was it uh like a thunderclap kind of worst headache",
+        "gt_chunk": "D: : What brought you in today?\n\nP: Yeah absolutely. I have had this awful, awful headache for the past, two days I wanna say, its horrible.\n\nD: OK, has the headache, uhm, stayed the same, gotten worse, gotten any better?\n\nP: It's only gotten worse over the past two days.\n\nD: OK, and when the headache started, was it like a thunder clap, kind of worst headache"
+    },
+    {
+        "whisper_chunk": "of your life when it came on No no no no Was there anything going on uh two days ago around the time of the headache Like did you hit your head or anything like that No I just uh I just went out for dinner the night before and I know that there are certain foods that um can trigger my migraines but this really feels different It doesn't feel like my migraine Okay Um and uh have you had any other associated symptoms",
+        "gt_chunk": "D: of your life when it came on? \n\nP: No, no.\n\nD: OK. Was there anything going on two days ago around the time of the headache, like did you hit your head or anything like that?\n\nP: No, I just, uhm, I just went out for dinner, the night before and I know that there are certain foods that can trigger my migraines, but this really feels different. It doesn't feel like my migraine.\n\nD: OK. Uhm, and have you had any other associated symptoms"
+    },
+    {
+        "whisper_chunk": "um with the headache I've been feeling really tired I uh took the day off uh yesterday and today Um I'm working from home but I still decided not to um get any work done today Or yesterday Okay Um and the fatigue when did that start I think that started yesterday morning Okay Um and uh sorry back to the headache have you tried",
+        "gt_chunk": "D: , with the headache.\n\nP: I've been feeling really tired. I took the day off yesterday and today, I'm working from home, but I still decided not to get any work done today or yesterday. \n\nD: OK. Uhm, and the fatigue, when did that start?\n\nP: I think that started yesterday morning.\n\nD: OK. And sorry, back to the headache. Have you tried"
+    },
+    {
+        "whisper_chunk": "anything for it I um I took Tylenol and Advil but uh I guess it did get better for about an hour a little bit but uh it was back on again after Okay And could you describe um like where you feel the headache Sure yeah so it's like right in the front It just kind of feels like a band just like this pressure uh in the front of my head Okay And has there been anything that's made the headache worse like lights or or sounds",
+        "gt_chunk": "D: anything for it?\n\nP: I took Tylenol and Advil, but, I guess it did get better for about an hour a little bit, but it was back on again. \n\nD: OK. And could you describe like where you feel the headache?\n\nP: Sure, yeah, so it's like right in the front. Just kind of feels like a band, just like this pressure in the front of my head.\n\nD: OK, and has there been anything that's made the headache worse, like lights or, or sounds"
+    },
+    {
+        "whisper_chunk": "No no like I said it's like nothing like my usual migraine headaches Okay And I mean the Advil or Tylenol it helps the symptoms for a brief period but has there been anything else that's helped your headache Um no not really Okay And is there any particular time of the day that the headache's worse like is it in the morning time when you're first waking up or um later in the day I don't think so Okay",
+        "gt_chunk": "P: No, no, like I said it's like nothing like my usual migraine headaches.\n\nD: OK. And, I mean, the Advil or Tylenol, It helps the symptoms for a brief period, but has there been anything else that's helped your headache?\n\nP: No, not really. \n\nD: OK. And is there any particular time of the day that the headache's worse, like, is, in the morning time when you're first waking up or later in the day?\n\nP: I don't think so.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And have you had any nausea or vomiting No Okay Um and have you had any uh like visual changes No Okay Um and have you had a runny nose or a sore throat Um I've had a bit of a sore throat Okay Have you have you had a cough Yeah but honestly the headache's been bothering me the most Okay And",
+        "gt_chunk": "D: And have you had any nausea or vomiting? \n\nP: No.\n\nD: OK. And have you had any, like visual changes?\n\nP: No. \n\nD: OK. Uhm, and have you had a runny nose or a sore throat?\n\nP: Uhm, I've had a bit of a sore throat.\n\nD: OK, have you, have you had a cough?\n\nP: Yeah, but honestly the headache's been bothering me the most.\n\nD: OK, and"
+    },
+    {
+        "whisper_chunk": "when did the cough start Um about the same time Okay Maybe two days ago Okay And uh have you had any neck stiffness Does it hurt if you if you move your neck around No no nothing like that Okay Um and with the with the cough have you had any difficulties breathing or shortness of breath Um maybe a little bit Okay How about any wheezing No",
+        "gt_chunk": "D: when did the cough start?\n\nP: About the same time.\n\nD: OK.\n\nP: Maybe two days ago.\n\nD: OK, and have you had any neck stiffness? Does it hurt if you, if you move your neck around?\n\nP: No, nothing like that.\n\nD: OK, uh and with the, with the cough, have you had any difficulties breathing or shortness of breath?\n\nP: Maybe a little bit. \n\nD: OK, how about any wheezing?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay Um have you been bringing up any sputum with the cough No Okay How about any any any blood Nope Okay Um and have you had any changes to your sense of smell No Any um changes to your sense of taste Mm no Okay Um and have you had any um changes to your weight recently over the last several",
+        "gt_chunk": "D: OK. Have you been bringing up any sputum with the cough? \n\nP: No.\n\nD: OK, how about, any, any blood?\n\nP: No.\n\nD: OK. And have you had any changes to your sense of smell? \n\nP: No.\n\nD: Any changes to your sense of taste?\n\nP: No. \n\nD: OK. Uh, and have you had any changes to your weight recently over the last several"
+    },
+    {
+        "whisper_chunk": "months I don't think so All right And how's your appetite been Um it's fine Fine Any chest pain No Okay Um any lightheadedness or or feeling dizzy No no All right Any nausea or vomiting Nope All right Any um uh diarrhea Nope Any urinary problems Nope How about uh have you had any muscle aches or joint pains A little bit Okay Any rashes anywhere No",
+        "gt_chunk": "D: months? \n\nP: I don't think so.\n\nD: Alright, and how is your appetite been?\n\nP: Uhm, it's fine. \n\nD: Any chest pain?\n\nP: No.\n\nD: OK. Uhm any lightheadedness or, or feeling dizzy?\n\nP: No, no. \n\nD: Alright. Any nausea or vomiting?\n\nP: No.\n\nD: Any diarrhea? \n\nP: No.\n\nD: Any urinary problems?\n\nP: No\n\nD: How about , uh, have you had any muscle aches or joint pains? \n\nP: A little bit.\n\nD: OK. And any rashes anywhere?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "no no Okay Um and have you been diagnosed with any medical conditions before Um I have uh I have migraines and uh I uh um also have um polymyalgia rheumatica Okay Okay Are you taking any medications currently No For either of those Okay No Um",
+        "gt_chunk": "P: no, no.\n\nD: OK. And have you been diagnosed with any medical conditions before? \n\nP: Uhm, I have, uh, I have migraines and uh, I also have Polymyalgia rheumatica.\n\nD: OK. Are you taking any medications currently, for either of those?\n\nP: No."
+    },
+    {
+        "whisper_chunk": "and have you had any hospitalizations No Okay Uh any surgeries No Okay Um and um uh do you smoke cigarettes No Uh drink alcohol No Okay And uh use any other um use any recreational drugs No Okay Okay Um and um any family history of um similar symptoms like like um",
+        "gt_chunk": "D: And have you had any hospitalizations?\n\nP: No. \n\nD: OK, any surgeries?\n\nP: No. \n\nD: OK, and, uh, do you smoke cigarettes?\n\nP: no.\n\nD: Drink alcohol?\n\nP: No.\n\nD: OK and do you use any other, use any recreational drugs?\n\nP: No.\n\nD: OK. And any family history of similar symptoms like, like,"
+    },
+    {
+        "whisper_chunk": "unusual headaches or anything like that Uh well migraines kind of run in the family Migraines Okay Yeah Um and any uh heart conditions or cancers or anything like that in the family No no no Okay Um and um have you been around anybody who's been sick recently You went out for uh dinner a couple days ago Yeah Um I don't think anyone was sick Okay",
+        "gt_chunk": "D: unusual headaches or anything like that?\n\nP: Well, migraines kinda run in the family.\n\nD: Migraines, OK.\n\nP: Yeah.\n\nD: And any heart conditions or cancers or anything like that in the family?\n\nP: No no no. \n\nD: OK. And have you been around anybody who's been sick, recently? You went out for dinner a couple days ago.\n\nP: Yeah, uhm, I don't think anyone was sick.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And you didn't feel as though you had any triggers to your um migraines at that time No I didn't I did yeah so I I did meet up with my friend and we went out for dinner I know we're not supposed to but it's been such a long time Yeah I don't think they were sick at the time but uh I haven't really talked to them after Okay Um have you traveled anywhere No No All right Um and sorry I don't think I asked did you have a fever",
+        "gt_chunk": "D: And you didn't feel that you had any triggers to your migraines at that time?\n\nP: No, I didn't. I did yes, I, I did meet up with my friends and we went out for dinner. I know we're not supposed to, but it's been such a long time. \n\nD: Yeah.\n\nP: I don't think they were sick at the time, but I haven't really talked to them after.\n\nD: OK. Have you traveled anywhere?\n\nP: No.\n\nD: Alright. And so I don't think I asked, did you have a fever"
+    },
+    {
+        "whisper_chunk": "or or chills No not really Oh okay Um so uh the symptoms you've been experiencing uh you've had a headache that's been the most bothersome these these last uh couple of days which feels different than your migraines Mm hmm Uh but you've also had a sore throat um a cough shortness of breath uh as well as a little bit of um muscle aches and fatigue over these last couple of days Is there anything else No No I don't think so Okay",
+        "gt_chunk": "D:  or chills?\n\nP: No, not really.\n\nD: Oh OK. Uhm, so the symptoms you've been experiencing, you've had a headache that's been the most bothersome these, these last couple of days, which feels different than your migraines but you've also had a sore throat, a cough, shortness of breath as well as a little bit of muscle aches and fatigue over these last couple of days.\n\nP: Yeah that sounds right.\n\nD: Is there anything else?\n\nP: No, no, I don't think so.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Uh so um I'm going to uh I guess we'll get um the attending and we'll go through a physical exam uh and uh get some investigations ordered so that we can uh try to figure out what's what's going on Okay Okay Thank you All right You're welcome",
+        "gt_chunk": "D:  so, I'm going to get the attending and we'll go through a physical exam and get some investigations ordered so that we can try to figure out what's going on, ok.\n\nP: OK, thank you.\n\nD: You're welcome"
+    }
+]

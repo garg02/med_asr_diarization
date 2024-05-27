@@ -1,0 +1,118 @@
+[
+    {
+        "whisper_chunk": "What brings you in Well I've had this cough but the biggest issue is that I've been really short of breath Okay When did the cough start I would say about three days ago Three days ago okay And around that time did you also start feeling short of breath The shortness of breath has come on within I don't know the last day or so It came on after the cough started first Okay And the cough are you is it a dry cough",
+        "gt_chunk": "D: What brings you in? \n\nP: Well, I've had this cough but the biggest issue is that I've been really short of breath.\n\nD: OK, um, when did the cough start?\n\nP: I would say about 3 days ago.\n\nD: Three days ago, OK, and uh, around that time did you also start feeling short of breath? \n\nP: Uh, the shortness of breath has come on, I don't know within the last day or so. It's come on after that, the cough started first.\n\nD: OK, and the cough, is it a dry cough"
+    },
+    {
+        "whisper_chunk": "or is it a wet cough Well I've been bringing up some yellowish green kind of phlegm so I guess a wet cough Okay so yellowish green you said Yeah Okay Any blood in the sputum I haven't noticed any blood Okay And how much sputum are you coughing up each time Is it kind of the size of your fingertip or does it fill your whole palm Yeah probably more",
+        "gt_chunk": "D: or is it a wet cough? \n\nP: Well, I've been bringing up some yellowish green, kind of like phlegm, so um I guess a wet cough.\n\nD: OK, so yeah, yellowish green you said.\n\nP: Yeah. \n\nD: OK, any blood in the sputum?\n\nP: I haven't noticed any blood. \n\nD: OK, and how much sputum are you coughing up each time? Like is it kind of the size of your fingertip or does it fill your whole palm?\n\nP: Um, yeah, probably more"
+    },
+    {
+        "whisper_chunk": "like the size of a thumbtip Okay Okay And do you notice any pus or froth in the sputum Nothing like that I noticed Okay And if you were to describe the sound of your cough does it sound like it's brassy barking or like a hacking cough I don't know I guess hacking Okay All right And do you hear any wheezing at",
+        "gt_chunk": "P: like the size of like a thumb tip.\n\nD: OK, OK um, and do you notice any, like pus or froth in the sputum?\n\nP: Nothing like that I noticed.\n\nD: OK, and if you were to describe the sound of your cough, does it sound like it's barky or like a hacking cough?\n\nP: I don't know, I guess hacking.\n\nD: Alright, and do you hear any wheezing at"
+    },
+    {
+        "whisper_chunk": "all No Well maybe I guess when I'm really short of breath a bit of wheezing yeah Okay And the shortness of breath how severe is it one to ten ten being the worst Maybe a seven A seven Okay Are you having issues sleeping because of your shortness of breath Well I can't tell if it's that or the cough I mean between those two things it's been definitely interrupting my sleep Okay And do you find there are any triggers",
+        "gt_chunk": "D: all? \n\nP: No, well, maybe I guess when I'm really short of breath, yeah, wheezing, yeah. \n\nD: OK, and the shortness of breath, how severe is it? 1 to 10, 10 being the worst?\n\nP: Maybe a 7? \n\nD: At seven OK, are you having issues sleeping because of your shortness of breath?\n\nP: Uh, well I can't tell if it's that or the cough. I mean between those two things it's been definitely interrupting my sleep.\n\nD: OK, and do you find there are any triggers"
+    },
+    {
+        "whisper_chunk": "to your coughing like the cold particular time of the day triggers like you know pollen or things in your environment like pets No the cough has just been kind of going on all day right when I get up in the morning and goes on all night It's been getting worse too these last few days Okay yeah Yeah that doesn't sound great In terms of your shortness of breath do you find that certain positions make it worse or",
+        "gt_chunk": "D: to your coughing like like um, a particular time of the day? Triggers like you know pollen or things in your environment like pets?\n\nP: No the cough has been kind of going on all day. Um, right when I get up in the morning and goes on all night, it's been getting worse to these last few days.\n\nD: OK yeah, um yeah, that doesn't sound great in terms of your shortness of breath. Do you find that certain positions make it worse? Or"
+    },
+    {
+        "whisper_chunk": "like exerting yourself makes it worse Not really Okay And have you ever experienced anything like this in the past No I haven't Okay And any other symptoms that you have along with your coughing and sputum as well as shortness of breath Well I just haven't felt good like tired kind of weakish Okay yeah Along with your you know fatigue",
+        "gt_chunk": "D: like exerting yourself makes it worse?\n\nP: Um, not really.\n\nD: OK, and have you ever experienced anything like this in the past?\n\nP: No, I haven't. \n\nD: OK. And any other symptoms that you have along with your coughing and sputum?\n\nP: As soon as I breath, well, I just haven't felt good like, tired, kind of weakish. \n\nD: OK yeah um, along with your fatigue"
+    },
+    {
+        "whisper_chunk": "and feeling weak have you experienced any dizziness or fainting spells No dizziness and I haven't fainted or anything like that Okay Any confusion or memory loss No concerns with my memory Okay How about muscle aches or any sort of body aches Yeah maybe a bit I'm kind of achy and weak Yeah",
+        "gt_chunk": "D: and feeling weak, have you experienced any dizziness or fainting spells?\n\nP: No dizziness and I haven't fainted or anything like that.\n\nD: OK, any confusion or memory loss?\n\nP: No concerns with my memory.\n\nD: OK. And how about um, muscle aches or any sort of body aches?\n\nP: Alright, yeah, maybe a bit, kind of, and weak.\n\nD: Yeah"
+    },
+    {
+        "whisper_chunk": "All right So let's go back to your shortness of breath Do you have any chest pain associated with that No Okay And do you ever feel like your heart's racing No nothing like that Okay And how about changes to your bowel movements No those have been normal I haven't had any diarrhea or constipation Okay And no blood in your stool I haven't noticed any blood",
+        "gt_chunk": "D: alright, so let's go back to your shortness of breath. Do you have any chest pain associated with that?\n\nP: Uh, no.\n\nD: OK, and do you ever feel like your heart's racing?\n\nP: No, nothing like that.\n\nD: OK, and how about changes to your bowel movements?\n\nP: No, those have been normal. I haven't had any diarrhea or constipation.\n\nD: OK and no blood in your stool?\n\nP: I haven't noticed any blood"
+    },
+    {
+        "whisper_chunk": "no Okay How about abdominal pains Yeah I don't know Yeah my belly's been a bit achy maybe Okay How about a sore throat No my throat's felt okay Okay good And have you experienced any loss of taste No loss of taste but I've noticed yeah my smell's been kind of funny Your smell's been kind of funny Like you can't smell or do things smell differently than you expect them to Yeah there was a candle on earlier",
+        "gt_chunk": "P: no.\n\nD: OK, how about abdominal pains?\n\nP: Oh yeah, I don't know why, yeah, my belly's been a bit achy maybe.\n\nD: OK, and how about a sore throat?\n\nP: No, my throat felt OK. \n\nD: OK, good and have you experienced any loss of taste?\n\nP: No loss of taste, but I've noticed, yeah, my smell has been kind of funny.\n\nD: Your smell has been kind of funny, like you can't smell or do things smell differently than you expect them to?\n\nP: Yeah, there was a candle on earlier"
+    },
+    {
+        "whisper_chunk": "today and I guess I couldn't really smell it so I guess I haven't been able to smell Okay Do you have a runny nose or a blocked nose No I haven't had to blow my nose or anything Okay Any changes in your vision or hearing No that's been normal Okay Any discharge or pain in your eyes or ears No that's been okay Okay And then any changes to your urine No I haven't had any pain",
+        "gt_chunk": "P: today and I guess I couldn't really smell it, so I guess I haven't been able to smell.\n\nD: Ok, do you have a runny nose or a blocked nose?\n\nP: No, I haven't had to blow my nose or anything. \n\nD: OK, any changes in your vision or hearing?\n\nP: No, that's been normal. \n\nD: OK, any discharge or pain in your eyes or ears?\n\nP: No, that's been OK.\n\nD: OK, and then any changes to your urine?\n\nP: No, I haven't had any pain"
+    },
+    {
+        "whisper_chunk": "or anything like that Okay And are you otherwise healthy Do you have any medical conditions Yeah I have atrial fibrillation and I do take metoprolol for that Okay How long have you had AFib It was like four years ago I think I",
+        "gt_chunk": "P: or anything like that.\n\nD: OK, and are you otherwise healthy? Do you have any medical conditions?\n\nP: Yeah, I have atrial fibrillation. And I do take Metoprolol for that.\n\nD: OK, how long have you had A. fib?\n\nP: It was like 4 years ago I think"
+    },
+    {
+        "whisper_chunk": "felt like my heart was racing you were asking about earlier and they did an ECG and I was told I had atrial fibrillation So yeah I've been on a beta blocker for three years now Okay Four years I think Okay And when was the last time you had an ECG Maybe just a couple of months ago I think every time that I come in to see my family doctor they do one Okay okay",
+        "gt_chunk": "P: felt like my heart was racing you were asking about earlier and they did an ECG and I was told I had atrial fibrillation. So yeah, I've been on a beta blocker for three years now.\n\nD: OK, four years, and when was the last time you had an ECG? \n\nP: Uh, maybe just a couple of months ago. I think every time that I come in to see my family doctor, they they do one.\n\nD: OK,"
+    },
+    {
+        "whisper_chunk": "And the last time that it was done it was normal Yeah my heart rate's been around 80 beats per minute which is good and I haven't had any symptoms so things have been stable Okay good And then have you had any hospitalizations or surgeries in the past I had an inguinal hernia repair about 15 years",
+        "gt_chunk": "D: and the last time that it was done, was it normal?\n\nP:Yeah, they said yeah. My heart rate's been around 80 beats per minute which is good and I haven't had any symptoms so things have been stable.\n\nD: OK, good. And then have you had any hospitalizations or surgeries in the past?\n\nP: I had an inguinal hernia repair about 15 years"
+    },
+    {
+        "whisper_chunk": "ago Okay okay Any complications from that No No okay And then besides the metoprolol are you on any other medications Oh yeah I take a statin and baby aspirin Okay And is that for the AFib as well the aspirin Or is that just for other cardiovascular issues or some sort of preventative",
+        "gt_chunk": "P: ago. \n\nD: OK, any complications from that?\n\nP: Um no. \n\nD: OK, and then besides the Metoprolol, are you on any other medications?\n\nP: Oh yeah, I take a statin and baby aspirin. \n\nD: OK, and is that for the A. fib as well, the aspirin? Or is that just for other cardiovascular issues or some sort of preventative"
+    },
+    {
+        "whisper_chunk": "measure Yeah I heard it was good for people who have atrial fibrillation so I started taking it Okay Okay let's revisit your medications at the end of today's session I just want to make sure that you're on the correct medications and I just want to make sure you're on the right dose and that it's not a contraindication to",
+        "gt_chunk": "D: measure?\n\nP: Yeah, I heard it was good for people who have atrial fibrillation so I started taking it.\n\nD: OK. and let's revisit your medications at the end of today's session. I just want to make sure that you're on the medications and I just want to make sure you're on the right dose.  Does that sound"
+    },
+    {
+        "whisper_chunk": "your AFib Does that sound good Yeah certainly Okay great Okay so we talked about your past medical history and medications We'll talk a little bit about any allergies that you have if you have any I think a sulfa allergy Received an antibiotic like that many years ago and had a rash Okay okay And have you had any reason to suspect that you may have taken any sulfas",
+        "gt_chunk": "D: .  Does that sound good?\n\nP: Yeah, certainly.\n\nD:OK great. And ok, so we talked about your past medical history and medications. We will talk a little bit about any allergies that you have, if you have any.\n\nP: I think it's like a sulfa allergy. I received an antibiotic like that many years ago and had a rash.\n\nD: OK, OK and have you had any reason to suspect that you may have taken any sulfas"
+    },
+    {
+        "whisper_chunk": "recently No I haven't had any antibiotics or really no changes to the routine either Okay okay good And are you up to date with all your immunizations I am yeah I've received the Zostavax vaccine for shingles and also the one for pneumonia Okay good good Yeah those two we definitely recommend",
+        "gt_chunk": "D: recently?\n\nP: No, I haven't had any antibiotics so no, really no changes.\n\nD: OK, OK, good and are you up to date with all your immunizations? \n\nP: I am yeah. I've received the Zoster vaccine for shingles and also the one for pneumonia.\n\nD: OK, good, good yeah, those two we definitely recommend"
+    },
+    {
+        "whisper_chunk": "if you're over 65 Okay and do you know of any family history of lung conditions or heart conditions No well I think my aunt had lung cancer but she smoked her entire life Okay okay And how about other cancers No other cancers Okay And have you been in touch or do you think you've been in contact with anyone sick recently Well",
+        "gt_chunk": "D: if you're over 65. OK, and do you know of any family history of lung conditions or heart conditions?\n\nP: No, I think my aunt had lung cancer but she smoked her entire life.\n\nD: OK, OK and how about other cancers?\n\nP: No other cancers.\n\nD: And have you been in touch or do you think you've been in contact with any anyone sick recently?\n\nP: Well"
+    },
+    {
+        "whisper_chunk": "I visited my mother at a long term care facility just this past weekend So I guess about just over a week ago I visited there Okay And have there been any COVID outbreaks at the long term care Yeah there has been I thought I was away from those areas but I have heard",
+        "gt_chunk": "P: I visited my mother at a long term care facility just this past weekend, so I guess about just over a week ago I visited there.\n\nD: OK, and have there been any COVID outbreaks at the long term care?\n\nP: Yeah, there has been, I thought I was like away from those areas but I have heard"
+    },
+    {
+        "whisper_chunk": "about outbreaks there Okay okay And any travel history No travel No travel okay And do you smoke I used to I used to smoke a pack of cigarettes a day but I quit about five years ago or four years ago It was when I found out I had atrial fibrillation I quit Okay okay Well that's good for you for quitting How about marijuana No Well I",
+        "gt_chunk": "P: about outbreaks there.\n\nD: OK, OK and any travel history?\n\nP: No travel. \n\nD: And do you smoke?\n\nP: I used to smoke a pack of cigarettes a day, but I quit about, uh, about five years ago. I know four years ago it was when I found out I had atrial fibrillation. I quit. \n\nD: OK, OK, well that's good. Good for you for quitting. How about marijuana?\n\nP: No, I"
+    },
+    {
+        "whisper_chunk": "don't smoke it but I'll use some edibles I buy from the Ontario stores a couple of times per week Just the CBD stuff The CBD stuff Okay And how many milligrams I'm not sure I know it's their lowest dose though Okay okay If it's the lowest dose it might be 2 5 milligrams You know what That does sound familiar Okay good Is there a particular reason you take these CBD edibles Helps me sleep Okay If",
+        "gt_chunk": "P: don't smoke it, but I'll use some edibles I buy from the Ontario stores a couple of times per week. Just the CBD stuff. \n\nD: The CBD stuff OK. And how many milligrams?\n\nP: I'm not sure, I know it's their lowest dose though.\n\nD: OK, OK if it's lowest dose, it might be 2.5 milligrams.\n\nP: Sounds familiar. \n\nD: OK good. Is there a particular reason you take these CBD edibles?\n\nP: It helps me sleep.\n\nD: OK, if"
+    },
+    {
+        "whisper_chunk": "it's specifically to help you sleep we can actually try and see if there are other options for you You know there are pills like there are sleep aids or even things like melatonin that can help regulate your sleep So we can revisit other options for you if you're open to that as well Okay for sure Yeah I will Yeah we can talk about that later Okay that sounds good And do you do any other recreational drugs I do not",
+        "gt_chunk": "D: it's specifically to help you sleep, we can actually try and see if there are other options for you. You know there are pills, like they are sleep aids. Or even things like melatonin that can help regulate your sleep so we can revisit other options for you if you're open to that as well.\n\nP: OK for sure. Yeah I will. Um, yeah we can talk about that later.\n\nD: OK, that sounds good and do you do any other recreational drugs?\n\nP: I do not"
+    },
+    {
+        "whisper_chunk": "Okay How about alcohol No I don't drink anymore Okay Did you used to heavily drink before No I just stopped a few years ago Okay And what's your living situation like right now I live in a house with my wife In a house Okay Any concerns for like old carpets mold or asbestos in your house No we've renovated it over the years Okay",
+        "gt_chunk": "D: OK, how about alcohol?\n\nP: Uh, no, I don't drink anymore. \n\nD: OK, and did you used to drink before?\n\nP: Yes, I just stopped a few years ago,\n\nD: OK, and what's your living situation like right now?\n\nP: I live in a house with my wife. \n\nD: In a house, OK. Any concerns for like old carpets, mold or asbestos in your house?\n\nP: No, we've renovated it over the years.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "good And I apologize but I would like to clarify three more symptoms with you Do you have a fever Did you say you felt like you had a fever earlier Maybe I'm feeling a little hot but it's been really more the cough and shortness of breath that's been bugging me Okay Well we can take a temperature today just to make sure And have you been feeling like you have night sweats or chills Not really No I haven't",
+        "gt_chunk": "D: good and I apologize, but I would like to clarify three more symptoms with you. Did you say you felt like you had a fever earlier?\n\nP: Um, maybe I've been feeling a little hot, but it's been really more the cough and shortness of breath that's been bugging me.\n\nD: OK, well we can take a temperature today just to make sure. Have you been feeling like you have night sweats or chills?\n\nP: Um, not really. No, I haven't"
+    },
+    {
+        "whisper_chunk": "noticed that Okay And how about any weight loss over the past few months No my weight's been stable Okay All right good So that brings us to the end Do you have any questions or concerns that you would like to clarify before we end the interview No nothing today I was just really hoping to get whatever this is sorted out Yeah you know right now it sounds like it could be an",
+        "gt_chunk": "P: noticed that.\n\nD: OK, and how about, um, any weight loss over the past few months?\n\nP: No, it's been been stable.\n\nD: OK, alright good, so that brings us to the end. Do you have any questions or concerns that you would like to clarify before we end the interview?\n\nP: No, nothing today.  I was just really hoping to get, uh, whatever this is sorted out.\n\nD: Yeah, you know, um, right now it looks like, it sounds like it could be an"
+    },
+    {
+        "whisper_chunk": "upper respiratory viral illness so that includes COVID So we will do a swab for you and then send it off to the lab for PCR results In the meantime because you have symptoms that overlap with COVID symptoms we do encourage isolation for 14 days or until your symptoms are gone And until your symptoms are gone Even if they're",
+        "gt_chunk": "D: upper respiratory viral illness, so that includes COVID.  So we will do a swab for you and then send it off to the lab for PCR results. In the meantime, because you have symptoms that overlap with COVID symptoms, we do encourage isolation for 14 days. Until your symptoms are gone, sorry,  until your symptoms are gone, even if they're"
+    },
+    {
+        "whisper_chunk": "gone we do suggest isolating for 14 days just to make sure you're not a carrier or could spread COVID So we do encourage that and that includes from your husband if possible We will get those results in a day or two If they are positive we will send your results to public health who will be in touch with you to do some contact tracing to see where you may have gotten it from If it's not",
+        "gt_chunk": "D: gone, we do suggest isolating for 14 days just to make sure you're not a carrier or could spread COVID so we do encourage that, and that includes from your husband. If possible, we will get those results in a day or two. If they are positive, we will send your results to public health who will be in touch with you to do some contact tracing to see where you may have gotten it from. If it's not"
+    },
+    {
+        "whisper_chunk": "COVID it could be other viral illnesses that are going around this time of year And if your symptoms aren't getting better on their own and there's reason to suspect you may have a bacterial infection or bacterial pneumonia we will follow up with you and possibly prescribe antibiotics How does that sound Yeah it sounds like a great plan Okay great So",
+        "gt_chunk": "D: COVID, it could be other viral illnesses that are going around this time of year. And if your symptoms aren't getting better on their own, and there's reason to suspect you may have a bacterial infection or bacterial pneumonia, we will follow up with you and possibly prescribe antibiotics. How does that sound?\n\nP: Yeah, that sounds like a great plan.\n\nD: OK, great so"
+    },
+    {
+        "whisper_chunk": "I will see you at the next appointment Thank you",
+        "gt_chunk": "D: I will see you at the next appointment.\n\nP: Thank you"
+    }
+]

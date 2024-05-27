@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "Okay so what brings you to Pneumonia Sequelae Yeah I've had this sore throat for the past three days and it doesn't seem to be getting any better Also I feel sort of feverish so I just thought I should come in and get this checked out Okay and when did you start having a sore throat Three days ago Okay and how about the fever The fever I noticed maybe a day back Okay and did you",
+        "gt_chunk": "D: : So what brings you into the family clinic today?\n\nP: Yeah, I've had this sore throat for the past three days and it doesn't seem to be getting any better at all. I feel sort of feverish so. I just thought I should come in and get this checked out.\n\nD: OK, and when did you start having this sore throat?\n\nP: Three days ago. \n\nD: OK, and how about the fever?\n\nP: The fever I noticed maybe a day back. \n\nD: OK, and did you"
+    },
+    {
+        "whisper_chunk": "get any temperature measurements I didn't take any myself but I felt hot and I felt chills Okay and have your sore throat or fever gone worse at all I think it's getting worse yeah Okay and does it usually happen during the day throughout the night or does it have any sort of pattern",
+        "gt_chunk": "D: get any temperature measurements?\n\nP: I didn't take any myself. But I felt hot, and I felt chills.\n\nD: OK, and have your sore throat or fever gone worse at all?\n\nP: I think it's getting worse, yeah.\n\nD: And does it usually happen during the day, throughout the night or does it have any sort of pattern"
+    },
+    {
+        "whisper_chunk": "I would say that it doesn't really have a pattern The sore throat is always there and the fever started a day back It seems to break sometimes but there is no real pattern to it Okay and besides that do you have any coughs No no cough Okay and have you tried anything that has helped you at all I",
+        "gt_chunk": "P: I would say that it doesn't really have a pattern. The sore throat is always there and the fever started a day back and it seems to break sometimes, but right now there is no real pattern to it.\n\nD: OK. And besides that, do you have any cough?\n\nP: No, no cough. \n\nD: OK, and have you tried anything that has helped you at all?\n\nP: I"
+    },
+    {
+        "whisper_chunk": "tried just like those lozenges and it seems to be helping just soothe my throat but it's a temporary relief Okay and have you had anything like this happen to you before No nothing like this Okay and is the sore throat constant or does it come and go I'd say it's pretty constant now Okay and have you been around",
+        "gt_chunk": "P: tried just like those Lozenges and seems to be helping just soothe my throat, but it's a temporary relief.\n\nD: OK. And have you had anything like this happen to you before?\n\nP: No, nothing like this.\n\nD: And is the sore throat constant? Or does it come and go?\n\nP: I would say it's pretty constant now.\n\nD: OK. And have you been around"
+    },
+    {
+        "whisper_chunk": "anyone that has been sick recently No not that I know of Anything that makes your sore throat worse I guess swallowing foods makes it worse or at least it's painful Okay and have you at all had noticed any swelling around your neck region like swelling of your lymph nodes Yeah not swelling of my entire neck but I have felt some lumps in",
+        "gt_chunk": "D: anyone that has been sick recently?\n\nP: Not that I know of.\n\nD: Anything that makes your sore throat worse?\n\nP: I guess swallowing foods makes it worse, or at least it's painful. \n\nD: OK. And have you at all noticed any like swelling around your neck region, like swelling of your lymph nodes?\n\nP: So yeah, not swelling of my entire neck, but I have felt some lumps in"
+    },
+    {
+        "whisper_chunk": "my neck Okay and how about any swelling anywhere else on your body Nowhere else Okay have you noticed any kind of skin changes like rashes or anything like that No Okay and have you traveled at all recently No nowhere Okay do you have any headaches or nausea or vomiting No nothing like that Okay and any night sweats No And do you feel fatigue like increased tiredness",
+        "gt_chunk": "P: my neck.\n\nD: OK, and how about any swelling anywhere else on your body?\n\nP: Nowhere else. \n\nD: OK, have you noticed any kind of skin changes like rashes or anything like that? \n\nP: No. \n\nD: OK. And have you traveled at all recently?\n\nP: No, nowhere. \n\nD: OK, do you have any headaches or nausea or vomiting?\n\nP: No, nothing like that. \n\nD: OK, and any night sweats. \n\nP: No.\n\nD: And do you feel fatigued like increased tiredness"
+    },
+    {
+        "whisper_chunk": "at all Yeah I've been feeling really tired Okay any chest pain or feeling that your heart is racing No nothing like that Okay any issues with your bowel movements like any diarrhea or constipation No no nothing normal Okay any changes in your urination No no changes Have you been getting sleep at night or do you have to keep waking up I've been getting",
+        "gt_chunk": "D: at all?\n\nP: Umm, yeah, I've been feeling really tired.\n\nD: OK, any chest pain or feeling that your heart is racing?\n\nP: No, nothing like that. \n\nD: OK. Any issues with bowel movements, like any diarrhea or constipation?\n\nP No, no, that's been normal.\n\nD: OK, any changes in your urination?\n\nP: No, no changes.\n\nD: Have you been getting sleep at night or do you have to keep waking up?\n\nP: Um, I've been getting"
+    },
+    {
+        "whisper_chunk": "okay sleep like I've been sleeping about seven to eight hours Okay and how about your appetite I would say that's been okay as well it's just hard to eat a lot of food because of my sore throat And is it just with solids or do you get the soreness with liquids too I would say mostly with solids sometimes with liquids if it's",
+        "gt_chunk": "P:  sleep like, I've been sleeping about 7 to 8 hours.\n\nD: OK. And how about your appetite?\n\nP: I would say that's been OK as well, it's just hard to eat a lot of food because of this sore throat.\n\nD: And is it just with solids or do you get the soreness with liquids too?\n\nP: I would say mostly with solids, sometimes with liquid. If it's"
+    },
+    {
+        "whisper_chunk": "like really cold or something Okay do you have any kind of allergies to anything in your house like carpets pets or anything like that No Okay have you had any recent infections like a cold No No okay And do you have any past medical conditions I have Crohn's Crohn's disease Okay And when did you get diagnosed with Crohn's That would have been",
+        "gt_chunk": "P: like really cold or something.\n\nD: OK. Do you have any kind of allergies to anything in your house like carpets, pets or anything like that? \n\nP: No.\n\nD: OK, have you had any recent infections like a cold? \n\nP: No. \n\nD: No, OK. And do you have any past medical conditions?\n\nP: Um, I have Crohn's disease. \n\nD: And when did you get diagnosed with Crohn's?\n\nP: That would have been"
+    },
+    {
+        "whisper_chunk": "last year Last year Okay And are you taking any medications for your Crohn's disease I'm on something for it I think it's Alfalazine or something like that Okay and are you taking any other medications besides that No I don't think so Any previous hospitalizations or surgeries I had a colonoscopy done that needed",
+        "gt_chunk": "P: last year.\n\nD: Last year, OK. And are you taking any medications for your Crohn's disease?\n\nP: I am on something for it, I think it's Sulfasalazine or something like that. \n\nD: OK. And any other medications besides that?\n\nP: Uhm, no, I don't think so.\n\nD: Any previous hospitalizations or surgeries?\n\nP: Um, I had a colonoscopy done. I just needed"
+    },
+    {
+        "whisper_chunk": "hospitalization for just the day I guess Okay and when was that That was also last year Last year Okay And do you have any family history of any conditions that run in the family Like do you have any does Crohn's disease or ulcerative colitis run in the family Ulcerative yeah both do Both do okay Anything else that runs in the family I know there's some asthma and eczema that run in the family too Okay",
+        "gt_chunk": "P: hospitalization for just the day I guess.\n\nD: OK, and when was that? \n\nP: That was also last year. \n\nD: Last year, OK. And do you have any family history of any conditions that run in the family? Like do you have any Crohn's disease or Ulcerative Colitis that run in the family?\n\nP: Yeah, both do.\n\nD: Both do, OK. Any anything else that runs in the family?\n\nP: Uhm, I know there's some asthma and eczema that run in the family too. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "all right And you mentioned you haven't been around anyone that was sick or recently got sick No Okay all right And where do you currently live I live in an apartment by myself with my parents and my younger brother Okay and do you at all drink alcohol No I drank once or twice in the past but",
+        "gt_chunk": "D: . And you mentioned you haven't been around anyone that was sick or recently got sick?\n\nP: No. \n\nD: OK. And where do you currently live?\n\nP: I live in an apartment by myself. Sorry, not by myself, with my parents and my younger brother.\n\nD: And do you at all drink alcohol?\n\nP: No, I drank once or twice in the past, but"
+    },
+    {
+        "whisper_chunk": "I didn't like it and it makes my Crohn's worse so I stay away from it Okay and do you smoke cigarettes No And how about any other drugs like marijuana No Okay all right So and do you partake in any like sports activities or anything like that I swim You swim okay Any contact sports Oh no",
+        "gt_chunk": "P: I didn't like it. It makes my Crohn's worse so I stay away from it.\n\nD: OK, and do you smoke cigarettes?\n\nP: No. \n\nD: And how about any other drugs like marijuana? \n\nP: No. \n\nD: OK. Alright, so do you partake in any like sports or activities or anything like that?\n\nP: Um, I swim.\n\nD: OK, any contact sports?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "No okay All right So yeah overall it seems that you've had a sore throat which is constant getting worse and a bit of a fever in the last one or two days And you've also had swelling in your neck So yeah Do you have any other questions or concerns No Like what do you think I have Do you think it's COVID Yeah so definitely at this time you know whenever people have any respiratory symptoms",
+        "gt_chunk": "P: No. \n\nD: OK. Alright, so yeah, overall it seems that you had this sore throat which is constant, getting worse and a bit of a fever in th last one or two days and you've also had swelling in your neck and so yeah, do you have any other questions or concerns?\n\nP: No, like what do you think I have? Do you think it's COVID?\n\nD: Yeah, so definitely at this time, you know whenever people have any respiratory symptoms"
+    },
+    {
+        "whisper_chunk": "we always want to rule out COVID So we'll definitely get swabbed COVID testing done for you today which should come back within 24 to 48 hours And in the meantime you would self isolate And other than that it can also be due to the swelling and like your lymph nodes and also just other symptoms It can be other viral infections It can be mono So we'll definitely have to do a couple tests There's one",
+        "gt_chunk": "D: we always want to rule out COVID.  So will definitely get a swab for COVID testing done for you today which should come back within 24 to 48 hours and in the meantime you should self isolate. And other than that, it can also be, due to this swelling in your lymph nodes and also just the other symptoms, it can be other viral infections. It can be mono so we definitely have to do a couple of tests, and there's one"
+    },
+    {
+        "whisper_chunk": "test that we'll do for mono as well which is called an EBV antibody testing So we'll do a couple of these tests today and then see what comes back And in the meantime you should definitely self isolate if you haven't been doing so already Okay sure I can do that Yeah Do you have any questions No that sounds good Thank you so much You're welcome Take care You too",
+        "gt_chunk": "D: test that will do for mono as well which is called EBV antibody testing. So we'll do a couple of these tests today and then see what what comes back. And in the meantime you should definitely self isolate if you haven't been doing so already.\n\nP: OK, sure I can do that.\n\nD: Yeah, do you have any questions?\n\nP: No, that sounds good. Thank you so much. \n\nD: You're welcome. Take care. \n\nP: You too"
+    }
+]

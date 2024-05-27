@@ -1,0 +1,78 @@
+[
+    {
+        "whisper_chunk": "How can I help you today Hi I'm bringing my one year old daughter in because she's had this fever this runny nose and this cough for the past like three four days and now she sounds pretty wheezy Okay and has she had a fever the entire time over the past three or four days Yeah I would say so like it's",
+        "gt_chunk": "D: How can I help you today?\n\nP: Hi um, I'm bringing my one year old daughter in because she's had this fever um, this runny nose and this cough, for the past three, four days. Um, and now, she sounds pretty wheezy.\n\nD: Okay, and um, as she had a fever the entire time over the past three or four days.\n\nP: Yeah, I would say so like it's"
+    },
+    {
+        "whisper_chunk": "come and gone but every time I checked her temperature I tried to check like twice a day it would be pretty high like 38 to around 39 Okay so it was between 38 and 39 each time you checked it Yeah and now I should mention like I checked today and she didn't have a fever today but she sounds really wheezy now Okay is the wheeze new today Yeah Okay and the cough",
+        "gt_chunk": "P: come and gone, but every time I checked her temperature, I tried to check her twice a day, it would be pretty high, like 38 or uh, 39.\n\nD: Okay, so it was between 38 and 39 each time you checked it.\n\nP: Yeah, and now I should mention like um, I checked today and she didn't have a fever today, but she sounds really wheezy now.\n\nD: Okay, is the wheeze new today? \n\nP: Uh yeah.\n\nD: Okay, um, and the cough"
+    },
+    {
+        "whisper_chunk": "that started about three or four days ago as well Yeah that's right And how does the cough sound Has it barky Okay and is the cough worse at any particular time of the day like morning or night I know it's just always there Okay is she bringing up any phlegm or sputum",
+        "gt_chunk": "D: that started about three or four days ago as well?\n\nP: Yeah, that's right. \n\nD: And how, how does the cough sound? Does it sound like, barky or like a, seal-like cough?\n\nP: Um, it sounds pretty harsh. I don't know if it sounds barky.\n\nD: Okay, and is the cough worse at any particular time of the day, like morning or night?\n\nP: Uh no it's, it's just always there.\n\nD: Okay, uh, is she bringing up any, any phlegm or sputum"
+    },
+    {
+        "whisper_chunk": "She's bringing up some actually she has some Okay so she was bringing up phlegm initially and it was no longer what color was it It was clear Okay any blood that",
+        "gt_chunk": "P: 's pretty dry.\n\nD: Okay, um, so she was bringing up phlegm initially and is no longer. What colour was it?\n\nP: It was clear.\n\nD: Okay, any blood that"
+    },
+    {
+        "whisper_chunk": "you any chest pain if she's like pointing to her chest or anything No nothing like that Okay and has she had any like fainting spells No Okay And yes she's had a fever Has she had any",
+        "gt_chunk": "D: uh, any chest pain, if she's like pointing to her chest or anything?\n\nP: No, nothing like that.\n\nD: Okay, and has she had any, any like fainting spells?\n\nP: No. \n\nD: Okay. Um, and, yeah so she's had a fever, has she had any"
+    },
+    {
+        "whisper_chunk": "like chills or night sweats like where she's She's been pretty fussy Yeah she's been pretty fussy over the past few days but I just thought it was because of how she was feeling like her symptoms Yeah certainly Has she been eating and drinking okay Yeah we've managed to get her to drink and eat okay and so in that sense no changes there Okay how many",
+        "gt_chunk": "D:  how has her mood been?\n\nP: She's been pretty fussy, um, yeah, she's been pretty fussy over the past few days, but I just thought it was because of how she was feeling um, like her symptoms.\n\nD: Yeah, certainly. Has she been eating and drinking okay?\n\nP: Yeah, we've managed to get her to drink and eat okay. Um, so, in that sense, no changes there.\n\nD: Okay, how many"
+    },
+    {
+        "whisper_chunk": "diapers how many wet diapers per day About five Okay so yeah still been able to maintain hydration it sounds like Yeah okay and has she had any like eye redness or eye discharge No nothing like that Any suggestion that she might have like any ear pain or any ear discharge No Okay and has she had a runny nose Yeah now that you mentioned it yeah she did have a runny nose It seems",
+        "gt_chunk": "D: diapers is she, how many wet diapers per day?\n\nP: Uh, about five.\n\nD: Okay, so yeah, still been to maintain hydration, it sounds like. Um, yeah, okay, and has she had any like, eye redness or eye discharge?\n\nP: Uh no, nothing like that.\n\nD: Any suggestion that she might have um, like any ear pain or, or any ear discharge?\n\nP: No.\n\nD: Okay, and has she had a runny nose?\n\nP: Um yeah, now that you mention it, yeah, she did have a runny nose. Um, it seems"
+    },
+    {
+        "whisper_chunk": "to be less now but she did have a lot a few days ago Okay and did that start around the same time as the cough and fever Yeah Okay It's still going on but just less That's right yeah Okay On feeds or have you noticed like any redness in the back of her throat I noticed some yeah I noticed some redness",
+        "gt_chunk": "P: to be less now, but she did have a lot a few days ago.\n\nD: Okay, and did that start around the same time as the cough and, and fever?\n\nP: Yeah.\n\nD: Okay, um, it's still going on, but, but just less.\n\nP: That's right, yeah. \n\nD: Okay. On feeds or anything like that, did you notice like any redness in her, in the back of her throat?\n\nP: Um, I noticed some, um, yeah, I noticed some redness"
+    },
+    {
+        "whisper_chunk": "but I just thought it was Alright and any changes to bowel habits like diarrhea No no changes there Okay and then any changes to like urinary habits as well No no changes",
+        "gt_chunk": "D: ?\n\nP: No. \n\nD: Alright, and any changes to bowel habits like diarrhea?\n\nP: Uh no, no changes there.\n\nD: Okay. Then any changes to um, like urinary habits as well?\n\nP: Uh no, no changes"
+    },
+    {
+        "whisper_chunk": "there Okay and have you noticed any like bulging on her forehead or on the anterior fontanelle No Okay and has she had any nausea or Okay and has",
+        "gt_chunk": "P: there.\n\nD: Okay, and have you noticed any like bulging on her, on her forehead or on the anterior fontanelle?\n\nP: No.\n\nD: Okay. Um, and uh, has she had any nausea or"
+    },
+    {
+        "whisper_chunk": "she had any symptoms like this before I mean when she was a few months old she had similar symptoms and she was like antibiotics or inhalers or anything like that I think they just give her some oxygen and",
+        "gt_chunk": "D: she had any symptoms like this before?\n\nP: I mean, when she was a few months old she had similar symptoms, um, and she was like hospitalized for maybe a day or two, but she became"
+    },
+    {
+        "whisper_chunk": "some fluids Okay Has she been diagnosed with any medical All right Are the immunizations up to date Yep everything's up to date Excellent And in terms of the pregnancy",
+        "gt_chunk": "P: some fluids. \n\nD: Okay. Um, has she been diagnosed with any medical conditions before? \n\nP: No.\n\nD: Okay, and besides that one time going, like going to the"
+    },
+    {
+        "whisper_chunk": "itself were there any complications throughout with mom No no no complications Okay and was it a full term delivery and vaginal or c section It was full time and it was vaginal Okay and any concerns at birth like jaundice or any types of distress No nothing like that And how has her growth and development been thus far Any",
+        "gt_chunk": "D: itself, were there any complications throughout um, with mom?\n\nP: Uh, no, no, no complications.\n\nD: Okay. And was it a full term delivery, and vaginal or c-section?\n\nP: It was uh, full time and it was vaginal.\n\nD: Okay, any concerns at birth, like jaundice or, or any types of distress?\n\nP: Uh no, nothing like that.\n\nD: And how is her growth and development been thus far? Any"
+    },
+    {
+        "whisper_chunk": "concerns No Okay That's great And in terms of the home environment who's living with her and who's primarily looking after her So it's her dad and I as well as her grandma Okay And has anybody in the home been sick recently No everyone's been healthy Okay And has there been any travel No we haven't",
+        "gt_chunk": "D: concerns?\n\nP: No. \n\nD: Okay, um, that's great, and in terms of um, the home environment, who's living with her and um, who's primarily looking after her?\n\nP: Um, so it's her dad and I, as well as her um, her grandma.\n\nD: Okay, and has anybody in the home been sick recently?\n\nP: No, everyone's been healthy.\n\nD: Okay, um, and has there been any travel?\n\nP: Um no, we haven't"
+    },
+    {
+        "whisper_chunk": "gone anywhere recently Okay And does anybody in the house smoke Nope Okay And are there any pets or are there any like carpets or linens that can hold hold a lot of dust or dander No Okay And any other exposures to like triggers or potentially things that could be like smokes or stuff like that that could be inhaled No we don't have anything like that at home It's a fairly new home",
+        "gt_chunk": "P: gone anywhere recently.\n\nD: Okay, um, and does anybody uh, in the house smoke?\n\nP: Uh, nope. \n\nD: Okay, and are there, are there any pets or are there any like carpets or um, linens that can hold, hold a lot of dust or dander?\n\nP: No. \n\nD: Okay, any other exposures, to like triggers, or potentially things that, that could be exposed or stuff like, that could be inhaled?\n\nP: No, I don't have anything like that at home. It's a fairly new home"
+    },
+    {
+        "whisper_chunk": "and it's hardwood floors Yeah Okay And any family history of lung problems or heart problems Nope No Okay And how about a family history of any congenital diseases or any genetic disease No nothing like that Okay And family history of any cancer No Okay So that was everything that I wanted to ask today before",
+        "gt_chunk": "P: and uh, it's hardwood floors, yeah.\n\nD: Okay. Um, and uh, any family history of lung problems or heart problems?\n\nP: No, no.\n\nD: Okay, how about a family history of any congenital diseases or um, any genetic diseases?\n\nP: No, nothing like that.\n\nD: Okay, um, and family history of any cancer?\n\nP: No. \n\nD: Okay. Um, so were there any other um, so that was everything that I wanted to ask today before"
+    },
+    {
+        "whisper_chunk": "we went on to the physical exam Was there anything else that you wanted to add or were wondering about that I maybe forgot to ask Yeah What can we do for her to make her better And are you concerned about her breathing So the physical exam and the vital signs will help with that to assess her work of breathing and to see oxygen levels And",
+        "gt_chunk": "D:  went on to the physical exam. Um, was there anything else that you, that you wanted to add or were wondering about that I maybe forgot to ask?\n\nP: Yeah um, what, what can we do for her um, to make her better? And are you concerned about her breathing?\n\nD: Um, so the, the physical exam and the, the vital signs will really, will help with um, to assess her breathing and to see oxygen levels."
+    },
+    {
+        "whisper_chunk": "this could be caused by a viral infection which could be something along the lines of like a common cold type picture And we can get inflammation of the really small airways and it can cause a cough and fever and some of the symptoms that she's experiencing And also these symptoms do overlap",
+        "gt_chunk": "D: this could be uh, caused by um, a viral infection, which could be something along the lines of uh, like a common cold type picture, and we can get like inflammation of uh, really small airways, um, and it can cause that cough, and fever, and some of the symptoms that she's experiencing. And also, um, these symptoms do overlap"
+    },
+    {
+        "whisper_chunk": "with COVID as well And so it'll be important to get a COVID swab just in case But if that is the scenario then it will be supportive care with oxygen fluids and we'll make sure that her breathing is okay Possibly would mean steroids and an inhaler if necessary Okay Okay That sounds good Thank you",
+        "gt_chunk": "D: with COVID as well, um, and so it'll be important to get a COVID swab just in case. Um, but um, if that is the, the scenario, then it will be um, supportive care with oxygen, fluids and we'll make sure that um, that her, her breathing is uh, okay. And possibly, we'll need steroids and um, and uh, an inhaler if necessary. \n\nP: Okay. Okay, that sounds good, thank you"
+    }
+]

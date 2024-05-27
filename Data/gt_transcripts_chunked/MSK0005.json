@@ -1,0 +1,90 @@
+[
+    {
+        "whisper_chunk": "What brings you in Hi I've had this pain on the outside of my right elbow now I first started noticing it several months ago but recently it's just been more painful Okay so you said several months ago Did anything happen several months ago Was there any sort of trigger trauma anything like that to that area No there wasn't any trauma or any triggers that I noticed I",
+        "gt_chunk": "D: What brings you in?\n\nP: Hi, I've I've had this pain on the outside of my uh right elbow now it's it I first started knowing, noticing it several months ago, but recently it's just been more painful.\n\nD: OK, so you said several months ago. Um did anything happen several months ago? Was there any sort of trigger, trauma, anything like that to that area?\n\nP: No, there wasn't any any trauma or any triggers that that I noticed, I"
+    },
+    {
+        "whisper_chunk": "was just feeling it a bit more at the end of work Yeah I was just feeling the pain a bit more at the end of work Okay does anything make it better or worse the pain Yeah really if I'm just resting the elbow it makes it better I've tried things like ibuprofen which has helped",
+        "gt_chunk": "P: was just um feeling it, uh, a bit more at the end of of work. Um yeah, I was just having it uh, feeling the pain a bit more at the end of work.\n\nD: OK, does uh anything make it better or worse, the pain?\n\nP: Um yeah, if I, really if I'm just resting the elbow um it makes it better, and I've tried uh things like ibuprofen um which has helped"
+    },
+    {
+        "whisper_chunk": "with it Right okay If you were to describe the quality of the pain is it sharp throbby achy Well it's achy and then sometimes depending on the movement it can be sharp as well It can be sharp Okay",
+        "gt_chunk": "D:  if you were to describe the quality of the pain, is it sharp, throbby, achy?\n\nP: Uh it's um kind of uh, well, it's achy and then sometimes depending on the movement it can get, it can be sharp as well.\n\nD: It can be sharp, OK"
+    },
+    {
+        "whisper_chunk": "and what sorts of movements make it worse So really it's mostly movements at my wrist If I'm bending my wrist down I can feel it Or if I'm having to pick things up or hold heavy objects at work I do a lot of repetitive things at work that work on a line Okay okay And one to ten ten being the worst pain you've ever felt how bad",
+        "gt_chunk": "D: and what sorts of movements make it worse? \n\nP: Um, so like, really it's mostly the movements at my wrist, if I'm bending my wrist down, uh I can I can feel it, or um if I'm having to pick things up or hold heavy objects at work, I do a lot of repetitive uh things at at work, I work on a line. \n\nD: OK, OK. And 1 to 10, 10 being the worst pain you've ever felt, how bad"
+    },
+    {
+        "whisper_chunk": "is this pain It is about a four About a four okay And have you ever experienced this type of pain before No I haven't No okay And do you feel like your pain's getting worse over the past several months or is it the same getting better It's been getting worse It's been getting worse okay Have you tried any topical ointments or anything like that for it I did Yeah I tried",
+        "gt_chunk": "D: is this pain?\n\nP: It is about a four.\n\nD: About a four, OK. And have you ever experienced this type of pain before?\n\nP: Uh, no I haven't.\n\nD: No, OK, and do you feel like your pain is getting worse over the past several months, or is it the same, getting better? \n\nP: Uh it's been getting worse.\n\nD: It's been getting worse, OK. OK, um have you tried any like topical ointments or anything like that for it?\n\nP: Uh I did, I yeah, I tried"
+    },
+    {
+        "whisper_chunk": "some stuff that you can get at the drugstore and it did help take the edge off a little bit Okay All right And are you still able to move that arm your right as well as your hand I am yeah I have full range of motion of both the elbow and hand Okay And it's not like preventing you from doing everyday tasks No",
+        "gt_chunk": "P: some stuff that you can get at the um drugstore and it did help take the edge off a little bit.\n\nD: OK. Um alright and are you still able to move that arm, your right arm, um as well as your hand?\n\nP: I am, yeah, I I have full range of motion of both the elbow and uh hand.\n\nD: OK and it's not like preventing you from doing everyday tasks?"
+    },
+    {
+        "whisper_chunk": "I've been able to manage so far at work but it is starting to become an issue with my job Okay All right And then do you have any sorts of aches or pains in any other joint or muscle groups No it's just right there on the outside of my right elbow And it's really annoying because I'm right handed as well so yeah it's causing problems there Right And is",
+        "gt_chunk": "P:  been able to manage so far at work, but um it is starting to become an issue um yeah, with my job.\n\nD: OK. Um alright, and then do you have any sorts of aches or pains uh in any other joint or muscle groups?\n\nP: No, it's just right there on the outside of my right elbow, and it's really annoying 'cause I'm right handed as well, so um yeah, it's causing problems there.\n\nD: Right, um and is"
+    },
+    {
+        "whisper_chunk": "the pain radiating upwards or downwards No I kind of just feel it right over that one spot Okay Any numbness or tingling in that arm No no numbness or tingling Yeah Okay And then how about like your arm feeling like it's cold No I haven't had anything like that Okay All right And then otherwise do you have any other symptoms No it's just been elbow pain",
+        "gt_chunk": "D: the pain radiating upwards or downwards?\n\nP: Uh no, I kinda just feel it right over that that one spot.\n\nD: OK, any numbness or tingling in that arm?\n\nP: No, no, no numbness or tingling.\n\nD: Yeah, um OK, and then how about um like your arm feeling like it's cold?\n\nP: No, I haven't had anything like that.\n\nD: OK, alright, um and then otherwise do you have any other symptoms?\n\nP: Um no I, it's just been the elbow pain"
+    },
+    {
+        "whisper_chunk": "Okay So no weight loss No my weight's been stable over these last few months Okay Fevers or chills No I haven't had any fevers or chills Okay Any fatigue No my energy's been good Okay How about rashes No rashes Okay Changes to your senses like vision hearing smell or taste No changes there Okay Any coughing shortness of breath or wheezing No Okay Chest pain any heart palpitations or dizziness Nothing like that Okay Changes to your bowel",
+        "gt_chunk": "D: OK, so no weight loss?\n\nP: No, my weights been stable over these last few months.\n\nD: OK, fevers or chills?\n\nP: No, I haven't had any fevers or chills.\n\nD: OK, any fatigue?\n\nP: No, my energy's been good.\n\nD: OK. How about um rashes?\n\nP: Uh no rashes. \n\nD: OK. Changes to your senses like vision, hearing, smell, smell or taste?\n\nP: No changes there. \n\nD: OK any coughing, shortness of breath, or wheezing?\n\nP: No.\n\nD: OK. Chest pain, any heart palpitations, or uh dizziness?\n\nP: Nothing like that.\n\nD: OK, changes to your bowel"
+    },
+    {
+        "whisper_chunk": "movements No No nausea or vomiting No I haven't had any nausea or vomiting Okay Changes to your urine No I haven't had any urinary symptoms Okay Memory loss or confusion No Okay So if you look at that right elbow do you notice any redness or swelling No I don't No Okay Does it seem misaligned or asymmetrical compared to your other elbow No it looks the same Looks the same",
+        "gt_chunk": "D: movements? \n\nP: No.\n\nD: No, no no nausea or vomiting?\n\nP: No, I haven't had any nausea or vomiting.\n\nD: OK. Changes to your urine?\n\nP: No, I haven't had any urinary uh symptoms.\n\nD: OK. Memory loss or confusion?\n\nP: No.\n\nD: OK, so if you look at that right elbow, um do you notice any redness or swelling?\n\nP: Uh no, I don't.\n\nD: No, OK. Does it seem misaligned or like asymmetrical compared to your other elbow?\n\nP: No, it looks, it looks the same.\n\nD: Looks the same"
+    },
+    {
+        "whisper_chunk": "Okay So no skin changes or deformities there No No Okay All right And now I'm going to get you to just palpate that lateral or yeah the lateral aspect of that elbow and you let me know if you feel pain when you push on that I feel pain at the lateral lateral elbow How about the medial aspect No",
+        "gt_chunk": "D: OK so no um skin changes or deformities there?\n\nP: Uh no.\n\nD: No, OK, alright and now I'm going to get you to um just palpate uh that lateral or yeah, the lateral aspect of that elbow and you let me know if you feel pain when you push, push on that.\n\nP: Uh there is pain at the lateral uh lateral elbow.\n\nD: How about the medial aspect?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "pain No pain Okay And how about when you palpate your forearm and your biceps No pain Okay All right And then do you feel like it's hot that area No No Okay Now I am going to get you to extend your wrist Okay And then keep your elbow in full extension as well Does that hurt It does Yeah Yeah Okay How",
+        "gt_chunk": "P: pain.\n\nD: No pain, OK, and how about when you palpate your um forearm and your biceps?\n\nP: Uh no no pain. \n\nD: OK, alright and then do you feel like it's hot, that area?\n\nP: No.\n\nD: No, OK now I am going to get you to um extend your wrist.\n\nP: OK.\n\nD: And then keep your elbow in full extension as well. Does that hurt?\n\nP: Uh it does, yeah.\n\nD: Yeah, OK, how"
+    },
+    {
+        "whisper_chunk": "about when you flex your wrist with the elbow still in full extension It does Yeah that hurts as well Okay How about when you flex your elbow No that doesn't cause any pain Okay How about when you extend your shoulder all the way up No nothing there That feels fine Okay And then flexing your or sorry adducting your shoulder That feels normal Okay All right And then how about when you pronate",
+        "gt_chunk": "D: about when you flex your wrist with the elbow still in full extension?\n\nP: Uh it does, yeah that hurts as well.\n\nD: OK, how about when you flex your elbow?\n\nP: Uh no, that that doesn't cause any pain.\n\nD: OK. How about when you extend your shoulder all the way up?\n\nP: No, nothing there, that feels fine.\n\nD: OK, and then flexing your uh, or sorry abducting your shoulder?\n\nP: That feels normal. \n\nD: OK, alright, and then how about when you pronate"
+    },
+    {
+        "whisper_chunk": "and supinate your forearms Pronation So like twist your arm inwards so that your palm is facing the floor No that doesn't really cause any pain pronation and supination Okay All right All right And then are you otherwise healthy or do you have any medical conditions I'm healthy You're healthy Okay And then have you had any hospitalizations or surgeries in the past I had",
+        "gt_chunk": "D: and supinate your forearms? \n\nP: Uh, pronation um?\n\nD: So like twist your um arm inwards so that your palm is facing the floor.\n\nP: No, that doesn't really cause any pain, pronation and supination.\n\nD: OK, alright. Um alright, and then are you otherwise healthy or do you have any longstanding medical conditions?\n\nP: Um I'm uh healthy.\n\nD: You're healthy, OK. And then UM do you have, have you had any hospitalizations or surgeries in the past?\n\nP: I had"
+    },
+    {
+        "whisper_chunk": "a surgery for a C section for my son but that's it Okay Okay And how long ago was that That was about 17 years ago Okay And was that an emergency C section No it was not Okay And then are you on any medications No I've just been taking Tylenol and Advil for the pain Okay",
+        "gt_chunk": "P: a surgery for um a C-section for uh my, my son, um but that's that's it.\n\nD: OK. OK, and um how long ago was that?\n\nP: That was about uh 17 years ago.\n\nD: OK. And was that an emergency C-section? \n\nP: Uh no, it was not.\n\nD: OK um and then are you on any medications?\n\nP: Um no, I've just been taking uh Tylenol and Advil um for the pain.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "All right Immunizations wise are you up to date I am yes Okay Do you have any allergies No allergies Okay Family history of any skeletal or muscular issues No nothing like that in the family Okay Neurological issues in the family No neurological issues in the family Okay How about autoimmune conditions Nope nothing like that Okay",
+        "gt_chunk": "D: alright um immunizations wise, are you up to date? \n\nP: Uh I I am, yes.\n\nD: OK. Do you have any allergies?\n\nP: Uh no allergies. \n\nD: OK, family history of any uh skeletal or muscular um issues?\n\nP: Um no, nothing like that in the family.\n\nD: OK, neurological issues in the family?\n\nP: Um no neurological issues in the family.\n\nD: OK, how about um autoimmune conditions?\n\nP: Uh no, nothing like that.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And then do you smoke No I haven't smoked before Okay Do you do marijuana No I don't use that Okay Alcohol Yeah I'll have a glass of wine every once in a while but maybe just one a week Okay And have you been around sick contacts recently No I haven't been around anybody who's been sick Okay Any recent travel Nope I've been at home Okay I think those are all the questions that I had for you",
+        "gt_chunk": "D: and then um do you smoke?\n\nP: Uh no, I haven't smoked before.\n\nD: OK, uh do you do um marijuana.\n\nP: No, I I don't use that. \n\nD: OK. Um Alcohol?\n\nP: Um uh yeah, I'll have a glass of wine every once in awhile, but maybe just one, one a week.\n\nD: OK, and have you been around sick contacts recently? \n\nP: Um no, I haven't been around anybody who's been sick.\n\nD: OK. Any recent travel?\n\nP: Uh nope, I've been at home.\n\nD: OK. Um I think those are all the questions that I had for you"
+    },
+    {
+        "whisper_chunk": "Did you have any questions of your own for myself No Well I was just wondering what this pain could be in my elbow Yeah So right now it seems like you may have a case of something called lateral epicondylitis So it's also known as tennis elbow And there are a lot of things that could kind of predispose you to this So it could be like a repetitive strain",
+        "gt_chunk": "D: did you have any questions of your own for myself?\n\nP: Uh no, I was just wondering what this pain could be on my, in my elbow. \n\nD: Yeah, so right now it seems like you may have a case of something called um lateral epicondylitis. So, it's also known as uh tennis elbow, um and there are a lot of things that could kind of predispose you to this, um so it could be like the repetitive strain"
+    },
+    {
+        "whisper_chunk": "at work and like continuous contraction of your wrist extensor muscle group there So for this we basically recommend a couple of things to manage the pain But first like in terms of imaging I don't think it is necessary because it doesn't seem like there was any trauma and I'm not too worried about any fractures So to help you treat",
+        "gt_chunk": "D: at work, um and like continuous contraction of your wrist extensor muscle group there. Um so for this we basically recommend um a couple of things to manage the pain. Uh but first, like in terms of imaging, I don't think it is necessary because it doesn't seem like there was any trauma and I'm not too worried about any fractures. Um so to help you treat"
+    },
+    {
+        "whisper_chunk": "this we recommend some activity modifications So at work not doing things that are too repetitive especially if it's using those extensor forearm muscles And then you can use a compression sleeve as well Continue taking Tylenol or NSAIDs for the pain And really important is physical therapy to increase mobility and strength in that arm And as well you",
+        "gt_chunk": "D: this, um we recommend some activity modifications, so um at work not doing things that are too repetitive, especially if it's using those um extensor forearm muscles. Um and then you can use some, use a compression sleeve as well, continue taking Tylenol or NSAIDs for the pain and uh really important is physical therapy um to increase mobility and strength in that arm. Uh and as well you"
+    },
+    {
+        "whisper_chunk": "can apply things like ice to it for like the pain and swelling if you see any Yeah so it should resolve in about six months to two years at most But normally it does go away in a couple months with some physical therapy and the compression and splints if you choose to do that How does that sound Yeah",
+        "gt_chunk": "D: can apply things like ice um to it for like the pain and swelling if you see any. Uh, yeah, so it should resolve in about six months to two years at most, uh but normally it does um go away in a couple of months with some physical therapy and the compression and splints if you choose to do that. How does that sound?\n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "that sounds good Thank you Yeah no worries",
+        "gt_chunk": "P: that sounds um good, thank you.\n\nD: Yeah, no worries"
+    }
+]

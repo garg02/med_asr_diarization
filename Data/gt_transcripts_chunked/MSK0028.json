@@ -1,0 +1,102 @@
+[
+    {
+        "whisper_chunk": "How may I help you I just came in because I've been having this just just yesterday it started this sudden just pain over the front of my kind of like a shoulder and also elbow And it was right after I was just doing some workout and this pain just started and it's just like a stabbing sharp pain that hasn't really gone away since",
+        "gt_chunk": "D: How may I help you? \n\nP: I just came in because I've been having this just just yesterday it started this sudden just pain over the front of my kind of like a shoulder an also elbow and it was right after doing I was just doing some workout and this pain just started and it's just like a stabbing sharp pain that hasn't really gone away since"
+    },
+    {
+        "whisper_chunk": "then Okay and so what activity were you doing specifically So I was doing so I was just doing weight training and I was kind of flexing my elbows and I was working on my biceps I was on that machine where you so I wasn't using weights or doing curls but I was working on my biceps And I think I did hear I don't think I heard like any pop or anything but right",
+        "gt_chunk": "P: then.\n\nD: OK, and so what activity were you doing specifically? \n\nP: So I was doing so I was just doing weight training and I was kind of flexing my elbows and I was working on my biceps. I was on that machine where you so know I wasn't using weights or doing curls, but I was working on my biceps and I think I did hear, I don't think I heard like any pop or anything, but right"
+    },
+    {
+        "whisper_chunk": "after that I just had this sudden sharp pain in my shoulder as well as in my elbow Okay so you think you heard a pop at that time Um I'm not sure if I heard a pop actually I think I might have though Okay and did the pain start immediately or a bit later on The pain I think it started pretty soon after like probably within like a half an hour of",
+        "gt_chunk": "P: after that I just had this sudden sharp pain in my shoulder as well as my elbow.\n\nD: OK, so you you you think you heard a pop at that time?\n\nP: Um I'm not sure if I heard a pop. Actually, I think I might have though.\n\nD: OK, and did the pain start immediately or or a bit later on?\n\nP: The pain I think it started pretty soon after, like probably within like half an hour of"
+    },
+    {
+        "whisper_chunk": "that happening Okay and where is the pain located now The pain right now is yeah just kind of right at the front of my right elbow as well as near my shoulder as well Okay and I think you mentioned the pain as being sharp Is that how you would describe the character of the pain Yeah it's sharp Yeah I just feel like",
+        "gt_chunk": "P: that happening.\n\nD: OK. And where is the pain located now?\n\nP: The pain right now is a. Yeah, just kind of right at the front of my right elbow as well as near my shoulder as well.\n\nD\" OK. And. Um I think you mentioned the pain as as being sharp is that how you would describe the character of the pain?\n\nP: Yeah, it's sharp. Yeah, I just feel like"
+    },
+    {
+        "whisper_chunk": "something's stabbing in there Okay and does the pain radiate anywhere else No it's kind of in the same area as I described Okay has there been anything you've tried to make the pain better No nothing's I tried like Advil nothing's really worked Okay and sorry how many days has the pain been going on for Just started yesterday Yesterday okay and since then has the pain been getting any better or any worse I think it's the same",
+        "gt_chunk": "P: something stabbing in there.\n\nD: OK, and does the pain radiate anywhere else?\n\nP: No, it's kind of in the same area as they described.\n\nD: OK, has there been anything you've tried to make the pain better?\n\nP: No nothings I tried like Advil nothings really worked. \n\nD: OK. And, uh, sorry. How long is how many days is the pain been on going on for just just started yesterday?\n\nP: Yesterday.\n\nD: OK, and since then has the pain getting any better or any worse?\n\nP: I think it's the same"
+    },
+    {
+        "whisper_chunk": "probably a bit worse than so it just happened last evening and I didn't end up coming last night but I wanted to make sure I didn't just come in this morning since it's just been a really painful night Okay and have you done anything that's made the pain worse since last night No I've tried to just rest and I tried to use some ice but nothing's been working And I kind of also have like this it's weird just",
+        "gt_chunk": "P: probably a bit worse than so it just happened last evening and I I didn't end up coming last night, but I wanted to make sure. I'm just coming this morning since it's just been a really painful night.\n\nD: OK, have you done anything that's made the pain worse since last night?\n\nP: No I just tried to just rest and I tried to use some ice, but nothing. Nothing's been working and I kind of also have like this. It it's weird, it"
+    },
+    {
+        "whisper_chunk": "like this mass right where my biceps is it kind of just makes my biceps look really big Okay all right well I'll skip look at that during the physical exam component thank you And so I think are you seeing swelling there as well or is that part painful Yeah it's painful there's swelling there as well Okay and how severe is the pain on a scale of 10 to one 10 being",
+        "gt_chunk": "P: like this mass right where my biceps is. It kind of just makes my biceps look really big.\n\nD: OK, alright, well I skip look at that during the physical exam component thank you and so like are you seeing swell is there like swelling there is as well or is is that part painful?\n\nP: Yeah, it's painful there swelling there as well.\n\nD: OK. And well, how severe is the pain on a scale of 10 to 1, 10 being"
+    },
+    {
+        "whisper_chunk": "the worst pain that you've ever experienced and one being the least Probably at least an eight maybe a nine Okay so the pain is pretty severe than it sounds like Okay have you had any fevers or chills No Have you had any unexpected weight loss No Okay and have you had any appetite loss No Okay and have you had any headaches No How about any sensory",
+        "gt_chunk": "D: the worst pain that you've ever experienced and one being the least.\n\nP: Probably at least an 8, maybe a 9.\n\nD: OK, so the pain is pretty severe then it sounds like. Uh, OK. Have you had any fevers or chills? \n\nP: No.\n\nD: Have you had any unexpected weight loss?\n\nP: No.\n\nD: OK, and have you had any appetite loss?\n\nP: Uhm no.\n\nD: OK, and have you had any headaches?\n\nP: Uhm no. \n\nD: How about any sensory"
+    },
+    {
+        "whisper_chunk": "changes like changes to vision or hearing No nothing like that Any changes to your sense of smell or sense of taste No Have you had a runny nose or a sore throat No nothing like that Okay have you had a cough No Any shortness of breath No Okay any wheezing No Have you had any chest pain No Have you had any heart palpitations or feeling like your heart's racing No Any lightheadedness or dizziness No Okay and have you had any abdominal pain No Any nausea",
+        "gt_chunk": "D: changes like changes to vision or hearing?\n\nP: No, nothing like that.\n\nD: Any changes to your sense of smell or sense of taste?\n\nP: Nope.\n\nD: Have you had a runny nose or a sore throat?\n\nP: Uhm no nothing like that.\n\nD: OK, have you had a cough?\n\nP: No.\n\nD: Any shortness of breath?\n\nP: No.\n\nD: OK, any wheezing?\n\nP: No.\n\nD: Um have you had any chest pain?\n\nP: No. \n\nD: Have you had any heart palpitations or feeling like your heart's racing?\n\nP: No.\n\nD: Any lightheadedness or dizziness?\n\nP: Nope.\n\nD: OK, uh, and have you had any abdominal pain?\n\nP: No.\n\nD: Any nausea"
+    },
+    {
+        "whisper_chunk": "or vomiting No Any changes to your bowel movements such as diarrhea or constipation or even blood in the stool No nothing like that Okay any urination problems such as pain or frequency Nope Okay and have you noticed any changes to your skin like rashes or changes to your nails or hair Nope All right and have you had any neurological symptoms such as numbness or tingling No I don't think so No Okay and have you had any",
+        "gt_chunk": "D: or vomiting?\n\nP: No.\n\nD: Any changes to your bowel movements such as diarrhea or constipation or even blood in the stool.\n\nP: No nothing like that.\n\nD: OK, any urination problems such as pain or frequency?\n\nP: Nope.\n\nD: OK and have you noticed any changes to your skin like rashes or changes to your nails or hair?\n\nP: No.\n\nD: Alright, and have you had any neurological symptoms such as numbness or tingling?\n\nP: No, I don't think so. \n\nD: OK, and have you had any"
+    },
+    {
+        "whisper_chunk": "muscle weakness Just in that area I can't really flex and really move my upper arm and my elbow Okay do you have any pains in any other joints No it's only my right upper arm Okay and have you had any",
+        "gt_chunk": "D: muscle weakness?\n\nP: Just just in the in that area, I can't really like. I can't really flex an really move my upper upper arm in my elbow. \n\nD: OK. Do you have any pains in any other joints? \n\nP: Um no that's it's only my right upper arm.\n\nD: OK. Um. And. Have you had any"
+    },
+    {
+        "whisper_chunk": "confusion or memory loss No Okay and in the past have you been diagnosed with any other medical conditions No I've been pretty healthy They think I do have pre diabetes but I'm not on any medication Okay and have you had any issues with your shoulder before like a subacromial impingement syndrome or rotator cuff",
+        "gt_chunk": "D: confusion or memory loss?\n\nP: No. OK. And in the past, have you been diagnosed with any other medical conditions?\n\nP: Uhm no I've been pretty healthy, um I they think I do have like pre diabetes but I'm not on any medication.\n\nD: OK, and have you had any issues with your shoulder before like like a subacromial like impingement syndrome or like a rotator cuff"
+    },
+    {
+        "whisper_chunk": "pains or problems in the past A few years ago I did have some pain with like some they told me not to do like overhead work like just things that require like with physio I need to just do some strengthening as well And it was in the same shoulder Okay Okay and do you take any medications regularly No Okay and do you have any allergies No Have you had",
+        "gt_chunk": "D: pains or problems in the past?\n\nP: A few years ago I did have some pain um with like some, they they told me not to do like overhead work like just things that require like with Physio I need to do some strengthening as well and it was it wasn't the same same shoulder.\n\nD: OK. And do you take any medications regularly?\n\nP: Uh, no.\n\nD: OK, and do you have any allergies?\n\nP: No.\n\nD: Have you had"
+    },
+    {
+        "whisper_chunk": "any hospitalizations or prior surgeries I had my tonsils removed when I was probably like 10 or something but that's about it Okay and for the shoulder in the past did you have any imaging done like an ultrasound or MRI maybe to look at the structures No it was just it kind of went away I just did some physio They didn't really do any imaging I see",
+        "gt_chunk": "D: any hospitalizations or prior surgeries? \n\nP: I had my tonsils removed when I was probably like 10 or something, but that's about it.\n\nD: OK, and for the shoulder in the past did you have any imaging done like an ultrasound or or MRI maybe to look at the structures?\n\nP: No, it was just a it kind of went away. I just did some physio they didn't really do any imaging.\n\nD: I see"
+    },
+    {
+        "whisper_chunk": "okay And can you tell me a little about your living situation right now like who you're living with and where Yeah so I'm living with my wife and a daughter and I'm living just in a condominium in the city Okay and are you working right now Yeah so I'm an accountant And I'm working from home so it's not that bad but I might",
+        "gt_chunk": "D: . And can you tell me a little about your living situation right now, like you're living with and where?\n\nP: Yeah so I'm living with my wife and um daughter and I'm living just in a condominium in the city.\n\nD: OK, and are you working right now?\n\nP: Yeah, so I'm an accountant. I'm working from home, so it's not that bad, but I I might"
+    },
+    {
+        "whisper_chunk": "just take a few days off depending on what I have to do with this injury Okay and hobby wise you mentioned weightlifting Are you an active person like bodybuilding and that sort of thing regularly I just actually probably started this past year I used to work out a lot in university and in my early 30s but then I stopped And this year I've",
+        "gt_chunk": "P: just take a few days off depending on what I have to do with this injury.\n\nD: OK, and um do you and hobby wise you mentioned like weight lifting, are you an active person like bodybuilding and that sort of thing regularly? \n\nP: I I just actually probably started this past year. I used to. I used to workout a lot. In University and in my early 30s but then I stopped and this year I've"
+    },
+    {
+        "whisper_chunk": "kind of gone back into it Okay well it's good that you're staying active And do you smoke cigarettes No I probably tried a couple times in high school and university but just it was never my thing Okay and how about cannabis like smoking marijuana or using any of those types of products No I try to stay away from",
+        "gt_chunk": "P: kind of gone back into it.\n\nD: OK, well it's good that you're staying active. And um do you smoke cigarettes?\n\nP: No, I uh, probably tried a couple times and. High School and University, but just it was never my thing.\n\nD: OK, and how about cannabis, like smoking marijuana or using any of those types of products?\n\nP: No, I I try to stay away from"
+    },
+    {
+        "whisper_chunk": "any drugs Okay including recreational drugs Yep Okay and are there any musculoskeletal or neurological problems that run in the family Not that I know of no Okay and how about any autoimmune diseases No I don't think so Okay so next I just wanted to ask you to have a look at the arm and",
+        "gt_chunk": "P: any drugs.\n\nD: OK, uh, including recreational drugs?\n\nP: Yeah.\n\nD: OK and. Uh, are there any musculoskeletal or neurological problems that that run in the family?\n\nP: Not that I know of, no.\n\nD: OK, now how about any autoimmune diseases?\n\nP: Uh, no, I don't think so.\n\nD: OK, so next I just wanted to ask you to have a look at the at"
+    },
+    {
+        "whisper_chunk": "compare it to the other side Are you noticing any swelling redness or yeah any swelling or redness I do see some just like kind of like in the middle area some redness kind of looks like some bruising in that region And I also feel like when I like try to flex my biceps kind of have moved upwards Okay is this",
+        "gt_chunk": "D: Compared to the other side, are you noticing any swelling, redness, or?\n\nP: Yeah, any swelling or redness, I do see some just like kind of like in the middle of this area, some redness kind of looks like some bruising in in that in that region. Uhm, I also feel like when I like try to flex my biceps kind of have moved upwards.\n\nD: OK, is this"
+    },
+    {
+        "whisper_chunk": "the mass or a lump that you were mentioning earlier that you kind of can notice in your right arm Yeah yeah Okay is there any temperature change Like does it feel warm on that side No I can't really tell if it's warm or not Okay and so you mentioned are you able to bend your elbow all the way up To flex it all the",
+        "gt_chunk": "D: the mass or lump that I you were mentioning earlier that you kinda can notice in the in your right arm? \n\nP: Yeah yeah.\n\nD: OK, is there any temperature change, like does it feel warm on that side?\n\nP: Uhm I can't really tell if it's warm or not.\n\nD: OK, and you so you mentioned are you able to bend your elbow all the way up so to flex it all the"
+    },
+    {
+        "whisper_chunk": "way up or is the range of motion limited It's pretty limited It's pretty tough to flex It's really painful And then I also can't like I can't turn my arm I can't supinate Okay so you have reduced supination as well Mm hmm And how are your shoulder movement Are you able to like if you're lifting your arms straight out in front of you are you able to lift them all the way up above your head Like",
+        "gt_chunk": "D: way up, or is a range of motion limited?\n\nP: It's pretty limited. It's pretty tough to flex. It's really painful and that I also can't like. I can't turn my arm, I can't supinate.\n\nD: OK so yeah, so is that so you have reduced supination as well?\n\nP: Yeah.\n\nD: And how are your shoulder movement, are you able to like if you're lifting your arms straight out in front of you, are you able to to lift them all the way up above your head?"
+    },
+    {
+        "whisper_chunk": "at the sides or in front of me In front of you Yeah the shoulder seems to be okay I am able to lift up but it's just if I try to move my upper arms at all it hurts a lot Okay all right So you'll get some pain at the shoulder with the movement There is discomfort in the affected side but I",
+        "gt_chunk": "P: at the sides or in front of me?\n\nD: In front of you. \n\nP: Yeah, the shoulder seems to be OK. I am able to lift up, but it's just if I try to move my upper arms at all it hurts a lot.\n\nD: OK, alright so. You'll get some pain at the at the shoulder with the movement.\n\nP: There there is discomfort in the affected side, but I"
+    },
+    {
+        "whisper_chunk": "can move it much more than I can move my elbows or anything like that Okay I see Okay so I think that was everything that I wanted to ask about and look for on the physical today Was there anything I maybe missed or anything like that No I think I don't have any other questions Okay so based on the history and what you're telling me for the physical as well of having a history",
+        "gt_chunk": "P: can move it much more than I can move my elbows or anything like that. \n\nD: OK, I see. So I think that was everything that I wanted to ask about and and I look for on on the physical today. Was there anything I may be missed or anything like that? \n\nP: Uhm no I think, uh, I don't have any other questions.\n\nD: OK, alright, so based on the history and what you're telling me for the physical as well of having a history"
+    },
+    {
+        "whisper_chunk": "of exercising and also shoulder pain with overhead head movements which are risk factors for developing a biceps tendon tear or biceps tendon injury and having the swelling and bruising as well as reduced function of biceps or elbow flexion it all suggests that there is a biceps tendon tear or injury there And so we'll want to get",
+        "gt_chunk": "D: of exercising and also shoulder pain with overhead head movements which are risk factors for developing a biceps, tendon tear or biceps tendon injury. And having the swelling and bruising as well as reduced function of biceps or elbow flexion, they all suggests that there is a biceps, tendon tear, or injury there, and so will want to get"
+    },
+    {
+        "whisper_chunk": "an ultrasound or MRI to look at we'll start with the ultrasound but then possibly get an MRI as well to look at the extent of the tissue damage But if there is just a long head of biceps tear it will usually be treated conservatively And so we'll just need to look to see what the extent of the injury is Okay",
+        "gt_chunk": "D: an ultrasound or MRI to look at will start with the ultrasound, but then possibly get an MRI as well to look at the extent of the tissue damage, but if there is just a long head of biceps tear, it will usually be treated conservatively. And so we'll just need to look to see what the extent of the injury is.\n\nP: OK"
+    }
+]

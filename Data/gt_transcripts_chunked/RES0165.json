@@ -1,0 +1,54 @@
+[
+    {
+        "whisper_chunk": "So what brings you in here today I just I've had a cough and I've had a sore throat for the past few days And I was just worried that I might have COVID So I thought I'd come in and just make sure that everything's okay Okay well that's a good idea that you came in So it's been happening for the last two days Did you start having the cough first or the sore throat or both around the same time It started with the sore throat",
+        "gt_chunk": "D: : What brings you in here today?\n\nP: Um, I just I've had a cough and I've had a sore throat for the past two days and I was just worried that I might have COVID so I thought I'd come in. Just to make sure that everything's OK.\n\nD: OK, well that's a good idea that you came in, so it's been happening for the last two days. Did you start having the cough first or the sore throat or both around the same time?\n\nP: It started with a sore throat"
+    },
+    {
+        "whisper_chunk": "two nights ago And then it got worse in the morning when I woke up And then I developed the cough like about a day ago a day and a half Okay And can you describe your cough Is it a wet cough or a dry cough It's a dry cough Okay Are you having any kind of are you bringing up any blood or sputum at all No No okay And so this",
+        "gt_chunk": "P: two nights ago and then it got worse in the morning when I woke up and then I developed the cough, like about a day ago, a day and a half.\n\nD: OK and can you describe your cough? Is it a wet cough or a dry cough?\n\nP: It's a dry cough.\n\nD: OK, are you having any kind of? Are you bringing up any blood or sputum at all? \n\nP: No. \n\nD: No OK. And, uh. So this"
+    },
+    {
+        "whisper_chunk": "started two days ago Is it constant Are your symptoms constant or do they come and go No they're not constant They kind of come and go Okay And do they occur when you're inserting yourself at all or do they happen at some points during the day in the morning or night or just randomly It's pretty random Okay Are your symptoms getting any better or worse Maybe a little worse I kind of feel like I'm also I'm now having",
+        "gt_chunk": "D: started 2 days ago. Is it constant, are your symptoms constant? Or they come and go?\n\nP: No, they're not constant. They kind of come and go.\n\nD: OK, and do they occur when you're exerting yourself at all or it can happen it? Or do they happen at some point during the day in the morning or night, or just randomly?\n\nP: It's pretty random. \n\nD: Okay. Are you symptom getting any better or worse?\n\nP: Uhm? Maybe a little worse. I kind of feel like I'm also, um, I'm now having"
+    },
+    {
+        "whisper_chunk": "like a runny nose A runny nose as well Okay that's right Maybe like I don't know just now even like an hour or two ago Okay Have you had any recent exposure to anyone that's been sick recently at all Maybe I work at a hospital but I'm always maintaining social distancing and",
+        "gt_chunk": "P: like a, a runny nose.\n\nD: A runny nose as well? OK, when did that start?\n\nP: Uhm, maybe like I don't know just now even, like an hour or two ago.\n\nD: OK, uhm have you had any recent exposure to anyone that's been sick recently at all? \n\nP: Uhm? Maybe. I, I work at a hospital. Um, but I'm always maintaining, social distancing and"
+    },
+    {
+        "whisper_chunk": "I try to be very careful Okay And do you have you tried any medications over the counter to help with these symptoms No No okay Do you have any other symptoms like a shortness of breath chest pain dizziness anything like that No Okay And the sore throat are you having trouble or pain while swallowing any food It's not that bad It's not that bad",
+        "gt_chunk": "P: I try to be very careful. \n\nD: OK, and uh. Do you have you tried any medications over the counter to help with these symptoms?\n\nP: No. \n\nD: OK. Do you have any other symptoms like. Shortness of breath, chest pain, dizziness, or anything like that?\n\nP: No. \n\nD: No. Okay. And the sore throat are you having trouble or pain while swallowing any food? \n\nP: It's not that bad.\n\nD: Not that bad"
+    },
+    {
+        "whisper_chunk": "okay It's just an irritation in my throat Okay Any hoarseness in your voice at all No No okay Have you traveled at all recently outside of the province No Okay Any headaches No Any nausea or vomiting No Any fevers or chills No No okay Any fatigue or malaise Maybe a little bit but it's not too bad Okay Any muscle aches at all",
+        "gt_chunk": "D: . \n\nP: It's just irritation in my throat. \n\nD: OK. Any hoarseness in your voice at all?\n\nP: No. \n\nD: Well, OK. Have you traveled at all recently utside of the province?\n\nP: No. \n\nD: Any headaches? \n\nP: No.\n\nD: Any nausea, vomiting? \n\nP: No.\n\nD: Any fevers or chills?\n\nP: Now I know. \n\nD: No OK. Any fatigue or malaise?\n\nP: Maybe a little bit. It's not too bad.\n\nD: OK, any muscle aches at all"
+    },
+    {
+        "whisper_chunk": "Yeah a little bit Okay And when did that start Maybe two days ago Okay And is it just all over your body or in certain locations It's all over Okay Have you tried any pain medications No no I haven't Okay Any changes in your bowel movement at all like constipation or diarrhea No No Any changes in your appetite No Okay",
+        "gt_chunk": "P: Yeah, little bit.\n\nD: Okay, and when did that start?\n\nP: Maybe two days ago? \n\nD: OK, and is it just all over your body or in certain locations?\n\nP: It's all over. \n\nD: Have you tried any pain medications?\n\nP: Uhm no, no I haven't. \n\nD: OK. Any changes in your bowel movement at all like Constipation or diarrhea?\n\nP: No. \n\nD: Um, any changes in your appetite?\n\nP: No. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Have you lost any significant weight recently No Okay And do you have any past medical conditions that you've been diagnosed with No I'm pretty healthy Okay Any allergies to any medications No Okay Any environmental allergies No Okay Any previous sorry are you taking any medications at all right now I'm not no Okay Any past hospitalizations",
+        "gt_chunk": "D: have you lost any significant weight recently? \n\nP: Uh, no. \n\nD: OK. Do you have any past medical conditions that you've been diagnosed with?\n\nP: Um, no, I'm pretty healthy.\n\nD: OK. Any allergies to medication?\n\nP: No. \n\nD: Any environmental allergy?\n\nP: No. \n\nD: OK, any previous, so sorry? Are you taking any medications at all right now?\n\nP: Uhm? Um, I'm not, no.\n\nD: Any past hospitalizations"
+    },
+    {
+        "whisper_chunk": "or surgeries No No Okay And any family history of any lung or heart conditions Just high blood pressure My mom has it Okay And currently are you working I was working before these symptoms started Okay And what do you do for work I work as a custodian at the hospital Okay And so you've been isolating and have you gone a COVID swab test yet No I haven't Okay",
+        "gt_chunk": "D: or surgeries?\n\nP: Um, no. \n\nD: No. OK, and any family history of any lung or heart condition.\n\nP: Just high blood pressure. My mom has it.\n\nD: OK. Uhm, and currently, are you working?\n\nP: I was working before the symptoms started.\n\nD: OK, and what do you do for work?\n\nP: I work as a custodian at the hospital.\n\nD: OK, and so you've been isolating and have you gotten COVID swab test yet?\n\nP: Uhm no I haven't.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "So yeah we can do that for you today after a full physical examination Currently right now what's your living situation like I live alone Okay And do you live in like an apartment or a house Apartment Okay And any new exposures at all in your house to dust new carpets animals anything like that No No Okay And do you smoke I used to I don't anymore I smoked when I was in high school",
+        "gt_chunk": "D: so yeah we can do that for you today after a physical, physical examination. \n\nP: Sure.\n\nD: Currently, right now, what's your living situation like?\n\nP: I live alone. \n\nD: OK, and do you live in like an apartment or house?\n\nP: Apartment.\n\nD: OK, and any new exposures at all in your house to dust, new, carpets, animals, anything like that?\n\nP: No.\n\nD: No, OK. And do you smoke?\n\nP: I used to, I don't anymore. I I smoked when I was in high school"
+    },
+    {
+        "whisper_chunk": "maybe a couple times Okay And do you smoke marijuana No No Any alcohol Once a day maybe one glass of wine at night Okay Yeah so those are all the questions I had for you today Do you have any questions or concerns No Okay Yeah it seems like you've been having these symptoms for the last few days They seem kind of like viral in nature with your dry cough and runny nose sore throat And sometimes",
+        "gt_chunk": "P: Maybe a couple times.\n\nD: And do you smoke marijuana?\n\nP: No.\n\nD: Uh, any alcohol?\n\nP: Um, once once a day, maybe one class of wine at night.\n\nD: Yeah, so that's all the questions I had for you today. Do you have any questions or concerns?\n\nP: No. \n\nD: OK, so yeah, it seems like you've been having these symptoms for the last few days. They seem kind of like viral in nature with your dry cough and runny nose, sore throat. And sometimes"
+    },
+    {
+        "whisper_chunk": "with these viral illnesses it may take some time for the symptoms to go away especially the cough So today we will do a COVID swab test for you today as a lot of these symptoms overlap And you will receive the result in the next one to two days and be contacted by public health for further instructions As for management I think you can take over the counter medications like Tylenol cold",
+        "gt_chunk": "D: with these viral illnesses, it may take some time for the symptoms to go away, especially the cough. So today we will do a COVID swab test for you today, as a lot of the symptoms overlap and you will receive the result in the next one to two days and be contacted by public health for further instructions. As for management, I think you can take over the counter medications like Tylenol cold"
+    },
+    {
+        "whisper_chunk": "drink lots of fluids stay hydrated and if your symptoms worsen at all you can contact us again Sure Thank you You're welcome Take care",
+        "gt_chunk": "D: drink lots of fluids and stay hydrated. And if those if your symptoms worsen at all, you can contact us again.\n\nP: Sure, thank you. \n\nD: Welcome, take care"
+    }
+]

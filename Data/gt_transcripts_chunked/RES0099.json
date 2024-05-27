@@ -1,0 +1,90 @@
+[
+    {
+        "whisper_chunk": "how may I help you So yeah I've been having for the last two days it just started randomly I had to miss work just a headache started at the beginning and then I noticed the same day so this was two days ago a headache started and my body just started aching throughout the day and yesterday I just developed I think it was a fever I didn't really get a chance to check like but I was just very chilly",
+        "gt_chunk": "D: how may I help you?\n\nP: So yeah I've been having for the last two days, uh, it just started randomly. I had to miss work, Just a headache started at the beginning and then I noticed the same day, so this was two days ago. A headache started and my body just started aching throughout the day and yesterday I just developed, I think it was a fever, I didn't really get a chance to check, like, but I was very chilly"
+    },
+    {
+        "whisper_chunk": "yesterday and now I have this cough as well Okay so just to confirm so that the symptoms that first started were the headache and just and fatigue and that started two days ago Yeah like with fatigue like also just my muscles were aching Okay and any particular muscles that were achy or is this more of a general kind of whole body",
+        "gt_chunk": "P: yesterday and now I have this cough as well.\n\nD: OK, so just to confirm, so the, the symptoms at first started with a headache and, and fatigue, and that started two days ago?\n\nP: Yeah, like with fatigue, like also just the, my muscles were aching.\n\nD: OK, and any particular muscles that were achy or is this more of a, uhm, general kind of whole body"
+    },
+    {
+        "whisper_chunk": "feeling It's a general whole body feeling Okay and in terms of the headache could you describe could you describe the headache Yes it's just kind of like at the front like near my kind of like both sides more it just feels like like pressure in there Okay have you had headaches like this before No not really Okay",
+        "gt_chunk": "D: feeling?\n\nP: Just a general whole body feeling.\n\nD: OK. Uh, and in terms of the headache, could you describe, uhm, could you describe the headache?\n\nP: Yes, it's just kind of like at the front like near my forehead, on, on kind of like both sides more. It just feels like, like pressure in there.\n\nD: OK, have you had headaches like this before? \n\nP: Uh, no, not really.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "is the headache on one side or the other or on both sides I think it's like both sides And is the more continuous kind of constant pain I think it's more continuous constant Alright and have you had any sensitivity to light or sound that that's made the headache a lot worse No it's it's kind of just there",
+        "gt_chunk": "D: is the headache on one side or, or the other or on both sides?\n\nP: I think it's like both sides.\n\nD: And is the headache like pulsating or is it more, continuous kind of constant pain?\n\nP: I think it's more continuous constant.\n\nD: Alright, and have you had any sensitivity to light or sound that, that's made the headache a lot worse?\n\nP: No, it's, it's kind of just there"
+    },
+    {
+        "whisper_chunk": "it's about the same as when it was when it started Okay and have you had any nausea and vomiting associated with the headache or or anything else No Okay and so and then last question for the the headache piece is it feel like it was a like kind of sudden onset worst headache of your life sensation No it's still like like I can still cope with it like if if I",
+        "gt_chunk": "P: it's about the same as when it was when it started.\n\nD: OK, have you had any nausea and vomiting associated with that, the headache or anything else?\n\nP: Uh, no.\n\nD: OK. And so, and then, last question for the headache piece. Does it feel like it was a like kind of sudden onset, worst headache of your life sensation?\n\nP: Uh, no, it's still like, like I can still cope with it, like, if I"
+    },
+    {
+        "whisper_chunk": "wanted to I would have gone into work but it was the muscle aches that really started bothering me Okay and so you had a cough as well and when did this start in and is it a dry or wet cough It's a dry cough and it started yesterday probably in the morning when I woke up Okay and has the cough been getting any better or worse Since yesterday I would say it's probably a bit worse now Alright and",
+        "gt_chunk": "P: wanted to I would have gone into work. But it was the muscle aches that really started bothering me.\n\nD: OK. And so you had a cough as well, when did this start, and is it a dry or wet cough?\n\nP: It's a dry cough and it started yesterday, probably in the morning when I woke up.\n\nD: OK, and has the cough been getting any better or worse?\n\nP: Uhm, since yesterday I would sayit's probably a bit worse now.\n\nD: Alright, and"
+    },
+    {
+        "whisper_chunk": "it's dry but have you seen any blood that's come up No no no blood And have you had any shortness of breath No Okay and have you had any flu like symptoms or infectious symptoms like a red eyes runny eyes runny nose or a sore throat No I don't have any of those symptoms Okay you mentioned you felt feverish do you feel hot now Not right now but I did have",
+        "gt_chunk": "D: it's dry, but have you seen any blood that's come up?\n\nP: No, no, no blood.\n\nD: And have you had any shortness of breath?\n\nP: No.\n\nD: OK. And have you had any flu like symptoms or infectious symptoms like a red eyes, runny eyes, runny nose, or a sore throat?\n\nP: No, I don't have any of those symptoms.\n\nD: OK, you mentioned you felt feverish. Do you feel hot now?\n\nP: Not right now, but I did have"
+    },
+    {
+        "whisper_chunk": "last night just was just very chilly and I have to just wrap myself in a couple blankets Okay have you did you have any night sweats No I didn't have any night sweats Alright and have you had any chest pain No no chest pain Alright so now about any dizziness or lightheadedness No Okay and have you had any wheeze No",
+        "gt_chunk": "P: last night just, was just very chilly and Uh, I had to just wrap myself up in a couple blankets. \n\nD: OK. Did you have any night sweats?\n\nP: No, I, I didn't have any night sweats.\n\nD: Alright, and have you had any chest pain?\n\nP: No, no chest pain.\n\nD: Alright, so how about any dizziness or lightheadedness?\n\nP: Nope.\n\nD: OK. And have you had any wheeze?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "wheezing Okay and have you noticed any swelling to any of your No belly pain Any urinary problems like pain or frequency going to the bathroom No And any diarrhea No diarrhea Alright and have you noticed any rashes or changes to your skin No not at all Alright",
+        "gt_chunk": "P: .\n\nD: OK. And have you had any belly pain?\n\nP: No belly pain.\n\nD: Any urinary problems like pain or, or frequency going to the bathroom?\n\nP: No. \n\nD: And any diarrhea?\n\nP: No diarrhea.\n\nD: Alright, and have you noticed any rashes or, or changes to your skin?\n\nP: No, not at all. \n\nD: Alright"
+    },
+    {
+        "whisper_chunk": "and I know you've had muscle aches have you had any joint pains No no muscle sorry no joint pain it's mainly just like in I would say you know on my upper back like my upper arms and kind of like my thighs and glute areas Okay and how has your energy been these last couple of days Yesterday I felt a bit drained I just kind of like stayed in bed the",
+        "gt_chunk": "D:  know, you've had muscle aches, have you had any joint pains?\n\nP: Uh, no, no musc, sorry no joint pain. It's mainly just like in, I would say in around my upper back like my upper arms and kind of like my thighs and glutes areas \n\nD: OK. And how has your energy been these last couple of days?\n\nP: Yesterday I felt a bit drained. I just kind of like stayed in bed the"
+    },
+    {
+        "whisper_chunk": "whole day Okay and have you tried any medications for that the headache or any of your symptoms so far I took a Tylenol actually took a couple Tylenols when the headache and pain started It did help a bit for a couple hours but it just kind of came back Okay and in the past have you",
+        "gt_chunk": "P: whole day.\n\nD: OK, and have you tried any medications for the, for the headache or any of your symptoms so far?\n\nP: I, I took a Tylenol. I actually took a couple Tylenols, uh, when the headache and pain started. It did help a bit for a couple hours, but it just kind of came back. \n\nD: OK. And in the past, have you"
+    },
+    {
+        "whisper_chunk": "been I have type 2 diabetes that's it Okay and are you using medications for your diabetes Yeah I've been on metformin Okay have you used insulin before No no I've never had to use insulin it's pretty stable like my family doctors even considering taking the off the metformin Okay now that's great",
+        "gt_chunk": "P:  I had type 2 diabetes, that's it. \n\nD: OK, and are you using medications for your diabetes?\n\nP: Yeah, I've been on Metformin.\n\nD: OK, have you used insulin before?\n\nP: No, no, I've never had to use insulin. It's pretty stable, like my family doctors even considering taking me off the metformin.\n\nD: OK, no, that's great"
+    },
+    {
+        "whisper_chunk": "and that reminds me actually have you how is your weight been over the last several months have you had any weight changes Not really like I I think over the last two years I've just been very focused on my fitness so I feel like I've probably lost around 30 pounds over the last year last one year but like I've been exercising",
+        "gt_chunk": "D: And that reminds me, actually, how has your weight been over the last several months? Have you had any weight changes?\n\nP: Not really, like I, I, I think over the last two years I've just been very focused on my fitness, so I feel like I've probably lost around 30 pounds over the last year. Last one to two, yeah, year, but like I, I've been exercising"
+    },
+    {
+        "whisper_chunk": "a lot like gym every day it's been it's been a journey No that's great though good for you I encourage you to keep that up for sure Okay and so do you take any other medications either over the counter or prescribed Just multivitamins All right and you have any allergies to medications No not that I know of All right so have you had any hospitalizations or surgeries No All right and",
+        "gt_chunk": "P: a lot like uhm, gym every day, it's, it's been, it's been a journey. \n\nD: no that's great though, good for you. I encourage you to keep that up for sure. OK, and so do you take any other medications, other, over the counter or prescribed?\n\nP: Uhm, just a multi vitamins. \n\nD: Alright, and do you have any allergies to medications?\n\nP: No, not that I know of.\n\nD: All right. So have you had any hospitalizations or surgeries? \n\nP: No.\n\nD: Alright, and"
+    },
+    {
+        "whisper_chunk": "anybody in the family have any like lung conditions heart conditions or diseases that run in the family My son actually just recently was diagnosed with asthma but I think that he gets that from his mom's side Okay you don't have any asthma or problems breathing like that No nothing",
+        "gt_chunk": "D: anybody in the family have any like lung conditions, heart conditions or diseases that run in the family?\n\nP: Uh, my, my son actually just recently was diagnosed with asthma. But I think that he gets that from his mom's side. \n\nD: OK. Uhm, you don't have any asthma or problems breathing like that?\n\nP: No, nothing"
+    },
+    {
+        "whisper_chunk": "like that Okay and right now so you mentioned your son and wife is that who you're living with Yeah it's just us three Okay and any exposures to anybody who's been sick either at home or at work or or any other activities I unfortunately I do have to I'm one of the unlucky ones that still has to go into work and",
+        "gt_chunk": "P: like that. \n\nD: OK, and right now, so you mentioned your son and wife, is that who you're living with?\n\nP: Yeah, it's just us three. \n\nD: OK, and uh, any exposures to, to anybody who's been sick, either at home or at work or, or any other activities?\n\nP:  Uh, unfortunately I do have to, uh, I'm one of the unlucky ones that still has to go into work. And"
+    },
+    {
+        "whisper_chunk": "yeah it's hard to say like at work there are times when we like at lunch we eat like without a mask I don't know if I didn't notice anyone having any symptoms but like I don't know if someone you know who knows where anyone has been Yeah so nobody that you're aware of who's been sick though No And everybody at home has been okay Yeah at home everyone's good I've kind of just distanced myself into like one room mm hmm just",
+        "gt_chunk": "P:  it's hard to say like at work, there are times when we, like at lunch we eat like without a mask. I don't know if, I didn't notice anyone having any symptoms, but like, I don't know if someone, you know, who knows where anyone has been.\n\nD: Yeah, so nobody that you're aware of who's been sick though?\n\nP: No.\n\nD: And everybody at home has been OK?\n\nP: Yeah, at home everyone's good. I kind of just distance myself into like one room.\n\nD: Mhm.\n\nP: Just"
+    },
+    {
+        "whisper_chunk": "in case anything goes wrong Okay and have you traveled anywhere No we've been we've been at home this whole time Okay and do you smoke cigarettes No I've never smoked Okay and so do you smoke marijuana No All right and you use any other recreational drugs like cocaine opioids heroin any and have you used anything like that in the past No never Okay and do you drink alcohol Yeah just occasionally like I would say maybe maybe some",
+        "gt_chunk": "P: in case anything goes wrong.\n\nD: OK. And have you traveled anywhere?\n\nP: No, we've been, we've been at home this whole time.\n\nD: OK. And do you smoke cigarettes?\n\nP: No, I've never smoked.\n\nD: OK, so do you, do you smoke marijuana?\n\nP: No.\n\nD: Alright and you use any other recreational drugs like cocaine, opioids, heroin? And how, have you used anything like that in the past?\n\nP: No. Never.\n\nD: OK, uhm, and do you drink alcohol?\n\nP: Yeah, well just occasionally, like I would say maybe, maybe some"
+    },
+    {
+        "whisper_chunk": "wine once or like once every couple days maybe a beer on the weekend but that's it All right so I think that was all I wanted to ask on history today Was there anything else that that you wanted to add before we go on to the exam Yeah so I I don't know if I should get a test done like for COVID",
+        "gt_chunk": "P: wine, once, uh, like once every couple days. Maybe a beer on the weekend, but that's it. \n\nD: Alright. So I think that was all I wanted to ask on history today. Was there anything else that, that you wanted to add before we go on to the exam and?\n\nP: Yeah, so I, I, I don't know if I should get a test done, like for"
+    },
+    {
+        "whisper_chunk": "Yeah that's all I was just wondering if I can do that here Yeah so that is something that that is on the differential for what could be causing your symptoms especially with starting having a cough and the non specific viral type symptoms with cough headache muscle aches So certainly could be caused by COVID but there are other reasons for that could explain these symptoms such as",
+        "gt_chunk": "P: yeah, that's all, just wondering if I, if I can do that here?\n\nD: Yeah, so that is something that that is on the differential for what could be causing your symptoms, especially with uhm, starting at having a cough and the nonspecific viral type symptoms with the cough, headache, muscle aches, so certainly could be caused by covid, but there are other reasons for, that could explain these symptoms, such as"
+    },
+    {
+        "whisper_chunk": "other type of viral illnesses and so we will do a PCR swab today as well as do we'll check your vitals to see if you have a fever now and we'll also maybe send an influenza swab as well and and do some blood work but in the meantime since we're running the COVID swab it'll be important",
+        "gt_chunk": "D: other types of viral illnesses, and so we will do a PCR swab today, as well as do, well, check your vitals to see if you have a fever now and we'll also maybe send an influenza swab as well, and and do some blood work. But in the meantime, since we're running the covid swab, it will be important"
+    },
+    {
+        "whisper_chunk": "to self isolate for the next 14 days and we will let you know what the test results show but despite even if there are negative it will be important to still stay self isolating for the next 14 days Okay I'll do that that sounds good All right thank you Thank you",
+        "gt_chunk": "D: to self isolate for the next 14 days and we will let you know what the test results show. But despite, even if they are negative, it will be important to still stay self isolating for the next 14 days.\n\nP: OK, I'll do that. That sounds good.\n\nD: Alright, thank you"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "whisper_chunk": "what brings you in I just came in because I just got into like this incident while I was playing rugby I kind of got tackled and then fell onto my right shoulder After I got up I've just been this just happened a couple hours ago actually and I've just been in intense pain in my right shoulder Okay and sorry when was this exactly Probably two hours ago Two",
+        "gt_chunk": "D: What brings you in?\n\nP: I just came in because of I just got into like this uh, incident while I was playing rugby. I kind of got tackled and then fell onto my right shoulder. Um, and after I got up, I haven't, I've just been, this just happened a couple hours ago actually and uh, I've just been in intense pain in my right shoulder and I can't seem to move it at all.\n\nD: Okay, um, and sorry, when was this exactly?\n\nP: Uh, probably 2 hours ago.\n\n"
+    },
+    {
+        "whisper_chunk": "hours ago okay and is this pain persistent or is it like on and off It's constant it hasn't gone away at all One to ten ten being the worst how bad is this pain I don't know like probably like eight or nine Eight or nine okay and is it a sharp kind of pain or is it dull It's sharp like if I try to move it at all it's like a sharp pain",
+        "gt_chunk": "D: hours ago, okay. Um, and is this pain persistent or is it like on and off?\n\nP: It's, it's constant. It hasn't gone away at all.\n\nD: Okay. 1 to 10, 10 being the worst. How bad is this pain? \n\nP: I don't know, like probably like 8 or, 8 or 9.\n\nD: 8 or 9, okay. Um, and is it a sharp kind of pain or is it dull and aching?\n\nP: It's, it's sharp. Like if I try to move it at all, it's like a sharp pain"
+    },
+    {
+        "whisper_chunk": "Okay and have you ever had anything like this in the past No never And are you able to move your arm at all or you can't move it I could move my fingers and hand and elbow but elbow a little bit but like yeah I can't move my shoulder whatsoever And are you experiencing any tingling or numbness No I don't think so How about any",
+        "gt_chunk": "D: Okay, um, and have you ever had anything like this in the past?\n\nP: Uh, no, never.\n\nD: Never, okay. And are you able to move your arm at all or you can't move it?\n\nP: I could move my fingers and hand and elbow, but um, elbow a little bit, but like uh, yeah, I can't move my shoulder whatsoever.\n\nD: Okay, um, and do you, are you experiencing any tingling or numbness?\n\nP: Um, no, I don't think so.\n\nD: No, okay"
+    },
+    {
+        "whisper_chunk": "muscle weakness In that area I don't know if it's weakness or pain but yeah I just can't move it and I do feel some like numbness just above my shoulder no tingling though Okay any pain elsewhere in your body No Any headaches No Confusion or memory loss No Weight loss No Fingers are choked No Rashes No Changes in your vision hearing smell or taste No Coughing shortness of breath",
+        "gt_chunk": "D: muscle weakness? \n\nP: Um, in that area, I don't know if it's weakness or pain, but I just can't move it up and I, I, I do feel some like numbness just above my shoulder. No tingling though.\n\nD: Okay, any pain elsewhere in your body? \n\nP: No.\n\nD: No, okay. Any headaches?\n\nP: Um, no.\n\nD: Confusion or memory loss?\n\nP: Uh, no.\n\nD: Uh, weight loss?\n\nP: Uh, no.\n\nD: Fevers or chills?\n\nP: No.\n\nD: Rashes?\n\nP: Um, no. \n\nD: Uh, changes in your vision, hearing, smell or taste?\n\nP: Uh, no.\n\nD: Um, coughing, shortness of breath"
+    },
+    {
+        "whisper_chunk": "or wheezing No Chest pain or heart palpitations No Changes in your bowel movements No Changes in voiding No Okay and then with regards to this pain does anything make it better or worse Not anything that I've tried that's made it better Worse is probably just if I try to move it at all Okay and the pains in your shoulder does it radiate down or up elsewhere Mostly towards my shoulder kind of down towards my upper arm as well Okay I see All",
+        "gt_chunk": "D: or wheezing?\n\nP: Um, no.\n\nD: Chest pain or heart palpitations?\n\nP: No.\n\nD: Changes in your bowel movements?\n\nP: No.\n\nD: Changes in voiding?\n\nP: No.\n\nD: Um, okay. And then with regards to this pain, does anything make it better or worse?\n\nP: Um, um not anything that I've tried that's made it better. Worse is probably just if I try to move it at all.\n\nD: Okay, and the pains in your shoulder, does it radiate down or up elsewhere?\n\nP: Uh, mostly towards my shoulder, um, kind of down towards my upper arm as well.\n\nD: Okay, I see."
+    },
+    {
+        "whisper_chunk": "right and are you otherwise healthy Do you have any other medical conditions No yeah otherwise I'm healthy I've never been to the doctor much Okay all right And are you on any medications No No okay and are you up to date with your immunizations Yes Okay and do you have any allergies No Any family history of musculoskeletal diseases No not that I know of Okay",
+        "gt_chunk": "D: alright, and um, are you otherwise healthy? Do you have any other medical conditions?\n\nP: No. Yeah, otherwise I'm healthy. I've never been to the doctor much.\n\nD: Okay, alright. Um, and are you on any medications?\n\nP: No.\n\nD: No, okay. And um, are you up-to-date with your immunizations?\n\nP: Yes.\n\nD: Okay, and do you have any allergies?\n\nP: Uh, no.\n\nD: Any family history of musculoskeletal diseases?\n\nP: No, not that I know of.\n\nD: Okay"
+    },
+    {
+        "whisper_chunk": "and any family history of autoimmune conditions No Okay do you smoke at all No No Do you consume marijuana No Do you drink alcohol No just with friends sometimes on the weekends but not really Okay and then where do you live right now and who do you live with I live just outside",
+        "gt_chunk": "D: and any family history of autoimmune conditions?\n\nP: Um, no.\n\nD: Okay. Um, do you smoke at all?\n\nP; No. \n\nD: No. Um, do you consume marijuana?\n\nP: Uh, no.\n\nD: Uh, do you drink alcohol?\n\nP: Uh no, just, just with friends sometimes on the weekends, but not really.\n\nD: Okay. Um, and then, where do you live right now and who do you live with?\n\nP: Uh, I live just outside"
+    },
+    {
+        "whisper_chunk": "of town with my parents in a house Okay and have you traveled anywhere recently No I've been at home Okay any sick contacts No No okay so now we're just going to move on to the physical exam part of this and so can you take a look at both your shoulders and let me know if you see any redness or swelling I don't think I see any redness",
+        "gt_chunk": "P: of town with my parents in a house.\n\nD: Okay. And um, have you traveled anywhere recently?\n\nP: Um, no, I've been at home.\n\nD: Okay, any sick contacts? \n\nP: No.\n\nD: No, okay. So now we're just going to move on to um, the physical exam part of this. So can you take a look at both your shoulders and let me know if you see any redness or swelling?\n\nP: Um, I don't think I see any redness"
+    },
+    {
+        "whisper_chunk": "or swelling but my right shoulder and my arm just seems a little bit lower than my left one Okay okay Any warmth on that shoulder No not that I can feel Okay any atrophy deformities or skin changes For me I do feel like my shoulder's dropped and there's just kind of this little like",
+        "gt_chunk": "P: or swelling, but um, my right shoulder and my arm just seems a little bit lower than my left one.\n\nD: Okay, okay, any um, warmth on, on that shoulder?\n\nP: Uh, no, not that I can feel.\n\nD: Okay, any atrophy, deformities, or skin changes?\n\nP: Um, deformity, I, I do feel like kind of uh, like my shoulder's dropped and like there's just kind of this uh, little, like"
+    },
+    {
+        "whisper_chunk": "divot where like the shoulder should be Okay okay and can you palpate that area for me just the bones in that area so like right where your arm would connect to your shoulder and then kind of along your shoulder blade does that hurt when you press down Yeah it hurts a little bit",
+        "gt_chunk": "P: divots, where like the shoulder should be.\n\nD: Okay, okay. And can you palpate that area for me? Just um, the bones in that area, so like right where your arm would connect to your shoulder and then kind of on your shoulder blade. Does that hurt when you press down?\n\nP: Yeah, it hurts a lot."
+    },
+    {
+        "whisper_chunk": "Okay and can you lift your shoulder up at all like to the point where your fingers are I can't All right so it sounds like you have a shoulder dislocation",
+        "gt_chunk": "D: , can you lift your shoulder up at all? Like to where, to the point where your fingers are touch, like"
+    },
+    {
+        "whisper_chunk": "so we are going to do an x ray of your shoulder joint first to make sure that it's just a dislocation and there aren't any broken bones or fractures and then we can resolve this by doing something called a closed reduction to try to put the joint back in its place And",
+        "gt_chunk": "D: so we are going to do an x-ray of your shoulder joint first to make sure that it's, it's just a dislocation and there aren't any broken bones or fractures. And then um, we can resolve this by doing something called a closed reduction, um, to try to put the joint back in its place."
+    },
+    {
+        "whisper_chunk": "if that closed reduction doesn't work then you may need surgery for like a weak shoulder joint or if like ligaments aren't like strong enough and it continues to happen Okay otherwise we can keep it immobilized for a few days to a few weeks depending on how bad",
+        "gt_chunk": "D: if that closed reduction doesn't work, then uh, you may need surgery for like a, um, a weak shoulder joint, or if like ligaments um, aren't like, strong enough and it's it continues to happen.\n\nP: Okay.\n\nD: Um, otherwise, we can keep it immobilized for a few days to a few weeks, um, depending on how bad"
+    },
+    {
+        "whisper_chunk": "the dislocation is and then once that's removed you can do some rehab as well to restore some range of motion Does that sound like a good plan Do you have any questions or concerns in the That's great Okay",
+        "gt_chunk": "D: the dislocation is. Um, and then once that's removed, you can do some rehab as well to restore some range of motion. Does that sound like a good plan? Do you have any questions or concerns in the"
+    }
+]

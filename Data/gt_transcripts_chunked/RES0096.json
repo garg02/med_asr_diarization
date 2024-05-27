@@ -1,0 +1,78 @@
+[
+    {
+        "whisper_chunk": "how can I help you I have just been feeling very short of breath recently and I thought I should come in I've also had a cough I see okay and when does this shortness of breath come on How much activity are you able to do I can walk a block Okay and prior",
+        "gt_chunk": "D: how can I help you?\n\nP: Uh, I have just been feeling very short of breath recently.\n\nD: OK.\n\nP: And I thought I should come in. I've also had a, I've also had a cough.\n\nD: I see. OK, uhm, and when does this shortness of breath, uhm, come on? How, how much activity are you able to do?\n\nP: Uhm, I can walk a block.\n\nD: OK."
+    },
+    {
+        "whisper_chunk": "to this change how far were you able to walk and and how long ago did you did you notice this change I guess I could walk I don't know it's been very I guess it's been a gradual change Maybe a month a month ago I felt that I couldn't really walk as much as I used to and then it's only gotten worse Two or three months ago I could I could walk",
+        "gt_chunk": "D: to this change, how far were you able to walk and and how long ago did you, did you notice this change?\n\nP: Uhm, I, I guess I could walk, uh, I don't know, it's been very, I guess it's, it's been a gradual change. Uhm, maybe a month, a month ago I felt that I couldn't really walk as much as I used to, and then it's only gotten worse. Two or three months ago I could, I could walk"
+    },
+    {
+        "whisper_chunk": "a little bit Okay so that's something that we can change over the last little while Have you had any episodes where you wake up in the middle of the night with shortness of breath and you need to sit up No Okay and how many pillows do you sleep with One Okay and have you noticed any like ankle swelling or leg swelling No Okay and",
+        "gt_chunk": "D:  quite a significant change over the last little while. Have you had any episodes where you wake up in the middle of the night with, with shortness of breath, and you need to sit up? \n\nP: No.\n\nD: OK, and how many pillows do you sleep with?\n\nP: One.\n\nD: OK and have you noticed any like ankle swelling or or leg swelling?\n\nP: No. \n\nD: OK. And"
+    },
+    {
+        "whisper_chunk": "you mentioned cough when did that start I've had a cough for a while the past five ten years but I feel that it's been a little bit more frequent now It's just I just get into this coughing fit and I think there was a time when I had a little bit of blood come out as well once or twice Yeah the coughing also makes it difficult for me to breathe you know I feel very short of breath",
+        "gt_chunk": "D: you mentioned cough. When did that start?\n\nP: I've had a cough for a while, the past five, ten years, but I feel that it's been a little bit more frequent now. It's just, I just get into this coughing fit and I think there was a time when I had a little bit of blood come out as well, once or twice. The coughing also makes it difficult for me to breathe, you know, I feel very short of breath"
+    },
+    {
+        "whisper_chunk": "after that Yeah certainly How much blood have you puffed up Oh I don't know I think it was a little bit Does it happen each time or has it only been a couple of times I'd say maybe two or three times but then there's also been times when I cough up the stuff that I cough up is a little bit pink in color It's not exactly blood but it's you know pinkish Okay",
+        "gt_chunk": "P: after that.\n\nD: Yeah, certainly, uhm, how much blood have you coughed up?\n\nP: Oh, I don't know. I think it was it was a little bit.\n\nD: Did it happen each time, or has it only been a couple of times?\n\nP: I think maybe, two or three times but then there have also been times when I cough up this, this stuff that I cough up is a little bit pink in color. It's not exactly blood, but it's, it's, you know, pinkish.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and are you producing sputum each time you're coughing up Most of the times yes Okay is this a change from previously Did you have a dry cough before A bit more of a dry cough before but I mean so sometimes it would be a dry cough sometimes I had some It was more of a wet cough but it was usually just this pink coming up It wasn't like there was never blood before Okay",
+        "gt_chunk": "D: and are you producing sputum each time you're coughing up?\n\nP: Most of the times, yes.\n\nD: OK, is this a change from previously? Did you have a dry cough before?\n\nP: A bit more of a dry cough before, but I mean, so sometimes it will be a dry cough sometimes, uh, it was more of a wet cough, but it was, it was usually just this white thing coming up. It wasn't like, there was never blood before.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and you're coughing more often as well over this last month Oh yeah oh yeah Okay have you been experiencing any headaches No Okay how about any eye pain or ear pain No no no How about any eye redness or discharge No Any runny nose or sore throat No Okay have you had any fevers or chills I checked my temperature a couple",
+        "gt_chunk": "D: and you're coughing more often as well over this last month?\n\nP: Oh yeah, Oh yeah, \n\nD: OK. Have you been experiencing any, any headaches?\n\nP: No. \n\nD: OK, how about any eye pain or ear pain?\n\nP: No, no, no.\n\nD: How about any eye redness or, or discharge?\n\nP: Nope. \n\nD: Any runny nose or sore throat?\n\nP: no. \n\nD: OK, have you had any fevers or chills?\n\nP: Uhm, I, I checked my fevers, I"
+    },
+    {
+        "whisper_chunk": "days ago It was a little bit I think it was 38 Okay so yeah that would be a fever It was I think two weeks ago Okay do you feel hot now Not really no Okay have you had any night sweats No And have you had any weight loss over the last several months Oh yeah How much weight About 20 pounds Okay and so how long was",
+        "gt_chunk": "P: days ago. It's just been this little bit, 30, I think it was 38. \n\nD: OK, so, yeah, that would be a fever.\n\nP: That was I think two weeks ago.\n\nD: OK, do you feel hot now?\n\nP: Not really, no. \n\nD: OK. Have you had any night sweats?\n\nP: Uh, no.\n\nD: And have you had any weight loss over the last several months?\n\nP: Oh, yeah.\n\nD: How much weight?\n\nP: About 20 pounds.\n\nD: OK, and so how, How long was"
+    },
+    {
+        "whisper_chunk": "that and sorry what was your starting weight roughly Yeah yeah I was 210 pounds Okay and so about a 10  reduction in your weight over the last couple of months it sounds like",
+        "gt_chunk": "D:  and sorry, what was your starting weight, roughly?\n\nP: Yeah, yeah I was, uhm, 210 pounds.\n\nD: OK, uhm, so yeah, about a 10% reduction in your weight over the last couple of months, it sounds like"
+    },
+    {
+        "whisper_chunk": "Okay how has your appetite been It's okay All right and have you been having any chest pain No Any wheeze No Have you had any dizziness or lightheadedness No no Okay how about any nausea or vomiting No Any diarrhea or constipation No Any urinary problems No Any skin rashes or muscle aches No Okay",
+        "gt_chunk": "D: OK, How is your appetite been?\n\nP: Uh, it's OK. \n\nD: Alright, and have you been having any chest pain?\n\nP: No. \n\nD: Any, any wheeze? \n\nP: No.\n\nD: Have you had any dizziness or lightheadedness? \n\nP: Uhm no, no.\n\nD: OK, how about any nausea or vomiting?\n\nP: No.\n\nD: Any diarrhea or constipation?\n\nP: No.\n\nD: Any urinary problems?\n\nP: No.\n\nD: Any skin rashes or muscle aches. \n\nP: No.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and have you been I've been diagnosed with COPD with high blood pressure and high cholesterol I see all right and do you take any medications for those I take Lipidor and I take some buffers but I don't use them very frequently I forget to use",
+        "gt_chunk": "P: Yeah, I've been diagnosed with COPD, with, uh, high blood pressure and high cholesterol.\n\nD: I see, alright and do you take any medications for those? \n\nP: Uh, I take Lipitor.\n\nD: OK.\n\nP And I take some puffers but don't use them very frequently. I forget to use"
+    },
+    {
+        "whisper_chunk": "them and I tried them but they haven't been very helpful these past two months Okay so you've tried them when you were short of breath and they haven't helped They haven't done much Okay and are you allergic to any medications or have any allergies No All right and have you been hospitalized for any reason or like including a COPD exacerbation or any similar symptoms I was",
+        "gt_chunk": "P: they, I tried them, but they haven't been very helpful these past two months.\n\nD: OK, so yeah, you've tried them, when you were short of breath and they haven't helped?\n\nP: They haven't done much. \n\nD: OK. And are you allergic to any medications or have any allergies?\n\nP: Uhm, no.\n\nD: Alright, and have you been hospitalized for any reason, or like, including COPD exacerbation?\n\nP: Oh yeah, yeah.\n\nD: Or any similar symptoms?\n\nP: It's"
+    },
+    {
+        "whisper_chunk": "actually hospitalized about four or five times last year And was this for COPD exacerbations Yeah Okay did those each require a stay in the hospital Two or three of them I did yeah Okay and have you had any surgeries I know And are you currently smoking Yeah Okay how much do",
+        "gt_chunk": "P: actually hospitalized about four or five times last year.\n\nD: And was this for COPD exacerbations?\n\nP: Yeah, yeah. \n\nD: OK, did those each require a stay in the hospital?\n\nP: Two or three of them I did, yeah. \n\nD: OK. And have you had any surgeries? \n\nP: Uh, no.\n\nD: And are you currently smoking? \n\nP: Yeah.\n\nD: OK, how much do"
+    },
+    {
+        "whisper_chunk": "you smoke per day I've cut it down quite a bit I only have two cigarettes a day I used to have a pack and a half but I've cut it down a lot I'm trying to quit but it's hard Yeah for sure It's great that you're working towards quitting We can discuss that further and there are several options that might be available to help if it's something you're really interested in Yeah it's definitely really hard Do you drink alcohol Once in a while on",
+        "gt_chunk": "D: you smoke per day?\n\nP: I've got it down quite a bit. I only have two cigarettes a day. I used to have a pack and a half, Uh, but I've got it down a lot. I'm trying to, I'm trying to quit, but it's hard.\n\nD: Yeah, for sure it's great that you're working towards quitting. We can discuss that further and there are several options that might be available to help if it's something you're interested in, because yeah, it's definitely really hard. Are you, do you drink alcohol?\n\nP: Uh, once in a while, on"
+    },
+    {
+        "whisper_chunk": "Christmas Okay and do you use any recreational drugs No Do you smoke marijuana or use marijuana products No All right and who are you working with Okay and are you looking after the home and like functionally independent right now Yeah",
+        "gt_chunk": "P: Christmas.\n\nD: OK, and do you use any recreational drugs?\n\nP: No.\n\nD: You smoke marijuana or use marijuana products?\n\nP: No.\n\nD: Alright, and who are you living with currently?\n\nP: I live with my wife.\n\nD: OK, and are you, uhm, do you help looking after the home, and uh, like functionally independent right now?\n\nP: Uh"
+    },
+    {
+        "whisper_chunk": "I use a cane Yeah my son comes over and helps out with groceries and my wife cooks but I help out with cleaning sometimes Okay great and so are you retired Yep Okay and has anybody in the family had any heart or lung conditions My dad died of lung cancer He was",
+        "gt_chunk": "P:  uh, yeah, my, my son comes over and helps out with groceries and my wife cooks but, I, I help her with cleaning sometimes.\n\nD: OK, great and, so are you retired?\n\nP: yep.\n\nD: OK, uhm, and has anybody in the family had any heart or lung conditions?\n\nP: My dad died of lung cancer. He was"
+    },
+    {
+        "whisper_chunk": "a big smoker as well and my mom had a heart attack Okay and how old were your parents approximately Yeah my dad was 65 and my mom was very young She was 50 Okay so did your mom survive the heart attack No no she did not I'm starting to hear that And lung cancer you mentioned Any",
+        "gt_chunk": "P: a big smoker as well. And my mom had a heart attack. \n\nD: OK, and how old were your parents approximately?\n\nP: Yeah, my dad was 65 and my mom was, was very young, she was 50.\n\nD: I see. Did your mom survive the heart attack?\n\nP: No, no she did not.\n\nD: Oh, I'm sorry to hear that. Uhm, and the lung cancer you mention, any"
+    },
+    {
+        "whisper_chunk": "other cancers that run in the family No Okay so that was all the questions I wanted to ask on history Certainly it sounds like you're bringing up some blood with the increased cough and with difficulties breathing so we will get a chest x ray and possibly a CT image of your chest as well to see if there's anything going on in your lungs and",
+        "gt_chunk": "D: other cancers that run in the family?\n\nP: No. \n\nD: OK, so that was all the questions I wanted to ask on on history. Uhm certainly it sounds like you're bringing up some blood with, with, with the increased cough and with difficulties breathing so we will get a, uhm, a chest x-ray and possibly a CT image of your chest as well to see if there's anything going on in your lungs and"
+    },
+    {
+        "whisper_chunk": "we might do some blood work as well to check a few things So we'll get those ordered and see what that shows Thank you",
+        "gt_chunk": "D: we might do some blood work as well to check a few things so uhm, we'll get those ordered and, and see what, see what that shows.\n\nP: Thank you"
+    }
+]

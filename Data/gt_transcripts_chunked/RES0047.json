@@ -1,0 +1,110 @@
+[
+    {
+        "whisper_chunk": "what brings you in Yeah so I've had this chest tightness and been short of breath and bringing up sputum with this cough Okay so let's start with the cough when did that start So I've had a cough now for a few years but over this past three days it's gotten quite a bit worse Okay for the past three days three years",
+        "gt_chunk": "D: What brings you in?\n\nP: Yeah, so I've had this chest tightness and and been short of breath and bringing up sputum with this uh cough.\n\nD: OK, so um lets start with the cough. When did that start?\n\nP: So I've had a cough now for a few years, um but over this past uh three days it's gotten quite a bit worse.\n\nD:: OK, for the past three days, three "
+    },
+    {
+        "whisper_chunk": "okay Yeah Are there any triggers for your cough Yeah if I'm doing like if I'm really active like if I run to catch the bus or or if I'm shoveling snow maybe I can make it become short of breath but I am not if I'm just walking around the block or anything like that Okay and what caused this cough initially three years",
+        "gt_chunk": "D:  are there any triggers for your cough?\n\nP: Uh, yeah, if I'm doing, um, like if I'm really active like if I run to catch the bus or uh or if I'm shovelling snow, maybe I can make, become short of breath, but um not if I'm just walking around the block or anything like that.\n\nD: OK, and what caused this cough initially three years"
+    },
+    {
+        "whisper_chunk": "ago do you know Yeah I think I think it's just a smoker's cough I think that my family doctor told me I had like chronic bronchitis before Okay how often were you coughing before it got worse recently I would usually cough every day but the cough would be usually just in the morning I'd get up there I would cough up some sputum",
+        "gt_chunk": "D: ago? Do you know? \n\nP: Uh yeah, I think um I think it's just a smokers cough. I think that my family doctor told me I had like chronic bronchitis before.\n\nD: OK, OK. How often were you coughing before it got worse recently?\n\nP: Uh I would usually cough every day, but the cough would be, usually just in the morning, I I'd get up um, there, I would cough up some sputum"
+    },
+    {
+        "whisper_chunk": "and and then maybe it then I usually be okay Okay and does anything make your cough better like do you take any over the counter cough syrup Yeah I've tried some over the counter cough syrups in the past but it hasn't helped Okay okay and if you were to talk about the quality of cough is it is it barky does it sound harsh what does",
+        "gt_chunk": "P: and and then maybe, and then I'd usually be OK.\n\nD: OK, um and does anything make your cough better? Like do you take any over the counter cough syrup?\n\nP: Um yeah, I've tried some over the counter uh cough syrups in the past, but it hasn't helped.\n\nD: OK, OK, and if you were to talk about the quality of your cough, is it is it barky? Does it sound harsh? What does"
+    },
+    {
+        "whisper_chunk": "it sound like Yeah I would say it sounds pretty harsh you can kind of it sounds like there's mucus moving around I guess with the with the cough in my chest you can I can kind of feel it Okay okay and you mentioned that you're producing a lot of sputum with your cough what color is that sputum Greenish Green okay any blood No blood No blood okay and you mentioned that you've never produced sputum",
+        "gt_chunk": "D: it sound like? \n\nP: Uh yeah, I would say it sounds pretty harsh. You can kind of, it sounds like there's um mucus moving around, I guess with with the cough in my chest, I can I can kind of feel it\n\nD: OK, OK and you mentioned that you're producing a lot of sputum with your cough. What colour is that sputum?\n\nP: Greenish\n\nD: Green, OK. Any blood?\n\nP: No blood.\n\nD: No blood, OK. And you mentioned, you've never produced sputum"
+    },
+    {
+        "whisper_chunk": "with the cough especially not green sputum in the past three years right I would bring up sputum but it's usually clear and white Okay okay and do you have any wheeziness associated with this cough Yes I do Yes okay and you mentioned you were short of breath were you short of breath prior to your cough or did that start when when this cough got worse I think",
+        "gt_chunk": "D: with the cough, especially not green sputum in the past three years, right?\n\nP: I would bring up sputum, but it's usually clear and white.\n\nD: OK, OK, and do you have any wheeziness associated with this cough?\n\nP: Uh, yes I do \n\nD: Yes, OK. And you mentioned you were short of breath. Were you short of breath prior to your cough or did that start um when when this cough got worse?\n\nP: I think"
+    },
+    {
+        "whisper_chunk": "the shortness of breath has gotten a bit worse over the the last few days as the cough has gotten worse Okay okay and if you were to rate the severity of your symptoms of how you're feeling one to ten ten being the worst where would you put yourself at I would say an eight it's been really tough it's been getting really difficult to breathe Okay",
+        "gt_chunk": "P: the shortness of breath has gotten a bit worse over the um last few days uh as the cough has gotten worse. \n\nD: OK, OK. And if you were to rate the severity of your symptoms, of how you're feeling, 1 to 10, 10 being the worst, where would you put yourself at?\n\nP: Uh I would say an 8, it's been really tough, it's been getting really difficult to um breathe. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "yeah and have you ever experienced anything to this severity in the past No I haven't had this difficulty breathing before Okay okay do you have any chest pain My chest it feels tight Okay it feels tight okay but does that does it hurt though No no it doesn't really hurt",
+        "gt_chunk": "D: yeah. And have you ever experienced anything to this severity in the past?\n\nP: No, I haven't had uh this difficulty breathing before.\n\nD: OK. OK. Um do you have any chest pain?\n\nP: Uh, my chest is, it feels tight. \n\nD: OK. Uh it feels tight, OK, does that, does it hurt though?\n\nP: Uh no, no, it doesn't really hurt"
+    },
+    {
+        "whisper_chunk": "it's just uncomfortable Okay and do you think it's tight because of the coughing or the shortness of breath Yeah I kind of feel it with the coughing Okay and have you noticed any swelling in your limbs Yeah maybe a little bit in my in my feet more than usual Okay and do you feel like your heart's racing No",
+        "gt_chunk": "P: It's just uncomfortable.\n\nD: OK. And do you think it's tight because of the coughing or um the shortness of breath?\n\nP: Yeah, I kind of feel it um with the coughing.\n\nD: OK and have you noticed any swelling in your limbs?\n\nP: Uh yeah, maybe a little bit in my in my feet, more than usual.\n\nD: OK, and do you feel like your heart's racing?"
+    },
+    {
+        "whisper_chunk": "No okay any dizziness or fainting spells I haven't had anything like that Okay and any changes to your vision or hearing No No and do you have a stuffy nose or a runny nose No And how about a sore throat No No any changes to your smell or taste No And any fevers or chills No I felt",
+        "gt_chunk": "D: No, OK. Any dizziness or fainting spells?\n\nP: Uh I haven't had anything like that.\n\nD: OK. Um any changes to your vision or hearing?\n\nP: No. \n\nD: No, um, do you have a stuffy nose or runny nose?\n\nP: No. \n\nD: Um how about a sore throat?\n\nP: No.\n\nD: No, any changes to your smell or taste?\n\nP: No. \n\nD: Um any fevers or chills?\n\nP: No, I've felt"
+    },
+    {
+        "whisper_chunk": "okay Okay any weight loss Yeah maybe I mean over the last few years I've lost a few pounds but maybe maybe 10 pounds over the last last couple of years Last couple of years okay was it intentional weight loss or unintentional Unintentional Okay all right and any changes to your hair nails or skin like rashes No I",
+        "gt_chunk": "P: . \n\nD: OK, any weight loss?\n\nP: Um yeah, maybe I mean over the last few years I've um lost a few pounds, but maybe maybe 10 pounds over the last last couple of years \n\nD: Last couple of years, OK. Was it intentional weight loss or unintentional?\n\nP: Unintentional. \n\nD: OK, um alright, and any changes to your hair, nails or skin, like rashes?\n\nP: No, I"
+    },
+    {
+        "whisper_chunk": "haven't noticed anything like that Okay and how are your bowel movements everything normal there Yeah that's been normal Okay everything normal with regards to your urine Yeah that's been normal Okay any confusion or memory loss No No okay any fatigue Yeah I've been feeling really tired",
+        "gt_chunk": "P: haven't noticed anything like that.\n\nD: OK, and how are your bowel movements? Everything normal there?\n\nP: Yeah, that's been normal.\n\nD: OK, everything normal with regards to your urine?\n\nP: Yeah, that's been normal. \n\nD: OK. Any confusion or memory loss?\n\nP: No. \n\nD: No, OK. Any fatigue?\n\nP: Yeah, I've been feeling well, really tired"
+    },
+    {
+        "whisper_chunk": "these Okay and are you otherwise healthy Well I use these inhalers and I think I've been told I have COPD before Okay other than your COPD do you have any other long standing medical conditions like",
+        "gt_chunk": "D:  and are you otherwise healthy?\n\nP: Um, well, I use uh these inhalers um and I think I've been told I have COPD before.\n\nD: OK, Um other than your COPD, do you have any other longstanding medical conditions like"
+    },
+    {
+        "whisper_chunk": "high blood pressure diabetes anything like that Yeah I have high blood pressure and I had my gallbladder taken out a few years ago Okay any other surgeries or hospitalizations I had an and besides the inhalers are you on any other medication Yeah there's",
+        "gt_chunk": "D: high blood pressure, diabetes, anything like that?\n\nP: Um yeah I have uh high blood pressure and um I had my gallbladder taken out uh a few years ago.\n\nD: OK. OK, any other surgeries or hospitalizations?\n\nP: Uh I had an ACL repair like when I was a teenager.\n\nD: OK, and besides the inhalers, are you on any other medication?\n\nP: Yeah, there's"
+    },
+    {
+        "whisper_chunk": "one for blood pressure and I take vitamin D and that's it Okay which one which medication are you on for the blood pressure Oh amlodipine Amlodipine okay when did you start taking that About seven years ago Okay and then for",
+        "gt_chunk": "P: one for blood pressure um and I take vitamin D, um and that's it. \n\nD: OK, which one, which um medication are you on for the blood pressure?\n\nP: Uh amlodipine.\n\nD: Amlodipine, OK. When did you start taking that?\n\nP: About uh seven years ago.\n\nD: OK, and then for"
+    },
+    {
+        "whisper_chunk": "your COPD which inhalers are you on There's one that's for like short acting and then there's one that I use every day Spiriva I think Okay yeah and how long have you been on these inhalers It's been a couple of years for well for the short one that I use for rescue therapy it's been like a long time but Spiriva has been",
+        "gt_chunk": "D: your uh COPD, which inhalers are you on?\n\nP: Uh, there's one that's for, um, like short acting. And then there's one that I use everyday, uh Spiriva, I think.\n\nD: OK, yeah. And how long have you been on these inhalers?\n\nP: Uh it's been a couple of years for well, for the the short one that I I use for rescue therapies been for like a long time, but Spiriva's been"
+    },
+    {
+        "whisper_chunk": "the last several years Okay okay and do you find that your inhalers are helping Yeah they I definitely notice a difference when I if I miss a dose or something Yeah okay and do you have any allergies No I don't think so No okay how about immunizations are you up to date Yeah I believe",
+        "gt_chunk": "P: the last several years.\n\nD: OK, OK, and do you find that your inhalers are helping?\n\nP: Yeah. They um, I definitely notice a difference when I, if I miss a dose or something. \n\nD: Yeah, OK. And um, do you have any allergies?\n\nP: Uh no, I don't think so.\n\nD: No, OK. How about um immunizations, are you up to date?\n\nP: Yeah, I believe"
+    },
+    {
+        "whisper_chunk": "so Okay and in terms of family history are there any lung conditions or heart do you currently smoke I do yes I've been trying to quit I I smoke about a pack",
+        "gt_chunk": "P: so. \n\nD: OK. And in terms of family history, uh are there any lung conditions or heart conditions that run in the family?\n\nP: Um, uh no. \n\nD: No, OK. Um do you currently smoke? \n\nP: Uh I do, yes. I've been trying to quit, I um I smoke about a pack"
+    },
+    {
+        "whisper_chunk": "of cigarettes per day now I used to smoke like two packs per day Okay well it's good that you've cut down and if you need any additional help cutting down we have resources that we can refer you to Yeah that would be great Yeah and how much for how long have you been smoking like how many years Well I started when I was a teenager so probably like 35 Okay",
+        "gt_chunk": "P: of cigarettes per day now. I used to smoke like 2 packs per day.\n\nD: OK, well it's it's good that you've cut down, um if you need any additional help cutting down we have resources that we can refer you to.\n\nP: Yeah, that would be great.\n\nD: Yeah, um how much, for how long have you been smoking? Like how many years?\n\nP: Uh well, I started when I was a teenager, so probably like 35. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and do you do any drink alcohol Yeah a few beers on the weekend Okay and then where do you live currently I live in an apartment by myself Okay",
+        "gt_chunk": "D: ? Do you drink alcohol? \n\nP: Yeah, a few beers on the weekend. \n\nD: OK. Um and then where do you live currently?\n\nP: I live in an apartment by myself. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and any reasons to think that there are any old carpets mold or asbestos or anything like that that could be exacerbating your symptoms Well I mean they do have a carpet in the bedroom so but I mean that that's the only carpet in the apartment Okay and do you live with anyone No it's just me and my dog",
+        "gt_chunk": "D: and any reasons to think that there are any old carpets, mold, or um asbestos or anything like that that could be exacerbating your symptoms?\n\nP: Uh I mean I do have a carpet in the bedroom so, but I mean that that's the only carpet in the apartment. \n\nD: OK. Um and do you live with anyone?\n\nP: No, it's it's just me and my dog"
+    },
+    {
+        "whisper_chunk": "Okay have you been around any sick contacts recently Maybe I mean I usually will see a couple of friends we'll meet up to grab some coffee in the morning in the morning but I feel like all they have been okay Yeah okay how about travel have you traveled anywhere recently No Okay well I think those are",
+        "gt_chunk": "D: , have you been around any sick contacts recently? \n\nP: Um maybe, I mean I I usually will see uh, a couple of friends, we'll meet up to grab some coffee\nin the morning in the morning um but I feel like they have been uh OK.\n\nD: Yeah OK, how about um travel, have you traveled anywhere recently? \n\nP: No.\n\nD: No, OK. OK, well I think those were"
+    },
+    {
+        "whisper_chunk": "all the questions that I had for you did you have any questions or concerns or anything that I missed that you wanted to discuss No I just wanted to yeah come in because it's been really difficult to breathe Yeah so okay well we'll do a physical exam on you to try to understand how bad your COPD exacerbation is We'll also try to get an oxygen",
+        "gt_chunk": "D: all the questions that I had for you. Did you have any questions or concerns or anything that I missed that you wanted to discuss? \n\nP: Um no, I just wanted to, um, yeah, come in because it's been really difficult to breathe.\n\nD: Yeah, so OK, well we'll do a physical exam on you um to try to understand um how bad your COPD exacerbation is. Um we'll also try to get an um oxygen"
+    },
+    {
+        "whisper_chunk": "saturation on you and we do want that reading to be between 80 88 to 92 percent If it is less than that and we think you have a mild exacerbation we'll just suggest that you use your short acting beta agonist puffer more often and then if you if we think you have moderate",
+        "gt_chunk": "D: saturation on you, and we do want that reading\nto be between 88 to 92%. If it is less than that um and we think you have a mild exacerbation, we'll just suggest that you use your short acting beta agonist puffer um more often, and then if you,\nif we think you have moderate"
+    },
+    {
+        "whisper_chunk": "a moderate exacerbation we'll also prescribe antibiotics and and or steroids to go along with the short acting beta agonist and if it is severe or if it becomes severe please do seek out aid in the ER and they'll try they'll probably put you on some sort of oxygen like",
+        "gt_chunk": "i:  moderate exacerbation we'll also prescribe uh antibiotics and or steroids to go along with the short acting beta agonist. And if it is severe, or if it becomes severe, um please do seek out aid um in the ER and they'll try, they'll probably put you on um uh some sort of, um oxy like"
+    },
+    {
+        "whisper_chunk": "some sort of supplemental oxygen whether it's BiPAP or CPAP and again they'll continue giving you your bronchodilators and steroids as well as antibiotics to make sure that you don't have any bad complications of pneumonia and it does sound like it is a COPD exacerbation at this point but if",
+        "gt_chunk": "i: some sort of supplemental oxygen, whether it's BiPAP or CPAP. Um and again they'll continue giving you your bronchodilators and steroids, as well as antibiotics to um make sure that you don't have any bad complications of uh pneumonia. Um and it does sound like it is a COPD exacerbation at this point, but if"
+    },
+    {
+        "whisper_chunk": "you with viral viral illnesses we'll we'll work you up for that we'll do I think we will still do a COVID swab on you just to make sure you don't have that but we'll start with and working you up for COPD how does that sound That sounds great thank you All right take care",
+        "gt_chunk": "i:  with uh viral viral illnesses, we'll we'll we'll work you up for that, we'll do, I think we will still do a covid swab on you just to make sure you don't have that, uh but we'll start with um working you up for COPD. How does that sound? \n\nP: That sounds great. Thank you.\n\nD: Alright. Take care"
+    }
+]

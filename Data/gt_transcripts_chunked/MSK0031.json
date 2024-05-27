@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "How can I help you Hi I just was brought in here today I had a fall just waking up coming down the stairs I fell off the last few stairs and just fell onto the right side and right onto my hip And now I couldn't even I can barely stand up and put any weight on my hip It's the right hip Okay so what caused you to fall in the first place Did you just lose",
+        "gt_chunk": "D: How can I help you?\n\nP: Hi, I just was brought in here today. I had a fall just waking up coming down the stairs. I fell off the last few stairs and just fell onto the right side and on, right onto my head and now, uh I couldn't even I could barely stand up and put any weight on my hip. It's the right hip.\n\nD: OK, Uhm, so what caused you to fall in the 1st place? Did you just lose"
+    },
+    {
+        "whisper_chunk": "balance Were you dizzy I think I just I missed I wasn't dizzy or anything I just missed one of the steps and just slipped down the stairs But it was just the last few stairs I didn't have like I didn't hit my head or anything like that Okay and when was this This was so I guess now two hours ago Two hours ago okay Has the pain been constant since Yeah it's really excruciating Okay does anything",
+        "gt_chunk": "D: balance, were you dizzy?\n\nP: I think I just I missed, I wasn't dizzy or anything. I just missed one of the steps and just slipped, slipped down the stairs.\n\nD: OK.\n\nP: But it was just the last few stairs I didn't have like I didn't hit my head or anything like that.\n\nD: OK, and when was this?\n\nP: This was a so I guess now two hours ago.\n\nD: Two hours ago, OK. Has a pain been constant since?\n\nP: Yeah, it's, it's really excruciating.\n\nD: OK, does anything"
+    },
+    {
+        "whisper_chunk": "make it better or worse No I'm just in extreme pain Like I can't even put any weight on it Okay so you can't okay so you can't weight bear and you can't walk on that leg I guess Okay is it a sharp kind of pain or is it dull and achy It's pretty sharp Like if I'm not putting any weight on it right now it's like really achy But if I put any weight on",
+        "gt_chunk": "D: make it better or worse?\n\nP: No, it's I'm just in extreme pain. Like I I I can't even put any weight on it.\n\nD: OK, so you can't, OK so you can't weight bear, and you can't walk on on that leg I guess.\n\nP: Mhmm.\n\nD: OK. Is it a sharp kind of pain or is it dull and achy?\n\nP: It's uh, it's pretty sharp, like if I'm not putting any weight on it right now, it's like really achy. But if I put any weight on"
+    },
+    {
+        "whisper_chunk": "it it's really sharp Okay and where is this pain exactly Is it just in your right hip or is it radiating up into your lower back or down to your leg It's in the right hip mostly just on the side but the pain is kind of like all over the right side of my groin and I feel like there's some swelling there as well Okay And one to 10 10 being the worst pain ever how bad is your pain I would say 10 like I've never experienced",
+        "gt_chunk": "P: , it's really sharp. \n\nD: OK. And where is this pain exactly? Is it just in your right hip or is it radiating up into your upper anterior lower back or down to your leg?\n\nP: It's in the right hip, mostly just on the side, but the pain is kind of like, all over the right side of my groin and I feel like there's some swelling there as well.\n\nD: OK. And one to 10, 10 being the worst pain ever. How bad is your pain?\n\nP: I would say 10, like I've never experienced"
+    },
+    {
+        "whisper_chunk": "pain like this 10 okay and do you have you ever had pain like this before Like have you ever had a fall in the past No this is the first time I've had a fall Okay any numbness or tingling No not that I can tell no Dizziness or fainting spells After the fall like I don't know if it's due to the pain but even in the ambulance coming out of the ambulance I was feeling a little bit dizzy but I don't know if that's just because of",
+        "gt_chunk": "P: pain like this.\n\nD: 10, OK. And do you, have you ever had pain like this before? Like have you ever had a fall in the past?\n\nP: No, this isn't this is the first time I've had a fall.\n\nD: OK, any numbness or tingling?\n\nP: Uhm, no, not that I can tell, no.\n\nD: Dizziness or fainting spells?\n\nP: Uhm, after the fall out like this, I I don't know if it's due to the pain, but even in the ambulance, coming out of the ambulance I was feeling a little bit dizzy, but I don't know if that's just 'cause of"
+    },
+    {
+        "whisper_chunk": "the pain Okay any headaches No Confusion or memory loss No Joint pains or muscle aches elsewhere No Weight loss recently No Fevers or chills No And rashes No Any changes to your vision hearing smell or taste No Are you experiencing any coughs Shortness of breath or wheezing No Okay how about chest pain or heart palpitations No not that I have experienced Okay how",
+        "gt_chunk": "P: the pain. \n\nD: OK, any headaches?\n\nP: No. \n\nD: Confusion or memory loss?\n\nP: No \n\nD: Uh, joint pains or muscle aches elsewhere?\n\nP: No\n\nD: Weight loss recently?\n\nP: No.\n\nD: Fevers or chills?\n\nP: Nope.\n\nD: Uhm, and rashes?\n\nP: Uh no.\n\nD: Any changes to your vision, hearing, smell or taste?\n\nP: No.\n\nD: Any, uh, you experiencing any cough, uhm, shortness of breath or wheezing?\n\nP: No. \n\nD: OK, how about chest pain or heart palpitations?\n\nP: No, not that I have experienced. \n\nD: OK, and how"
+    },
+    {
+        "whisper_chunk": "about changes to your bowel movements No Okay how about changes to your urine No nothing Okay And are you otherwise healthy Do you have any longstanding medical conditions Yes I do have some osteoarthritis and then I take this medication for blood pressure It's called",
+        "gt_chunk": "D: about changes your bowel movements?\n\nP: Nope.\n\nD: OK, how about changes to urine?\n\nP: No, nothing.\n\nD: OK. And. Are you otherwise healthy? Do you have any longstanding medical conditions?\n\nP: Yeah, so I just have a, uhm I do have some osteoarthritis and then I have, I take this medication for blood pressure. It's called"
+    },
+    {
+        "whisper_chunk": "Ramipril Okay Okay and is that the only medication that you're on Yeah and then I'm just on vitamins like vitamin D calcium and just multivitamins Okay And are you up to date with your immunizations Yes Yeah okay Any allergies No not that I know of Okay any family history of lung or heart conditions I think",
+        "gt_chunk": "P: Ramipril.\n\nD: OK. OK, and is that the only medication that you're on?\n\nP: Uh, yeah. And then I'm just on vitamins like vitamin D, calcium and just multivitamins.\n\nD: OK. And are you up to date with your immunizations?\n\nP: Yes.\n\nD: Yeah, OK. Any allergies?\n\nP: Uh, no, not that I know of.\n\nD: OK. Any family history of lung or heart conditions?\n\nP: Uhm, I think"
+    },
+    {
+        "whisper_chunk": "my father he died of a heart attack in his 60s Okay okay Any musculoskeletal issues No I don't think so No how about autoimmune conditions No not that I know of Any cancers I think my",
+        "gt_chunk": "P: my father, he died of a heart attack in his 60s.\n\nD: OK, OK, any musculoskeletal issues?\n\nP: Uhm, no, I don't think so. \n\nD: No. Uhm, how about autoimmune conditions?\n\nP: No, not that I know of.\n\nD: Any cancers?\n\nP: Uh, I think, my"
+    },
+    {
+        "whisper_chunk": "mother had some skin cancer but the ones that she didn't need any surgery they just zapped them off Okay and do you smoke No I've never smoked Okay and do you drink alcohol Just maybe like a wine every other day like a glass of wine Okay and do you consume marijuana in any form No Okay and",
+        "gt_chunk": "P: mother had some skin cancer, but the ones that, she didn't need any surgery, they just zapped them off.\n\nD: OK. Uhm and do you smoke?\n\nP: No, I've never smoked?\n\nD: OK, uhm, do you drink alcohol?\n\nP: Just maybe like a wine, what every other day, a glass of of wine.\n\nD: OK, and then do you consume marijuana in any form? \n\nP: No. \n\nD: OK. And"
+    },
+    {
+        "whisper_chunk": "how about in terms of where you live Who do you live with and where do you live I live with just my husband and we just live in a small apartment Okay and have you been in touch with anyone sick recently No I've been like at home with my husband We haven't really left Okay and have you done any travel",
+        "gt_chunk": "D: how about in terms of where you live? Who do you live with and where do you live? \n\nP: I live with uhm, just my husband and and we just live in a small apartment.\n\nD: OK. And have you been in touch with any, anyone sick recently?\n\nP: Uh. No, I've I've been like at home with my husband. We haven't really left. \n\nD: OK. And have you done any travel"
+    },
+    {
+        "whisper_chunk": "recently No I've just stayed at home Okay all right So let's move on to the physical exam part of this interview So if you can I'm gonna get you to take a look at both your hips as well as your legs Do you notice any redness or swelling in the area I do notice some swelling It's a little bit red I can't really see too much red Okay okay any muscle atrophy any deformities",
+        "gt_chunk": "D: recently? \n\nP: Uhm, no, I've just stayed at home.\n\nD: OK. Alright, so let's move on to the physical exam part of this interview. So if you can, I'm going to get you to take a look at both your hips as well as your legs. Do you notice any redness or swelling in the area?\n\nP: I do notice some swelling. It's a little bit red. I can't really see too much red.\n\nD: OK. OK. Any muscle atrophy? Any deformities"
+    },
+    {
+        "whisper_chunk": "or skin changes like bruises Maybe some bruising but I don't notice anything else Okay all right and then when you place the back of your hand on both hips do you notice any temperature changes Is one side warmer than the other It's a little bit warmer the right side than the left Okay and does one leg appear to be shorter or does it appear to be misaligned or",
+        "gt_chunk": "D: or skin changes like bruises?\n\nP: Uh, maybe some bruising, but I, I don't notice anything else.\n\nD: OK. Alright. And then when you place the back of your hand on both hips, do you notice any temperature changes? Is one side warmer than the other?\n\nP: It's a little bit warmer, the right side than the left.\n\nD: OK, and does one like appear to be shorter? Or does does it appear to be misaligned? Or"
+    },
+    {
+        "whisper_chunk": "in any sort of like strange positions like outward turning of your leg when compared to the other I think it's a bit if I look at it it's a bit like outward turning and then yeah I would say it's more outward turns Okay and are you sitting down right now Yeah Okay are you able to stand up from a sitting position I can try but it's very painful Okay Yeah should I go",
+        "gt_chunk": "D: in any sort of like strange positions like outward turning of your leg, one compared to the other?\n\nP: I think it's a bit, but look at it a bit, like outward turning. And then yeah, I would say it's more outward turns.\n\nD: OK, and if are you sitting down right now?\n\nP: Uh, yeah.\n\nD: OK, are you able to stand up from a sitting position?\n\nP: I can try, but it's very painful.\n\nD: OK.\n\nP: Yes, should I go"
+    },
+    {
+        "whisper_chunk": "ahead and try Yes please Yeah so I yeah I can barely stand up It's kind of just I'm just supporting myself with my left Okay so I guess you can't do any of the hip flexion or hip extension hip abduction or adduction correct No I can barely move it Okay all right those are all the questions that I had Did you have any questions of your own No I think yeah I just don't know if I need",
+        "gt_chunk": "P: ahead and try?\n\nD: Yes please.\n\nP: Yeah. So I yeah I can barely stand up. I can't, it's kind of just, I'm just supporting myself with my left like.\n\nD: OK and so I, I guess you can't do any of the like hip flexion or hip extension, hip abduction or addduction, correct?\n\nP: No, I can barely move it.\n\nD: OK alright those are all the questions that I had. Did you have any questions of your own?\n\nP: No, I think I I just don't know if I need"
+    },
+    {
+        "whisper_chunk": "surgery or something Yeah so it sounds like you have a hip fracture from your fall so the way to treat this is a combination of surgery some rehab and medication So we'll definitely look into the surgical option first which is done using some internal repair with screws or you can do a total hip replacement or a partial",
+        "gt_chunk": "P: surgery or something.\n\nD: Yeah, so it sounds like you have a hip fracture from your fall. Uhm, so, the way to treat this is a combination of surgeries and rehab and medication. So we will definitely look into the surgical option first, which is done using some internal repair with screws. Or, you can do a total hip replacement or a partial"
+    },
+    {
+        "whisper_chunk": "hip replacement The orthopedic surgeon will decide like which option is best for you after we refer you for a consult with them And then after that surgery they'll likely refer you to some rehab So physiotherapy will focus on improving your range of motion and strengthening the muscles in that area And for management of pain",
+        "gt_chunk": "D: hip replacement. The orthopaedic surgeon will uh, decide like which option is best for you after we refer you for a consult with them, and then after that surgery they'll likely refer you to some rehab, so physiotherapy will focus on improving your range of motion and strengthening the muscles in that area. Uhm, and for management of pain"
+    },
+    {
+        "whisper_chunk": "you can take ibuprofen or any over the counter pain medications for now Does that sound okay Yeah that sounds good thank you so much Okay great no problem",
+        "gt_chunk": "D: you can take ibuprofen or any over the counter pain medications for now. Does that sound OK?\n\nP: Yeah, that sounds good. Thank you so much.\n\nD: OK, great, no problem"
+    }
+]

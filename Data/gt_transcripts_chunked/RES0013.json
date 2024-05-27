@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "Hi I'm Rob and I just feel like I can't catch my breath Okay How old are you Rob I'm 50 I'm going to be 50 soon Okay okay When did this start Well like last night I kind of had like an ache on my chest kind of like here like on the left I didn't do anything really last night I just went to sleep and I got to sleep fine I just thought maybe I pulled a muscle on this side Then I woke",
+        "gt_chunk": "P: Hi, I'm Rob and I just feel like I can't catch my breath.\n\nD: OK, how old are you Rob?\n\nP: I'm I'm 50 I'm gonna be 50 soon. \n\nD: OK, OK, when did this start?\n\nP: Well, like last night I kinda had like an ache on my chest, kind of like here like on the left. I just I didn't do anything really last night and you know I just went to sleep and I got to sleep fine like I just thought maybe I pulled a muscle on this side. But then I woke"
+    },
+    {
+        "whisper_chunk": "up and I was walking up the stairs and I was kind of having a hard time breathing I took some Tylenol It didn't really do anything Then it just got worse Then a few hours ago I was like I could barely walk If I'm breathing deep it just hurts I feel like I can't catch my breath I can't get a good breath in Okay so I just want to state at this point I would",
+        "gt_chunk": "P: up and I was like walking up the stairs and I like was kinda having a hard time breathing and I took some Tylenol. It didn't really do anything. Um, and then it just got worse and then a few hours ago is like I could barely walk. And if I'm breathing deep it's like it just hurts. And I feel like I can't like catch my breath like I can't get a good like a good breath in.\n\nD: Um, OK, so I just want to state at this point I would"
+    },
+    {
+        "whisper_chunk": "do ABCs I would do the vitals make sure you're stable and then do airway breathing circulation if you weren't before I continue with the history Okay so that's how it started Are you having any chest pain at all associated with that When I breathe in it's like an ache Then if I breathe really deep it feels like a little sharp Okay",
+        "gt_chunk": "D: do ABC's, like I would do the vitals and make sure you're stable and then do airway breathing circulation if you weren't before I continue with the history. OK, so. OK, so that's how it started. Um, are you having any chest pain at all associated with that?\n\nP: Like when I breathe in, I get like and it's like an ache. And then if I breathe really deep it feels like a little sharp.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "I've never had anything like this before No Okay that was going to be my next question On a scale of 1 to 10 how severe is your shortness of breath 10 being the worst I don't know I can breathe right now I can't get a deep breath Does it Oh sorry Go ahead Maybe like a 5 or 6 Okay Does it hurt when you take a deep breath in Yeah",
+        "gt_chunk": "P: I have never had anything like this before.\n\nD: No? OK, that was going to be my next question. On a scale of 1 to 10, how severe is your shortness of breath, 10 being the worst?\n\nP: Um, I don't, I don't know, um. Like I can breathe right now, I can't get like a deep breath, like...\n\nD: Does it? Oh sorry, go ahead.\n\nP: Maybe like you know five or six.\n\nD: OK, OK. Does it hurt when you take a deep breath in? \n\nP: Yeah"
+    },
+    {
+        "whisper_chunk": "Yeah Yeah it's like sharp Okay sorry It sounds like you're having some pleuritic chest pain Do you have any coughing associated with that No no No you're not coughing up any blood No Any swelling in your legs I don't think so No okay How about on exertion like when you walk or run does it hurt more I mean sorry does your shortness of breath get worse Oh yeah It was",
+        "gt_chunk": "P:  it's like sharp.\n\nD: OK, sorry, sounds like you're having some pleuritic chest pain. Do you have any coughing associated with that?\n\nP: No no.\n\nD: No? You're not coughing up any blood?\n\nP: No.\n\nD: Any swelling in your legs?\n\nP: I I don't think so.\n\nD: No? OK, how about on exertion? Like when you walk or run, or you know, does it hurt more or does I mean sorry, does your shortness of breath get worse? \n\nP: Oh yeah, it was"
+    },
+    {
+        "whisper_chunk": "like going up the stairs I could barely breathe after Okay How about when you're laying down No I don't think that's any different No okay I slept fine last night When I went up the stairs I was like holy Okay How about wheezing Are you experiencing any wheezing I don't think so Okay How about fevers or chills No not that I've noticed No okay",
+        "gt_chunk": "P: like going up the stairs, can't really breathe in after.\n\nD: OK, how about when you're laying down?\n\nP: I don't know. I don't think that's any different. No, I slept fine last night. I got up and when I went up the stairs I was like holy...\n\nD: OK. How about wheezing? Are you experiencing any wheezing? \n\nP: I don't think so. \n\nD: OK, how about fevers or chills?\n\nP: No, not that I've noticed, no."
+    },
+    {
+        "whisper_chunk": "Any abdominal pain No no It's like it aches kind of Yeah it's all up here and like kind of in my back a little bit Okay And do you think anything triggered this I don't know No okay And you said this has never happened to you before right Right yeah Does it get better with you sitting forward I don't know",
+        "gt_chunk": "D: Any abdominal pain?\n\nP: Uh, no, no, it's like it aches kind of it, but it's all up here and like kind of in my back a little bit. \n\nD: OK and, do you think anything triggered this?\n\nP: I don't know.\n\nD: No? OK. And you said this has never happened to you before, right?\n\nP: Right, yeah.\n\nD: Does it get better with you sitting forward?\n\nP: I don't know"
+    },
+    {
+        "whisper_chunk": "I feel like it's still kind of aching It's not really changing very much Okay Okay Any changes in your vision hearing or smell No No Any rashes No No Weight loss I mean I've been trying to lose weight Okay I think you told me a year ago I have like high blood pressure so I've been cutting out salt and trying to walk more Okay Okay good So",
+        "gt_chunk": "P: I feel like that it's still kind of aching like it doesn't, it's not really like changing very much.\n\nD: OK. OK. OK, any changes in your vision, hearing or smell?\n\nP: No.\n\nD: No? Any rashes?\n\nP: No.\n\nD: No? Weight loss?\n\nP: I, I mean, I've been trying to to lose weight.\n\nD: OK.\n\nP: They told me a year ago I have like high blood pressure so I've been cutting out like salt and trying to walk more. \n\nD: OK, OK, good. \n\nP: So"
+    },
+    {
+        "whisper_chunk": "I've lost like 15 pounds but like not like I've been trying to Okay Okay 15 pounds that's good Are you experiencing any dizziness or are you feeling faint No just like I can't get like a good breath Okay And are you otherwise healthy You mentioned you have high blood pressure Anything else No that's like it I've never had any like chest problems Okay",
+        "gt_chunk": "P: I've lost like 15 pounds but like not... Like I've been trying to.\n\nD: OK, OK. 15 pounds, that's good. Are you experiencing any dizziness or you feeling faint?\n\nP: No, just like a I can't get like a good breath.\n\nD: OK, and are you otherwise healthy? You mentioned you have high blood pressure, anything else?\n\nP: No, that's that's like it. I've never had any like chest problems.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Have you had any investigations done for your chest like pulmonary function tests ECGs chest X rays No they just put the thing on my arm at my doctor's office and said that it was high So they said to you know eat better and I didn't want to start any drugs So I didn't do anything I've been fine ever since Okay So you're not on any medications No just yeah No that's it I mean I you know sometimes take like a Tylenol if",
+        "gt_chunk": "D: Have you had any investigations done for your chest like pulmonary function tests, ECG's, chest X-rays?\n\nP: No, no, they just they just put the thing on my arm. But my doctors office and said that it was high. So they said to you know, eat better and I don't I don't wanna start any drugs so, I didn't do anything. I've been fine ever since. \n\nD: OK, so you're not on any medications?\n\nP: No, just yeah, no that's it. I mean I, you know sometimes take like a Tylenol if"
+    },
+    {
+        "whisper_chunk": "I'm not feeling well Okay And do you smoke Like I smoke a little bit maybe like a pack a week A pack a week Okay for how long Oh like since college Okay okay Do you smoke marijuana No no And I smoke I kind of smoke less you know since they told me I have the high blood pressure So I used to smoke a little more but this is less but not since",
+        "gt_chunk": "P: I'm\nnot feeling well but...\n\nD: And do you smoke?\n\nP: I, like I, smoke a little bit. Maybe like a pack a week.\n\nD: A pack a week, OK? For how long?\n\nP: Oh like since college.\n\nD: OK OK. Um, do you smoke marijuana?\n\nP: Uh. No, no and I I smoke, I'm trying to smoke less, you know, since they told me I have the high blood pressure. So I used to smoke a little more but this is this is less but not since"
+    },
+    {
+        "whisper_chunk": "I've been having trouble breathing Yeah okay Any other recreational drugs No no No okay How about alcohol Do you drink alcohol Oh like maybe you know a beer on the weekend but nothing else Okay And are you up to date with all your immunizations Like I don't I think I got all the ones when I was like a kid What else should I have Okay so like the flu vaccine every year Oh",
+        "gt_chunk": "P: I've been having trouble breathing. Is it, yeah.\n\nD: Yeah, OK. Any other recreational drugs?\n\nP: No no. \n\nD: No, OK. How about alcohol? Do you drink alcohol? \n\nP: Oh like, maybe you know, a beer on the weekend.\n\nD: OK, and are you up to date with all your immunizations?\n\nP: Like I don't I think I got all the ones when I was like a kid. What else should I have?\n\nD: OK, so like the flu vaccine every year?\n\nP: Oh"
+    },
+    {
+        "whisper_chunk": "I get that Like my wife makes me get that Okay that's good Any family history of lung or heart disease Oh like my mom and dad have high blood pressure too so I wasn't surprised when I heard that I did Okay okay Okay so Rob is there anything that you wanted to tell me that I haven't asked you already today I'm really nervous",
+        "gt_chunk": "P: I get that, like my wife, my wife makes me get that. \n\nD: OK that's good. Any family history of lung or heart disease?\n\nP: Oh like my, uh, my mom and dad have high blood pressure too, so I wasn't surprised when I heard that I did.\n\nD: OK. OK. Um, OK so Rob, is there anything that you wanted to tell me that I haven't asked you already today?\n\nP: I am really like nervous"
+    },
+    {
+        "whisper_chunk": "because I haven't felt anything like this before Like it's scary Do you think it's like cancer or something Like I don't really know I mean it's hard to tell right now what it is It sounds like it started pretty suddenly like it started a day ago correct Uh huh Yeah so it's unlikely that",
+        "gt_chunk": "P: cause I haven't felt anything like this before. Um, like it's scary, like do you think it's like cancer or something like I don't I don't really know?\n\nD: Um, I mean, it's hard to tell right now what it is. It sounds like it's it started pretty suddenly, um, like it started a day ago, correct?\n\nP: Mhm.\n\nD: Yeah, so it's unlikely that"
+    },
+    {
+        "whisper_chunk": "cancer would present itself like this so acutely you know But it could be a number of things Like it could be something like a pulmonary embolism but you said you don't have any swelling But you did say you have some chest pain when you're breathing in pretty when you take a deep breath in So I mean that's a possibility It doesn't sound like it's an infection because you don't have a fever or chills or",
+        "gt_chunk": "D: cancer would present itself like this so acutely, you know? And, but it could it could be a number of things like, it could be something like a pulmonary embolism, but you said you don't have any swelling. Um, but you did say you have some chest pain when you're breathing pretty, when you take a deep breath in. So I mean, that's a possibility. It doesn't sound like it's an infection because you don't have a fever or chills or"
+    },
+    {
+        "whisper_chunk": "any other symptom really And you mentioned there weren't any triggers like no trauma to the area And then other things could be like COPD which is chronic obstructive pulmonary disease because you have been sponking since college And that's basically just inflammation in your lungs that causes your airways",
+        "gt_chunk": "D: any other symptom really. And you mentioned there weren't any triggers like no trauma to the area. And then, other things could be like COPD because you which is a chronic obstructive pulmonary disease because you have been smoking since college and that's basically just inflammation in your lungs that causes your airways"
+    },
+    {
+        "whisper_chunk": "to narrow and so you may have a hard time breathing So for all of these things we first start by doing some blood work and then we'll do some imaging like a chest X ray and then a pulmonary function test if indicated And so that will give us a better idea of what you have and how we can best help you Does that sound good Yeah yeah I just really want to get a good breath So yeah whatever we can do Yeah for sure And then in the meantime",
+        "gt_chunk": "D: to narrow, and so you may have a hard time breathing. So for all of these things, we first start by doing some blood work and then we'll do some imaging like a chest X-ray and a pulmonary function test if indicated, and so that will give us a better idea of what you have and how we can best help you. Sounds good?\n\nP: Yeah yeah, I just really want to get a good breath so yeah, whatever we can do.\n\nD: Yeah for sure, and then in the meantime"
+    },
+    {
+        "whisper_chunk": "we'll keep monitoring you to make sure your vitals are okay and if we need to give you oxygen we will That would be great Okay thank you",
+        "gt_chunk": "D: we'll keep monitoring you to make sure your vitals are OK and if we need to give you oxygen, we will.\n\nP: That'd be great.\n\nD: OK, thank you"
+    }
+]

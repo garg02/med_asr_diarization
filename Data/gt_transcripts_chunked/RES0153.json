@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "How may I help you today Hi Chris I've been just having this just sore throat for the last let's say three or four days Okay and are you having pain with swallowing Yeah a little bit I've noticed with swallowing especially solids as well Okay have you noticed any changes to your voice like having a hot potato voice or",
+        "gt_chunk": "D: how may I help you today?\n\nP: Hi, I've been um just having this just sore throat for the last uh let's say three or four days. \n\nD: OK, and um are you having pain with swallowing?\n\nP: Um yeah, a little bit I've noticed uh with swallowing especially solids as well. \n\nD: OK, have you noticed any changes to your voice? Like having a hot potato voice or"
+    },
+    {
+        "whisper_chunk": "feeling as though your throat is kind of closing off Not closing off but I definitely do maybe a little bit of hoarseness but not too much Mainly it's just the pain that's concerning me Okay and have you had a cough No I haven't had a cough at all Okay",
+        "gt_chunk": "D: feeling as though your um your throat is kind of closing off?\n\nP: Um not closing off, but like I definitely do uh, maybe a little bit of hoarseness, but not not too much. Mainly it's just the pain that's concerning me.\n\nD: OK, and have you had uh a cough? \n\nP: Uh no, I haven't had a cough at all.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and have you had any neck swelling I have actually noticed like a little bit of neck swelling just right at the front On both Yeah just at the front Okay is it on both sides of your neck or kind of in the middle I would say it's more on both sides Okay And just kind of like at the front front of my",
+        "gt_chunk": "D: and have you had any um, any neck swelling?\n\nP: Um I I I have actually noticed like a little bit of neck swelling just right at the front on both um, yeah, just at the front.\n\nD: OK, um is it is it on both sides of your neck or kind of in the middle?\n\nP: Um I would say it's more uh on both sides.\n\nD: OK.\n\nP: And just kind of like at the front, front of my"
+    },
+    {
+        "whisper_chunk": "neck Okay and you noticed that within the last three or four days as well Yeah Okay And have you had any fevers or chills I have had a fever in the last day like I've been feeling warm I didn't get a chance to take my temperature And also just to correct myself it's more so the swelling is just on one side I've noticed like lumpiness on one side",
+        "gt_chunk": "P: neck. \n\nD: OK, and you've noticed that um within the last three four days as well? \n\nP: Yeah. \n\nD: OK. Um and have you had any uh fevers or chills?\n\nP: Uhm, I have had a fever in the last day like I've been feeling warm. I didn't get a chance to take my temperature. Um and also uh just to correct myself I, it's more so the swelling is just on one side. I've noticed like this lumpiness on one side"
+    },
+    {
+        "whisper_chunk": "of my neck Okay thank you Yeah well certainly I'll look during the physical exam So yeah you've had a fever the last two days Yeah I would say so Okay And have you had any headaches No no headaches All right and have you had any like eye redness or eye discharge No nothing like that Have you had a runny nose No Okay and any loss of",
+        "gt_chunk": "P: of my neck. \n\nD: OK, thank you yeah. We'll certainly uh, I'll look at it during the in the physical exam. Right, so so yeah, you've had a fever for the last two days?\n\nP: Yeah, I would say so. \n\nD: OK. Um And have you had any headaches?\n\nP: Um no, no headaches. \n\nD: Alright, and have you had any um like eye redness or eye discharge?\n\nP: No, nothing like that.\n\nD: Have you had a runny nose?\n\nP: No.\n\nD: OK, and any um loss of"
+    },
+    {
+        "whisper_chunk": "smell or loss of taste No nothing like that Okay And have you had any shortness of breath or difficulties breathing No no shortness of breath Have you had any wheeze No no wheeze Okay Have you had any chest pain No chest pain Any dizziness or feeling like you're going to faint No Okay Do you feel like you're breathing faster or your heart's beating faster No I haven't really felt that no",
+        "gt_chunk": "D: smell or or loss of taste?\n\nP: No, nothing like that. \n\nD: OK. Um and have you had any any shortness of breath or difficulties breathing?\n\nP: Uh no, no shortness of breath.\n\nD: Have you had any wheeze?\n\nP: No, no wheeze.\n\nD: OK. Have you had any um any chest pain?\n\nP: No chest pain.\n\nD: Alright, any dizziness or feeling like you were gonna faint?\n\nP: Nope.\n\nD: OK, do you feel like you're breathing faster or your heart's beating faster?\n\nP: Uh, no, I haven't really felt that no"
+    },
+    {
+        "whisper_chunk": "Okay And have you had any belly pain No How about any nausea or vomiting Not no I haven't felt that at all Okay Have you had any diarrhea No Have you had any urinary problems No Okay Have you had any skin changes or rashes anywhere No not that I've noticed All right Have you had any muscle aches or body pains Nope Okay Have you had any",
+        "gt_chunk": "D: and have you had any, uh, any belly pain?\n\nP: No. \n\nD: How about any nausea or vomiting?\n\nP: Um not, no, I haven't felt that at all.\n\nD: OK, have you have you had any diarrhea?\n\nP: No. \n\nD: Have you had any urinary problems?\n\nP: No.\n\nD: OK. Have you had any any um skin changes or rashes anywhere?\n\nP: Uh, no, not that I've noticed.\n\nD: Alright, have you had any muscle aches or body pains?\n\nP: Nope. \n\nD: OK. Have you had any"
+    },
+    {
+        "whisper_chunk": "symptoms like this before No not that I can recall Maybe when I was like seven years old like I may have had like a sore throat Okay so quite a while ago And have you been diagnosed with any medical conditions before No Okay And so do you take any medications or anything over the counter I've tried like Tylenol cold but it didn't really work Okay",
+        "gt_chunk": "D: symptoms like this before?\n\nP: Uh, no, not that I can recall. Um maybe when I was like like 7 years old like I may have had like a sore throat.\n\nD: OK, so quite a while ago, yeah, and have you been diagnosed with any medical conditions before?\n\nP: No.\n\nD: OK. Um and uh so do you take any medications or anything over the counter?\n\nP: Um I've tried like Tylenol cold, but it didn't really work.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And any allergies to medications or environment No All right Are your immunizations up to date Yeah they're all up to date Okay excellent And have you had any hospitalizations or any surgeries No I've been pretty healthy Okay excellent And have you traveled anywhere recently No I've mainly stayed at home I am mainly doing virtual school Okay Have you been around anybody who's been sick My",
+        "gt_chunk": "D: and any allergies to medications or environment?\n\nP: No.\n\nD: Are your immunizations up to date?\n\nP: Uh yeah, they're all up to date.\n\nD: OK, excellent, and um have you had any hospitalizations or any surgeries?\n\nP: Um no, I've been pretty healthy.\n\nD: Alright, excellent, and have you traveled anywhere recently?\n\nP: No, I I've mainly stayed at home, I I'm mainly doing virtual school.\n\nD: OK, have you been around anybody who's been been sick?"
+    },
+    {
+        "whisper_chunk": "sister she just got back from college and she was complaining of like a sore throat two weeks ago Okay I see Who are you living with currently and where are you living So I'm living with my parents and my sister in a house just outside of the city Okay And is your sister doing better now or what happened with her Yeah I'm not sure I think she did go to the doctor and",
+        "gt_chunk": "P: sister she she just got back from college and she she was complaining of like a sore throat uh two weeks ago.\n\nD: OK, I see. Um uh who are you living with currently and where are you living?\n\nP: So I'm living with my parents and my sister at, in a in a house just outside of the city.\n\nD: OK. Um and is your sister doing better now or um what happened with her? \n\nP: Yeah, yeah, I'm not sure, I think she did go to the doctor,"
+    },
+    {
+        "whisper_chunk": "now she's doing better She did get some medication but I don't know what they were Okay I see And I know some people in your age group will sometimes experience with like smoking or anything like that Do you smoke cigarettes or any of your friends No I haven't I haven't done that Okay this same type of questioning for cannabis and alcohol You experimented with any of those substances or",
+        "gt_chunk": "P: now she's doing better. She did get some medications but I don't know what they were.\n\nD: OK, I see. Um and uh I know some people in your age group will sometimes experience with uh like smoking or anything like that. Do you um do you smoke cigarettes or any of your friends?\n\nP: No, I haven't I haven't done that.\n\nD: OK, this same type of questioning for uh cannabis and alcohol. Um have you experimented with any of those substances or"
+    },
+    {
+        "whisper_chunk": "recreational drugs No not at all Okay And are you currently sexually active No Okay And how's school going School's going well It was weird adjusting to all the online stuff but now I feel like I've kind of got the hang of it Okay excellent And any concerns for like safety at home Anything that we talk about",
+        "gt_chunk": "D: recreational drugs?\n\nP: No, not at all.\n\nD: OK, um and are you currently sexually active?\n\nP: No. \n\nD: OK. Um and how's school going?\n\nP: Uh school is going well, like uh it was uh it was weird adjusting to all the online stuff, but now I feel like I kind of got the hang of it.\n\nD: OK, excellent. Um and um any concerns for um like safety at home? Anything that we talk about"
+    },
+    {
+        "whisper_chunk": "is confidential No I have a pretty loving family Okay that's great And I just wanted to finish here with their family history Does anybody in the family have heart or lung conditions No they're pretty healthy my mom and dad Okay And any other conditions that run in the family No I don't think so Okay So that",
+        "gt_chunk": "D: is confidential.\n\nP: No, I have a pretty pretty loving family.\n\nD: OK, well that's great. Um and I just wanted to finish here with your family history. Um does anybody in the family have heart or lung conditions?\n\nP: Uh, no, they they're pretty healthy, my mom and dad.\n\nD: OK, and any uh other conditions that run in the family?\n\nP: Uh no, I don't think so. \n\nD: OK. Um uh so that"
+    },
+    {
+        "whisper_chunk": "was everything I wanted to ask on the history today Do you have any other questions for me or anything that I didn't ask about you wanted to mention No nothing that I want to ask I was just wondering if I need any medications Okay yeah so it's possible So based on your symptoms currently it does suggest that it is a bacterial cause Since you don't have a cough",
+        "gt_chunk": "D: was everything I wanted to ask um on the history today. Did you have any other questions for me or anything that that I didn't ask about you wanted to mention?\n\nP: Uh no, nothing that I wanted to ask, just uh was just wondering if I need any medications.\n\nD: OK, yeah, so um it's possible, so based on your symptoms currently it does suggest that uh it it is a bacterial cause with uh, since you don't have a cough"
+    },
+    {
+        "whisper_chunk": "it sounds like lymph node enlargement However we'll look and see if there's exudates or purulence that we can see in your throat as well as check your temperature and do a rapid strep test to see if that's the cause And if so then yeah there will be a course of antibiotics will be required But we will wait",
+        "gt_chunk": "D:  sounds like lymph node enlargement. Um we'll we'll look and see if there's exudates or or purulence on your um, that we can see in your in your throat as well as checking temperature and do a rapid strep test. Um see if um if that's the cause, and if so, um then yeah, there will be a course of antibiotics um will be required, but um we will uh wait"
+    },
+    {
+        "whisper_chunk": "for the physical exam and then the rapid test All right Sounds good",
+        "gt_chunk": "D: for um the physical exam and then the uh the rapid test.\n\nP: Alright, sounds good"
+    }
+]

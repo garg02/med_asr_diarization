@@ -1,0 +1,58 @@
+[
+    {
+        "whisper_chunk": "And what brings you to the emergency department today Low back pain Okay and where exactly is the back pain So the pain's just rated in the lower back Just in the lower back Okay and when did this pain start It started yesterday I was unloading groceries from my pickup truck when it suddenly started Okay and did you kind of make any kind of movements or do you pick up something really heavy I'm not",
+        "gt_chunk": "D: And what brings you to the emergency department today? \n\nP: Low back pain.\n\nD: OK, and where exactly is uh is the back pain?\n\nP: So the pain's just right in the in the lower back.\n\nD: Just in the lower back, OK. And when did this pain start?\n\nP: It started yesterday, I was unloading groceries from my pickup truck when it suddenly started.\n\nD: OK, so, and, did you kind of make any kind of movement? Or did you pick up something really heavy?\n\nP: I'm not"
+    },
+    {
+        "whisper_chunk": "sure I just noticed the pain after that Okay and what kind of pain are you experiencing Is it like a dull cramping pain or is it more like a sharp or stabbing pain It feels like it's stabbing just right in my lower back Okay and on a scale of one to ten one being like the least pain that you felt in your life ten being the worst how much would you rate this pain If I'm sitting",
+        "gt_chunk": "P: sure. I just noticed the pain after um after that.\n\nD: OK, and what kind of pain are you experiencing? Is it like a dull cramping pain or is it more like a sharp or stabbing pain?\n\nP: It feels like it's stabbing just right in my lower back.\n\nD: OK. And, um, on a scale of 1 to 10, uh 1 being like the least pain that you felt in your life, 10 being the worst, how much would you rate this pain?\n\nP: If I'm sitting"
+    },
+    {
+        "whisper_chunk": "completely still like I am right now I'd say a two out of ten Okay and when does it get worse Anytime I move or I bend my back or even cough it worsens the pain significantly Okay and has this pain changed at all since yesterday No it's been the same awful pain this whole time Okay and have you ever had this kind",
+        "gt_chunk": "P: completely still like like I am right now, it's a 2 out of 10.\n\nD: OK. Um and when does it get worse?\n\nP: Uh anytime I I move or bend my back or uh even cough it it worsens the pain significantly.\n\nD: OK, and has this pain changed at all since yesterday?\n\nP: No, it's been this same awful pain this whole time.\n\nD: OK and have have you ever had this kind"
+    },
+    {
+        "whisper_chunk": "of pain before I've had back pain over the years but nothing like this before Okay and does the pain go anywhere or does it just stay in the lower back I also feel the pain into my right leg Okay and is it the same kind of aching or like stabbing pain that goes into your right leg Or is it just like an aching pain",
+        "gt_chunk": "D: of pain before?\n\nP: I've had back pain uh over the years, but nothing like this before.\n\nD: OK. And does it, does the pain go anywhere or does it just stay in the lower back?\n\nP: I also feel the pain uh into my right leg.\n\nD: OK, and is it the same kind of aching or like stabbing pain that goes into your right leg? Or is it uh just like an aching pain"
+    },
+    {
+        "whisper_chunk": "It's an aching pain Okay and do you have any other symptoms besides the pain like are you experiencing any kind of weakness or any other changes in your health No it's just the low back pain Okay and have you ever experienced any kind of trauma to your back like something has hit you or you fall down anything like that No I can't remember any injuries like that in the",
+        "gt_chunk": "P: , an aching pain. \n\nD: OK. And do you have any other symptoms besides the pain? Like are you experiencing any kind of weakness or any kind of, any other changes in your health?\n\nP: Uh no it's just the uh the low back pain.\n\nD: OK, and have you ever uh experienced any kind of trauma to your back? Like something has hit you or you've fall down, anything like that?\n\nP: No, I can't remember any injuries like that in the"
+    },
+    {
+        "whisper_chunk": "past Okay any fevers or chills or night sweats No fever no chills no night sweats Okay any symptoms of feeling very tired fatigued anything like that No I've been okay recently Okay any changes to your skin at all Any rashes No Okay any pain in your joints at all Just the back pain Okay any",
+        "gt_chunk": "P: past.\n\nD: OK, any uh fevers or chills or night sweats?\n\nP: Um no fever, uh no chills, no night sweats. \n\nD: OK, any uh symptoms of feeling very tired, fatigued, anything like that?\n\nP: Uh no, I've been OK recently. \n\nD: OK. Any changes to your skin at all? Uh I mean, any rashes?\n\nP: No. \n\nD: OK, any pain in your joints at all? \n\nP: Uh just the back pain.\n\nD: OK. Uh any"
+    },
+    {
+        "whisper_chunk": "new coughs or any symptoms of runny nose or anything like that No Any changes in your bowel movements at all like diarrhea constipation or anything Nothing like that It's been regular Okay and how about any urinary problems No nothing to report there Okay and how has your appetite been The appetite's been normal Okay any significant weight loss or weight gain recently No the weight's been about the same Okay any",
+        "gt_chunk": "D: new coughs or any um symptoms and runny nose or anything like that?\n\nP: Uh no.\n\nD: Any changes in your um bowel movements at all like diarrhea, constipation or anything?\n\nP: Nothing like that, been regular.\n\nD: OK, how about, uh, any urinary problems?\n\nP: Uh no, nothing to report there.\n\nD: OK, and how has your appetite been?\n\nP: Uh appetite's been normal.\n\nD: Any significant weight loss or weight gain recently? \n\nP: No, the weight's been about the same.\n\nD: OK, any"
+    },
+    {
+        "whisper_chunk": "recent infections that you know of No I've been feeling well otherwise Okay any tingling sensation or numbness in your back or lower limbs in your legs No numbness or tingling Okay any muscle weakness at all No muscle weakness Okay have you been having any kind of erectile dysfunction No concerns with erectile dysfunction Okay and any issues with incontinence like",
+        "gt_chunk": "D: recent infections that you know of?\n\nP: No, I've been feeling well otherwise. \n\nD: OK. Any uh tingling sensation or numbness uh in your back or lower limbs, in your legs?\n\nP: Uh no numbness or tingling.\n\nD: OK. Any muscle weakness at all?\n\nP: Uh no muscle weakness.\n\nD: OK, have you been uh having any uh kind of erectile dysfunction? \n\nP: Uh no concerns with uh erectile dysfunction. \n\nD: OK, and any issues with uh incontinence, like"
+    },
+    {
+        "whisper_chunk": "having accidents at all at night or during the day No I haven't had any problems with bowel or bladder incontinence Okay all right And in terms of your past medical history have you been diagnosed with any conditions like high blood pressure diabetes Type 2 diabetes Okay and do you take any medications for it I take insulin for diabetes Okay and any other medications at all I've just been taking Tylenol for the back pain Okay and has that worked for you at",
+        "gt_chunk": "D: having accidents at all, at night or during the day?\n\nP: Uh no, I haven't had any problems with bowel or bladder incontinence. \n\nD: OK, alright, and in terms of your past medical history, have you have you been diagnosed with any conditions like high blood pressure, diabetes?\n\nP: Uh type 2 diabetes.\n\nD: OK, and do you take any medications for it?\n\nP: Uh I, um insulin for diabetes.\n\nD: OK, and any other medications at all?\n\nP: Uh just been taking Tylenol for the the back pain.\n\nD: And has that worked for you at"
+    },
+    {
+        "whisper_chunk": "all or has it made a difference Maybe it's taken the edge off a little bit but it hasn't done too much to help the pain Okay any allergies Nope Any previous surgeries I had hemorrhoids removed three years ago Okay any hospitalizations before Nope it was just day surgery Okay any family history of any conditions or like any cancers My father had prostate cancer Okay",
+        "gt_chunk": "D: all? Or has it not made a difference? \n\nP: Uh maybe it's taking the edge off a little bit, but it hasn't done too much uh to help the pain. \n\nD: OK, any allergies?\n\nP: Uh nope.\n\nD: OK. Any previous surgeries?\n\nP: Uh I had hemorrhoids removed three years ago. \n\nD: OK. Um any hospitalizations before?\n\nP: Uh no, it was just day surgery,\n\nD: OK, any family history of any um conditions uh or like any cancers?\n\nP: Uh my father had prostate cancer.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and currently right now do you work I'm a retired school teacher Okay and where do you live I live alone in a house not too far from here actually Okay and do you drink at all Occasionally maybe I'll have a glass of red wine on the weekend or something like that but not too often Okay and do you smoke",
+        "gt_chunk": "D: And currently right now, uh do you work? \n\nP: Uh I'm a retired school teacher. \n\nD: OK, and where do you live? \n\nP: I live alone um in a in a house uh not too far from here, actually. \n\nD: OK. And do you do you drink at all?\n\nP: Um occasionally uh maybe I'll have a glass of red wine on the weekend or something like that, but uh not too often.\n\nD: OK, and do you smoke"
+    },
+    {
+        "whisper_chunk": "I've smoked yeah I smoke a pack of cigarettes per day Okay and for how long have you smoked cigarettes for About 40 years 40 years okay and do you use any kind of recreational drugs Never Okay and how's your diet like on like a regular basis I feel like it's pretty normal mostly home cooked meals with some variety of vegetables Other meats and fish",
+        "gt_chunk": "P: I've smoked um yeah, I smoke a pack of cigarettes uh per day. \n\nD: OK, and for how long have you smoked uh cigarettes for?\n\nP: Uh about 40 years.\n\nD: 40 years, OK. And, uh, do you use any kind of recreational drugs? \n\nP: Uh never.\n\nD: OK, and how is your diet like on like a regular basis?\n\nP: I feel like it's uh pretty normal, mostly home cooked meals with some variety, vegetable, vegetables, other meats, and fish"
+    },
+    {
+        "whisper_chunk": "I would say it's pretty balanced Okay all right I just have a few more questions for you Are you currently sexually active Yes I am Okay and who are you sexually active with Any new partners at all No new partners just my girlfriend Okay and how many sorry go ahead Oh just my girlfriend recently Okay and have you been sexually active with more than one partner in the past year Yes I have",
+        "gt_chunk": "P: I would say it's pretty balanced.\n\nD: OK, alright, I just have a few more questions for you. Um are you currently sexually active? \n\nP: Yes, I am.\n\nD: OK and who are you sexually active with, any new partners at all?\n\nP: Uh no new partners, um just my girlfriend, uh. \n\nD: And, uh, how many, I'm sorry, go ahead.\n\nP: Um just my my girlfriend recently. \n\nD: OK, and have you been sexually active with more than one partner in the past, past year? \n\nP: Uh yes, I have"
+    },
+    {
+        "whisper_chunk": "two women over the past year Okay and do you use any kind of protection Yes always use the condoms Okay all right so now I'm just going to get the patient's vitals",
+        "gt_chunk": "P: two women over the past year. \n\nD: OK, and um do you use any kind of protection?\n\nP: Yes, always use uh condoms.\n\nD: OK. Alright, so now I'm just going to get the patient's vitals"
+    }
+]

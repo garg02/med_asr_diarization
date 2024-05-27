@@ -1,0 +1,86 @@
+[
+    {
+        "whisper_chunk": "how may I help you So I just came in here because for the last day I've been just getting shortness of breath I recently yesterday actually was just busy at home cleaning up my basement and like that was yesterday afternoon I did that for a couple hours and then at night I just started to get the shortness of breath it's continued until today I'm also getting some wheezing and tightness in my chest as well as some",
+        "gt_chunk": "D: How may I help you?\n\nP: So, I just came in here because for the last day I've been just getting shortness of breath. I recently, yesterday actually, was just busy at home, cleaning out my basement. And, like that was yesterday afternoon, I did that for a couple hours and then at night I just started to get the shortness of breath. It's continued until today. I'm also getting some wheezing and tightness in my chest as well as some"
+    },
+    {
+        "whisper_chunk": "cough So yeah that's all just been happening over the last day Okay and is the shortness of breath here now Is it is it at rest or are you having that when you're exerting yourself More so when I'm like exerting myself if I'm sitting down it's better but I still have I would say like my breathing is not normal right now like it's I still have to take deeper breaths and I do have that chest tightness when I",
+        "gt_chunk": "P: cough. So yeah, that's all just been happening over the last day.\n\nD: OK, and uh, is the shortness of breath here now? is it, is at rest? Or are you having that when you're exerting yourself?\n\np: More so when I'm like exerting myself, if I'm sitting down it's better, but I still have, I would say, like my breathing is not normal right now, like it's, I still have to take deeper breaths. And I do have that chest tightness when I"
+    },
+    {
+        "whisper_chunk": "take those deep breaths Okay do you have any chest pain No it's more so just the tightness I wouldn't call it pain but I do still have a little bit of wheezing Okay so yeah that's that's that And you mentioned a cough as well with the cough as it has it been dry or have you been bringing up sputum It was it was mainly dry yesterday like like the cough has kind of gone away but yesterday night I was coughing a lot and it was mostly dry Okay",
+        "gt_chunk": "p: take those deep breaths.\n\nD: OK, do you have any chest pain?\n\nP: No, it's more so just the tightness. I wouldn't call it pain, but I do still have a little bit of wheezing.\n\nD: OK.\n\nP: So yeah, that's, that's that.\n\nD: And you mentioned a cough as well. With the cough is it, has it been dry, or have you been bringing up sputum?\n\nP: Uhm, it was, it was mainly dry yesterday, like, like the cough has kind of gone away, but yesterday night I was coughing a lot and it was mostly dry.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "have you brought up any blood No Okay and have you had any infectious symptoms like eye tearing or red eyes maybe a runny nose or sore throat Not a sore throat but it does feel like it it's kind of like I do have asthma",
+        "gt_chunk": "D: have you brought up any blood?\n\nP: No. \n\nD: OK, and have you had any infectious symptoms like, eye tearing or red eyes, maybe a runny nose or sore throat?\n\nP: Uhm, not a sore throat, but it does feel like it, it's kind of like just"
+    },
+    {
+        "whisper_chunk": "like I was diagnosed 10 years ago but it's been pretty stable like it's like just right now I haven't had shortness of breath for a pretty long time Okay and we'll I'll get back to the past medical history shortly I just wanted to ask a few more symptoms but certainly could be relevant today So you",
+        "gt_chunk": "P: like I was diagnosed ten years ago, but it's been pretty stable, like it's, like just right now. I haven't had shortness of breath for a pretty long time. \n\nD: OK, uh, and, uh, we'll get back to the past medical history shortly, I just wanted to ask a few more symptoms, but certainly could be relevant today."
+    },
+    {
+        "whisper_chunk": "mentioned that you've had some throat tightness have you had any loss of smell or or loss of taste No nothing like that Okay vomiting No no nausea vomiting How about any diarrhea or constipation No And have you had any urinary problems like painful or frequency Nope Okay",
+        "gt_chunk": "D: mentioned that you have had some throat tightness. Have you had any loss of smell or, or loss of taste? \n\nP: No, nothing like that.\n\nD: OK, and have you had any fevers or chills?\n\nP: No.\n\nD: OK, have you had any nausea or vomiting?\n\nP: No, no nausea or vomitting.\n\nD: How about, any diarrhea or Constipation?\n\nP: No.\n\nD: And have you had any urinary problems like painful or frequency?\n\nP: No.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and have you had any night sweats over the last several weeks to months No nothing like that And have you had any weight changes over the last little while Nope Okay and have you noticed any skin changes or rashes No I do have just like the general like eczema that I use a cream for but that's just normal for me Okay and any muscle aches",
+        "gt_chunk": "D: and have you had any night sweats over the last several weeks to months?\n\nP: No, nothing like that.\n\nD: And, uhm, have you had any weight changes over the last little while?\n\nP: No.\n\nD: OK. And have you noticed any skin changes or rashes?\n\nP: Uh, no, I, I do have just like the general, like, eczema, that I use a cream for, but that's just normal for me. \n\nD: OK. And any muscle aches"
+    },
+    {
+        "whisper_chunk": "or joint pains No And have you had any fatigue No Okay you mentioned asthma as part of your past medical history have you been diagnosed with any other conditions No it's just asthma and I was diagnosed I think when I was like probably 11 or 12 years old Okay and do you use inhalers for that Yeah I have two inhalers uh like one one is like a blue one one is like an uh like an",
+        "gt_chunk": "D: or joint pains?\n\nP: No. \n\nD: Have you had any fatigue? \n\nP: No.\n\nD: OK, alright you mentioned asthma as part of your past medical history. Have you been diagnosed with any other conditions?\n\nP: No, it's just asthma and it was diagnosed, I think when I was like, probably 11 or 12 years old.\n\nD: OK, and do you use inhalers for that?\n\nP: Yeah, I have two inhalers, uh, like one, one is like a blue one, one is like an, like an"
+    },
+    {
+        "whisper_chunk": "orange one um uh it's so I think it's one of those just like I take whenever I really need to and the other one I take every day um and I haven't been taking the one uh I think it's called bentolin but I took it like uh I had to take it like three or four times last night and or like throughout the day yesterday and it it did help uh but it didn't really",
+        "gt_chunk": "P: orange one, uh, it's, so I think it's one of them is just like, I take whenever I really need to and the other one I take every day. Uhm, and I haven't been taking the one, uh, I think it's called Ventolin. But I took it like, uh, had to take it like three or four times last night and like, throughout the day yesterday. And it, it did help, but it didn't really"
+    },
+    {
+        "whisper_chunk": "relieve some of my symptoms Okay and prior to that how often have you been using um the blue one The blue one uh before yesterday probably the last time I used it was probably like a month ago Okay so you don't need it that that often then and do you have any triggers for your asthma that you're aware of like uh exercising or uh going out into the cold or um or",
+        "gt_chunk": "P: relieve some of my symptoms.\n\nD: OK, and prior to that, how often have you been using, uhm, the blue one. \n\nP: The blue one before yesterday, probably the last time I used it was probably like a month ago. \n\nD: OK, so you don't need it that that often then?\n\nP: No.\n\nD: Do you have any triggers for asthma that you're aware of, like exercising or going out into the cold or"
+    },
+    {
+        "whisper_chunk": "even like allergies like dust or or um or pollen Uh I do have allergies in the spring uh I think it's to pollen um in the winter it does like my symptoms do get a bit worse and I have to use uh the ventolin more um but recently for the last few months at least it's been pretty stable I haven't really had to use use it too much Okay and and do you use any other medications Um just",
+        "gt_chunk": "D: even like allergies like dust or, or, or pollen?\n\nP: Uhm, I do have allergies in the spring. I think it's to pollen and in the winter, it does, like my symptoms do get a bit worse and I have to use the ventil more. But recently for the last few months at least, it's been pretty stable. I haven't really had to use, use it too much.\n\nD: OK, and, and do you use any other medications?\n\nP: Uh, just"
+    },
+    {
+        "whisper_chunk": "when I have allergies I I just use uh over the counter allergy meds Okay and and use a cream for uh for your skin too like yeah Yeah I I use like it's it's I think it's like a mixture of like a steroid cream Okay and um do you have any allergies to medications Not that I know Okay and uh are your immunizations up to date Yeah All right",
+        "gt_chunk": "P: when I have allergies. I, I just use over the counter allergy meds.\n\nD: OK, and you use a cream for, for your skin too like, yeah?\n\nP: Yeah, I use, like it's, it's, I think it's like a mixture of like a steroid cream. \n\nD: OK, and do you have any allergies to medications?\n\nP: Not that I know of.\n\nD: OK, and are your immunizations up to date?\n\nP: Yeah.\n\nD: Alright"
+    },
+    {
+        "whisper_chunk": "um and right now uh who are you living with and and whereabouts are you living Uh yeah so I'm just living with um a couple roommates uh I just go to uh college and I'm living with three other roommates Okay and has anybody been sick No everyone's been fine And have you traveled anywhere Um I besides like I I yesterday I went home like to my",
+        "gt_chunk": "D: , and right now, who are you living with, and whereabouts are you living?\n\nP: Yeah, so I'm just living with a couple roommates. I just go to college and I'm living with three other roommates.\n\nD: OK, and has anybody been sick?\n\np: No, everyone's been fine.\n\nD: And have you traveled anywhere?\n\nP: Uhm, I decided, like, I, yesterday I went home like, to my"
+    },
+    {
+        "whisper_chunk": "parents house and help like that's where I was cleaning the basement um but besides that that was that was uh that was it Okay um and sorry just to backtrack a little bit have you had any hospitalizations either due to asthma or for any other reason Um I think when I was 15 I I had to go to the emergency department but I I wasn't hospitalized Okay and was",
+        "gt_chunk": "P: parents house and helped my dad, that's where I was cleaning the basement. But besides that, that was, that was uh, that was it?\n\nD: OK, and  sorry, just had to backtrack a little bit. Have you had any hospitalizations, either due to asthma or for any other reason?\n\nP: Uhm, I think when I was 15, I, I had to go to the emergency department, but I, I wasn't hospitalized.\n\nD: OK, and was"
+    },
+    {
+        "whisper_chunk": "this uh did you have similar symptoms at that time Yeah it was uh it was for asthma and like I uh that time it was definitely much much worse and uh I remember like I was breathing a lot uh the shortness of breath was really bad um and the before No All right um so I mentioned that",
+        "gt_chunk": "D: this, uh, did you have similar symptoms at that time?\n\nP: Yeah, it was, uh, it was for asthma and like, uh, that time it was definitely much much worse and I remember like I was breathing a lot, uh, the shortness of breath was really bad and the ventolin"
+    },
+    {
+        "whisper_chunk": "you're you're cleaning at the basement uh yesterday was there a lot of dust down there or um anything like that that might have triggered it Yeah we were like just moving boxes there were books here and there that's definitely there would have been dust I should have been more careful where like wore a mask but um I didn't think about it at that time Okay yeah for sure um and uh do you smoke cigarettes No I can't even",
+        "gt_chunk": "D: you're, you're cleaning up the basement yesterday? Was there a lot of dust down there or anything like that, that might have triggered it?\n\nP: Yeah, we were like just moving boxes. There were books here and there that definitely there would have been dust. I should have been more careful, like wore a mask, but I didn't think about it at that time.\n\nD: OK yeah for sure, uh, and do you smoke cigarettes?\n\nP: No, like I can't even"
+    },
+    {
+        "whisper_chunk": "stand cigarette smoke Okay that's good and do you smoke marijuana or use any cannabis products Uh no if if I really want marijuana I would have to go with edibles I can't take the smoke Okay I see and uh do you drink alcohol Um just I would say probably on the weekends I might have um four or five beers Okay",
+        "gt_chunk": "P: stand cigarette smoke.\n\nD: OK, that's good. And do you smoke marijuana or use any cannabis products?\n\nP: Uh, no if I, if I really want marijuana, I would have to go with edibles, I, I can't take the smoke.\n\nD: OK, I see and, do you drink alcohol?\n\nP: Uh just, I would say probably on the weekends I might have four or five beers.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and um anybody else in the family have asthma or um skin irritation like like you have Yeah so my uh my older sister actually also was diagnosed with asthma um she also has the eczema that I have and my mom was also diagnosed with asthma when she was a child but she's been completely fine since then Okay",
+        "gt_chunk": "D: and, anybody else in the family have asthma or skin irritation like, like you have?\n\nP: Yeah so my, my older sister actually also was diagnosed with asthma. She also has the eczema that I have and my mom was also diagnosed with asthma when she was a child, but she's been completely fine since then.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "oh that's good that that she's been okay um does anybody in the family have any heart or or lung conditions or any cancers that run in the family Um my grandfather died of lung cancer but he was just uh smoked all throughout his life Okay um all right so um that was all of the the questions that I wanted to ask um today so the next part uh we'll go on to do a physical exam but did you have anything",
+        "gt_chunk": "D:  that's good that, that she's been OK. Does anybody in the family have any heart or, or lung conditions or any cancers that run in the family?\n\nP: My grandfather died of lung cancer, but he was just, just smoked all throughout his life. \n\nD: OK, uhm, alright, so that was all of the questions that I wanted to ask today. So the next part we'll go on to do a physical exam, but did you have any thing"
+    },
+    {
+        "whisper_chunk": "else that maybe I forgot to ask about today Uh no I I I think I know what this was caused by but yeah let's let's see thanks for your help Oh you're welcome so yeah we'll we'll um trial some um more puffers and see um what we can do because certainly it's sounding like um an asthma exacerbation and so um definitely let let somebody know if um your your uh breathing is getting",
+        "gt_chunk": "D: else that maybe I forgot to ask about today?\n\nP: Uh, no, I, I, I think I know what this was caused by, but yeah, let's, let's see. Thanks for your help.\n\nD: Oh you're welcome, so yeah, we'll, we'll, uhm,trial some more puffers and see what we could do, cause certainly it's sounding like an asthma exacerbation, and so definitely let somebody know if your, your breathing is getting"
+    },
+    {
+        "whisper_chunk": "more difficult Yeah sounds good",
+        "gt_chunk": "D: more difficult.\n\nP: Yep, sounds good"
+    }
+]

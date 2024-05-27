@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "what brings you in I brought my son in today because he had a fever that started two days ago and then since then he's had a cough that started as well and he's been short of breath It looks like he's like breathing faster and just having a harder time to breathe Okay before the fever did you notice any other symptoms like a runny nose or a stuffy nose No nothing like that Yeah the fever kind",
+        "gt_chunk": "D: What brings you in?\n\nP: I brought my son in today because he had a fever that started two days ago and, and then since then he he's had a cough that started as well and it it he's been short of breath. It looks like he's like breathing faster and just having a harder time to breathe.\n\nD: OK, uhm, before the fever, did you notice any other symptoms, like a runny nose or a stuffy nose?\n\nP: No, nothing like that. Yeah, the fever kind"
+    },
+    {
+        "whisper_chunk": "of came on pretty suddenly Okay It seemed like Okay and did you take his temperature at home I did yeah It was like 38 7 and then like two days ago and then it was high again like yesterday and today Okay and you mentioned the coughing started soon after the fever correct Yeah yeah kind of like the day after he started getting this cough Okay and is it",
+        "gt_chunk": "P: of came on pretty, pretty suddenly it seemed like.\n\nD: OK, and did you take his temperature at home? \n\nP: I did, yeah. It was like 38.7 and then like two days ago and then it was high again, like yesterday and today.\n\nD: OK, and you mentioned the coughing started soon after the fever, correct?\n\nP: Yeah, yeah kind of like the day after e started having getting this cough.\n\nD: OK and is it"
+    },
+    {
+        "whisper_chunk": "a dry cough or is it a productive cough It's yeah he is bringing up a little bit of sputum Yeah he's bringing up Okay what color is his sputum It's maybe like greenish greenish yellow Greenish yellow okay Any blood in there No I haven't noticed any blood Okay and does he seem short of breath or wheezy No wheezing but he does have a little bit of",
+        "gt_chunk": "D: a dry cough or is it a productive cough? \n\nP: It's, uh, yeah, he is bringing up a little bit of sputum, yeah he's doing it.\n\nD: OK, what color is the sputum?\n\nP: Uh, it's a maybe like like greenish, greenish, yellow?\n\nD: Greenish yellow, OK. Any blood in there?\n\nP: No, I haven't noticed any any blood.\n\nD: OK, and does he seem short of breath or wheezy? \n\nP: No wheezing, but he does have"
+    },
+    {
+        "whisper_chunk": "some shortness of breath Okay and the shortness of breath started with a cough It did yeah Okay how much shortness of breath is he having Is it just when he's exerting himself or is it at rest as well I'd say even at rest now he's breathing faster Okay and does anything help with that So does sitting up help or you know",
+        "gt_chunk": "P: some shortness of breath.\n\nD: OK. And the service of bread started with a cough?\n\nP: Ii did, yeah.\n\nD: OK. Uhm, how much shortness of breath is he having? Is it just when he's exerting himself or is it at rest as well?\n\nP: I'd say ah, even at rest now he's like breathing faster.\n\nD: OK, umm, and it does anything help with that? So does sitting up help? Or, uh, you know"
+    },
+    {
+        "whisper_chunk": "getting fresh air or anything like that No but you'd say like taking smaller breaths helps because like if he takes a deep breath then he gets like chest pain Okay okay and how about when he's laying down No he hasn't said anything like that for laying down Just I think when he's just taking a deep",
+        "gt_chunk": "D: getting fresh air or anything like that?\n\nP: No. But you'd say, like taking a smaller breaths helps because like if he if he takes a deep breath and he gets, he gets like chest pain. \n\nD: OK, OK, and how about when he's laying down?\n\nP: No, he hasn't said anything like, like that for laying down just I think when he's just taking a deep"
+    },
+    {
+        "whisper_chunk": "breath he said Okay is it waking him up from sleep No No okay how about chest pain Yeah so yeah he's had some pain when he just when he takes that deep breath in Okay does he ever feel like his heart's racing No No okay how about dizziness or fainting spouts No he hasn't had",
+        "gt_chunk": "P: breath, he said.\n\nD: OK, is it waking him up from sleep?\n\nP: Uh, no.\n\nD: No, OK. How about chest pain?\n\nP: Yeah, so yeah he's had some pain when he, when he just really takes that deep breath in.\n\nD: OK. Does he ever feel like his heart's racing?\n\nP: Uhm, no. \n\nD: No, OK. Uhm how about any dizziness or fainting spells?\n\nP: No, he doesn't have"
+    },
+    {
+        "whisper_chunk": "anything like that Okay has he had a sore throat No No any changes in vision or hearing No Smell or taste No No weight loss No he's been gaining weight well Okay how about any rashes Nope I haven't noticed any Okay and then any numbness or tingling No he hasn't said anything like that Okay muscle aches or joint aches No",
+        "gt_chunk": "P: anything like that.\n\nD: OK, has he had a sore throat?\n\nP: No, no.\n\nD: Any changes in vision or hearing?\n\nP: No.\n\nD: Uh, smell or taste?\n\nP: No.\n\nD: No. Weight loss?\n\nP: No, he's been gaining weight well.\n\nD: OK, how about any rashes?\n\nP: Nope, I haven't noticed any.\n\nD: OK, uhm, and then any numbness or tingling?\n\nP: No, he hasn't said anything like that.\n\nD: OK, muscle aches or joint aches?\n\nP: No"
+    },
+    {
+        "whisper_chunk": "Okay confusion or memory loss No Changes in his bowel movements Nope that's been good no diarrhea or anything like that Okay changes in his voiding Nope he hasn't had any urinary problems Okay and is he an otherwise healthy child Does he have any longstanding medical conditions No he doesn't That's this one is so surprising He's been healthy Hmm okay Has he so he's never had any",
+        "gt_chunk": "D: OK. Confusion or memory loss?\n\nP: No.\n\nD: Changes in his bowel movements?\n\nP: Nope, yeah, that's been been getting out, no diarrhea or anything like that. \n\nD: OK. Changes in his voiding?\n\nP: Nope, he hasn't had any urinary problems.\n\nD: OK. And is he an otherwise healthy child? Umm, does he have any longstanding medical conditions?\n\nP: No, he doesn't. That's uh, this was so surprising, he's been healthy.\n\nD: OK. Has he, so he's never had any"
+    },
+    {
+        "whisper_chunk": "hospitalizations or surgeries No he hasn't Okay How about his mother's pregnancy with him Were there any complications at that point Nope everything went well no complications and he was like at a good birth weight and went home right away Okay Okay and how about the delivery itself Any complications during that point Oh no it",
+        "gt_chunk": "D: hospitalizations or surgeries? \n\nP: No, he hasn't.\n\nD: OK. How about his mother's pregnancy with him? Were there any complications at that point?\n\nP: Nope, everything went went well. No complications and he was like a good birth weight and went home right away. \n\nD: OK. OK, and how about the delivery itself? Any complications during that, that point?\n\nP: Oh no,"
+    },
+    {
+        "whisper_chunk": "was a vaginal delivery and it was normal Okay and he didn't need to be hospitalized as a Has he been born for anything like jaundice or shortness of breath Nope he hasn't had any reason to be hospitalized Okay All right And has he been hitting all his developmental milestones as well as like his height weight and head circumference milestones He has yeah he's been growing well and reaching the development milestones",
+        "gt_chunk": "P: was a vaginal delivery and it was normal.\n\nD: OK. And he didn't need to be hospitalized as a newborn for anything like jaundice or shortness of breath?\n\nP: Uh, nope, he hasn't had any any reason to be hospitalized.\n\nD: OK. Uhm alright. And has he been hitting all his developmental milestones as well as like his height, weight and head circumference milestones?\n\nP: He has, yeah, he's been growing well and reaching the developments stones"
+    },
+    {
+        "whisper_chunk": "Okay Is he on any medications No he's not on any medications Okay Any allergies No allergies Is he up to date with all his immunizations He is yeah Okay Any family history of lung or heart conditions No nothing like that Okay How about cancers in the family No no cancers luckily Can you think of anyone he's been in contact with who's also been sick Yeah maybe",
+        "gt_chunk": "D: OK, is he on any medications?\n\nP: Uh, no he's not on any medications.\n\nD: OK. Any allergies?\n\nP: No allergies.\n\nD: Uhm, is he up to date with all his immunizations?\n\nP: He is, yeah. \n\nD: OK. Any family history of lung or heart conditions.\n\nP: Uh, no, nothing like that.\n\nD: OK. Have about cancers in the family?\n\nP: No, no cancers luckily.\n\nD: Can you think of anyone he's been in contact with who's also been sick?\n\nP: Yeah, maybe"
+    },
+    {
+        "whisper_chunk": "he has a younger sister that goes to daycare and she was sick last week With like she had a cough and stuff as well Okay Okay And does she have a fever as well She did yeah she got better Last week we had to take her to see the doctor and she got antibiotics for that actually for a few days Oh okay okay And have you traveled anywhere recently No we've been at home",
+        "gt_chunk": "P: he has a younger sister that goes to daycare and she was sick last week with like she had a cough and stuff as well.\n\nD: OK. OK, and does she have a fever as well?\n\nP: She did, yeah, she got better. Right uh, last week we we had to take her to to see the doctor and she got antibiotics for that. Actually for, for a few days. \n\nD: OK, OK. And have you traveled anywhere recently?\n\nP: No, we've been at home"
+    },
+    {
+        "whisper_chunk": "Okay Does anyone at home smoke No No okay And who lives at home with him So it's me his mom and then his younger sister Okay Any old carpets mold dust asbestos anything that could exacerbate his condition No I don't think so it's a newer home Okay good So those are all the questions that I had for you Did you have any questions of your own No that was everything I think I guess other thing that",
+        "gt_chunk": "D: OK. Does anyone at home smoke?\n\nP: No. \n\nD: No, OK. And who lives at home with him?\n\nP: So it's me, his mom, and then his younger sister.\n\nD: OK. Any old carpets, mold, dust, asbestos, anything that could exacerbate his condition?\n\nP: No, I don't think so. It's a newer home. \n\nD: OK, good. Umm, so those are all the questions that I had for you. Did you have any questions of your own?\n\nP: Uhm, no, I, no that was everything I think. The only I I guess other thing that"
+    },
+    {
+        "whisper_chunk": "I forgot to mention is that he hasn't really like his appetite's been a little bit lower these last couple of days as well But he hasn't had any like nausea or vomiting though Okay okay yeah that's good to know So because some of his symptoms overlap with those of COVID we will do a swab on him and you should hear back in about 24 to 48 hours with those results and he should isolate for 14 days",
+        "gt_chunk": "P: I forgot to mention is that just he doesn't really like his appetite's been a little bit lower couple of days as well. But uh, he hasn't had any, like nausea or vomiting though.\n\nD: OK, OK, yeah, that's good to know. Uhm, so because some of his symptoms overlap with those of Covid, we will do a swab on him and you should hear back in about 24 to 48 hours with those results and he should isolate for 14 days"
+    },
+    {
+        "whisper_chunk": "because of those symptoms And it doesn't it sounds more in keeping with the picture of community acquired pneumonia So for that we will get a chest X ray we'll check his oxygen and his temperature And if the chest X ray shows consolidation or some sort of infiltrate it is likely that he has pneumonia So",
+        "gt_chunk": "D: because of those symptoms. And it doesn't, it sounds more in keeping with the picture of community acquired pneumonia, so for that we will get a chest x-ray, we'll check his oxygen and his temperature and if the chest x-ray shows consolidation umm, or some sort of infiltrate, it is likely that he has pneumonia. So"
+    },
+    {
+        "whisper_chunk": "we will start by giving him some amoxicillin Clavulet or Cefuroxime for five days And just keep monitoring his symptoms They should resolve in about five days when the course of antibiotics is complete If his condition gets worse like he's getting neurological deficits like weakness or seizures just take him to the ER And if his symptoms don't resolve in five to seven days we can",
+        "gt_chunk": "D: we will start by giving him some amoxicillin populate or cefuroxime for five days, and just keep monitoring his symptoms. They should resolve in about 5 days when the course of antibiotics is complete. If his condition gets worse like he's getting neurological deficits like weakness or seizures, just take him to the ER. And if symptoms don't resolve in five to seven days, we can"
+    },
+    {
+        "whisper_chunk": "do further workup for things like fungal infections or TB or things like that How does that sound That sounds great thank you Okay yeah no problem",
+        "gt_chunk": "D: do further work up or things like fungal infections or TB, or things like that. How does that sound?\n\nP: That sounds great. Thank you.\n\nD: OK, yeah, no problem"
+    }
+]

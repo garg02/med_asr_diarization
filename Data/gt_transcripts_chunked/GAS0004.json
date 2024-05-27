@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "I understand that you've been having some diarrhea Can you tell me a little bit about that Yeah sure I had I've been having diarrhea for the past three to four days and it's been pretty bad I couldn't go I couldn't go to my classes I had to skip because it was just it was just embarrassing Okay I'm glad to hear that Have you ever experienced anything like this before Have I ever experienced something like this before",
+        "gt_chunk": "D: I understand that you've been having some diarrhea. Can you tell me a little bit about that?\n\nP: Yeah, sure I had, I've been having diarrhea for the past three to four days, and it's been pretty bad. I couldn't go, uh I couldn't go to my classes, had to skip because it was just it was just embarrassing.\n\nD: OK, I'm sorry to hear that. Uh, have you ever experienced something like this before? \n\nP: Um, have I experienced something like this before"
+    },
+    {
+        "whisper_chunk": "No I don't think so Okay And over those three or four days have your stools all been loose or have you had some solid ones in between I think they've mostly been loose I think they've all been loose actually if I think about it Okay and how many times a day have you been having episodes of diarrhea Oh my God I have I've lost count I'm going every hour Maybe Okay every hour Okay",
+        "gt_chunk": "P: no, I don't think so.\n\nD: OK. And over the three or four days, have your stools all been loose? Or have you had some solid ones in between?\n\nP: I think they've mostly been loose. I think they've all been loose actually, if I think about it.\n\nD: OK, and how many times a day have you been having episodes of diarrhea?\n\nP: Oh my god, I have I've lost count. I'm going every every hour.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And have you noticed any changes in the color of your stool No it's brown Okay Any blood in your stool that you've noticed Not really I don't think so I don't look that much to be honest Okay Have you noticed any pain associated with it Well I didn't start off with pain but I do have a bit of a cramp now since yesterday It's just it hurts yeah it hurts sometimes It comes and goes Okay And do you feel that",
+        "gt_chunk": "D: and then you notice any changes in the color of your stool?\n\nP: No, it's brown.\n\nD: OK. Any blood in your stool that you've noticed?\n\nP: Um not really. I don't think so. I don't look that much to be honest.\n\nD: OK, um have you noticed any any pain associated with it?\n\nP: Well, I didn't start off with pain, but I I I do have a bit of a cramp now since yesterday. It's just it hurts. Yeah, it hurts sometimes, it comes and goes.\n\nD: OK, and do you feel that"
+    },
+    {
+        "whisper_chunk": "when it do you feel that you still have control over like releasing it So like does it come on and you don't even notice that it has happened or you still are able to kind of have a warning before you get to the toilet No I do get a warning but it's just I do need to get to the toilet really fast Yeah yeah Okay And before this happened have you noticed have you is there anything that you've done differently that you've been",
+        "gt_chunk": "D: when it, do you feel that you still have control over like releasing it to like does it come on and you don't even notice that it has happened or you still are able to kind of have a warning before you get to the toilet?\n\nP: Uh no I do get a warning, but it's just I I do need to get to the toilet really fast, yeah.\n\nD: OK, and before this happened, have you noticed, have you, is there anything that you've done differently that you've been"
+    },
+    {
+        "whisper_chunk": "eating differently or any other changes that have happened in your life recently Um I I did go to I did go to a new restaurant five days ago Okay What did you have there Um I just got some rice with chicken chicken and durian It was a nice",
+        "gt_chunk": "D: eating differently, or any other changes that have happened in your life recently?\n\nP: Um, I I did go to um, I did go to a new restaurant 5 days ago.\n\nD: OK, what did you have there?\n\nP: Um  I I just got some rice with chicken Manchurian, it was a nice"
+    },
+    {
+        "whisper_chunk": "little Chinese restaurant And yeah Did anyone else have the same thing that you did that you were with Um I no not really I went with my friend and I haven't really I haven't talked to her about this Okay I never really thought that these were related that this was related to that And it's you know absolutely potentially not like it's maybe not it could possibly be So not to worry you about that we just like to get an",
+        "gt_chunk": "P: little Chinese restaurant, and yeah.\n\nD: Did anyone else have the same thing that you did that you were with?\n\nP: Um, no not really, I went with my friend and I haven't really, haven't talked to her about this. I never really thought that these were related, that this was related to that.\n\nD: And then it's, you know, absolutely, potentially not like, maybe not. It could possibly be so not to not to worry you about that. We just like to get an"
+    },
+    {
+        "whisper_chunk": "idea of kind of the whole picture of what you're coming in with So in terms of the last three to four days have you experienced any nausea or vomiting Yeah Yeah I have actually but it's not been as bad as the diarrhea I didn't even yeah I didn't I wasn't even thinking about that Yeah I did vomit I think twice yesterday Okay Have you noticed any blood in the vomit No it's just watery Okay And are you nauseated all the",
+        "gt_chunk": "D: idea of kind of the whole picture of what you're coming in with. So in terms of the last three to four days, have you experienced any nausea or vomiting?\n\nP: Yeah yeah, I have actually, but it's not been as bad as the diarrhea. I didn't even yeah, I didn't, I wasn't even thinking about that. Yeah, I I did vomit, I think twice yesterday.\n\nD: OK, have you noticed any blood in the vomit?\n\nP: No, it's just watery.\n\nD: And are you nauseated all the"
+    },
+    {
+        "whisper_chunk": "time or is it kind of on and off It's on and off Okay Have you taken any over the counter medicine or anything to help Not really I was just trying to drink a lot of water because I know that I can get dehydrated So just drinking lots of water Yeah that's great Okay well that's good to hear Have you been eating normally or have you",
+        "gt_chunk": "D: time, or is it kind of on and off? \n\nP: It's on and off.\n\nD: OK, have you taken any any over the counter medicine or anything to help?\n\nP: Uh, not really. I was just trying to drink a lot of water, 'cause I I know that I can get dehydrated so just drinking lots of water.\n\nD: OK, well that's good to hear. Have you have you been eating normally or have you"
+    },
+    {
+        "whisper_chunk": "not been eating as much as you regularly do I have been eating less especially since yesterday when I had when I did these abdominal cramps started I just don't feel like eating Okay Is there anything that has been making it worse Making what worse Just in general like is there anything that you're finding makes your nausea or your diarrhea come on Not really I don't think so Do you notice any changes to your urine or any",
+        "gt_chunk": "D: not been eating as much as you regularly do? \n\nP: I have been eating less specially since yesterday when I had my these abdominal cramps started. I just don't feel like eating.\n\nD: OK. Is there anything that has been making it worse?\n\nP: Making what worse?\n\nD: Just in general, like is there anything that you're finding makes your nausea or your diarrhea come on?\n\nP: Not really, I don't think so.\n\nD: Do you notice any changes to your urine or any"
+    },
+    {
+        "whisper_chunk": "discomfort when going to the bathroom No Have you traveled anywhere recently No Okay And have you noticed any fever or chills in the last few days I've just been feeling really tired and I don't know maybe I haven't checked my temperature Okay Have you noticed any rashes or changes in your skin No Have you noticed any major changes to your weight I know that you might not weigh",
+        "gt_chunk": "D: discomfort when going to the bathroom? \n\nP: No.\n\nD: Have you traveled anywhere recently?\n\nP: No.\n\nD: OK, and have you noticed any fever or chills in the last few days?\n\nP: Um, I've just been feeling really tired and and, I don't know, maybe I haven't checked my checked my temperature.\n\nD: OK. Have you noticed any rashes or changes in your skin? \n\nP: No.\n\nD: OK. Have you noticed any major changes to your weight, I know that you might not weigh"
+    },
+    {
+        "whisper_chunk": "yourself every day but anything that jumps out to you I actually haven't weighed myself in the past five days so I don't know Okay Okay I'm just going to jump to you and your general history Do you have any history of problems with your digestive system No Okay Do you have any chronic conditions that you see a family doctor for",
+        "gt_chunk": "D: yourself everyday, but anything that jumps out to you?\n\nP: I actually haven't weighed myself in the past five days, so I don't, I don't know.\n\nD: OK. OK, I'm I'm just gonna jump to you and your general history. Do you have any history of problems with your digestive system?\n\nP: No.\n\nD: OK. Do you have any chronic conditions that you see a family doctor for"
+    },
+    {
+        "whisper_chunk": "regularly I have asthma Okay Do you take any medications Yeah I've got some buffers that my family doc gave me Okay Nothing else No that's it Okay Do you have any allergies No I don't Okay Okay Have you ever been hospitalized in the past Sorry can you say that again Have you ever been hospitalized in the past I had my wisdom teeth removed but no I wasn't hospitalized no",
+        "gt_chunk": "D: regularly?\n\nP: I have asthma.\n\nD: OK. Do you take any medication?\n\nP: Yeah, I've got some puffers that my family doc gave me.\n\nD: OK. Nothing else?\n\nP: No, that's it.\n\nD: Do you have any allergies?\n\nP: Um, no I don't.\n\nD: Have you (unclear speech due to connection issues)?\n\nP: I'm sorry, can you say that again?\n\nD: Have you ever been hospitalized in the past?\n\nP: Um? I had my wisdom teeth removed. But no, I like I wasn't hospitalized, no"
+    },
+    {
+        "whisper_chunk": "Okay Have you been in contact with anyone recently that's been sick Nope I don't think so Okay Your living situation right now you said you're a student I am Okay and do you live on your own with family with roommates I live with two roommates Okay Do you drink alcohol Sometimes Okay how many drinks per week would you say",
+        "gt_chunk": "P: .\n\nD: Have you been in contact with anyone recently that's been sick?\n\nP: Nope, I don't think so.\n\nD: OK. What is your living situation right now? You said you're a student?\n\nP: I am.\n\nD: OK, and do you live, do you live on your own, with family, with roommates? \n\nP: I live with two roommates.\n\nD: Do you drink alcohol?\n\nP: Um, sometimes.\n\nD: OK, how how many drinks per week would you say"
+    },
+    {
+        "whisper_chunk": "I might have like a glass or two on the weekends Okay Do you smoke No Okay do you use any other substances Nope Okay And what would you eat on a regular day Typical your typical diet be Oh gosh Well I like to have oatmeal for breakfast I usually make something quick for lunch maybe like a salad and then I might have I'll probably just",
+        "gt_chunk": "P: I might have like a glass or two on the weekends.\n\nD: OK, do you smoke?\n\nP: No.\n\nD: OK, do you use any other substances? \n\nP: No.\n\nD: OK, and what would you eat on a regular day typically, what would your typical diet be?\n\nP: Oh gosh, um well, I like to have oatmeal for breakfast. I usually make something quick for lunch, maybe like a salad, and then I might have my, I'll probably just"
+    },
+    {
+        "whisper_chunk": "like eat out at night maybe get like a burger or fries or something Okay cool And I just wanted to jump over to ask you about your family history Does anyone in your family have any history of digestive problems or abdominal problems abdominal surgeries My brother had appendicitis When he was young My mom has had a hysterectomy",
+        "gt_chunk": "P: like eat out at night, maybe get like a burger or fries or something.\n\nD: OK. Well, and I just wanted to jump over to ask you about your family history. Does anyone in your family have any history of digestive problems, or um abdominal problems, abdominal surgery?\n\nP: My brother had appendicitis when he was young. Um, my mom has had a hysterectomy"
+    },
+    {
+        "whisper_chunk": "if that counts Okay Yeah nothing else Okay Okay thank you for sharing that with me So I think that's everything that I wanted to ask you for today",
+        "gt_chunk": "P: if that counts. Yeah, nothing else.\n\nD: OK. OK, thank you for sharing that with me. So I think that's everything that I wanted to ask you for today"
+    }
+]

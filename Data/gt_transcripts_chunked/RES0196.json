@@ -1,0 +1,58 @@
+[
+    {
+        "whisper_chunk": "what brings you here today Yeah so I brought in my daughter she's eight years old So recently she's been telling me she's having a lot of ear pain and she's had a fever for the past two days as well We checked her temperature at home it was 38 8 and so we're just here to see if we can get some antibiotics for it Okay and has this happened before at all She's had some ear infections on and off since",
+        "gt_chunk": "D: What brings in you here today?\n\nP: Yes, I brought in my daughter. She's 8 years old. So recently she's been telling me she's having a lot of ear pain. And she's had a fever for the past two days as well. We checked her temperature at home. It was 38.8. And so we're just here to see if we can get some antibiotics for it.\n\nD: OK, um and has this happened before at all?\n\nP: She's had some ear infections on and off since"
+    },
+    {
+        "whisper_chunk": "she was like two Okay and has she required antibiotics Yes Okay when was her last ear infection do you remember It was actually last year when she was seven Okay and so is it just one ear that she's having the pain or is it both It's one ear Okay and which which year is it It's the right ear Right ear and when did you notice that she started having this pain I noticed it like three days",
+        "gt_chunk": "P: she was like uh 2.\n\nD: OK, then has she required antibiotics? \n\nP: Yes.\n\nD: OK, when was their last ear infection? Do you remember? \n\nP: It was actually last year when she was seven?\n\nD: OK, and so is it just one ear that she's having the pain? Or is it both?\n\nP: It's one ear. \n\nD: OK. In which which ear is it?\n\nP: It's the right ear, \n\nD: Right ear. And when did you notice that she started having this pain?\n\nP: Um I noticed it like 3 days"
+    },
+    {
+        "whisper_chunk": "ago Three days ago and was she irritable like or was she kind of tugging her ears in pain or how how would you describe it Yeah she basically well she told me she's been having some ear pain and yeah she's been pulling at it and you know she's tried like mineral oil and things like that to see if she can unblock it but I looked in there it doesn't seem like she has a lot",
+        "gt_chunk": "P: ago.\n\nD: Three days ago, OK. Was she irritable, like or was he kind of tugging her ears in pain? Or how? How would you describe it?\n\nP: Yeah, she basically, while she told me she's been having some ear pain. And yeah, she's been pulling at it. And you know she's tried like mineral oil and things like that to see if she can unblock it but I I looked in there, it doesn't seem like there's a lot"
+    },
+    {
+        "whisper_chunk": "of wax in there Has it been so painful that she has been crying at all Yeah she's cried a few times Okay have you noticed any kind of drainage coming out of her ears any fluids Uh no I didn't notice that Okay any fevers or chills Yeah she's had a fever for the past two days Past two days okay did you get a chance to measure it at all Uh 38 8 38 8 okay okay has she had any other symptoms",
+        "gt_chunk": "P: of wax in there. Um yeah.\n\nD: Um has it been so painful that she has been crying at all?\n\nP: Yeah, she's cried a few times. \n\nD: OK, have you noticed any kind of drainage coming out of her ears? Any fluids? \n\nP: No, I didn't notice that.\n\nD: Um, any fevers or chills?\n\nP: Yeah, she's had a fever for the past two days.\n\nD: Past 2 days. OK, did you get a chance to measure it at all?\n\nP: Uh 38.8. \n\nD: 38.8 OK. OK, and she had any other symptoms"
+    },
+    {
+        "whisper_chunk": "recently like a cough runny nose sore throat any viral or cold like symptoms No not that I've noticed Okay and has she had any headaches No headaches Okay any recent travel or contact with anyone who has been sick Um no No any nausea or vomiting Uh no Any changes in her bowel movements Uh nope Okay um any uh fatigue",
+        "gt_chunk": "D: recently like a cough, runny nose, sore throat, any viral or cold like symptoms?\n\nP: No, not that I've noticed.\n\nD: OK, um. And she had any headaches?.\n\nP: No headaches.\n\nD: OK. Any recent travel or contact with anyone who's been sick?\n\nP: Um no.\n\nD: No, any nausea or vomiting? \n\nP: Uh No.\n\nD: Any changes in her bowel movements?\n\nP: Uh nope.\n\nD: OK. And any fatigue"
+    },
+    {
+        "whisper_chunk": "or just feeling very um tired Uh she's been pretty tired Okay um has she had to miss any school or anything like that Uh yeah she hasn't gone to school for um and any medical conditions that she's been diagnosed with in the past Um no she's been pretty healthy besides",
+        "gt_chunk": "D: or just feeling very tired?\n\nP: Uh she's been pretty tired. \n\nD: Has she had to miss any school or anything like that?\n\nP: Yeah, she wasn't going to school for the past three days.\n\nD: OK. And any issues that are sleep or appetite? \n\nP: No.\n\nD: OK. And any medical conditions that she's been diagnosed with in the past.\n\nP: No, she's been pretty healthy. Besides"
+    },
+    {
+        "whisper_chunk": "the recurrent ear infections Okay has her hearing been affected at all Uh not that I've noticed Okay um and you mentioned it's recurring has she had to see an ear nose and throat specialist So when she was younger when she was like four she saw one but then she hadn't had an ear infection between the age of four to seven so",
+        "gt_chunk": "P: the recurrent ear infections.\n\nD: OK, has her hearing been affected at all?\n\nP: Not that I've noticed. \n\nD: OK. And you mentioned it's recurring how she ever had to see an ear, nose and throat specialist?\n\nP: So when she was younger, when she was like 4 she saw one, but then she hadn't had an ear infection between the age of 4 to 7 so"
+    },
+    {
+        "whisper_chunk": "we didn't go back to them after Okay and has she ever had um the tubes put into her ears or we never ended up doing that Okay okay um any medications that she takes regularly Uh no just multivitamins Okay um any allergies No Okay um any uh um so no sick contacts at",
+        "gt_chunk": "P: we didn't go back to them.\n\nD: OK yeah. \n\nP: After.\n\nD: OK. And if she ever had tubes put into your ears or anything like that?\n\nP: Uh no they were. They were talking about it, but we never ended up doing that.\n\nD: OK, OK. Any medications that she takes everyday?\n\nP: Uh no just multivitamins.\n\nD: OK. Any allergies? \n\nP: No. \n\nD: OK. Any? Contacts at"
+    },
+    {
+        "whisper_chunk": "all any hospitalizations or surgeries in the past No Um how about her birth uh was it a vaginal delivery or a c section I was vaginal Okay and was she premature or at term She was at term Okay any complications at all during uh your pregnancy with her Uh no no Okay um after she was born um did she have to stay in the NICU or any complications afterwards No she was",
+        "gt_chunk": "D: all. Any hospitalizations or surgeries in the past? \n\nP: No. \n\nD: How about her birth?  Was it a vaginal delivery or C-section?\n\nP: It was vaginal.\n\nD: And was she premature or at term choose that term? \n\nP: She was at term.\n\nD: Any complications at all during your pregnancy with her?\n\nP: No no. \n\nD: OK, after she was born, does she have to stay in an ICU or any complications afterwards?\n\nP: No, she was"
+    },
+    {
+        "whisper_chunk": "healthy Okay that's good and um in terms of her development throughout the years any issues with um her growth learning or anything like that Uh no she's been pretty good with So is she doing online school or is she doing in person Uh she's going in person Okay and uh how",
+        "gt_chunk": "P: healthy.\n\nD: OK. That's good, and in terms of her development throughout the years, any issues with her growth, learning or anything like that?\n\nP: Uh no she's been pretty good with hitting all those milestones.\n\nD: OK, alright, and currently right now. So is she doing online school or she doing in person?\n\nP: Ah she is going in person. \n\nD: OK, and how"
+    },
+    {
+        "whisper_chunk": "about her living situation currently I was at home with myself um her father and her younger sibling Okay um and uh anyone smoke in the house at all No No okay um all right so those are all the questions I had for um her today so definitely since there is a risk that she might be having another ear infection",
+        "gt_chunk": "D: about her living situation currently?\n\nP: Ah should also at home with myself from her father and her younger sibling. \n\nD: OK. Uh, and uh? Any, anyone smoke in the house at all?\n\nP: No. \n\nD: No. OK. Alright, so those are all the questions I had for her today, so definitely since there is a risk that she might be having another ear infection"
+    },
+    {
+        "whisper_chunk": "we will need to do like a full physical examination I'll have to look into her ear to see if I see any inflammation or perforation and then based on that we'll discuss some management She may require some antibiotics like she has had before but that'll depend on what I see on physical examination She has been having a fever so she might and it's only been three days right so",
+        "gt_chunk": "D: we will need to do like a full physical examination. I'll have to look into her ear to see if I see any inflammation or perforation and then based on that we'll discuss some management. She may require some antibiotics like she has had before, but that will depend on what. I see on physical examination she has been having a fever so she might. And it's only been three days, right? So"
+    },
+    {
+        "whisper_chunk": "we may even do some conservative management and get her to take some maybe pain medications and then go from there or ear drops Okay But yeah so we'll do the examination and then go from there She since she has besides the fever and the ear pain she's not really having any other symptoms so I don't think she needs to get tested for COVID right now but that's something we can consider as well if she develops other symptoms Okay that",
+        "gt_chunk": "D: we may even do some conservative management and get her to take some maybe pain medications and then go from there. Or ear drops. \n\nP: OK.\n\nD: Uh, but yeah, so we'll do the examination and then go from there. She said she has, besides the fever and that your pain she's not really having any other symptoms so? I don't think she needs to get tested for Covid right now, but that's something we can consider as well if she develops other symptoms.\n\nP: OK, that"
+    },
+    {
+        "whisper_chunk": "sounds great thank you You're welcome take care You too",
+        "gt_chunk": "P: sounds great. Thank you. \n\nD: Your Welcome. Take care \n\nP: You too"
+    }
+]

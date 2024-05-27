@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "It's nice to meet you What's your name It's nice to meet you as well My name is Jim and I'm here with my son Joey here He's had a sore throat now for the last couple of days Okay How old is he Joey He is three years old He's three years old Okay And you said for the past couple of days so about two three days Yeah probably Yeah about three days ago He didn't go to school for the last two days",
+        "gt_chunk": "D: It's nice to meet you. What's your name? \n\nP: It's nice to meet you as well. My name is Jenn and I'm here with my son Joey here, who he's had a sore throat now for the last couple of days. \n\nD: OK, how old is he, Joey? \n\nP: Uh, he is 3 years old. \n\nD: He's three years old, OK. And you said for the past couple days, so about 2-3 days?\n\nP: Yeah, probably yeah about 3 days ago he he didn't go to school for the last two days"
+    },
+    {
+        "whisper_chunk": "because or I mean daycare I should say because the pains was bugging him so bad Okay Yeah So how long has he been going to daycare for He started this year so he's been going for about six months Okay Is he having issues swallowing food Does it hurt when he swallows food Yeah he's definitely the last couple of days hasn't been eating as much solid food",
+        "gt_chunk": "P: because, or I mean daycare I should say because the pains but was bugging him so bad.\n\nD: OK, yeah um. So how long has he been going to daycare for?\n\nP: He started this year, so, um, he's been going for about six months. \n\nD: OK? Is he having issues swallowing food? Does it hurt when he swallows food?\n\nP: Yeah, he's, uh, he's definitely the last couple of days hasn't been eating as much like solid food"
+    },
+    {
+        "whisper_chunk": "He's drinking cold liquids okay but yeah he hasn't been eating as much Okay Okay He does say it hurts to swallow as well Okay And does he ever clutch to his neck like his neck hurts No he hasn't said anything like that nothing about his neck Okay Have you taken his temperature at all Yeah we did and it's pretty high actually It was",
+        "gt_chunk": "P: He's drinking cold liquids okay but yeah, he hasn't been eating as much. \n\nD: OK. \n\nP: He says it's hard to. He does say it hurts to swallow as well.\n\nD: OK, and does does he ever clutch to his neck like his neck hurts?\n\nP: No, he hasn't said anything like that. I mean nothing about his neck. \n\nD: OK, um, have you taken his temperature at all?\n\nP: Yeah we did and it's uh, it's pretty high actually, it was"
+    },
+    {
+        "whisper_chunk": "like 39 4 Okay wow yeah that's pretty high Have you noticed any swollen areas on his neck No I haven't noticed anything on his neck Okay Any rashes that you've noticed No rashes No okay And has he been having chills or night sweats Nothing like that that we've noticed no shaking or sweaty bed Okay And how about like a stuffy nose",
+        "gt_chunk": "P: like 39.4. \n\nD: OK wow, yeah that's pretty high. Have you noticed any swollen areas on his neck?\n\nP: No, not I haven't noticed anything on his neck. \n\nD: OK, any rashes that you've noticed? \n\nP: No rashes.\n\nD: No, OK. And has he been having chills or night sweats? \n\nP: Um, nothing like that that we've noticed, no shaking or or sweaty bed.\n\nD: OK, and how about like a stuffy nose"
+    },
+    {
+        "whisper_chunk": "or runny nose No nothing like that Okay And coughing No cough No And how about is he complaining of any body aches No it's mostly just been his throat that he's complaining about Okay How about headaches He hasn't mentioned anything with his head Okay And has he been around anyone who's been sick maybe at his daycare I mean his sister has had",
+        "gt_chunk": "D: or runny nose?\n\nP: Uh, no, nothing like that. \n\nD: OK, and coughing? \n\nP: No cough. \n\nD: No, and how about is he complaining of any body aches?\n\nP: No, it's mostly just been is his throat his throat that he's complaining about.\n\nD: OK, how about headaches?\n\nP: Uh, He hasn't mentioned anything with his head. \n\nD: OK, and has he been around anyone who's been sick?  Maybe at his daycare? \n\nP: I, I mean, his sister has had"
+    },
+    {
+        "whisper_chunk": "some colds She's also in his daycare So I mean maybe her Okay How old is she She's two She's two Okay so she's younger Yeah Okay Any nausea or No vomiting Okay How about diarrhea constipation Haven't noticed anything like that His bowel movements have been normal How about urinating Has that been normal His usual amount",
+        "gt_chunk": "P: some colds. She's also in his daycare. So I mean, maybe her.\n\nD: OK, how old is she?\n\nP: Um she's 2.\n\nD: She's two. OK, so she's younger.\n\nP: Yeah.\n\nD: OK, any nausea or vomiting? \n\nP: Ah no vomiting.\n\nD: OK, how about um, diarrhea, constipation?\n\nP: Haven't noticed anything like that, his his bowel movements have been normal.\n\nD: How about urinating, has that been normal?\n\nP: His usual amount"
+    },
+    {
+        "whisper_chunk": "as far as I know Okay Okay Any issues with his eyes Any like pus or bleeding or redness No his eyes have looked normal to me Okay How about his ears Those have also been normal Okay Any sores on his mouth or inside No it does kind of look like it's pretty red in the back of his throat when I was able to look But",
+        "gt_chunk": "P: as far as I know.\n\nD: OK. And OK, any issues with his eyes? Any like pus or bleeding or redness? \n\nP: No, his eyes of have looked normal to me. \n\nD: OK, how about his ears?\n\nP: Those have also been normal. \n\nD: OK, any sores on his mouth or inside?\n\nP: Um no, it does kinda look like there. It's pretty red in the back of his throat when I was able to look, but"
+    },
+    {
+        "whisper_chunk": "yeah Okay And has he ever experienced any of these symptoms before He's had sore throats before but I think this one is a bit more severe He hasn't complained this bad before Okay Okay Has he tried anything for it Have you given him any over the counter medications Yeah we did use some Tylenol and it brought the fever down So that was part of the reason",
+        "gt_chunk": "P: yeah.\n\nD: OK, and has he ever experienced any of these symptoms before?\n\nP: Um, he's had sore throats before, but I think this one is a bit more severe. He hasn't complained this bad before. \n\nD: OK, OK. Um has he tried anything for it? Have you given him any over the counter medications?\n\nP: Yeah, we we did use some Tylenol and it brought the fever down so that was part of the reason"
+    },
+    {
+        "whisper_chunk": "why we didn't come in because he's had sore throats before But the fever bounced back and the pain seems to have continued so we came in Okay And is he otherwise healthy Does he have any medical conditions Yeah he's otherwise healthy No medical conditions Hasn't had a reason to see a doctor before No Okay And then just how was your pregnancy",
+        "gt_chunk": "P: why we we didn't come in 'cause he's had sore throats before but the fever bounced back and and the pain seems to have continued so we came in. \n\nD: Ok, OK. And is he otherwise healthy? Does he have any medical conditions?\n\nP: Uh, yeah, he's otherwise healthy no medical conditions, um hasn't been, had a reason to see a doctor before. \n\nD: No, OK. And then just how was pregnancy"
+    },
+    {
+        "whisper_chunk": "with him Was it normal Any complications Yeah so had gestational diabetes but it was treated with diet and blood sugars have been fine now But no complications to the pregnancy from that regard as far as I know Okay Any alcohol or recreational drugs used during the pregnancy No nothing like that No smoking either Okay Okay",
+        "gt_chunk": "D: with him? Was it normal? Any complications?\n\nP: Um yeah there, so had um gestational diabetes, but it was treated, it was treated with diet. Um and blood sugars have been fine now, but no complications to the pregnancy from that regard as far as I know.\n\nD: OK, any alcohol or recreational drugs used during the pregnancy?\n\nP: No, nothing like that. No. No smoking either. \n\nD: OK, OK"
+    },
+    {
+        "whisper_chunk": "good And how far along were you when you delivered him It was a vaginal delivery just after 38 weeks Okay so he was full term And you said vaginal delivery Did they have to induce you at all No No Okay And was he a normal birth weight Yeah he was Yeah I think he was just over three kilograms Okay good And",
+        "gt_chunk": "D: good um and how far along were you when when you delivered him?\n\nP: Um it was a vaginal delivery just after 38 weeks. OK so he was full term.\n\nD: And you said vaginal delivery? Did they have to induce you at all? \n\nP: Um no no. \n\nD: OK and was he a normal birth weight? \n\nP: Yeah he was. Yeah, I think he was like just over 3 kilograms.\n\nD: OK, good and"
+    },
+    {
+        "whisper_chunk": "was he healthy after birth Did he have any breathing issues jaundice anything like that No breathing issues or jaundice He came home with us right away Okay okay And then after that point to now has he been normal in terms of his weight height head circumference Yeah yeah he's been growing normally and eating well",
+        "gt_chunk": "D: was he healthy after birth? Did he have any breathing issues? Jaundice? Anything like that? \n\nP: Um, no breathing issues or or jaundice. He came home with us right away.\n\nD: OK, OK and then after that point to now has he been normal in terms of his weight, height, head circumference? \n\nP: Yeah yeah. He's been growing normally and eating well"
+    },
+    {
+        "whisper_chunk": "up to this point Okay And I should ask has he been hitting all his milestones Like is he doing the things that his peers are doing Yeah I would say he's keeping up with his peers in daycare and no concerns with his development Okay good Is he on any medications No medications No Okay And is he up to date with all his immunizations He is yes Okay And any",
+        "gt_chunk": "P: up to this point. \n\nD: OK, and I should ask um has he been hitting all his milestones like, is he doing the things that his peers are doing?\n\nP: Yeah, I would say he's keeping up with his his peers in daycare and no concerns with his development. \n\nD: OK, good. Is he on any medications? \n\nP: No medications.\n\nD: No. OK, and is he up to date with all his immunizations?\n\nP: He is yes. \n\nD: OK, and any"
+    },
+    {
+        "whisper_chunk": "allergies Not that we're aware of Okay Any family history of lung conditions No no family history of any lung conditions Okay And so who does he live with at home So he lives with myself and his father and then sister So there's just the four of us at home",
+        "gt_chunk": "D: allergies?\n\nP: Not that we're aware of.\n\nD: OK, any family history of lung conditions?\n\nP: Um no, no family history of any lung conditions. \n\nD: OK. And So who does, who does he live with at home?\n\nP: So he lives with my myself, and his father and then sister. So there's just the four of us at home"
+    },
+    {
+        "whisper_chunk": "Okay And what's the relationship like between all of you Any domestic issues or are things okay Oh things are great at home It's a really supportive environment Okay good And does anyone smoke at home No one smokes at home No Okay Any carpets at home Old carpets I think there's a few area rugs around but most of the carpets are gone Okay Okay",
+        "gt_chunk": "D: and what's the relationship like between all of you? Any domestic issues? Or are things OK?\n\nP: Oh, things are are great at home. It's a really supportive environment. \n\nD: OK, good and does anyone smoke at home?\n\nP: No one smokes at home. \n\nD: No, OK. Um, any carpets at home? Old carpets?\n\nP: I think there's there's a few area rugs around, but most of the carpets are gone. \n\nD: OK, OK"
+    },
+    {
+        "whisper_chunk": "All right So it sounds like from what you're telling me he Oh sorry I should have asked you this earlier Has he had any issues breathing No problems breathing but his voice does sound a bit a little bit off a bit husky A bit husky Okay All right And nothing like a seizure like a febrile seizure right No I haven't seen any like limb jerking or anything like that Okay So",
+        "gt_chunk": "D: alright, so it sounds like, um grom what you're telling me, he ohh sorry, I should have asked you this earlier. Has he had any issues breathing?\n\nP: Um no problems breathing, but his voice does sound a bit, a little bit off. A bit Husky. \n\nD: A bit Husky, OK. Um alright and nothing like a seizure like a febrile seizure, right?\n\nP: No, I haven't seen any like limb jerking or anything like that.\n\nD: OK, so"
+    },
+    {
+        "whisper_chunk": "just roughly doing from the sounds of it it sounds like he has a sore throat that's been persistent And we do this thing called a Centaur score So it sounds like he's had a fever no cough sore throat So the first thing that we'd want to check to see or to rule out would be a strep throat And then well if that comes back negative we'll go from there and think",
+        "gt_chunk": "D: just roughly doing from the sounds of it, it sounds like he has a sore throat that's been persistent and we do this thing called the Centor score. So it sounds like he's had a fever, no cough, a sore throat. So the first thing that we want to check to see or to rule out would be a strep throat and then well if that comes back negative we will go from there and think"
+    },
+    {
+        "whisper_chunk": "about other viral causes for a strep throat as well Did you have any questions or anything that I missed that you wanted to discuss today No we were thinking that it could be maybe strep throat So yeah thank you Okay great Thank you",
+        "gt_chunk": "D: about other viral causes versus strep throat as well. \n\nD: Did you have any questions or anything that I missed that you wanted to discuss today?\n\nP: Um, no. We were thinking that it could be, uh, maybe strep throat. So um, yeah, thank you.\n\nD: OK, great, thank you"
+    }
+]

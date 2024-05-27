@@ -1,0 +1,74 @@
+[
+    {
+        "whisper_chunk": "brings you in Hi there I've had this cough that started three days ago and over these past couple of days I've just been really achy all over and I've had a headache as well Okay well I'm sorry to hear that you're not feeling well The cough when did that start Yeah so about three or four days ago it started to come on yeah And then how about the headache That's been more",
+        "gt_chunk": "D: brings you in?\n\nP: Hi there, I, I've had this cough that started um, three days ago, and over these past couple of days, I've just been really achy all over and so, I've had a headache as well.\n\nD: Okay, well I'm sorry to hear that you're not feeling well. Um, the cough, when did that start?\n\nP: Yeah, so that, about three or four days ago um, it started to come on, yeah.\n\nD: Okay, and then how about the headache?\n\nP: That's been more"
+    },
+    {
+        "whisper_chunk": "in the last two days Two days okay and then the muscle ache Yeah it's been there about two or three days I wake up in the morning and been feeling like really fatigued and achy The cough is it dry or are you bringing up phlegm It's dry but it's gotten a little bit worse since it started It's just been happening more often Okay and does it sound harsh Maybe a little bit",
+        "gt_chunk": "P: in the last two days.\n\nD: Two days, okay, and then the uh, muscle ache?\n\nP: Yeah, it's been there for about two, yeah about two or three days. I wake up in the morning and I've been feeling like really fatigued and achy.\n\nD: Um, the cough, is it dry or you're bringing up phlegm?\n\nP: It's, it's dry, but it's gotten a little bit worse since it started. It's just been happening more often.\n\nD: Okay, and does it sound harsh?\n\nP: Uh, maybe a little bit"
+    },
+    {
+        "whisper_chunk": "yeah Okay is it getting worse do you think Yeah I think so Okay are you experiencing any shortness of breath along with the cough A little bit after if I have a coughing fit that's bad enough but for the most part I've been okay Okay any wheeziness No No Chest pain No Okay do you ever feel like your heart's racing No I haven't felt like",
+        "gt_chunk": "P: yeah.\n\nD: Okay. Is it getting worse do you think? \n\nP: Yeah, I think so.\n\nD: Okay, are you experiencing any shortness of breath along with the cough?\n\nP: Uh, a little bit after, um, if I have like a coughing fit that's bad enough, but um, for the most part, I've been okay.\n\nD: Okay, any wheeziness? \n\nP: Um, no.\n\nD: No. Chest pain? \n\nP: No.\n\nD: Okay. Do you ever feel like your heart's racing?\n\nP: No, I haven't felt like"
+    },
+    {
+        "whisper_chunk": "that Okay any dizziness or fainting spells No Numbness or tingling No Confusion or memory loss No This it's been there It's been a little bit more mild after using some Tylenol or Advil to help settle it down but just have this",
+        "gt_chunk": "P: that.\n\nD: Okay. Um, any dizziness or fainting spells?\n\nP: No. \n\nD: Uh, numbness or tingling?\n\nP: No.\n\nD: Uh confusion or memory loss?\n\nP: No.\n\nD: This headache, is it always there?\n\nP: These past couple of days, yeah, it's kind of, it, it's been there. It's been a little bit more mild after using some Tylenol or Advil to help settle it down, but I just have this"
+    },
+    {
+        "whisper_chunk": "achiness in the front of my forehead and kind of sides of my head Yeah that's over your head Okay and one to ten ten being the worst pain you've ever felt how would you rate it A four Okay so it's not the worst headache you've ever had in your life No it's not that bad it's just been pretty annoying Yeah okay and",
+        "gt_chunk": "P: achiness in the front, front of my forehead and kind of sides of my head.\n\nD: Yeah um, sides of your head, okay. And 1 to 10, 10 being the worst pain you've ever felt, how, how would you rate it?\n\nP: A 4.\n\nD: A 4 okay, so it's not the worst headache you've ever had in your life?\n\nP: No, it's not that bad, it's just been pretty annoying.\n\nD: Yeah um, okay. And"
+    },
+    {
+        "whisper_chunk": "have you like do you usually get headaches Not really it yeah I don't get them that often I guess they come when I get sick Okay yeah that makes sense and have you had any fevers recently I have felt a bit hot and but I didn't check",
+        "gt_chunk": "D: have you like, do you usually get headaches?\n\nP: Not really it, yeah I don't get them that often. I guess they come when I, I, well, get sick.\n\nD: Okay yeah, that makes sense. Um, have you had any fevers recently?\n\nP: Um, I have felt a bit hot um, and, but I, I didn't check"
+    },
+    {
+        "whisper_chunk": "my weight loss Have you experienced any weight loss recently No I've been my weight's been pretty stable Okay any rashes No I haven't noticed any rashes Okay and any changes in your hearing or vision No Runny nose or stuffy nose",
+        "gt_chunk": "D:  weight loss, have you experienced any weight loss recently? \n\nP: No, I've been, my weight's been pretty stable.\n\nD: Okay. Um, any rashes? \n\nP: No, I haven't noticed any rashes. \n\nD: Okay, um, and any changes in your hearing or vision?\n\nP: No.\n\nD: Runny nose or stuffy nose"
+    },
+    {
+        "whisper_chunk": "No Sore throat Yeah now that you mention it I have had a little bit of a sore throat as well it hasn't been too painful with like swallowing foods or anything like that it's kind of worse in the morning and it's not so bad later on Okay and all right how about changes in your smell or taste No nothing like that No and changes in your bowel movements No I've been regular Okay",
+        "gt_chunk": "P: No.\n\nD: Sore throat?\n\nP: Um, yeah, now that you mention it, I have had a little bit of a sore throat as well. Hasn't been too painful with um, like swallowing uh, foods or anything like that. It's kind of worse in the morning and it's not so bad later on. \n\nD: Okay um, alright. How about changes in your smell or taste?\n\nP: No, nothing like that.\n\nD: Um, changes in your bowel movements?\n\nP: No, I've been uh, regular. \n\nD: Okay"
+    },
+    {
+        "whisper_chunk": "and and then nausea or vomiting Nope I haven't had anything like that Okay changes in your urine No I've had UTIs like one or two in the past so I know what that's like so yeah everything's been normal Okay good and are you otherwise healthy or do you have any long standing medical conditions I have asthma which I look like asthma",
+        "gt_chunk": "D: , and then nausea or vomiting?\n\nP: Nope, I haven't had anything like that.\n\nD: Okay um, changes in your urine?\n\nP: No, I've had UTIs, like one or two in the past, um, so I know what that's like. So yeah, everything's been normal.\n\nD: Okay, good. And are you otherwise healthy or do you have any longstanding medical conditions? \n\nP: Uh, I have asthma, which I will like, asthma"
+    },
+    {
+        "whisper_chunk": "and allergies and I'll use just Ventolin for that every like once in a while but it hasn't bugged me too frequently Okay do you also take anything else for that asthma or is it just the Ventolin that in the past No I've had my wisdom teeth taken out and",
+        "gt_chunk": "P: and allergies, and I'll use um, just Ventolin for that every like once in awhile, but it hasn't bugged me too frequently.\n\nD: Okay. Um, do you also take anything else for that asthma or is it just the Ventolin that use?\n\nP: Yeah just"
+    },
+    {
+        "whisper_chunk": "actually I had my tonsils out as well when I was 12 Okay are you on any medications besides Ventolin Yeah I currently I take a birth control Okay how long have you been on that for Since high school so I yeah since I was 18 so eight years Okay and are you up to date with all your immunizations I am yeah I get the flu shot every year Okay okay good any allergies Yeah to",
+        "gt_chunk": "P: actually yeah I had my tonsils out as well when I was 12.\n\nD: Okay. Um, are you on any medications besides Ventolin?\n\nP: Yeah I, I currently, I think a birth control.\n\nD: Okay, how long have you been on that for?\n\nP: Uh, since high school, so I, yeah since I was 18 so eight years.\n\nD: Okay, and um, are you up to date with all your immunizations?\n\nP: I am, yeah. I get the flu shot every year.\n\nD: Okay, okay, good. Any allergies?\n\nP: Uh yeah, to"
+    },
+    {
+        "whisper_chunk": "cats and like I think environmental triggers no medicines Okay no medicines Okay any family history of lung or heart diseases My grandfather had had a stroke when he was in his 70s and but he was a smoker and drinker and didn't really look after himself very well unfortunately and but",
+        "gt_chunk": "P: cats and um, like, I think environmental triggers. No medicines.\n\nD: No medicines, okay. Any family history of lung or heart diseases?\n\nP: Um, my grandfather had, had a stroke when he was in his 70s and um, but he was like, a smoker and a drinker, and didn't really look after himself very well unfortunately, and uh"
+    },
+    {
+        "whisper_chunk": "that's about it Okay and do you smoke No I don't No okay any other recreational drugs like marijuana cocaine heroin anything like that No I don't use anything like that Okay how about alcohol do you drink Yeah sometimes I'll have I don't know maybe a cocktail on the weekend or a glass of wine Okay are you currently sexually active I am yeah with with my boyfriend",
+        "gt_chunk": "P: that's about it.\n\nD: Okay, um and do you smoke?\n\nP: No, I don't \n\nD: No, okay. Any other recreational drugs like marijuana, cocaine, heroin or anything like that?\n\nP: No, I don't use anything like that.\n\nD: Okay. How about um, alcohol, do you drink?\n\nP: Yeah, sometimes, I'll have a or maybe a cocktail on the weekend, or um, a glass of wine with dinners.\n\nD: Okay. Are you currently sexually active?\n\nP: I am, yeah with uh, with my boyfriend"
+    },
+    {
+        "whisper_chunk": "we use condoms as well Okay so you use both condoms and you're on birth control so okay good that's a lot of protection How long have you two been together Six months Okay okay good and any sick contacts recently Not that I'm aware of No okay any travel recently Nope just been",
+        "gt_chunk": "P: we use uh, condoms as well.\n\nD: Okay, so you use both condoms and you're on birth control so, okay good, that's a lot of protection. Um, how long have you two been together?\n\nP: Um, uh six months. \n\nD: Okay, okay, good. And um, any sick contacts recently?\n\nP: Um, not that I'm aware of.\n\nD: No, okay. Any travel recently?\n\nP: Nope, just been"
+    },
+    {
+        "whisper_chunk": "going to or just been doing online classes I'm finishing up my master's right now Okay okay wow congrats and where do you live and who do you live with Yeah so I live in an apartment downtown here just with one of one of my friends who's a roommate Okay and is everyone at home healthy Yeah she hasn't had any any",
+        "gt_chunk": "P: going to, or just been doing online uh, classes. I'm finishing up my masters right now.\n\nD: Okay, okay wow, congrats. \n\nP: Thank you.\n\nD: Um, and where do you live and who do you live with?\n\nP: Yeah, so I live in an apartment downtown here um, just with uh one of, one of my friends who's a roommate. \n\nD: Okay, and is everyone at home healthy?\n\nP: Yeah, she hasn't had any any"
+    },
+    {
+        "whisper_chunk": "symptoms that any symptoms either Okay okay well those are all the questions that I had for you did you have any questions or anything that you wanted to bring up that I haven't covered No that's it I was just I mean concerned about COVID after I've hearing about this new variant and stuff on the news so a little bit worried Yeah for sure we will definitely take",
+        "gt_chunk": "P: symptoms, any symptoms either. \n\nD: Okay. Okay, well those were all the questions that I had for you. Did you have any questions um, or anything that you wanted to bring up that I haven't covered?\n\nP: No, that's it. I was just uh, I mean concerned about COVID. I've been hearing about this new variant and stuff on the news so, a little bit worried. \n\nD: Yeah for sure. We will definitely um, take"
+    },
+    {
+        "whisper_chunk": "a swab from you today and we'll see what the results are you should hear back in about 24 to 48 hours but in the meantime you should self isolate for 14 days and if it's not COVID if that comes that negative and yeah some of your symptoms also sound like other typical viral symptoms so you could have one of the common strains that's going around this time of year so for that",
+        "gt_chunk": "D: a swab from you today and we'll see um, what the results are. You should hear back in about 24 to 48 hours, but in the meantime you should self isolate for 14 days um, and if it's not COVID, if that comes back negative, and um yeah, some of your symptoms also sound like other typical viral symptoms, so you could have one of the common strains that's going around this time of year. So for that"
+    },
+    {
+        "whisper_chunk": "just it's you should just do some supportive care you know staying hydrated eating well and if your symptoms become worse you're really high fever you have any neurological symptoms like weakness or seizures then you should seek help from the ER How does that sound That sounds good thank you Okay great thank you",
+        "gt_chunk": "D: just, it's um, you should just um, do some supportive care, you know, staying hydrated, eating well. And if your symptoms become worse, uh, you're running a really high fever, you have any neurological symptoms like weakness or seizures, then you should seek help from the ER. How does that sound?\n\nP: That sounds good. Thank you.\n\nD: Okay great, thank you"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "What brings you in here today Hey I'm the mom of the patient He's a six year old kid He has had he's just had a cough and stuffy nose for the past three days Okay and so did they both start around the same time or one started before the other They started at the same time He's also had like these his eyes have been like kind of red and watery",
+        "gt_chunk": "D: What brings you in here today?\n\nP: Hey, I'm I'm the mom of, of the patient. He's he's a kid, he has had, he just had a cough and stuffy nose for the past three days.\n\nD: OK, and so did they both start around the same time or one started before the other? \n\nP: They started the same time. He's also had like these, these, his eyes have been like kind of red and watery"
+    },
+    {
+        "whisper_chunk": "as well Okay and is he what kind of cough is he having Is it a dry cough or a wet cough It's a dry cough Dry cough okay And so with the congestion is he also having any kind of nasal drainage Yeah it's like watery Watery okay So no are you noticing any kind of yellow or greenish material No Oh okay And he hasn't is he coughing up any blood at all at any point No no no No",
+        "gt_chunk": "P: as well. \n\nD: OK, and is he, what kind of cough is he having a dry cough or wet cough? \n\nP: It's a dry cough.\n\nD: Dry cough, OK and and so with the congestion is he also having any kind of nasal drainage?\n\nP: Yeah, it's it's like watery.\n\nD: Watery OK so now are you noticing any kind of yellow or greenish material?\n\nP: No. \n\nD: OK, and he hasn't, is he coughing up any blood at all at any point? \n\nP: No no no."
+    },
+    {
+        "whisper_chunk": "okay So they started just recently three days ago Was he in contact with anyone that's been sick recently I don't think so but he has been like playing outside quite a bit And sometimes he's just playing with the neighbor's kids Okay Has this happened before Yeah it has But I guess what I'm concerned about is the rash that he has now",
+        "gt_chunk": "D:  so this started just recently three days ago. Was he in contact with anyone that's been sick recently?\n\nP: I don't think so, but he has been like playing outside quite a bit. And sometimes he's just playing with the neighbours kids.\n\nD: OK. Has this happened before?\n\nP: Yeah it has, but I guess what I'm concerned about is the rash that he has now"
+    },
+    {
+        "whisper_chunk": "that he's never had before Okay and where is the rash exactly It's on his face It started this morning Okay and can you describe the rash for me Like its color shape and what it kind of looks like Yeah kind of like these small really small sort of dots like kind of I'd say like brown in color Like brownish dark reddish Okay and it's just are they just located on his face",
+        "gt_chunk": "P: that he's never had before.\n\nD: OK, and where is the rash, exactly?\n\nP: It's on his face. It started this morning.\n\nD: OK, and can you describe the rash for me like it's color, shapes, and what kind of looks like?\n\nP: Small really small dots like kind of, uhm, like I'd say like brown in color. Like brownish dark reddish. \n\nD: OK, let's just are they just located on his face"
+    },
+    {
+        "whisper_chunk": "Yeah like it was on his face and it's kind of a little bit on his neck Okay and is he scratching at the middle Yeah Okay Okay and so they just started today Has he had these rashes before at all No no he hasn't Okay anything new at all that he has either eaten or any new clothing or new laundry detergent or soaps Anything",
+        "gt_chunk": "P: Yeah, like it was on his face and it's kind of a little bit on his neck.\n\nD: OK, uh and is he scratching at them at all?\n\nP: Yeah.\n\nD: OK, Um, OK and so they just started today. Have you had these rashes before at all?\n\nP: No, no he hasn't.\n\nD: OK, anything new at all that he has either eaten or any new clothing or new laundry detergent or soap, so anything"
+    },
+    {
+        "whisper_chunk": "at all No no Okay Okay and has he had any fevers or chills anything like that Uh he has been feeling a little bit warm I didn't really check his temperature Okay And is he so it started three days ago Anything happen before three days at all that might have caused the symptoms I don't think so",
+        "gt_chunk": "D: at all?\n\nP: No no.\n\nD: OK. OK, And has he had any fevers or chills anything like that? \n\nP: Uh, he has been feeling a little bit warm. I didn't really check his temperature.\n\nD: And. And busy so, it started three days ago. Anything happened before 3 days at all that might have caused the symptoms?\n\nP: I don't think so"
+    },
+    {
+        "whisper_chunk": "As I said he hasn't been playing around with others so could have caught something Okay Okay any kind of have you tried anything that has helped him at all Any medications I haven't tried anything yet no Okay How often is he coughing Is he coughing throughout the day or is it more so with exerting himself Um it's just kind of all through the day It's actually gotten a little bit better",
+        "gt_chunk": "P: As I said, he has been playing around with others so could have caught something? \n\nD: OK, And OK, any kind of ah, have you tried anything that has helped him at all? Any medications? \n\nP: Uhm? I haven't tried anything yet, no.\n\nD: OK, and how often is he coughing? Is he coughing throughout the day or is it more so with exerting himself? \n\nP: Um, it's just kind of all through the day. It's actually gotten a little bit better"
+    },
+    {
+        "whisper_chunk": "The cough has gotten better but what I'm concerned about is the rash Okay the cough's gotten better Yeah Does he have does the rash so is it mainly just on his forehead or also on his cheeks or It's on his cheeks It's on his cheeks on his chin it's kind of on his neck It's kind of like blotchy reddish brownish like little dots Kind of it's not like it's not raised it's like flat Okay and is it kind of just like",
+        "gt_chunk": "P: the cough has gotten better. But what I'm concerned about is the, the rash?\n\nD: OK cough's gotten better yeah. Does he have visit rush it so is it mainly just on his forehead or also on his cheeks?\n\nP: It's on his cheeks on his chin. It's kind of on his neck. It's kind of like this blotchy reddish, brownish like little dots. Kind of, it's not like, it's not raised, it's like flat. \n\nD: OK, and uh. Is it kind of just"
+    },
+    {
+        "whisper_chunk": "a bright red rash that's kind of covering the cheeks or little dots everywhere Kind of little dots Okay anything on his nose Yeah it's on his nose as well Okay Okay but no fevers right He I guess he might have had a fever He was feeling warm Okay And any other symptoms like shortness of breath sore throat anything like that No no nothing like that Okay And otherwise any other symptoms",
+        "gt_chunk": "D: a bright red rash that's kind of covering the cheeks or little little dots everywhere?\n\nP: Kind of little dots.\n\nD: OK, any anything on his nose?\n\nP: Yeah, yeah, it's on his nose as well.\n\nD: OK, um, OK, but no fevers, right?\n\nP: He, I guess he might have had a fever. He was feeling warm.\n\nD: OK. And any other symptoms like shortness of breath, sore throat, anything like that?\n\nP: No, no, nothing like that. \n\nD: OK. And otherwise, any other symptoms"
+    },
+    {
+        "whisper_chunk": "like just not like behavioral changes not being himself being more irritable at all Oh yeah he's just been tired He hasn't been doing anything He's just been lying in bed Okay Hasn't eaten much Okay Any at all is he having any nausea or vomiting No No any diarrhea or constipation No Any changes in his urination No Any changes in his sleep or appetite",
+        "gt_chunk": "D: like just not like behavioural changes, not being himself, being more irritable at all?\n\nP: So yeah, he's just been tired. He hasn't been doing anything, he's just been lying in bed. Hasn't eaten.\n\nD: OK. Any at all, is he having any nausea or vomiting?\n\nP: No.\n\nD: Any diarrhea or constipation?\n\nP: No.\n\nD: Any changes in his urination?\n\nP: No.\n\nD: Any changes in his sleep or appetite"
+    },
+    {
+        "whisper_chunk": "No Oh okay Well he has been eating a little less but nothing else Okay And has he been complaining at all of any abdominal pain or anything like that No Great Otherwise has he been healthy or has he had any medical conditions diagnosed He's been healthy Okay And any previous surgeries or hospitalizations No Any",
+        "gt_chunk": "P: No. Well, he has been eating little less, but nothing like nothing else. \n\nD: OK. And has he been complaining at all of any abdominal pain or anything like that? \n\nP: No. \n\nD: OK. Otherwise that has he been healthy or if he had any medical conditions diagnosed?\n\nP: He's been healthy. \n\nD: OK. And and any previous surgeries or hospitalizations? \n\nP: No.\n\nD: Any"
+    },
+    {
+        "whisper_chunk": "medication that he takes regularly No And any family history of any lung or heart conditions No And currently or like during your pregnancy with him any complications at all No And was he meeting his milestones developmentally in terms of also with growth and height and everything like that Yeah he seems to be doing okay He's doing as well",
+        "gt_chunk": "D: medications that he takes regularly? \n\nP: No.\n\nD: And any family history of any lung or heart conditions?\n\nP: No.\n\nD: Concurrently, or like during your pregnancy with him, any complications at all? \n\nP: No.\n\nD: And did, was he meeting his milestones that developmentally in terms of, also with growth and height and everything like that? \n\nP: Yeah, he seems to be doing OK come when he's doing as well"
+    },
+    {
+        "whisper_chunk": "as his two brothers Okay And does he go to school at all What grade would he be in He's going to school online Online right now Okay Yeah Any issues at school at all Any complaints that you've been told of No No Okay Great So and how is the how is your living situation like Um it's things are good It's him his two older brothers my husband and",
+        "gt_chunk": "P: , his two brothers.\n\nD: OK, and does he go to school at all? What grade is he in?\n\nP: He's going to school. Um, online. \n\nD: Online right now? OK, yeah. And any issues at school at all. Any complaints that we've been told? \n\nP: No.\n\nD: OK. Great, so, uh and how is the houses or your living situation like?\n\nP: It's, uh, things are good, so it's him, his two older brothers, my husband and"
+    },
+    {
+        "whisper_chunk": "me Okay And has anyone been sick recently or had similar symptoms No Okay Great Has anyone in the family ever had any diagnosis of asthma eczema allergic rhinitis No No nothing like that Okay All right So yeah those are all the questions I have for you today Do you have any questions or concerns No Okay So yeah so we'll be doing a couple we'll do a physical examination I want to see examine what the rash looks like",
+        "gt_chunk": "P: me. \n\nD: OK, and has anyone been sick recently or had similar symptoms? \n\nP: No. \n\nD: OK. Alright. Has anyone in the family ever had any diagnosis of asthma, eczema, allergic rhinitis? \n\nP: No.\n\nD: No, nothing like that, OK. Alright, so yeah those are all the questions I had for you today. Do you have any questions or concerns?\n\nP: No. \n\nD: OK. So yeah, so, we'll, we'll be doing a couple we'll do a physical examination, I want to see examined with the rash looks like"
+    },
+    {
+        "whisper_chunk": "And there's many things that can cause a rash There's a viral infection that can cause some of the symptoms the symptoms he's having mainly seem viral with the dry cough and runny nose And then you can have a rash as well One thing I forgot to ask actually is is he fully immunized He I guess he didn't get all his immunizations done earlier He did get them a little bit later So",
+        "gt_chunk": "D: and there's many things that can cause a rash. There's uh viral infections that can cause some of the symptoms. The symptoms he's having mainly seen viral with a dry cough and runny nose. And then you can we have a rash as well. One thing I forgot to ask actually is is he fully immunized?\n\nP: Um, he I guess he didn't get all his immunizations done earlier. He did get them a little bit later so"
+    },
+    {
+        "whisper_chunk": "we came from Syria as refugees but I'm thinking he got all his immunizations when he came to when we moved to Canada Okay And is he complaining of joint or muscle aches at all No No nothing like that No Okay All right So yeah we'll do like a full physical examination And if it's more just a viral it'll be something that we'll just have to monitor and",
+        "gt_chunk": "P: we came from Syria as refugees. But I I'm thinking he got all his immunizations when he, uh, came to, when we moved to Canada.\n\nD: OK, and is he complaining of joint or muscle aches at all?\n\nP: No. \n\nD: No, nothing like that, OK. Alright, so yeah, we'll do it like a full physical examination, and if it's more just a viral, it'll be something that we'll just have to monitor and"
+    },
+    {
+        "whisper_chunk": "do supportive care for But if it's anything else we might need to do further investigations All right And we'll just do a COVID swab on him today as well as some of the symptoms overlap with COVID symptoms And you will get the results back in 24 hours to 48 hours and then further instruction from public health Sounds great All right Well take care I'll talk to you soon",
+        "gt_chunk": "D: do supportive care for. But if it's anything else we might need to do further investigations. OK, and we'll just do a COVID swab for him today as well as some of the symptoms overlap with COVID symptoms and you will get the results back in 24 hours to 48 hours and then further instruction from public health.\n\nP: Sounds great.\n\nD: Alright, well, take care, talk to you soon"
+    }
+]

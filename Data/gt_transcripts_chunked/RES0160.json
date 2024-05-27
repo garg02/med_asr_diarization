@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "What can I do for you today Hi yeah thank you for seeing me I just came in today because I've been having for the last week this cough and recently I also started noticing that I've been having some diarrhea as well When did the cough start The cough started around five days ago and it got worse but now I think it's a little bit better",
+        "gt_chunk": "D: What can I do for you today?\n\nP: Hi, yes. Thank you for seeing me. I just came in today because I've been having for the last week this cough and recently also started noticing that I've been having some diarrhea as well.\n\nD: Hm, when did the cough start?\n\nP: The cough started around 5 days ago. And it's it got worse, but now I think it's a little bit better"
+    },
+    {
+        "whisper_chunk": "What about the diarrhea The diarrhea started just two days ago and I'm having to go like almost eight to 10 times in the last two days Okay and what does your stool look like Is it completely watery Yeah it's mostly watery And what color is it Just normal color no it's not dark or anything",
+        "gt_chunk": "D: What about the diarrhea?\n\nP: The diarrhea started just two days ago and I'm having to go like almost 8 to 10 times in the last two days.\n\nD: And what is, what does your stool look like? Is it completely watery?\n\nP: Yeah, it's mostly watery.\n\nD: And what colour is it?\n\nP: Just normal colour, no, it's not dark or anything"
+    },
+    {
+        "whisper_chunk": "like that Okay any blood that you've noticed Anything red or black No blood No okay Okay and you've had this cough but your cough's getting better What's the cough like Is it a dry cough or a wet cough It's more of a dry cough Have you coughed up anything at all like blood or any mucus No no I haven't coughed up anything Okay",
+        "gt_chunk": "P: like that. \n\nD: OK, any blood that you've noticed, anything red?\n\nP: No blood.\n\nD: And you've had this cough, but your cough is getting better. What's the cough like? Is it a dry cough or wet cough?\n\nP: It's uh, it's more of a dry cough.\n\nD: Have you coughed up anything at all, like blood or any, any mucus? \n\nP: No, no I haven't coughed up anything.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and other than the cough have you had any other flu like symptoms Have you had like a runny nose or a stuffy nose sore throat any of those symptoms No none of those but I have also been having a little bit of a headache as well in the last few days Where's your headache Just in the like on my forehead on both sides What does it feel like I'm like aching aching sensation",
+        "gt_chunk": "D: And other than the cough, have you had any other like flu like symptoms? Have you had like a runny nose or stuffy nose? Sore throat? Any of those symptoms?\n\nP: No, none of those. But I, I have also been having like a little bit of a headache as well in the last few days.\n\nD: Where is, where is your headache?\n\nP: Just in the like on my forehead, on both sides. \n\nD: What does it feel like?\n\nP: Aching sensation"
+    },
+    {
+        "whisper_chunk": "And how bad is your headache from one to 10 is 10 being the worst headache ever Right now probably a five but it was probably like a seven yesterday Do you feel like your headache's getting better Right now like today I took Tylenol so I don't know if it's just better because of that I see and have you taken any other medications to help with your symptoms No Okay Have you had a fever or chills No I haven't",
+        "gt_chunk": "D: And how bad is your headache from 1 to 10, with 10 being the worst headache ever?\n\nP: Right now, probably a 5, but it was probably like a 7 yesterday.\n\nD: So do you feel like your headaches getting better?\n\nP: Right now, like today I took Tylenol so I don't know if it's just better because of that.\n\nD: I see. And have you taken any other medications to help with your symptoms?\n\nP: No. \n\nD: OK, uhm, have you had a fever or chills? \n\nP: Uhm, I know I haven't"
+    },
+    {
+        "whisper_chunk": "felt any fever or chills Okay and and have you had any chest pain or any difficulties breathing No Okay Have you had any nausea or vomiting No nothing like that Okay any pain in your belly Just like a little discomfort with going to the washroom so much Okay And any muscle aches in your body No Okay any numbness",
+        "gt_chunk": "P: felt any fever, chills.\n\nD: OK and have you had any chest pain or any difficulties breathing? \n\nP: No. \n\nD: OK, uhm, have you had any nausea or vomiting?\n\nP: Uh no, nothing like that.\n\nD: OK, any pain in your belly?\n\nP: Um just like a little discomfort with going to the washroom so much.\n\nD: And any muscle aches in your body?\n\nP: No.\n\nD: OK, any numbness"
+    },
+    {
+        "whisper_chunk": "or tingling in your arms or feet No nothing like that Any change in your sense of smell Maybe a little bit I haven't really yeah I would say in the last few days maybe a little like I've been able to smell less Any change in your sense of taste No Okay have you been in contact with someone who you think could potentially be sick No not that I know of I do go to work",
+        "gt_chunk": "D: or tingling in your arms or feet?\n\nP: Uh, no, nothing like that. \n\nD: Any change in your sense of smell?\n\nP: Uhm, maybe a little bit, I haven't really.. Yeah, I would say in the last few days, maybe a little like I've been able to smell less.\n\nD: Any change in your sense of taste?\n\nP: Uh no. \n\nD: OK. Have you have you been in contact with someone who you think could potentially be sick?\n\nP: Uh, no, not that I know of. I do I do go to work"
+    },
+    {
+        "whisper_chunk": "in person and unfortunately I can't work from home But I haven't noticed anyone sick around me no And what do you do for work So I work at like a car shop Okay And do you wear a mask and maintain social distancing Yeah most of the times I would say we're pretty strict with that Sometimes when we're in our office I take off my mask But usually when we're seeing other people",
+        "gt_chunk": "P: in person. Unfortunately I'm I can't work from home. But I've been noticing anyone sick around me though. \n\nD: And what do you do for work?\n\nP: So I work at like a car shop. \n\nD: OK. And do you wear a mask and maintain social distancing?\n\nP: Yeah, most of the times I would say we're pretty strict, strict with that. Uhm, sometimes when we're in our office I take off my mask, but usually when we're seeing other people"
+    },
+    {
+        "whisper_chunk": "or within close proximity we keep the masks on Okay And do you I guess who do you live with at home I just live with my wife Do you think she might have had any exposures No she's been fine She doesn't have any symptoms She's a school teacher Right now she's working from Kedla Okay And do you smoke at all Have you smoked in",
+        "gt_chunk": "P: or within close proximity, we keep the masks on.\n\nD: OK. And, uh, do you, I, I guess, who do you live with at home?\n\nP: I just live with my wife.\n\nD: Do you think she might have had any exposures?\n\nP: No, she's been fine and she doesn't have any symptoms. And she's, she's a school teacher. Right now that she is working from Canada.\n\nD: OK, and do you, smoke at all? Or have you smoked in"
+    },
+    {
+        "whisper_chunk": "the past Yeah I do or I used to smoke in my 20s and 30s But I quit since then How much did you smoke back then Probably half a pack a day And for how many years Probably like 15 years Okay Do you smoke marijuana or have you smoked in the past I've tried it a couple of times I don't really like it so no Any recreational drugs No Alcohol",
+        "gt_chunk": "D: the past?\n\nP: Oh yeah, I do, or I used to smoke in my 20s and 30s, but I quit smoking.\n\nD: How much did you smoke back then?\n\nP: Probably half a pack a day.\n\nD: And for how many years?\n\nP: Only like 15, 15 years. \n\nD: OK do you, do you smoke marijuana or have you smoked in the past?\n\nP: Uh, I've tried it a couple times. I don't really like it, so no.\n\nD: Any recreational drugs? \n\nP: No.\n\nD: Alcohol"
+    },
+    {
+        "whisper_chunk": "Yeah I probably have a beer every day Do you have any medical conditions that you've been diagnosed with I take medications for blood pressure and high cholesterol What do you take I take this medication called I think it's like a Lipitor And then I take a Ramipro for the blood",
+        "gt_chunk": "P: Uh, I probably have a beer every day.\n\nD: Do you have any medical conditions that you've been diagnosed with?\n\nP: Uhm I, I take uh, medications for blood pressure and high cholesterol.\n\nD: What do you take? \n\nP: Uhm, I take this medication called, I think it's it's like a Lipitor. And then I take uh, Ramipril for the blood"
+    },
+    {
+        "whisper_chunk": "pressure Any allergies to food environmental allergies or any allergies to medications Not that I know of no Okay Any medical conditions that run in the family So I think diabetes runs in my family but I don't have it And I think that's pretty much about it on my dad's side On my mom's side there was someone like my",
+        "gt_chunk": "P: pressure.\n\nD: Any allergies to food, environmental allergies or any medication allergies to medications?\n\nP: Not that I know of, no. \n\nD: Any medical conditions that run in the family?\n\nP: Uhm so I think, uh, diabetes, and for my family, but I I I don't have it so and I think that's pretty much about it on my dad's side. On my mom's side and there was someone, like my"
+    },
+    {
+        "whisper_chunk": "aunt did have ovarian cancer Okay And have you I guess I forgot to ask earlier have you had any surgeries or hospitalizations I had a surgery to remove my appendix in my 20s And since then no surgeries or hospitalizations Okay All right And I guess that's all the questions I have for you You haven't had any difficulties",
+        "gt_chunk": "P: aunt did have ovarian cancer.\n\nD: OK, and have you, I guess have you, I forgot to ask earlier, have you had any surgeries or hospitalizations?\n\nP: Uhm I had a surgery to remove my appendix in my 20s and since then, no. No surgeries or hospitalizations.\n\nD: OK.  Alright, and I guess that's all the questions I have for you. You haven't had any difficulties"
+    },
+    {
+        "whisper_chunk": "breathing right No No okay Okay and you've had diarrhea for two days How's your appetite And have you been eating and drinking okay Appetite's pretty okay Like I feel like I've been more hungry With the diarrhea I feel like I need to eat more It's also important with the diarrhea to drink lots of fluids and to make sure that you're not losing",
+        "gt_chunk": "D: breathing right? \n\nP: No, \n\nD: No, OK. Do you OK? And you've had diarrhea for two days. How's your appetite and have you been eating and drinking OK?\n\nP: Uhm appetites pretty OK, like I feel like, I've been more hungry, with the carry I feel like I, need to eat more.\n\nD: Uhm, It's also important with the diarrhea to drink lots of fluids and to make sure that you're not losing"
+    },
+    {
+        "whisper_chunk": "important minerals and you're not losing like sodium or potassium in diarrhea and other things like calcium that could create problems So continue to eat well and continue to drink lots of water I guess so what we'll do is we'll do a COVID swab just to check if you have COVID or not We'll also do a few labs to see",
+        "gt_chunk": "D: important minerals and you're not losing like sodium or potassium in diarrhea and other things like calcium that could create problems. So, continue to eat well and continue to drink lots of water. I guess so what we'll do is we'll do a COVID swab just to just to check if you have COVID or not. We'll also do a few labs to see"
+    },
+    {
+        "whisper_chunk": "how your electrolytes are do your vitals to see if you have a fever measure your heart rate and do a physical exam and then go from there And I'll talk to my attending as well and we'll come back and discuss the management plan with you Okay sounds good Thank you so much",
+        "gt_chunk": "D: how your electrolytes are, do your vitals to see if you have fever, measure your heart rate and do a physical exam and then go from there. And I'll off - I'll talk to my attending as well and we'll come back and discuss the management plan with you.\n\nP: OK, sounds good. Thank you so much"
+    }
+]

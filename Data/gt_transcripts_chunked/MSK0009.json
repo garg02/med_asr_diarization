@@ -1,0 +1,98 @@
+[
+    {
+        "whisper_chunk": "45 year old female with right knee pain Hi my name is Chris I'm a medical student in the clinics today How may I help you Hi Chris So I've just been having this pain in my knee since I just fell just three days ago slipping on the stairs Since then I've been having a lot of pain I see So did this pain start right after like falling on",
+        "gt_chunk": "D: : How may I help you?\n\nP: So I've just been having this pain in my knee since I um just fell, uh, just three days ago slipping on the stairs. Since then I've been having a lot of pain.\n\nD: I see uh so did this pain start right after like falling on"
+    },
+    {
+        "whisper_chunk": "the Okay And you're feeling the pain in your in your right knee Yeah in my right knee Okay And what would you say the character of the pain is or how would you describe the pain It's kind of like a dull aching",
+        "gt_chunk": "D: , OK. And you're feeling the pain in your in your right knee?\n\nP: Yeah, in my right knee. \n\nD: OK, uh. And what would you say the character of the pain is, or how would you describe the pain?\n\nP: It's kind of like a dull aching"
+    },
+    {
+        "whisper_chunk": "pain Okay And has the pain been getting any better or any worse Um it's kind of getting worse actually just in my right knee as well as my whole right calf as What is the intensity of the pain on a scale of one to 10 10 being the worst pain you've ever felt Probably around a six",
+        "gt_chunk": "P: pain.\n\nD: OK. And has the pain been getting um, any better or any worse?\n\nP: Uhm, it's kind of getting worse actually just in my right knee as well as my whole right calf as well.\n\nD: OK, OK. Uh. What is the intensity of the pain on a scale of 1 to 10, 10 being the worst pain you've ever felt?\n\nP: Probably around"
+    },
+    {
+        "whisper_chunk": "Okay And did your knee hurt before this at all Or did you have any trauma to the leg before No no before three days ago before my slip I was fine Okay Are you feeling the pain anywhere else besides your right knee In my calf I'm getting a lot of pain as well in my right calf Okay Is there been anything that's made the pain worse",
+        "gt_chunk": "D: . And. Did your knee hurt before this at all, or did you have any trauma to the leg before?\n\nP: No, no before 3 days ago before my slip I was fine.\n\nD: OK, are you feeling the pain anywhere else besides your right knee?\n\nP: In my calf I'm getting a lot of pain as well. In my right calf.\n\nD: OK, has there been anything that's made the pain worse"
+    },
+    {
+        "whisper_chunk": "Yeah if I am if I'm walking or if I'm moving that leg and putting weight on it it's definitely worse So it's definitely like better if I just stay seated and stay resting Okay Is there anything so you say resting That helps Is there anything else that's helped I did take some Advil which did help for a few hours But then it just kind of went back to the same Okay And",
+        "gt_chunk": "P: Yeah, if I am If I'm walking or if I'm moving that leg and putting weight on it, it's definitely worse, so it's definitely like better if I just stay seated and stay resting.\n\nD: OK. Is there anything she said resting that helps, is there anything else that's helped?\n\nP: I did take some Advil which did help for a few hours, but then it just kind of went back to the same.\n\nD: OK. "
+    },
+    {
+        "whisper_chunk": "have you had any other like associated symptoms with the right knee and calf pain Yes I also think there's some swelling in my right calf as well since yesterday Okay Okay there's some swelling there Have you noticed if your calf was red or if there was a rash over it I",
+        "gt_chunk": "D: have you had any other, uh, like associated symptoms with the right knee and calf pain?\n\nP: Yes, I also think there's some swelling in my right calf as well. Since yesterday.\n\nD: OK. OK, there's some swelling there.\n\nP: Mmm\n\nD: Have noticed if your calf was red or if there was a rash over it?\n\nP: I"
+    },
+    {
+        "whisper_chunk": "don't see any rashes or redness but it definitely does seem swollen And then it hurts as well when I move it or press it Okay Okay And when you fell did you injure any other parts of your body like your hands or wrists Just a few scratches on my hands but nothing too bad And how about your head Did you lose consciousness or hit your head No I didn't hit my head at all I caught myself before then And no I didn't lose",
+        "gt_chunk": "P: don't see any rashes or redness, but it definitely does seem swollen and then it hurts as well when I move it or press it.\n\nD: OK, uh, OK, and when you fell did you injure any other parts of your body like your your hands or wrists?\n\nP: Um just a few scratches on my hands, but nothing too bad.\n\nD: And how about your head? Did you lose consciousness or or hit your head?\n\nP: No, no, I didn't hit my head at all. I caught myself before then and no, I didn't lose"
+    },
+    {
+        "whisper_chunk": "any consciousness Okay Okay Have you had any fevers or chills No Okay Have you had any chest pain No Have you had any cough No cough Have you had any shortness of breath Nope Okay Have you had any heart palpitations or feeling like your heart is racing No nothing like that Okay",
+        "gt_chunk": "P: any consciousness.\n\nD: OK. OK, have you had any fevers or chills?\n\nP: No.\n\nD: OK, have you had any chest pain? \n\nP: No.\n\nD: Have you had any cough?\n\nP: No cough. \n\nD: Have you have you had any shortness of breath? \n\nP: No.\n\nD: OK, have you had any dizziness or or lightheadedness? \n\nP: No.\n\nD: OK, and have you had any heart palpitations or feeling like your heart is racing?\n\nP: No, nothing like that. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And have you had any like infectious symptoms such as like a runny nose or sore throat No nothing like that Okay And have you had any nausea or vomiting No Have you had any abdominal pain No Okay Have you had any changes to your bowel movements like diarrhea",
+        "gt_chunk": "D: And. Have you had any like infectious symptoms, such as like. Like a runny nose or sore throat?\n\nP: No, nothing like that.\n\nD: OK. And have you had any nausea or vomiting. \n\nP: No.\n\nD: Have you had any abdominal pain?\n\nP: No.\n\nD: OK, have you had any changes to your bowel movements like diarrhea"
+    },
+    {
+        "whisper_chunk": "or constipation No nothing like that All right Have you had any urinary problems Nope All right Have you had any recent weight changes No nothing like that Okay And have you noticed any rashes anywhere else over your body No not that I've noticed All right Have you noticed any muscle weakness No Have you had any numbness",
+        "gt_chunk": "D: or constipation?\n\nP: No, nothing like that.\n\nD: Alright, so have you had any urinary problems? \n\nP: Nope.\n\nD: Alright, so have you had any recent weight changes?\n\nP: No, nothing like that. \n\nD: OK. Uhm, And. Um, have you have you noticed any any rashes anywhere else over your whole body?\n\nP: No, not that I've noticed.\n\nD: Alright have you noticed any muscle weakness?\n\nP: No.\n\nD: Have you had any numbness"
+    },
+    {
+        "whisper_chunk": "to the skin Not that I've noted no And have you had any tingling No Okay And in the past have you been diagnosed with any medical conditions I do have some high cholesterol and high blood pressure I see And do you take any medications Yeah so cholesterol I'm taking like a Crestor medication And then for high blood pressure I'm taking a Ramipril Okay",
+        "gt_chunk": "D: to the skin?\n\nP: Not that I've noted, no.\n\nD: And have you had any tingling?\n\nP: No. OK.\n\nD: And. Um. So in the past, have you been diagnosed with any medical conditions?\n\nP: I do have some high cholesterol and high blood pressure. \n\nD: I see, and do you take any medications?\n\nP: Yeah, so cholesterol. I'm taking a like a Crestor medication and then for high blood pressure I'm taking a Ramipril. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "Have you had any hospitalizations or surgeries before I just no I don't Just besides a C section for one of my children I don't have any other surgeries Okay And have you had any thrombosis before or a blood clot in the past No I've never had anything like that Okay And have you",
+        "gt_chunk": "D: Have you had any hospitalizations or surgeries before?\n\nP: Um. Just a. No, I I don't, um just besides a c-section for one of my children. I don't have any other surgeries.\n\nD: OK. I'm and. Have you had any thrombosis before, or a blood clot in the past?\n\nP: No, I've never had anything like that.\n\nD: OK, and uh, have you"
+    },
+    {
+        "whisper_chunk": "been so you've had the birth of your you had a C section And have you been pregnant other times in the past No that was it Okay So have you had a miscarriage before No Okay Any allergies to medications No allergies Okay And could you tell me a little bit about your living situation currently like who you're living with and whereabouts you're living Yeah I live with my husband",
+        "gt_chunk": "D: been so you. You've had the birth of your you pregnant at other times in the past?\n\nP: Um No, that was that was it.\n\nD: OK so have you had a miscarriage before?\n\nP: No.\n\nD: OK, any allergies to medications?\n\nP: No allergies.\n\nD:  OK and. Uhm, could you tell me a little bit about your, uhm, living situation currently like who you're living with and whereabouts you're living? \n\nP: Yeah, I live with my husband"
+    },
+    {
+        "whisper_chunk": "and our daughter And it's just in a small townhouse just in the city Okay And are you working currently I do work from home I'm actually just an accounting clerk but most of my work is from home right now Okay And any exposures to anybody who's been sick No Have you traveled anywhere recently No Okay",
+        "gt_chunk": "P: and our daughter. And it's just in a small townhouse, just in the city.\n\nD: OK, and are you working currently?\n\nP: I I do work from home, I'm actually just an accounting clerk, but I most of my work is from home right now.\n\nD: OK. And any exposures to anybody who's been sick? \n\nP: No.\n\nD: Have you traveled anywhere recently?"
+    },
+    {
+        "whisper_chunk": "And over the last couple of days with the leg pain do you feel as though you've been immobilized Yeah I've been trying to just stay rested just stay seated Otherwise it hurts a lot especially after my fall So I've tried to stay immobilized Okay For the last couple of days Okay And do you drink alcohol Just socially sometimes",
+        "gt_chunk": "D: And over the last couple of days with that with the leg pain, do you feel as though you've been like immobilized?\n\nP: Yeah, I've been trying to just like stay rested, just stay seated otherwise it hurts a lot, especially after my fall so. I've tried to stay immobilized.\n\nD: OK for the last couple of days. OK, uh, and uh, do you drink alcohol?\n\nP: Just socially, sometimes"
+    },
+    {
+        "whisper_chunk": "when I'm with friends or relatives like a glass of wine Okay And do you use recreational drugs like marijuana or other things like cocaine No I've never tried that Okay And do you smoke cigarettes No I don't Okay Okay So oh and in the family are there any history of heart or lung conditions",
+        "gt_chunk": "P: when I'm with friends or relatives like a glass of wine.\n\nD: OK, and do you use recreational drugs like marijuana or or other things such like cocaine?\n\nP: No, I've never tried that. \n\nD: OK. And do you smoke cigarettes?\n\nP: Uhm, No, I don't.\n\nD: OK, I'm OK so. Oh, and uh in the family are there any history of heart or lung conditions"
+    },
+    {
+        "whisper_chunk": "So don't know about heart or lung conditions but my mother had a stroke in her late 60s My father is pretty healthy Okay Has there been any like blood clots in the family before Not sure about blood clots but my mother had a stroke Is that kind of like a blood clot It could be A stroke can have",
+        "gt_chunk": "P:  don't know about heart or lung conditions, but uh my Mother had a stroke in her late 60s and my Father is pretty healthy.\n\nD: OK. Has there been any blood clots in the family before?\n\nP: I'm not sure about blood clots, but my mother had a stroke that's, is that kind of like a blood clot?\n\nD: It could be, a stroke could have"
+    },
+    {
+        "whisper_chunk": "many different types of causes for it And one of them could be caused by a blood clot but I wouldn't be able to say for sure Okay Just because yeah there are so many different types or reasons for having a stroke Okay So yeah so you mentioned your leg has some swelling Do you feel as though there's any like temperature",
+        "gt_chunk": "D: many different type of types of causes for it, and one of them could be 'cause caused by blood clot. But I wouldn't be able to say for sure.\n\nP: OK.\n\nD: Just because, yeah, there are so many different types or reasons for for having a stroke .\n\nP: I see OK.\n\nD: So yeah, so you mentioned your leg has some swelling, um do you feel as though there's any any like temperature"
+    },
+    {
+        "whisper_chunk": "change to your calf Like is it hot I think I don't know if it's maybe a little bit warm but definitely swollen Okay And do you feel is there any pain to palpation Like if you touch your calf or something like that is there pain Yeah If I touch my right calf it's painful And then if I press down on it it's really painful And then just on the outside of my",
+        "gt_chunk": "D: change to your calf like is it hot?\n\nP: Uhm, I think I I don't know if it's maybe a little bit warm, but definitely swollen.\n\nD: OK, and do you feel, is there any pain to palpation? Like if you touch your calf or something like that is there pain?\n\nP: Yeah if I touch my right calf it's painful and then if I press down on it's really painful and then just on the outside of my"
+    },
+    {
+        "whisper_chunk": "right knee if I And if you move your foot so if you dorsiflex your ankle or bending your toe up towards your nose do you end up getting any calf pain doing the Holman test Yeah I'll try that Yeah",
+        "gt_chunk": "D: . And if you move your foot so it yeah, if you dorsiflex your ankle. Or bending your your toe up towards your nose, do you end up getting any calf pain? Doing the Homan test.\n\nP: Yeah, yeah I'll try that."
+    },
+    {
+        "whisper_chunk": "I when I move my or point my toes towards my nose Okay Okay So I think that was everything that I wanted to ask today on history Was there anything else that maybe I missed No I think that's all Okay Okay All right So with the fall two days ago things that I'm thinking about right now would be",
+        "gt_chunk": "P: I when I move my or point my toes towards my nose.\n\nD: OK. OK, so I think that was everything that I wanted to ask today on history. Was there anything else that that maybe I missed?\n\nP: No, I think that's all. \n\nD: OK yeah alright so with the. I fall 2 days ago. Things that I'm thinking about right now would be"
+    },
+    {
+        "whisper_chunk": "possibly a muscle strain So this could be a gastrocnemius strain to the calf muscle itself from the fall which could have pain when you aggravated by movements Also could be like injuries to some of the ligaments there as well However with the swelling the immobilization for the last two days as well",
+        "gt_chunk": "D: possibly a muscle strain, so this could be a gastrocnemius strain to the calf muscle itself, from from the fall which could have pain when you touch it, there could be some swelling and said it would be aggravated by movements. Also could be like injuries to some of that, the ligaments there as well. And however, with this the swelling immobilization for the last two days, as well"
+    },
+    {
+        "whisper_chunk": "as the pain kind of being a bit progressive with swelling and a positive Holman test and your temperature is a little bit elevated today not quite a fever but feverish it does increase the suspicion for a deep vein thrombosis And so I think the most likely thing right now is a DBT or deep vein thrombosis And so we will",
+        "gt_chunk": "D: as the pain kind of being a bit progressive that with swelling and a positive Homan in test and your temperature is a little bit elevated today not quite a fever, but feverish. It does increase the suspicion for deep vein thrombosis and so I think the most likely thing right now is actually a DVT or deep vein thrombosis. And so we will"
+    },
+    {
+        "whisper_chunk": "order some diagnostic studies and get an ultrasound of your right calf as well as an x ray of the right knee to start Okay Okay Sounds good Thank you so much",
+        "gt_chunk": "D: order some diagnostic studies, get an ultrasound of your right calf as well as an X Ray of the right knee to to start OK.\n\nP: OK sounds good. Thank you so much"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "whisper_chunk": "My back it just really hurts I feel really stiff in the morning and yeah it's just been going on for a few months now Okay so for a few months stiffness in the morning So your back hurts where exactly would you say it hurts It kind of hurts all over I can't really pinpoint any specific locations that hurt most It just kind of hurts all down my back Okay all the way up",
+        "gt_chunk": "P: My back, it just really hurts. I feel really stiff in the morning and um yeah, it's just been going on for a few months now.\n\nD: Ok, so for a few months, stiffness in the morning. So your back hurts, where exactly would you say it hurts?\n\nP: It kinda hurts all over. I can't really pinpoint any specific locations that hurts most, kind of hurts like all down my my back.\n\nD: OK, all the way up"
+    },
+    {
+        "whisper_chunk": "to I guess your neck and all the way down to your lower back I wouldn't really say the neck I guess more of the lower parts maybe like the middle of my back and down Okay and what kind of pain would you say it is Is it like a dull aching pain Is it a sharp stabbing pain How would you describe it It's a dull pain A dull pain okay And on a scale of zero to 10 with zero being the least amount of pain you've felt in your life and 10 being the worst how much would",
+        "gt_chunk": "D: to I guess your neck and all the way down to your lower back?\n\nP: So I wouldn't really say the neck, and I guess more of the the lower parts. Maybe like the middle of my back and...\n\nD: I see.\n\nP: And down.\n\nD: Ok and what kind of pain would you say it is, is it like a dull aching pain? Is it a sharp stabbing pain? How would you describe it?\n\nP: It's a dull pain.\n\nD: Dull pain, ok. Ok, and on a scale of 0 to 10 with 0 being the least amount of pain you felt in your life and 10 being the worst, how much would"
+    },
+    {
+        "whisper_chunk": "you rate it It's about a four or five I mean some days it can be better but yeah some days it can be worse Okay and when did this start I think this started about like four or five months ago It's been going on yeah for probably about half a year now Okay and when it first started was there anything that caused the back pain Like any kind of trauma or injury Anything that you can think of that might have led to",
+        "gt_chunk": "D: you rate it?\n\nP: It's about a four or five. I mean some days it can be better, but yeah, some days it can be worse.\n\nD: OK and when did this start?\n\nP: I think this started about like four or five months ago. It's been going on, yeah, for probably about half a year now.\n\nD: OK, and when it first started up, was there anything that caused the back pain? Like any kind of trauma or injury, anything that you can think of that might have led to"
+    },
+    {
+        "whisper_chunk": "this No nothing that I can think of It's sort of it's come on so slowly Like when I first started noticing the back pain it was maybe like a zero to a one I didn't really notice it too much but over these last five six months it has gotten a bit worse Okay so it kind of came on progressively It didn't just come on suddenly at some point Right yeah it's been getting worse Okay and have you ever",
+        "gt_chunk": "D: this?\n\nP: No, nothing that it's I I can think of. It's sort of it's come on so slowly like when I first started noticing the back pain it it was maybe like a 0 to a one. I didn't really notice it too much, but over these last 5, 6 months it has gotten has gotten a bit worse.\n\nD: Ok, so it kind of came on progressively. Didn't just come on suddenly at some point?\n\nP: Right, yeah, it's been getting worse.\n\nD: Ok, and have you ever"
+    },
+    {
+        "whisper_chunk": "had any previous episodes that are similar to this Not my back pain I do get pain in my right knee and in my hands sometimes but those pains just kind of come and go Okay and when did those pains start Um those ones started from probably a similar timeline around six months ago Okay and the back pain that you're",
+        "gt_chunk": "D: had any previous episodes that are similar to this?\n\nP: Uh, not not in my back pain. I do get pain in my right knee and in my hands sometimes. But those pains just kind of come and go.\n\nD: Ok, and when did those pains start?\n\nP: Uhm, those ones started, probably similar timeline around six months ago.\n\nD: Ok, ok. And in the back pain that you're"
+    },
+    {
+        "whisper_chunk": "having does it radiate or move to any other part of your body No I don't feel it anywhere else Okay and have you tried anything that has helped relieve some of the pain Any medications or anything Yeah I've tried some Tylenol and Advil and the Advil's actually helped taking the edge off a little bit but the next morning I have the stiffness and pain again Okay and for your",
+        "gt_chunk": "D: having, does it radiate or move to any other part of your body?\n\nP: No, I don't feel it anywhere else.\n\nD: Ok, and have you tried anything that has helped relieve some of the pain? Any medications or anything?\n\nP: Yeah, I've tried some Tylenol and Advil, and that the Advil is actually helped taking the edge off a little bit, but the next morning I I have the stiffness and and pain again.\n\nD: Ok, and for your"
+    },
+    {
+        "whisper_chunk": "pain are there any kind of factors that make the pain worse like bending down or standing straight up or laying down anything that makes your pain worse No nothing that I can think of that really makes it any worse Okay and is your pain worse when you wake up in the morning or is it worse as the day progresses It's worse in the morning It gets a bit better as the day goes on About an hour into the day I feel my best It takes a",
+        "gt_chunk": "D: pain, are there any kind of factors that make the pain worse, like bending down or standing straight up or laying down anything that makes your pain worse?\n\nP: Uh no nothing that I can think of that really makes it any worse.\n\nD: Ok, and is your pain worse when you wake up in the morning or is it worse as the day progresses?\n\nP: It's worse in the morning. It gets a bit better as the day goes on. I asked about it, an hour into the day, I feel my best. It takes a"
+    },
+    {
+        "whisper_chunk": "little bit of time to move around a little bit first Okay and approximately how much time would you say after you wake up the stiffness and pain goes away I would say maybe 30 to 60 minutes Okay all right And you haven't had any trauma or injuries recently right No trauma or injuries Okay and no fevers or chills No Okay any night sweats No Any fatigue or malaise Yeah I have been a bit more fatigued",
+        "gt_chunk": "P: little bit of time to to move around a little bit first.\n\nD: Ok, approximately how much time would you say after you wake up, the stiffness and pain goes away?\n\nP: I would say maybe 30 to 60 minutes.\n\nD: Ok, alright. And no, you haven't had any trauma injuries in recently, right?\n\nP: No trauma or injuries.\n\nD: Ok and no fevers or chills?\n\nP: No.\n\nD: Ok, any night sweats?\n\nP: No.\n\nD: Any fatigue or malaise?\n\nP: Yeah, I have been a bit more fatigued"
+    },
+    {
+        "whisper_chunk": "than usual and yeah I've had some malaise as well Okay and for how long have you had this It's been similarly getting a little bit more progressive I mean some days I'm just feeling like I just wanna lay around and rest because I'm feeling just so burnt out and other days I'm okay but I'm certainly more tired than usual Okay",
+        "gt_chunk": "P: than usual, and yeah, I I've had some malaise as well.\n\nD: Ok, and for how long have you had this?\n\nP: It's been similarly getting a little bit more progressive. I mean some days I'm just feeling like I just want to lay around and rest 'cause I'm feeling just so burnt out and other days I'm ok but, I'm certainly more tired than usual.\n\nD: Ok"
+    },
+    {
+        "whisper_chunk": "I see Other than that have you noticed any kind of rashes or skin changes or changes in your nails at all No I haven't noticed any rashes or any nail changes Okay any shortness of breath No No any changes in your bowel movements or urinary patterns No I haven't had any diarrhea or any urinary problems Okay have you noticed any changes in your appetite",
+        "gt_chunk": "D: I see. Other than that, have you noticed any kind of rashes or skin changes or changes in your nails at all?\n\nP: Uhm, no, I haven't noticed any any rashes or any nail changes.\n\nD: Ok, any shortness of breath?\n\nP: No.\n\nD: Any changes in your bowel movements or urinary patterns?\n\nP: No, I haven't had any diarrhea or any any urinary problems.\n\nD: Ok, have you noticed any changes in your appetite"
+    },
+    {
+        "whisper_chunk": "or your weight No my appetite's been normal and my weight's been stable Okay and have you noticed any difficulties or changes with your vision or any eye problems No I haven't noticed anything like that Okay have you noticed any kind of numbness or tingling sensation in your limbs specifically your back and your legs No no tingling",
+        "gt_chunk": "D: or your weight?\n\nP: No, my appetite's been normal and my weight's been stable.\n\nD: Ok, and have you noticed any difficulties or changes with your vision or any eye problems?\n\nP: No, I haven't noticed anything like that.\n\nD: Ok, have you noticed any kind of numbness or tingling sensation in your limbs specifically like your back and your legs?\n\nP: No, no tingling"
+    },
+    {
+        "whisper_chunk": "or numbness Okay any muscle weakness at all No I haven't noticed any muscle weakness Okay and have you been sick at all recently with any viral or bacterial infections I had I was diarrhea like several months ago and I had some antibiotics but that was yeah so a few months ago Okay and other than that currently are you",
+        "gt_chunk": "P: or numbness.\n\nD: Ok, any muscle weakness at all?\n\nP: Nope, I haven't noticed any muscle weakness.\n\nD: Ok, and have you been sick at all recently with any viral or bacterial infections?\n\nP: Um I had a uh, and then I was diarrhea like several months ago and I had some antibiotics, but that was a yeah, so a few months ago.\n\nD: Ok, and other than that, currently are you"
+    },
+    {
+        "whisper_chunk": "sexually active Yes I am I have a girlfriend and we started dating about six months ago Okay and do either of you have any history of any STIs at all No history of STIs Okay all right and is your partner fine or is she having any symptoms at all No she hasn't been having any symptoms and",
+        "gt_chunk": "D: sexually active?\n\nP: Yes I am uh I I have a girlfriend then we've, uh, we started dating about about, uh, six months ago.\n\nD: Ok and do either of you have any history of any STI's at all? \n\nP: Uh, no history of STIs.\n\nD: Ok, alright and is your partner fine or is she having any symptoms at all?\n\nP: No, she she hasn't been having any symptoms"
+    },
+    {
+        "whisper_chunk": "we've been using a condom mostly Okay all right and otherwise are you generally healthy or do you have any medical conditions Yeah I'm generally I do have asthma actually and just I had diarrhea a few months ago after eating at a buffet so I think maybe yeah it was food poisoning or maybe something like that But yeah so asthma and that's it Okay and do you use any",
+        "gt_chunk": "P: we've been using a condom mostly.\n\nD: Ok, alright and otherwise are you generally healthy or do you have any medical conditions?\n\nP: Uhm, yeah, I'm I'm generally alright. I do have asthma actually and just, I had diarrhea a few months ago after eating at a buffet. So I think maybe it yeah, it was food poisoning or maybe something like that.\n\nD: Ok.\n\nP: But yeah, so asthma and that's it. \n\nD: Ok, and do you use any"
+    },
+    {
+        "whisper_chunk": "medications for your Okay and do you have any allergies to any medications or any environmental factors I do have environmental allergies I'm not sure if it's like ragweed or pollen but something like that Okay and have you had any hospitalizations or previous surgeries No I haven't had any surgeries Okay and have you had any family history of any medical conditions any autoimmune conditions or any musculoskeletal conditions Yeah my",
+        "gt_chunk": "P: .\n\nD: Ok and do you have any allergies to any medications or any environmental factors?\n\nP: I do have environmental allergies, I I'm not sure if it's like ragweed or or pollen, but something like that.\n\nD: Ok, and have you had any hospitalizations or previous surgeries?\n\nP: Uhm, never.\n\nD: Ok any family history of any medical conditions, any autoimmune conditions or any musculoskeletal conditions?\n\nP: Yeah my"
+    },
+    {
+        "whisper_chunk": "mother has psoriasis Okay Yeah and so she's had to I know use creams and stuff like that for her skin Okay and currently right now do you work I do yeah I work at a bank Okay and your mother so she had psoriasis did she ever have any choice Paint alongside",
+        "gt_chunk": "P: mother has a uh psoriasis.\n\nD: Ok.\n\nP: Yeah, and so she's had to, I know use like like creams and stuff like that for her skin.\n\nD: Ok, and currently right now, do you work?\n\nP: I do, yeah I work uh, at a bank.\n\nD: Ok, and your mother, so she had psoriasis. Did she ever have any joint pains alongside"
+    },
+    {
+        "whisper_chunk": "the psoriasis I don't believe so I think she had just issues with her skin Okay and so you work and then what's your living situation like Yeah so I live with my girlfriend in a condo in the city here Okay and do you use any recreational drugs like marijuana Yes sometimes Yeah I'll smoke",
+        "gt_chunk": "D: the psoriasis?\n\nP: I don't believe so. I think she had just more issues with her with her skin. \n\nD: Ok, and so you work and then what's your living situation like?\n\nP: Yeah, so I live with my girlfriend in a condo in the city here.\n\nD: Ok, and do you use any recreational drugs like marijuana?\n\nP: Yes, sometimes yeah, I'll smoke"
+    },
+    {
+        "whisper_chunk": "like once or twice per week with a friend or something like that Okay and do you smoke No cigarettes no never Okay and do you drink alcohol Sometimes yeah I'll have a beer or two on weekends or a cocktail with friends Okay all right so those were just some of the questions I had Now I'm just gonna quickly",
+        "gt_chunk": "P: like once or twice per week, with that with a friend or something like that.\n\nD: Ok, and do you smoke?\n\nP: No cigarettes, no never.\n\nD: Ok and you drink alcohol?\n\nP: Sometimes, yeah, I'll have a beer or two on weekends or or a cocktail with friends.\n\nD: Ok, alright, so those were just some of the questions I had. Now I'm just going to quickly"
+    },
+    {
+        "whisper_chunk": "ask some specific questions So have you noticed any kind of swelling in the areas that you are having pain or redness or anything like that No I haven't noticed really any redness or swelling Okay and so are you able to bend down and stand up straight or extend backwards without pain or are you in any pain",
+        "gt_chunk": "D: ask some specific questions. So have you noticed any kind of swelling in the areas that you are having pain or redness or anything like that?\n\nP: Uhm no, I haven't noticed really any any uh redness or or swelling \n\nD: OK and no so, are you able to bend down and stand up straight or extend backwards so without pain or are you in any pain"
+    },
+    {
+        "whisper_chunk": "Okay I do get it's a bit stiff Yeah I'm not really too sure Like not really it's more stiff Okay and yeah other than that do you have any questions or concerns Yeah I was just wondering",
+        "gt_chunk": "P: , I do get it. It's a bit stiff. Uhm I, uh, yeah, I'm not really too sure it's like, not really, it's more more more stiff.\n\nD: Ok, and yeah, other than that, do you have any questions or concerns?\n\nP: Uhm, yeah, I was just wondering"
+    },
+    {
+        "whisper_chunk": "yeah like what this could be possibly Yeah so definitely what so this seems like it started like three months to six months ago and it's been going on and it's happening in the morning And how old did you say you were I'm 20 26 Okay yeah so and it seems progressive and you're getting some pain in your other joints as well",
+        "gt_chunk": "P:  like what what this could be possibly?\n\nD: Yeah, so definitely what so this this seems like it started off like 3 months or six months ago, and it's been going on and it's happening in the morning. And how old did you say you were?\n\nP: Uhm I'm 26. \n\nD: OK, yeah, so uh, it seems progressive and you're getting some pain in your other joints as well"
+    },
+    {
+        "whisper_chunk": "and it's mainly from your middle to lower back It can be multiple things that you would have to rule out So first you have a family history of psoriasis so it can be psoriatic arthritis You don't have any other skin changes or any other symptoms It can also be since you have had a you were sick four months ago with what might be gastroenteritis it can be sometimes a few months",
+        "gt_chunk": "D: and it's mainly from your middle to lower back. It can be multiple things that we would have to rule out. So you first you have a family history of psoriasis so it can be psoriatic arthritis. You don't have any other skins, changes or any other symptoms. It can also be since you have had a you were sick for months ago with a what might be gastroenteritis. It can be sometimes a few months"
+    },
+    {
+        "whisper_chunk": "afterwards you can get something called reactive arthritis where you get this progressive pain in your joints and stiffness And otherwise it can also be something called ankylosing spondylitis which can present in your age and it's kind of like a progressive dull back pain and that has some morning stiffness as well So yeah there's definitely multiple things that it can be So first we would need to do a full physical examination and book an",
+        "gt_chunk": "D: afterwards you can get something called reactive arthritis - where you get this progressive pain in your joints and stiffness. And otherwise it can also be something called ankylosing spondylitis, which can present in men your age and it's kind of like a progressive, dull back pain and that has some morning stiffness as well. So yeah, there's definitely multiple things that it can be. So first we would need to do a full physical examination and book an"
+    },
+    {
+        "whisper_chunk": "appointment for that in person And we will get some lab work done as well as well as a x ray of the spine and your sacroiliac joints And we'll also get some blood work with CBC CRP and ESR So those are just inflammatory markers as well as the rheumatoid factor and nuclear antibodies Those are just some things that we'll test for different kind of",
+        "gt_chunk": "D: appointment or for that in person. And we will get some lab work done as well, as well as a X Ray of the of the spine and your sacroiliac joints. And we'll also get some blood work with CBC, CRP and ESR. So those are just inflammatory markers as well as the rheumatoid factor antinuclear antibodies. Those are just some things that will test for different kind of"
+    },
+    {
+        "whisper_chunk": "rheumatological issues to see if you have any arthritis So yeah those are And then we'll also get an x ray of your hands and knees since you're having pain there as well So yeah those are some steps that we'll take Do you have any questions or concerns No that sounds great Thank you All right yeah So we'll get in touch with you shortly Sounds great Thank you All right take care Bye Bye",
+        "gt_chunk": "D: rheumatological issues and to see if you have any arthritis. So yeah those are and then will also get an X Ray of your hands and knees since you're having pain there as well. So yeah, those are some steps that we'll take. Do you have any questions or concerns?\n\nP: No, that that sounds, that sounds great, thank you.\n\nD: Alright, yeah, so I will get in touch with you shortly.\n\nP: Sounds great, thank you.\n\nD: Alright, take care.\n\nP: Bye.\n\nD: Bye"
+    }
+]

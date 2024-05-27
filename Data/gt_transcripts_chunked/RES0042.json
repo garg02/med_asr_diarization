@@ -1,0 +1,70 @@
+[
+    {
+        "whisper_chunk": "what brings you in today So just for the past three days I've been coughing I don't feel particularly sick It's just this kind of dry annoying cough that won't go away And then today I took my temp and it was pretty high It was like 99 9 I didn't really take it the other days So I guess so I just thought I better come and get it checked out Cause I",
+        "gt_chunk": "D: What brings you in today?\n\nP: So, just for the past, like 3 days I've been coughing. It's I I don't feel particularly sick. I'm just kind of dry like annoying call that won't go away and then today I took my temp in it It's pretty high. It was like 99 point like 9. I didn't really take it the other days, so I guess so I just thought I'd better come get it checked out because I"
+    },
+    {
+        "whisper_chunk": "am on like a biologic medication for my Crohn's disease Okay yeah Yeah thank you for coming in I think it's good that you are getting this checked out as early as possible So just to rewind a little bit when did your dry cough start Like three days ago Three days ago okay And when did your fever start So I didn't",
+        "gt_chunk": "P: am on like a biologic medication, so, for my Crohn's disease. \n\nD: OK, yeah. Yeah, thank you for coming in. I think it's good that you are getting this checked out as early as possible. So just to rewind a little bit. When did your dry cough start?\n\nP: Uh, like 3 days ago three days ago.\n\nD: 3 days ago, OK. And when did your fever start?\n\nP: So I didn't"
+    },
+    {
+        "whisper_chunk": "take my temp like the other days but like for sure this morning Okay Okay so the cough is it always a dry cough or do you sometimes bring up sputum or blood Yeah it's always a dry cough It's really just annoying I think Yeah Yeah Do you feel wheezy at all No No wheeziness okay How about short of breath No No okay Any chest pain No No do you ever feel like your heart",
+        "gt_chunk": "P: take my temp, but like the other days, but like for sure this morning.\n\nD: OK um, OK, so the cough is it always a dry cough or do you sometimes bring up sputum or blood?\n\nP: Yeah, it's always a dry cough. It's really just annoying.\n\nD: Yeah, yeah. Do you feel wheezy at all?\n\nP: Uh, no. \n\nD: No wheeziness, OK. How about short of breath?\n\nP: No. \n\nD: No OK. Uhm, any chest pain?\n\nP: No.\n\nD: No. Do you ever feel like your heart"
+    },
+    {
+        "whisper_chunk": "is racing No I can't say that I do Okay any swelling in your limbs No Okay How about a sore throat No No sore throat okay Any issues with taste or smell No Do you have a runny nose or a stuffy nose Maybe a bit of a runny nose Okay any issues with vision or hearing",
+        "gt_chunk": "D: is racing?\n\nP: No, I can't say that I do.\n\nD: OK, any swelling in your limbs?\n\nP: Um, no. \n\nD: OK, how about um, um a sore throat?\n\nP: No. \n\nD: No sore throat, OK. Any issues with taste or smell?\n\nP: No. \n\nD: Do you have a runny nose or a stuffy nose?\n\nP: Maybe a bit of a runny nose. \n\nD: OK. And any issues with vision or hearing"
+    },
+    {
+        "whisper_chunk": "No Okay How about fevers or chills No No any of that I'm sorry the fever I mean I took my temperature it was hot I guess I felt hot but there were no chills Okay okay How about weight loss Oh that's okay How about weight loss Weight loss No nothing new Okay Any changes in your hair nails or skin like rashes No Okay Any issues swallowing food",
+        "gt_chunk": "P: no. \n\nD: OK, how about, uh, fevers or chills?\n\nP: No, no fever. I mean I I took my temp was high. I guess I felt hot but I didn't, there were no chills. \n\nD: OK, OK, how about weight loss? Oh that's OK. How about weight loss?\n\nP: Weight loss? No, no, nothing, nothing new.\n\nD: OK. Any changes in your hair, nails, or skin? Like rashes?\n\nP: No. \n\nD: OK. Um, any issues swallowing food"
+    },
+    {
+        "whisper_chunk": "No Nausea or vomiting No Changes in your bowel habits Well like I said I have Crohn's disease I'm not like in a flare right now or anything so I'll say no but like my baseline is not like totally normal Okay yeah that makes sense All right Do any changes in your urine No No changes in How about dizziness or fainting",
+        "gt_chunk": "P: No. \n\nD: Nausea or vomiting? \n\nP: No. \n\nD: Um, changes in your bowel habits?\n\nP: Well, like I said I have Crohn's disease. I'm not like in a flare right now or anything, so I'll say no, but like my baseline is not like totally normal.\n\nD: OK yeah, that makes sense. Umm, alright. Do any changes in your urine? \n\nP: No.\n\nD: No changes in urine.\n\nD: How about dizziness or fainting"
+    },
+    {
+        "whisper_chunk": "spells No Any confusion or memory loss No Okay and are you otherwise healthy I know you mentioned you have Crohn's disease Do you have any other longstanding medical conditions Not really just that and eczema Eczema okay I think it can sometimes get pretty bad Like I don't really have any right now but I really stay on top of it with like my moisturizers and like I always have like a hydrocortisone cream on hand just in case Yeah for sure How long have you had eczema for",
+        "gt_chunk": "D: spells?\n\nP: No. \n\nD: Any confusion or memory loss? \n\nP: No.\n\nD: OK, and are you otherwise healthy? I know you mentioned you have Crohn's disease. Do you have any other longstanding medical conditions? \n\nP: Oh, not really. Just that, and, uh, eczema.\n\nD: Eczema, OK. \n\nP: Tends to get pretty bad, like I don't really have any right now, but I really stay on top of it with like my moisturizers and like I always have like a hydrocortisone cream on hand just in case.\n\nD: Yeah, for sure. How long have you had eczema for"
+    },
+    {
+        "whisper_chunk": "Oh like when I started when I was like a kid And then I feel like when I was a teenager I didn't really and then kind of as an adult I really have to take care of it or else it gets bad Okay okay Have you ever been hospitalized or have you had any surgeries in the past Like when I was first diagnosed with Crohn's maybe 20 years ago when I was like 20 I was in the hospital for a little",
+        "gt_chunk": "P: Oh, like when I was, started when I was like a kid and then I feel like when I was a teenager I didn't really, and then part of it as an adult I really have to take care of it or else it gets bad.\n\nD: OK OK. Um, have you ever been hospitalized or have you had any surgeries in the past?\n\nP: Uh, like when I was first diagnosed with Crohn's maybe 20 years ago, when I was like 20, I was in the hospital for a little"
+    },
+    {
+        "whisper_chunk": "bit because I was really dehydrated and I couldn't really like I just yeah I wasn't feeling well at that time But since then I've been pretty on top of it Okay that's good to hear You mentioned you're on biologics for Crohn's disease Are there any other medications that you're on It's just like the hydrocortisone cream like on occasion Right okay okay",
+        "gt_chunk": "P: bit 'cause I was really dehydrated and I couldn't really like, I just couldn't I wasn't feeling well at that time, but since then I've been pretty on top of it.\n\nD: OK, that's good to hear. You mentioned you're on biologics for Crohn's disease? Are there any other medications that you're on?\n\nP: Um, just like the hydrocortisone, cream on occasion.\n\nD: Right."
+    },
+    {
+        "whisper_chunk": "and do you have any allergies Like I have some seasonal allergies like the ragweed which is not like right now is not the time for it and like cats and dogs Okay okay It's like just environmental It's not like the really dangerous allergies you know Right okay How about immunizations Are you up to date I think so All right and in terms of",
+        "gt_chunk": "D: and. Do you have any allergies?\n\nP: Ah, like I have some seasonal allergies, like ah, its ragweed, which is not like right now, is not the time for it. And like cats and dogs.\n\nD: OK. OK.\n\nP: It's just like this environmental, it's not like not like the really dangerous allergies, you know?\n\nD: Right, OK. Um, how about immunizations? Are you up to date?\n\nP: I think so. \n\nD: Alright, and in terms of"
+    },
+    {
+        "whisper_chunk": "family history are there any lung conditions or heart conditions Like my dad had high blood pressure but other than that I don't think there's anything that stood out Okay How about your smoking history Do you smoke at all Like I did for a couple years when I was like 18 and then I haven't ever since Okay how about marijuana No No marijuana okay How",
+        "gt_chunk": "D: family history, are there any lung conditions or heart conditions?\n\nP: Oh, like my dad had high blood pressure, but other than that I don't think there is anything that stood out. \n\nD: OK. And how about your smoking history? Do you smoke at all? \n\nP: Um, like I did for a couple years when I was like 18 and then I haven't ever since.\n\nD: OK, how about marijuana?\n\nP: Uh, no.\n\nD: No marijuana?"
+    },
+    {
+        "whisper_chunk": "about other recreational drugs No No okay Alcohol Like I might have like a couple beers on the weekend Okay sure For a lot Sure And where do you live right now So I live in a townhouse in London here I live alone but I have my kids every I have my kids like Wednesdays and Thursdays and then every other weekend Okay Any concerns",
+        "gt_chunk": "D: about other recreational drugs?\n\nP: Uh, no.\n\nD: No, OK. Uhm, alcohol?\n\nP: Ah, I like I might have like a couple beers on the weekend, but not a lot.\n\nD: Sure, um. And where do you live right now?\n\nP: So I live in a townhouse in London here. I live alone, but my I have my kids every, I have my kids like Wednesdays and Thursdays and then every other weekend.\n\nD: OK, any concerns"
+    },
+    {
+        "whisper_chunk": "for old carpets mold asbestos anything like that in the home No it's like a pretty new build Okay and have you been around any sick contacts recently I mean my kids just left this weekend Those are the only people I've been around Maybe I should have asked them before coming here if they like knew if they had seen anyone but they were fine over the weekend Okay",
+        "gt_chunk": "D: for old carpets, mold, asbestos, anything like that in the home?\n\nP: No, it's like a pretty new build.\n\nD: OK, and have you been around any sick contacts recently?\n\nP: Ah I mean, my kids just left this weekend. Uhm, there's really only people I've been around. I can, I maybe I should have asked him before coming here if they like knew they had seen anyone but they were fine, over the weekend. \n\nD: OK"
+    },
+    {
+        "whisper_chunk": "And have you traveled to anywhere recently No No okay Those were all the questions that I had today Was there anything else that you wanted to add anything that I missed perhaps I don't think so I think that's it Okay You know I hope I just wanted to come in in case it was something sad just because I you know I have those other health problems I just want to make sure that  Yeah Yeah Yeah for sure And I think it's a good thing",
+        "gt_chunk": "D: and have you traveled to anywhere recently?\n\nP: No.\n\nD: No, OK. Those were all the questions that I had today were there was there anything else that you wanted to add? Anything that I missed perhaps?\n\nP: I don't think so. I think that's it.\n\nD: OK.\n\nP: You know, I hope I hope I just wanted to come in in case it was something bad because I you know I have those other health problems. I just want to make sure. Yeah.\n\nD: Yeah, yeah for sure and I think it's a good thing"
+    },
+    {
+        "whisper_chunk": "that you came in So thank you Right now I guess top on the list of things that you could possibly have is COVID So we'll get you tested for that We'll get you a swab and you should have the results of that swab in about 24 to 48 hours You should isolate for 14 days regardless though because your symptoms do overlap with symptoms of COVID And that includes isolating",
+        "gt_chunk": "D: that you came in, so thank you. Right now, I guess top on the list of things that you could possibly have is COVID, so we'll get you tested for that and we'll get you a swab and you should have the results of the that swab in about 24 to 48 hours and then you should isolate for 14 days regardless though because your symptoms do overlap with symptoms of COVID. And, and that includes isolating"
+    },
+    {
+        "whisper_chunk": "from your children as well And yeah and if it's not COVID it could be another viral illness that's going around at this time of year Just so just make sure you're staying hydrated you're eating nutritious foods and getting good sleep If your symptoms do become worse and if they become severe like you have a really high temperature you have trouble breathing or you have any",
+        "gt_chunk": "D:  your children as well. \n\nP: Oh ok.\n\nD: And yeah, and if it's not COVID, it could be another viral illness that's going around at this time of year, just so just make sure you're staying hydrated, you're eating nutritious foods and getting good sleep. If your symptoms do become worse, and if they become uhm, severe like you have a really high temperature, you have trouble breathing or you have any"
+    },
+    {
+        "whisper_chunk": "neurological symptoms like seizures or fainting spells please do go to the ER and seek help How does that sound Yeah I guess that sounds good I guess that's how it's gotta be right Yeah unfortunately or yeah Well thank you again No thank you Have a good day You too",
+        "gt_chunk": "D: neurological symptoms like seizures or fainting spells, please do go to the ER and seek help. How does that sound?\n\nP: Ah yeah, I guess that sounds good. This is how it's gotta be, right?\n\nD: Yeah, unfortunately, or yeah. Well, thank you again.\n\nP: No, thank you. Have a good day.\n\nD: You too"
+    }
+]

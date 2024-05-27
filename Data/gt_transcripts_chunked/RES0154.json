@@ -1,0 +1,66 @@
+[
+    {
+        "whisper_chunk": "how may I help you Hi Chris so yeah I just came to the hospital because I've just been feeling over the last few days just I can't really take like a deep breath and then I've also been coughing up this greenish yellowish material Okay and when did this cough start sorry I think the cough started like four days ago and then the shortness",
+        "gt_chunk": "D: how may I help you?\n\nP: Hi, so yeah I just came to the hospital because I've just been feeling over the last um few days uh just I can't really take like a deep breath. And then I've also been coughing up uh this greenish yellowish material.\n\nD: Oh OK, and when did this uh cough start? Sorry. \n\nP: So I think the cough started like 4 days ago and then the shortness"
+    },
+    {
+        "whisper_chunk": "of breath started just yesterday Okay and it's been yellowish green were you coughing up sputum prior to this and or did you have a cough before this No not really Okay and have you noticed any blood No no blood All right and the shortness of breath are you experiencing this at rest or with exertion No like at rest even right now I'm",
+        "gt_chunk": "P: of breath started uh just yesterday.\n\nD: OK, um and it's been yellowish green, were you coughing up sputum prior to this and um or did you have a cough before this?\n\nP: No, not really. \n\nD: OK. Um and have you noticed any blood?\n\nP: No, no blood. \n\nD: Alright, um and the shortness of breath, are you experiencing this at rest or um or with exertion?\n\nP: No, like at rest, even right now I'm"
+    },
+    {
+        "whisper_chunk": "like having trouble taking deep breaths Okay are you feeling any any chest pain Not pain but there's definitely some straining and discomfort when I take a deep breath Okay is the discomfort worse when you take a deep breath Yeah it's just like I just have to strain a lot to like take that deep breath Okay and have you noticed any wheezing No wheezing Okay",
+        "gt_chunk": "P: like having trouble taking deep breaths.\n\nD: OK are you feeling any uh any chest pain?\n\nP: Um not pain, but there's definitely some straining and discomfort when I take a deep breath.\n\nD: OK is it, is the discomfort worse when you take a deep breath?\n\nP: Uh yeah, it's just like I just have to strain a lot to like take that deep breath.\n\nD: OK, um and uh have you noticed any wheezing?\n\nP: No wheezing.\n\nD: OK"
+    },
+    {
+        "whisper_chunk": "and have you had any shortness of breath or do you have any shortness of breath have you lie flat No not really not that I've Okay or have you had any times where you've woken up from sleep because you were short of breath and you had to sit up No All right and have you had any fevers or chills I have had a fever like today I had a fever",
+        "gt_chunk": "D: and have you had any shortness of breath or do you have any shortness of breath if you lie flat?\n\nP: Uh, no, not really. Not that I've noticed.\n\nD: OK, or have you had any uh times where you've uh woken up um from sleep because you were short of breath and you had to sit up?\n\nP: Uh no. \n\nD: Alright. Um and have you had any uh fevers or chills?\n\nP: I have had a fever like today, I had a fever"
+    },
+    {
+        "whisper_chunk": "and measured it was like 38 5 yesterday I felt like I had chills and a fever as well Okay yeah certainly sounds like a fever and have you had any night sweats Last night I would say I had night sweats my sheets were a bit drenched Okay and have you had a sore throat No A change of or loss of smell loss of taste No nothing like that Okay have you had a runny nose or",
+        "gt_chunk": "P:  measured it was like 38.5. Yesterday, I felt like I had chills and a fever as well.\n\nD: OK, yeah, certainly sounds like a fever and have you had any night sweats?\n\nP: Last night, I would say I had night sweats. My sheets were a bit drenched. \n\nD: OK. And have you had a sore throat?\n\nP: No.\n\nD: Changes to uh, loss of smell, loss of taste?\n\nP: No, nothing like that. \n\nD: OK, have you had a runny nose or"
+    },
+    {
+        "whisper_chunk": "felt congested Nope Okay and how about any eye symptoms like redness or itchiness pain No nothing like that Okay and have you had any instances of fainting or feeling busy No Any abdominal pain No Any nausea or vomiting No Any diarrhea No Okay any rashes No And then any muscle aches or body pains No not that I know",
+        "gt_chunk": "D: felt congested?\n\nP: No. \n\nD: OK, um and how about any eye symptoms like redness or itchiness, pain?\n\nP: Uh, no, nothing like that. \n\nD: OK. Uhm and um have you had any uh instances of fainting or feeling dizzy?\n\nP: Nope. \n\nD: Any abdominal pain?\n\nP: No.\n\nD: Any nausea or vomiting?\n\nP: No.\n\nD: Any diarrhea?\n\nP: No.\n\nD: OK, any rashes? \n\nP: No rashes.\n\nD: Um and then any muscle aches or body pains?\n\nP: No, not that I know"
+    },
+    {
+        "whisper_chunk": "of Okay and how has your energy been Have you had any fatigue or malaise the last several days Yeah I would say so I just feel like I don't know if it's to do with the short of being short of breath but yeah I just feel like I've just been needing more rest Okay and have you had any headaches No No all right so yeah you've had this cough and you're bringing up more sputum and shortness of breath and and you've had a fever as",
+        "gt_chunk": "P: of.\n\nD: OK, and how has your energy been? Have you had any fatigue or malaise the last several days?\n\nP: Yeah, I would say so. I just feel like I don't know if it's to do with the short, of being short of breath, but yeah, I just feel like I've just been needing more rest.\n\nD: OK, OK and have you had any headaches?\n\nP: No.\n\nD: No, alright, um so you've had this uh cough and you've been bringing up more sputum and shortness of breath and um and you've had a fever as"
+    },
+    {
+        "whisper_chunk": "well Have you been experiencing any other symptoms No I think those are pretty much all the symptoms Okay and in the past have you been diagnosed with any medical conditions before I do have I take medications for high blood pressure then I take medications for high cholesterol as well Okay and do you take any other",
+        "gt_chunk": "D: well, um have you been experiencing any other symptoms?\n\nP: Um no, I think those are pretty much all the symptoms.\n\nD: OK. Um and in the past, have you been diagnosed with any medical conditions before?\n\nP: I do have, uh I take medications for high blood pressure. Um then I take medications for high cholesterol as well. \n\nD: OK. Um and do you take any other"
+    },
+    {
+        "whisper_chunk": "medications Just vitamin D calcium multivitamins All right any allergies to medications Not that I know of All right does that any prior surgeries or hospitalizations Yeah I've had a few so I had a c section in my 20s Then I had just say five years ago I had my gallbladder",
+        "gt_chunk": "D: medications?\n\nP: Um just uh vitamin D calcium multi vitamins.\n\nD: Alright, any allergies to medications?\n\nP: Not that I know of.\n\nD: Alright, any prior surgeries or hospitalizations?\n\nP: Uh yeah, I've had a few. Uh so I had a C-section in my twenties. Um then I had just uh five years ago, I had a um my gallbladder"
+    },
+    {
+        "whisper_chunk": "removed Okay and could you tell me a little bit about your living situation like who you're living with Yes I'm living alone right now just in an apartment Okay have you been around anybody who's been sick No",
+        "gt_chunk": "P: removed.\n\nD: OK. Um and uh could you tell me a little bit about your living situation? Like who you're living with and and whereabouts?\n\nP: Yeah, so I'm living alone right now. Um, just in an apartment.\n\nD: OK, have you been around anybody who's been sick?"
+    },
+    {
+        "whisper_chunk": "I not anyone that I know of I do I did see my just grandkids just last week though Okay and is it did they have a runny nose like that Not that I noticed no Okay and have you traveled anywhere recently No I've been at home Okay",
+        "gt_chunk": "P: I, not anyone that I know of. I do, I I did see my just randkids just last week, though.\n\nD: OK, did they have a runny nose? Any symptoms like that?\n\nP: Not that I noticed, no.\n\nD: OK. Um have you traveled anywhere recently?\n\nP: No, I've been at home."
+    },
+    {
+        "whisper_chunk": "and do you smoke cigarettes No I probably smoked for a very short time for like probably five years of my life in my drugs No Okay and any family history of heart or lung",
+        "gt_chunk": "D: and do you smoke cigarettes?\n\nP: No, I probably smoked for a very short time for like probably five years of my life in my 20s.\n\nD: OK, uh, do you"
+    },
+    {
+        "whisper_chunk": "conditions I do have my father passed away from a heart attack in his 50s My brother has high blood pressure diabetes and on my mom's side she had like osteoarthritis Okay and any cancer that is in the family Skin cancer on my father's side",
+        "gt_chunk": "D: conditions?\n\nP: Uh, I do have uh, my father passed away from a heart attack in his 50s. My brother has um high blood pressure, diabetes. Um and on my mom's side, she had like osteoarthritis.\n\nD: OK, and any cancer that is in the family?\n\nP: Um skin cancer, on my um father's side"
+    },
+    {
+        "whisper_chunk": "Okay and have you had antibiotics recently like or within the last six months for any reason No no antibiotics Okay so that was everything that I wanted to ask today on on history was there anything that you also you wanted to mention I maybe forgot",
+        "gt_chunk": "D:  and have you had antibiotics recently or within the last six months for any reason?\n\nP: No, no antibiotics.\n\nD: OK, so, so that was everything that I wanted to ask today on uh on history. Um was there anything that you also wanted to mention I I maybe forgot"
+    },
+    {
+        "whisper_chunk": "No I a pneumonia which could be bacterial or viral as well as the possibility of something like like COVID which is of course a concern for today so we will go ahead and start",
+        "gt_chunk": "D:  pneumonia which could be bacterial or viral, um as well as the possibility of um something like uh like Covid, which is of course a concern for today. So we will go ahead and start"
+    },
+    {
+        "whisper_chunk": "those pneumonia so we'll also get a chest x ray as well Okay all right sounds good",
+        "gt_chunk": "D: uh pneumonia so we'll also get a chest X-ray as well."
+    }
+]
