@@ -11,6 +11,7 @@ with open('/Users/ishita/Downloads/CAR0003_whisper.json', 'r') as f:
 with open('/Users/ishita/Downloads/CAR0003_ground_truth.txt', 'r') as f:
     ground_truth_text = f.read()
 
+
 # Function to chunk the data into 30-second segments
 def chunk_data_by_time(data, duration=30):
     chunks = []
