@@ -9,20 +9,34 @@ import argparse
 speaker_attribution_pattern = re.compile(r'\b[A-Za-z]+:\s*')
 extra_whitespace_pattern = re.compile(r'\s+')
 
-# Function to chunk the data into 30-second segments
+
 def chunk_data_by_time(data, duration=30):
     chunks = []
     current_chunk = []
     current_time = 0
+    last_end = None
 
     for item in data:
-        if current_time + item['end'] - item['start'] <= duration:
+        item_start = item['start']
+        item_end = item['end']
+        item_duration = item_end - item_start
+
+        if last_end is not None:
+            gap = item_start - last_end
+        else:
+            gap = 0
+
+        if current_time + gap + item_duration <= duration:
+            if gap > 0:
+                current_time += gap
             current_chunk.append(item)
-            current_time += item['end'] - item['start']
+            current_time += item_duration
         else:
             chunks.append(current_chunk)
             current_chunk = [item]
-            current_time = item['end'] - item['start']
+            current_time = item_duration
+
+        last_end = item_end
 
     if current_chunk:
         chunks.append(current_chunk)
