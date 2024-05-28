@@ -1,7 +1,8 @@
 import json
-import jsonlines
 import torchaudio
 import os
+import random
+from collections import defaultdict
 
 # Paths to your input directories
 json_dir = '/Users/ishita/med_asr_diarization/Data/gt_chunked_data_may_27'
@@ -45,4 +46,31 @@ def process_data(json_dir, output_file, audio_dir):
     with open(output_file, 'w') as outfile:
         json.dump(output_data, outfile, indent=4)
 
-process_data(json_dir, output_file, audio_dir)
+
+def split_data(input_file, train_file, test_file, split_ratio=0.8):
+    with open(input_file, 'r') as f:
+        data = json.load(f)
+    grouped_data = defaultdict(list)
+    for item in data:
+        grouped_data[item['whisper_chunk']].append(item)
+    grouped_data = list(grouped_data.items())
+    random.shuffle(grouped_data)
+    split_index = int(len(grouped_data) * split_ratio)
+    train_data = [item for group in grouped_data[:split_index] for item in group[1]]
+    test_data = [item for group in grouped_data[split_index:] for item in group[1]]
+    with open(train_file, 'w') as f:
+        json.dump(train_data, f, indent=4)
+
+    with open(test_file, 'w') as f:
+        json.dump(test_data, f, indent=4)
+
+    print(f"Training data saved to {train_file}")
+    print(f"Test data saved to {test_file}")
+
+
+if __name__ == "__main__":
+    # process_data(json_dir, output_file, audio_dir)
+    input_file = '/Users/ishita/med_asr_diarization/output_data.json'
+    train_file = '/Users/ishita/med_asr_diarization/train_data.json'
+    test_file = '/Users/ishita/med_asr_diarization/test_data.json'
+    split_data(input_file, train_file, test_file)
