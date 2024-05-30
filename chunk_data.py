@@ -5,6 +5,7 @@ import json
 from Levenshtein import ratio as levenshtein_ratio
 import re
 import argparse
+# import SmithWaterman
 
 speaker_attribution_pattern = re.compile(r'\b[A-Za-z]+:\s*')
 extra_whitespace_pattern = re.compile(r'\s+')
@@ -14,29 +15,16 @@ def chunk_data_by_time(data, duration=30):
     chunks = []
     current_chunk = []
     current_time = 0
-    last_end = None
 
     for item in data:
-        item_start = item['start']
         item_end = item['end']
-        item_duration = item_end - item_start
 
-        if last_end is not None:
-            gap = item_start - last_end
-        else:
-            gap = 0
-
-        if current_time + gap + item_duration <= duration:
-            if gap > 0:
-                current_time += gap
+        if item_end < current_time + 30:
             current_chunk.append(item)
-            current_time += item_duration
         else:
             chunks.append(current_chunk)
             current_chunk = [item]
-            current_time = item_duration
-
-        last_end = item_end
+            current_time += 30
 
     if current_chunk:
         chunks.append(current_chunk)
@@ -50,6 +38,15 @@ def reconstruct_text_from_chunks(chunks):
         chunk_text = ' '.join([word['word'] for word in chunk])
         chunk_texts.append(chunk_text)
     return chunk_texts
+
+# def find_best_matching_chunk(gt_text, whisper_chunk, start_idx=0):
+#     cleaned_text = speaker_attribution_pattern.sub('', gt_text)
+#     cleaned_text = extra_whitespace_pattern.sub(' ', cleaned_text)
+#     cleaned_text.split()
+#     align_sw = SmithWaterman()
+#     get_alignment
+#     return best_start, best_end
+
 
 def find_best_matching_chunk(gt_text, whisper_chunk, start_idx=0):
     word_boundaries = [m.start() for m in re.finditer(r'\b', gt_text)]
@@ -145,7 +142,7 @@ def main(whisper_dir, ground_truth_dir, output_dir, duration):
     for whisper_file in whisper_files:
         args.append((whisper_file, ground_truth_dir, output_dir, duration))
 
-    with Pool(processes=10) as pool:
+    with Pool(processes=16) as pool:
         pool.map(process_file, args)
 
 if __name__ == "__main__":

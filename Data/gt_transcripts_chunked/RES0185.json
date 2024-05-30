@@ -1,62 +1,82 @@
 [
     {
-        "whisper_chunk": "what brings you in I've had a really runny nose and kind of feeling like my nose has been obstructed and kind of had this like sore throat as well over the last several days Okay so did the runny nose start first or the nasal obstruction Yeah they kind of started around the same time Okay and when was that",
-        "gt_chunk": "D: What brings you in? \n\nP: I've I I've had a, ah really runny nose and kind of feeling like like my nose has been obstructed. And I've kind of had this like sore throat as well over the last several days.\n\nD: OK, so did the rhino start first or the nasal obstruction?\n\nP: Yeah, they they kind of started it around the same time.\n\nD: OK, and when was that"
+        "whisper_chunk": "what brings you in I've had a really runny nose and kind of feeling like my nose has been obstructed and kind of had this like sore throat as well over the last several days Okay so did the runny nose start first or the nasal obstruction Yeah they kind of started around the same time",
+        "gt_chunk": "D: What brings you in? \n\nP: I've I I've had a, ah really runny nose and kind of feeling like like my nose has been obstructed. And I've kind of had this like sore throat as well over the last several days.\n\nD: OK, so did the rhino start first or the nasal obstruction?\n\nP: Yeah, they they kind of started it around the same time"
     },
     {
-        "whisper_chunk": "About four days ago Four days ago and then when did the sore throat start Yeah that started about two days ago Two days ago okay And the discharge is it pretty clear and watery So you're not seeing anything yellow green or bloody No nothing like that I haven't seen any yellow green or or bloody Okay and then your sore throat",
-        "gt_chunk": "P: About four days ago.\n\nD: Four days ago. And then when did the sore throat start? \n\nP: Uh, yeah, that started about two days ago.\n\nD: Two days ago, OK. And and the, uh discharge is it is it clear? Or are you seeing colors?\n\nP: It's pretty clear and watery.\n\nD: So you're not seeing anything yellow, green or bloody?\n\nP: No, not nothing like that. I haven't seen any yellow, green or or bloody.\n\nD: OK and then your sore throat"
+        "whisper_chunk": "Okay and when was that About four days ago Four days ago and then when did the sore throat start Yeah that started about two days ago Two days ago okay And the discharge is it pretty clear and watery So you're not seeing anything",
+        "gt_chunk": "D: OK, and when was that?\n\nP: About four days ago.\n\nD: Four days ago. And then when did the sore throat start? \n\nP: Uh, yeah, that started about two days ago.\n\nD: Two days ago, OK. And and the, uh discharge is it is it clear? Or are you seeing colors?\n\nP: It's pretty clear and watery.\n\nD: So you're not seeing anything"
     },
     {
-        "whisper_chunk": "is it making it hard for you to swallow solids and Yeah actually I started to have a bit of a cough just this past day It's just started Is it a dry cough or is it a wet cough It's dry It's dry okay so you're not bringing up any sputum or",
-        "gt_chunk": "D: , any coughing?\n\nP: Yeah, actually I started to have a bit of a cough. Uh, just this past day it's it's just started.\n\nD: Is it a dry cough or is it a wet cough?\n\nP: It's dry.\n\nD: It's dry, OK. So you're not bringing up any sputum or"
+        "whisper_chunk": "yellow green or bloody No nothing like that I haven't seen any yellow green or or bloody Okay and then your sore throat is it making it hard for you to swallow solids and Yeah actually I started to have a bit of a cough",
+        "gt_chunk": "D: yellow, green or bloody?\n\nP: No, not nothing like that. I haven't seen any yellow, green or or bloody.\n\nD: OK and then your sore throat. Is it making it hard for you to swallow solids and fluids?\n\nP: No pain with"
     },
     {
-        "whisper_chunk": "blood No sputum or blood Okay good And then any shortness of breath No No Any wheezing No No wheezing okay Any chest pain No No Any fainting spells or dizziness No Okay and then any changes in your vision or hearing No Any changes to your smell or taste No Okay and any weight loss No my weight's been stable Okay how about fevers",
-        "gt_chunk": "D: blood? \n\nP: No sputum or or blood. \n\nD: OK good. And and then any shortness of breath?\n\nP: No. \n\nD: No, any wheezing?\n\nP: No.\n\nD: No wheezing, OK. Any chest pain?\n\nP: No.\n\nD: No, um, any fainting spells or dizziness?\n\nP: No.\n\nD: No, OK. And then any changes in your vision or hearing?\n\nP: No.\n\nD: Any changes to your smaller taste?\n\nP: No. \n\nD: OK. And any weight loss?\n\nP: No, it's been stable.\n\nD: OK, how about fevers"
+        "whisper_chunk": "just this past day It's just started Is it a dry cough or is it a wet cough It's dry It's dry okay so you're not bringing up any sputum or blood No sputum or blood Okay good And then any shortness of breath No No Any wheezing No No wheezing okay Any",
+        "gt_chunk": "P: just this past day it's it's just started.\n\nD: Is it a dry cough or is it a wet cough?\n\nP: It's dry.\n\nD: It's dry, OK. So you're not bringing up any sputum or blood? \n\nP: No sputum or or blood. \n\nD: OK good. And and then any shortness of breath?\n\nP: No. \n\nD: No, any wheezing?\n\nP: No.\n\nD: No wheezing, OK. Any"
     },
     {
-        "whisper_chunk": "No I don't think I've had a Okay any rashes No No Okay and then any changes in your bowel movements No I haven't had any diarrhea or constipation nothing like that Okay nausea",
-        "gt_chunk": "P: No.\n\nD: No, OK. Uhm, any rashes? \n\nP: No.\n\nD: No, OK. Uhm, and then any changes in your bowel movements?\n\nP: No, I haven't had any diarrhea or, or constipation. Nothing like that.\n\nD: OK and nausea"
+        "whisper_chunk": "chest pain No No Any fainting spells or dizziness No Okay and then any changes in your vision or hearing No Any changes to your smell or taste No Okay and any weight loss No my weight's been stable Okay how about",
+        "gt_chunk": "D: chest pain?\n\nP: No.\n\nD: No, um, any fainting spells or dizziness?\n\nP: No.\n\nD: No, OK. And then any changes in your vision or hearing?\n\nP: No.\n\nD: Any changes to your smaller taste?\n\nP: No. \n\nD: OK. And any weight loss?\n\nP: No, it's been stable.\n\nD: OK, how about"
     },
     {
-        "whisper_chunk": "or abdominal pain No abdominal pain Okay any changes in your urine Nope no pain with urination Okay how about gassiness or bloating No I haven't felt anything like that Okay headaches Yeah I have had a bit of a headache It's felt kind of like a pressure",
-        "gt_chunk": "D:  abdominal pain?\n\nP: No abdominal pain.\n\nD: OK, any changes in your urine?\n\nP: No, no pain with urination.\n\nD: OK, how about uhm gassiness or bloating?\n\nP: No, I haven't felt anything like that.\n\nD: OK, headaches?\n\nP: Yeah, I have had a bit of a headache. I felt kind of like a a pressure"
+        "whisper_chunk": "fevers No I don't think I've had a Okay any rashes No No Okay and then any changes in your bowel movements No I haven't had any diarrhea",
+        "gt_chunk": "D: ?\n\nP: No.\n\nD: No, OK. Uhm, any rashes? \n\nP: No.\n\nD: No, OK. Uhm, and then any changes in your bowel movements?\n\nP: No, I haven't had any diarrhea"
     },
     {
-        "whisper_chunk": "Well I felt kind of like a pressure in my face and a headache Okay pressure in your face and a headache Okay and do you normally get these No I think I get headaches just when I'm sick or I don't sleep well And I mean I have been feeling pretty fatigued the last few days and yeah",
-        "gt_chunk": "P: well, I felt kind of like a pressure in my face and a headache. \n\nD: OK. Uhm pressure in your face and a headache, OK. And do you normally get these?\n\nP: Wait, no, I think I get headaches when I'm sick or I don't don't sleep well. And I mean I, I have been feeling pretty fatigued the last few days and, uh, yeah"
+        "whisper_chunk": "or constipation nothing like that Okay nausea or abdominal pain No abdominal pain Okay any changes in your urine Nope no pain with urination Okay how about gassiness",
+        "gt_chunk": "P: or constipation. Nothing like that.\n\nD: OK and nausea or vomiting?\n\nP: No.\n\nD: No, OK. And then how about abdominal pain?\n\nP: No abdominal pain.\n\nD: OK, any changes in your urine?\n\nP: No, no pain with urination.\n\nD: OK, how about uhm gassiness"
     },
     {
-        "whisper_chunk": "Yeah is it the worst Yeah for sure All right and any muscle aches or joint pains No nothing like that No okay good And are you otherwise healthy or do you have any long standing medical conditions I'm healthy I haven't had any conditions Okay",
-        "gt_chunk": "P:  still there.\n\nD: Yeah, for sure. Uhm, alright. And then any muscle aches or joint pains?\n\nP: No, nothing like that.\n\nD: No, OK, good. And are you otherwise healthy or do you have any longstanding medical conditions?\n\nP: I'm healthy, I haven't had any any conditions.\n\nD: OK"
+        "whisper_chunk": "or bloating No I haven't felt anything like that Okay headaches Yeah I have had a bit of a headache It's felt kind of like a pressure Well I felt kind of like a pressure in my face and a headache Okay pressure in your face and a headache Okay and do you normally get",
+        "gt_chunk": "D: or bloating?\n\nP: No, I haven't felt anything like that.\n\nD: OK, headaches?\n\nP: Yeah, I have had a bit of a headache. I felt kind of like a a pressure of, well, I felt kind of like a pressure in my face and a headache. \n\nD: OK. Uhm pressure in your face and a headache, OK. And do you normally get"
     },
     {
-        "whisper_chunk": "that's good Have you been hospitalized for anything Have you ever needed surgeries No I haven't Okay that's good And are you on any medications No medications Okay All right that's good And then are you immunizations up to date They are yes Okay any allergies No allergies Okay any family history of lung or heart conditions No no everyone in the family is healthy Okay do you smoke Nope I don't smoke",
-        "gt_chunk": "D: that's good. Have you been hospitalized for anything? Have you ever needed surgeries?\n\nP: No, I haven't. \n\nD: OK, that's good. And are you on any medications?\n\nP: No medications.\n\nD: Alright, that's good, and then I'm are your immunizations up to date?\n\nP: They are, yes.\n\nD: OK, any allergies?\n\nP: No allergies.\n\nD: OK. Any of your family, history of lung or heart conditions?\n\nP: No. No. Everyone in the family is healthy.\n\nD: OK, do you smoke? \n\nP: Nope, I don't."
+        "whisper_chunk": "these No I think I get headaches just when I'm sick or I don't sleep well And I mean I have been feeling pretty fatigued the last few days and yeah Yeah is it the worst",
+        "gt_chunk": "D: these?\n\nP: Wait, no, I think I get headaches when I'm sick or I don't don't sleep well. And I mean I, I have been feeling pretty fatigued the last few days and, uh, yeah.\n\nD: Yeah. Is it the worst"
     },
     {
-        "whisper_chunk": "Okay how about recreational drugs No well I'll use like I'll have a joint every once in a while like socially with friends but that's I mean maybe a couple of times per month Okay okay How about alcohol to drink Yeah I'll have like a few beers on the weekend maybe So I don't know maybe like four or five Okay Drinks a week Okay And then have you been",
-        "gt_chunk": "P: .\n\nD: How about recreational drugs?\n\nP: No. Well, I I use like I'll have a joint every once in awhile, like socially with friends, but uh, that's I mean, maybe a couple of times per month.\n\nD: OK, OK, how about alcohol? Do you drink?\n\nP: Yeah, I'll have uhm, like I don't know, a few beers on the weekend maybe so I don't know, maybe like four or five drinks per week. \n\nD: OK. And then have you been"
+        "whisper_chunk": "Yeah for sure All right and any muscle aches or joint pains No nothing like that No okay good And are you otherwise healthy or do you have any long standing medical conditions I'm healthy I haven't had",
+        "gt_chunk": "D: Yeah, for sure. Uhm, alright. And then any muscle aches or joint pains?\n\nP: No, nothing like that.\n\nD: No, OK, good. And are you otherwise healthy or do you have any longstanding medical conditions?\n\nP: I'm healthy, I haven't had"
     },
     {
-        "whisper_chunk": "in contact with anyone sick recently No I don't think so I live in a student house though with like four other people Oh I see Yeah I was finishing up some school here in town Okay and have they been sick at all or had similar symptoms I think one of the guys last week had",
-        "gt_chunk": "D: in contact with anyone sick recently?\n\nP: No, I am. I don't, I don't think so. I live, uh, in a student house, though, with that like four other people.\n\nD: Oh, I see. \n\nP: Yeah, just finishing up some school here in town.\n\nD: OK, and had they been sick at all or had similar symptoms?\n\nP: I think one of the guys last week had"
+        "whisper_chunk": "any conditions Okay that's good Have you been hospitalized for anything Have you ever needed surgeries No I haven't Okay that's good And are you on any medications No medications Okay All right that's good And then are you immunizations up to date They are yes",
+        "gt_chunk": "P: any conditions.\n\nD: OK, that's good. Have you been hospitalized for anything? Have you ever needed surgeries?\n\nP: No, I haven't. \n\nD: OK, that's good. And are you on any medications?\n\nP: No medications.\n\nD: Alright, that's good, and then I'm are your immunizations up to date?\n\nP: They are, yes"
     },
     {
-        "whisper_chunk": "a little bit of a cough and I don't know so yeah so he wasn't feeling well Okay okay And have you traveled anywhere recently No been just at home Okay All right So travel And where do you live right now So I just live in a student house with Are there any old carpets you know",
-        "gt_chunk": "P: a little bit of a cough. And I don't know that yeah, said he wasn't wasn't feeling well.\n\nD: OK, OK, and have you traveled anywhere recently?\n\nP: No, been been just at home.\n\nD: OK, Alright, no travel. And where do you live right now?\n\nP: So I, I just live in a student house with a.\n\nD: Oh yeah, sorry, you"
+        "whisper_chunk": "Okay any allergies No allergies Okay any family history of lung or heart conditions No no everyone in the family is healthy Okay do you smoke Nope I don't smoke Okay how about recreational drugs No well I'll use like I'll have a joint every once in a while like socially with",
+        "gt_chunk": "D: OK, any allergies?\n\nP: No allergies.\n\nD: OK. Any of your family, history of lung or heart conditions?\n\nP: No. No. Everyone in the family is healthy.\n\nD: OK, do you smoke? \n\nP: Nope, I don't.\n\nD: How about recreational drugs?\n\nP: No. Well, I I use like I'll have a joint every once in awhile, like socially with"
     },
     {
-        "whisper_chunk": "reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse It's mostly like hardwood or like kind of ceramic flooring so there aren't many carpets and things like that So I guess no No okay All right And those were kind of all the questions that I had Did you have anything to add or anything you wanted to discuss today No I was just",
-        "gt_chunk": "D: reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse?\n\nP: It's mostly like hardwood or like kind of ceramic flooring so there aren't many carpets and things like that, so I guess no.\n\nD: No. OK, alright and those were kind of all the questions that I had. Did you have anything to add or anything you wanted to discuss today?\n\nP: No, I was just"
+        "whisper_chunk": "friends but that's I mean maybe a couple of times per month Okay okay How about alcohol to drink Yeah I'll have like a few beers on the weekend maybe So I don't know maybe like four or five Okay Drinks a week Okay And then have you been",
+        "gt_chunk": "P: friends, but uh, that's I mean, maybe a couple of times per month.\n\nD: OK, OK, how about alcohol? Do you drink?\n\nP: Yeah, I'll have uhm, like I don't know, a few beers on the weekend maybe so I don't know, maybe like four or five drinks per week. \n\nD: OK. And then have you been"
     },
     {
-        "whisper_chunk": "wondering what might be going on now that it's been a few days Yeah for sure So it sounds like you may have a viral infection and because your symptoms overlap with those of COVID we will do a COVID swab on you just to rule that out But from the sounds of what your symptoms are it is most likely to be a common cold in which case you can just manage it with a lot of hydration",
-        "gt_chunk": "P: wondering what might be going on. It's been a few days.\n\nD: Yeah, for sure uhm so it sounds like you may have a viral infection, and because your symptoms overlap with those of Covid, we will do a Covid swab on you just to rule that out. Uhm, but from the sounds of what your symptoms are, it, it is most likely to be a common cold, in which case you can just manage it with a lot of hydration"
+        "whisper_chunk": "in contact with anyone sick recently No I don't think so I live in a student house though with like four other people Oh I see Yeah I was finishing up some school here in town Okay and have they been sick at all or had",
+        "gt_chunk": "D: in contact with anyone sick recently?\n\nP: No, I am. I don't, I don't think so. I live, uh, in a student house, though, with that like four other people.\n\nD: Oh, I see. \n\nP: Yeah, just finishing up some school here in town.\n\nD: OK, and had they been sick at all or had"
     },
     {
-        "whisper_chunk": "nutrition good sleep But if your symptoms get worse or they're not going away after a couple of weeks or you're having neurological deficits like weakness or seizures you should get help from the ER Does that sound okay Yeah for sure I haven't had any symptoms like that so far so that's good Yeah for sure All right Take care Take care Thank you Thank you",
-        "gt_chunk": "D: nutrition, good sleep. But if your symptoms get worse or they're not going away after a couple of weeks, or you're having neurological deficits like weakness or seizures, you should get help from the ER. Does that sound OK?\n\nP: Yeah, for sure I haven't had any any symptoms like that, so so far, so that's good.\n\nD: Yeah for sure. Alright, take care.\n\nP: Take care, thank you"
+        "whisper_chunk": "similar symptoms I think one of the guys last week had a little bit of a cough and I don't know so yeah so he wasn't feeling well Okay okay And have you traveled anywhere recently No been just at home Okay All right So travel",
+        "gt_chunk": "D: similar symptoms?\n\nP: I think one of the guys last week had I had a little bit of a cough. And I don't know that yeah, said he wasn't wasn't feeling well.\n\nD: OK, OK, and have you traveled anywhere recently?\n\nP: No, been been just at home.\n\nD: OK, Alright, no travel"
+    },
+    {
+        "whisper_chunk": "And where do you live right now So I just live in a student house with Are there any old carpets you know reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse It's mostly like",
+        "gt_chunk": "D:  trying to get at. Uh, are there any old carpets you know reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse?\n\nP: It's mostly like"
+    },
+    {
+        "whisper_chunk": "hardwood or like kind of ceramic flooring so there aren't many carpets and things like that So I guess no No okay All right And those were kind of all the questions that I had Did you have anything to add or anything you wanted to discuss today No I was just wondering what might be going on now that it's been a few",
+        "gt_chunk": "P: hardwood or like kind of ceramic flooring so there aren't many carpets and things like that, so I guess no.\n\nD: No. OK, alright and those were kind of all the questions that I had. Did you have anything to add or anything you wanted to discuss today?\n\nP: No, I was just I. wondering what might be going on. It's been a few"
+    },
+    {
+        "whisper_chunk": "days Yeah for sure So it sounds like you may have a viral infection and because your symptoms overlap with those of COVID we will do a COVID swab on you just to rule that out But from the sounds of what your symptoms are it is most likely to be a common cold in which case you can just manage it",
+        "gt_chunk": "P: days.\n\nD: Yeah, for sure uhm so it sounds like you may have a viral infection, and because your symptoms overlap with those of Covid, we will do a Covid swab on you just to rule that out. Uhm, but from the sounds of what your symptoms are, it, it is most likely to be a common cold, in which case you can just manage it"
+    },
+    {
+        "whisper_chunk": "with a lot of hydration nutrition good sleep But if your symptoms get worse or they're not going away after a couple of weeks or you're having neurological deficits like weakness or seizures you should get help from the ER Does that sound okay Yeah for sure I haven't had any symptoms like that so far so that's good Yeah for sure All right Take",
+        "gt_chunk": "D: with a lot of hydration, nutrition, good sleep. But if your symptoms get worse or they're not going away after a couple of weeks, or you're having neurological deficits like weakness or seizures, you should get help from the ER. Does that sound OK?\n\nP: Yeah, for sure I haven't had any any symptoms like that, so so far, so that's good.\n\nD: Yeah for sure. Alright, take"
+    },
+    {
+        "whisper_chunk": "care Take care Thank you Thank you",
+        "gt_chunk": "D: care.\n\nP: Take care, thank you"
     }
 ]

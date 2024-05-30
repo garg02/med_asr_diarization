@@ -1,62 +1,82 @@
 [
     {
-        "whisper_chunk": "would you mind by starting to tell me what brought you in Sure my five year old daughter I noticed that she's been coughing a lot over the past two days She sounds like she has a stuffy nose and now she's got this pink eye so I just wanted to get it checked out by you Yeah for sure So the cough started five days ago Two days ago Two days okay and",
-        "gt_chunk": "D: Would you mind by starting to tell me what brought you in?\n\nP: Sure, my 5 year old daughter, I noticed that she's been coughing a lot over the past two days. She sounds like she has a stuffy nose and now she's got this pink eye so I just wanted to get it checked out by you. \n\nD: Yeah, for sure. So the cough started 5 days ago?\n\nP: Two days ago.\n\nD: OK and"
+        "whisper_chunk": "would you mind by starting to tell me what brought you in Sure my five year old daughter I noticed that she's been coughing a lot over the past two days She sounds like she has a stuffy nose and now she's got this pink eye so I just wanted to get it checked out by you Yeah for sure So",
+        "gt_chunk": "D: Would you mind by starting to tell me what brought you in?\n\nP: Sure, my 5 year old daughter, I noticed that she's been coughing a lot over the past two days. She sounds like she has a stuffy nose and now she's got this pink eye so I just wanted to get it checked out by you. \n\nD: Yeah, for sure. So"
     },
     {
-        "whisper_chunk": "is the cough barky or harsh sounding Yes it sounds harsh Okay was there anything that changed two days ago that might have triggered the cough I don't think so although she does go to daycare Okay and so has she been bringing up any sputum with the cough No no sputum that",
-        "gt_chunk": "D: is the cough barky or harsh sounding?\n\nP: Yes, it sounds harsh.\n\nD: OK, alright was there anything that changed two days ago that might have triggered the cough?\n\nP: I don't think so, although she does go to daycare. \n\nD: OK, uh and so has she been bringing up any sputum with the cough?\n\nP: No, no sputum that"
+        "whisper_chunk": "the cough started five days ago Two days ago Two days okay and is the cough barky or harsh sounding Yes it sounds harsh Okay was there anything that changed two days ago that might have triggered the cough I don't think so although she",
+        "gt_chunk": "D: the cough started 5 days ago?\n\nP: Two days ago.\n\nD: OK and is the cough barky or harsh sounding?\n\nP: Yes, it sounds harsh.\n\nD: OK, alright was there anything that changed two days ago that might have triggered the cough?\n\nP: I don't think so, although she"
     },
     {
-        "whisper_chunk": "I've noticed Okay noticed any blood No All right and is the cough worse at any particular time of day No Okay and has there been any wheezing No not that I noticed Okay and you mentioned the red eyes when did those when did you notice that That was just yesterday Okay any discharge from the eyes No Okay",
-        "gt_chunk": "P: I've noticed.\n\nD: OK, notice any blood?\n\nP: No.\n\nD: Alright, and is the cough worse at any particular time of day?\n\nP: No.\n\nD: OK, and has there been any wheezing?\n\nP: No, not that I noticed.\n\nD: OK. And you mentioned the red eyes. When did you notice that?\n\nP: That was just yesterday.\n\nD: OK, any discharge from the eyes?\n\nP: No. \n\nD: OK"
+        "whisper_chunk": "does go to daycare Okay and so has she been bringing up any sputum with the cough No no sputum that I've noticed Okay noticed any blood No All right and is the cough worse at any particular time of day",
+        "gt_chunk": "P: does go to daycare. \n\nD: OK, uh and so has she been bringing up any sputum with the cough?\n\nP: No, no sputum that I've noticed.\n\nD: OK, notice any blood?\n\nP: No.\n\nD: Alright, and is the cough worse at any particular time of day"
     },
     {
-        "whisper_chunk": "like no tearing or anything like that No Okay and has she complained about any like changes to vision No no All right or any eye pain No Okay and how about any itchiness of her eyes I guess she's been rubbing it and so it's possibly itchy Okay and a runny nose have you noticed",
-        "gt_chunk": "D: like that? No tearing or anything like that?\n\nP: No. \n\nD: OK. Umm and has she complained about any like changes to vision?\n\nP No, not really, just the pain.\n\nD: No. OK, uh, and how about any itchiness in the eyes? \n\nP: She's been rubbing it and so it's possibly itchy. \n\nD: OK. And have you noticed"
+        "whisper_chunk": "No Okay and has there been any wheezing No not that I noticed Okay and you mentioned the red eyes when did those when did you notice that That was just yesterday Okay any discharge from the eyes",
+        "gt_chunk": "P: No.\n\nD: OK, and has there been any wheezing?\n\nP: No, not that I noticed.\n\nD: OK. And you mentioned the red eyes. When did you notice that?\n\nP: That was just yesterday.\n\nD: OK, any discharge from the eyes"
     },
     {
-        "whisper_chunk": "mucus coming out No it's actually stuffy Okay Yeah not so much runny Okay has she mentioned anything about losing smell No no Okay and has she mentioned anything about being congested She just sounds like she's congested Okay",
-        "gt_chunk": "D: mucus coming out?\n\nP: Umm, no, it's actually stuffy. \n\nD: OK\n\nP: Yeah, not so much mucous. \n\nD: OK, has she mentioned anything about losing smell?\n\nP: No.\n\nD: OK, umm and has she mentioned anything about being congested?\n\nP: She just sounds like she's congested.\n\nD: OK"
+        "whisper_chunk": "No Okay like no tearing or anything like that No Okay and has she complained about any like changes to vision No no All right or any eye pain No Okay and",
+        "gt_chunk": "D:  like that? No tearing or anything like that?\n\nP: No. \n\nD: OK. Umm and has she complained about any like changes to vision?\n\nP No, not really, just the pain.\n\nD: No. OK, uh, and"
     },
     {
-        "whisper_chunk": "any sore throat Possibly Okay how has she been eating She's been eating okay I guess she's been eating a little less than usual Okay would you say that she's been going to the bathroom as as often as as normal Yep I would say so no changes there Okay and has she had any loss",
-        "gt_chunk": "D: any sore throat?\n\nP: Umm, possibly. \n\nD: OK, how has she been eating?\n\nP: Um, she's been eating OK. I guess she's been eating alittle less than usual. \n\nD: OK umm, would you say that she's been going to the bathroom as often as normal?\n\nP: Yep, I would say so.\n\nD: No changes there, OK. Um and has she had any loss"
+        "whisper_chunk": "how about any itchiness of her eyes I guess she's been rubbing it and so it's possibly itchy Okay and a runny nose have you noticed mucus coming out No it's actually stuffy Okay Yeah",
+        "gt_chunk": "D: how about any itchiness in the eyes? \n\nP: She's been rubbing it and so it's possibly itchy. \n\nD: OK. And have you noticed any mucus coming out?\n\nP: Umm, no, it's actually stuffy. \n\nD: OK\n\nP: Yeah"
     },
     {
-        "whisper_chunk": "of taste Possibly since she's not eating as much Okay any fevers or and has she been gaining weight She did feel a little bit hot but I didn't take her temperature Okay so hot we will definitely check for fever Any night sweats No Okay and has she been gaining weight okay Yep yep no change nothing abnormal there Okay",
-        "gt_chunk": "D: of taste?\n\nP: Umm, possibly since she's not eating as much. \n\nD: OK. Any fevers or chills?\n\nP: Um, she did feel a little bit hot, but I didn't take her temperature.\n\nD: OK, so hot. We will definitely check for fever today. Any night sweats?\n\nP: Umm, no. \n\nD: OK. And has she been gaining weight OK?\n\nP: Yep, Yep, no change, nothing abnormal there.\n\nD: OK"
+        "whisper_chunk": "not so much runny Okay has she mentioned anything about losing smell No no Okay and has she mentioned anything about being congested She just sounds like she's congested Okay",
+        "gt_chunk": "P: not so much mucous. \n\nD: OK, has she mentioned anything about losing smell?\n\nP: No.\n\nD: OK, umm and has she mentioned anything about being congested?\n\nP: She just sounds like she's congested.\n\nD: OK"
     },
     {
-        "whisper_chunk": "and has she mentioned about having any stomach pains No Okay has she had any nausea or vomiting No no Okay and how about any painful urination No Okay and any diarrhea No Okay and has she mentioned anything",
-        "gt_chunk": "D: and has she been complaining about having any stomach pains?\n\nP: Umm, no. \n\nD: OK, has she had any nausea or vomiting? \n\nP: Um no no.\n\nD: OK, and how about any painful urination?\n\nP: No. \n\nD: OK, and any diarrhea?\\\n\nP: Umm, no.\n\nD: OK, and has she mentioned anything"
+        "whisper_chunk": "any sore throat Possibly Okay how has she been eating She's been eating okay I guess she's been eating a little less than usual Okay would you say that she's been going to the bathroom as as often",
+        "gt_chunk": "D: any sore throat?\n\nP: Umm, possibly. \n\nD: OK, how has she been eating?\n\nP: Um, she's been eating OK. I guess she's been eating alittle less than usual. \n\nD: OK umm, would you say that she's been going to the bathroom as often"
     },
     {
-        "whisper_chunk": "about and how about any like aches or pains anywhere No I don't think so Have you noticed any rashes No Okay and has she been diagnosed with any conditions before Nope Okay any reason for her to be",
-        "gt_chunk": "D: . And how about any aches or pains anywhere?\n\nP: Uh, no, I don't think so.\n\nD: Have you noticed any rashes? \n\nP: No.\n\nD: OK, and has she been diagnosed with any conditions before?\n\nP: No.\n\nD: OK. And any reason for her to be"
+        "whisper_chunk": "as as normal Yep I would say so no changes there Okay and has she had any loss of taste Possibly since she's not eating as much Okay any fevers",
+        "gt_chunk": "D:  as normal?\n\nP: Yep, I would say so.\n\nD: No changes there, OK. Um and has she had any loss of taste?\n\nP: Umm, possibly since she's not eating as much. \n\nD: OK. Any fevers"
     },
     {
-        "whisper_chunk": "hospitalized No Okay does she take any medications regularly No Okay does she have any allergies to medications No All right any surgeries before No Any concerns with her growth or development No everything's been pretty normal Okay any concerns about her vision or hearing No Okay and",
-        "gt_chunk": "D: hospitalized?\n\nP: Uh, no. \n\nD: OK, um does she take any medications regularly?\n\nP: Um, no. \n\nD: OK, does she have any allergies to medications? \n\nP: Umm, no. \n\nD: Alright, any surgeries before? \n\nP: Umm, no.\n\nD: Any concerns with her growth or development?\n\nP: Umm, no, everything's been pretty normal.\n\nD: OK, and any concerns about her vision or hearing? \n\nP: No. \n\nD: OK. And"
+        "whisper_chunk": "or and has she been gaining weight She did feel a little bit hot but I didn't take her temperature Okay so hot we will definitely check for fever Any night sweats No Okay and has she been gaining weight okay Yep yep no change nothing abnormal",
+        "gt_chunk": "P: , she did feel a little bit hot, but I didn't take her temperature.\n\nD: OK, so hot. We will definitely check for fever today. Any night sweats?\n\nP: Umm, no. \n\nD: OK. And has she been gaining weight OK?\n\nP: Yep, Yep, no change, nothing abnormal"
     },
     {
-        "whisper_chunk": "can you tell me a little bit about the living situation currently Are you the primary caregiver I am Okay and who else is in the home Her father Okay are there any pets around No All right and does anybody in the house smoke No no one smokes Okay any exposures in the house to like carpets or like gusts or inhalants that might bring on a cough No",
-        "gt_chunk": "D:  you tell me a little bit about the living situation currently? Are you the primary caregiver?\n\nP: I am.\n\nD: OK, and who else is in the home?\n\nP: Her father. \n\nD: OK, are there any pets around?\n\nP: No. \n\nD: Alright. And does anybody in the house smoke?\n\nP: No, no one smokes. \n\nD: OK, any exposures in the house to like carpets or dust or inhalants that might bring on a cough?\n\nP: No"
+        "whisper_chunk": "there Okay and has she mentioned about having any stomach pains No Okay has she had any nausea or vomiting No no Okay and how about any painful urination No Okay and any diarrhea",
+        "gt_chunk": "P: there.\n\nD: OK, and has she been complaining about having any stomach pains?\n\nP: Umm, no. \n\nD: OK, has she had any nausea or vomiting? \n\nP: Um no no.\n\nD: OK, and how about any painful urination?\n\nP: No. \n\nD: OK, and any diarrhea"
     },
     {
-        "whisper_chunk": "Okay and anybody in the family been sick Nope Okay and how about anybody you mentioned at the daycare Has anybody been sick there No I don't think so I contacted them and checked but it seems like no one's been sick Okay and you haven't traveled anywhere No not recently Okay and any lung",
-        "gt_chunk": "D:  and uhh anybody in the family been sick?\n\nP: No. \n\nD: OK, and how about anybody you mentioned at the daycare? Was anybody been sick there?\n\nP: No, I don't think so. I contacted them and checked, but it seems like no one's been sick. \n\nD: OK, and you say you haven't traveled anywhere?\n\nP: Oh no, no, not recently. \n\nD: OK. And any lung"
+        "whisper_chunk": "No Okay and has she mentioned anything about and how about any like aches or pains anywhere No I don't think so Have you noticed any rashes",
+        "gt_chunk": "P: no.\n\nD: OK, and has she mentioned anything about headaches?\n\nP: No. \n\nD: OK. And how about any aches or pains anywhere?\n\nP: Uh, no, I don't think so.\n\nD: Have you noticed any rashes"
     },
     {
-        "whisper_chunk": "conditions or heart conditions that run in the family No Okay and how about any genetic conditions or congenital conditions in the family No none that I know of Okay so the main symptoms the cough started two days ago and also you've noticed she's been congested and sorry what was the last symptom She's been congested",
-        "gt_chunk": "D: conditions or heart conditions that run in the family?\n\nP: No.\n\nD: OK, and how about any genetic conditions or congenital conditions in the family?\n\nP: No, none, none that I know of.\n\nD: OK, so the main symptoms are the cough that started two days ago and also you've noticed she's been congested. And sorry, what was the last symptom?\n\nP: She"
+        "whisper_chunk": "No Okay and has she been diagnosed with any conditions before Nope Okay any reason for her to be hospitalized No Okay does she take any medications regularly",
+        "gt_chunk": "P: No.\n\nD: OK, and has she been diagnosed with any conditions before?\n\nP: No.\n\nD: OK. And any reason for her to be hospitalized?\n\nP: Uh, no. \n\nD: OK, um does she take any medications regularly"
     },
     {
-        "whisper_chunk": "she has this pink eye and she has a rectivitis Okay so at this point we will certainly run some investigations to look into what this could be It sounds like a viral infectious type of process especially if it's involving the eyes nose and with a cough So we will test for COVID for sure but it could",
-        "gt_chunk": "P: She has this pink eye and she has a cough.\n\nD: Yeah, right, that could be conjunctivitis. OK, so at this point we will certainly run some investigations to look into what this could be. It sounds like a viral infectious type of process, especially if it's involving the eyes, nose, and and with a cough. And so we will test with a swab for covid for sure. But it could"
+        "whisper_chunk": "No Okay does she have any allergies to medications No All right any surgeries before No Any concerns with her growth or development No everything's been pretty normal Okay any concerns about her vision or hearing",
+        "gt_chunk": "P: no. \n\nD: OK, does she have any allergies to medications? \n\nP: Umm, no. \n\nD: Alright, any surgeries before? \n\nP: Umm, no.\n\nD: Any concerns with her growth or development?\n\nP: Umm, no, everything's been pretty normal.\n\nD: OK, and any concerns about her vision or hearing"
     },
     {
-        "whisper_chunk": "be something more common like the common cold We just need to make sure that we're comprehensive with the testing That sounds great thank you",
-        "gt_chunk": "D: be something more common, like the common cold. We just need to make sure that we're comprehensive in that with the testing.\n\nP: That sounds great, thank you"
+        "whisper_chunk": "No Okay and can you tell me a little bit about the living situation currently Are you the primary caregiver I am Okay and who else is in the home Her father Okay are there any pets around No All right and does anybody in the house smoke",
+        "gt_chunk": "P: No. \n\nD: OK. And can tell you tell me a little bit about the living situation currently? Are you the primary caregiver?\n\nP: I am.\n\nD: OK, and who else is in the home?\n\nP: Her father. \n\nD: OK, are there any pets around?\n\nP: No. \n\nD: Alright. And does anybody in the house smoke"
+    },
+    {
+        "whisper_chunk": "No no one smokes Okay any exposures in the house to like carpets or like gusts or inhalants that might bring on a cough No Okay and anybody in the family been sick Nope Okay and how about anybody you mentioned at the",
+        "gt_chunk": "P: No, no one smokes. \n\nD: OK, any exposures in the house to like carpets or dust or inhalants that might bring on a cough?\n\nP: No. \n\nD: OK. Ummm and uhh anybody in the family been sick?\n\nP: No. \n\nD: OK, and how about anybody you mentioned at the"
+    },
+    {
+        "whisper_chunk": "daycare Has anybody been sick there No I don't think so I contacted them and checked but it seems like no one's been sick Okay and you haven't traveled anywhere No not recently Okay and any lung conditions or heart conditions that run in the family",
+        "gt_chunk": "D: daycare? Was anybody been sick there?\n\nP: No, I don't think so. I contacted them and checked, but it seems like no one's been sick. \n\nD: OK, and you say you haven't traveled anywhere?\n\nP: Oh no, no, not recently. \n\nD: OK. And any lung conditions or heart conditions that run in the family"
+    },
+    {
+        "whisper_chunk": "No Okay and how about any genetic conditions or congenital conditions in the family No none that I know of Okay so the main symptoms the cough started two days ago and also you've noticed she's been congested and sorry what was the last symptom",
+        "gt_chunk": "P: No.\n\nD: OK, and how about any genetic conditions or congenital conditions in the family?\n\nP: No, none, none that I know of.\n\nD: OK, so the main symptoms are the cough that started two days ago and also you've noticed she's been congested. And sorry, what was the last symptom"
+    },
+    {
+        "whisper_chunk": "She's been congested she has this pink eye and she has a rectivitis Okay so at this point we will certainly run some investigations to look into what this could be It sounds like a viral infectious type of process especially if it's involving the eyes nose and with a cough So we",
+        "gt_chunk": "P: She has this pink eye and she has a cough.\n\nD: Yeah, right, that could be conjunctivitis. OK, so at this point we will certainly run some investigations to look into what this could be. It sounds like a viral infectious type of process, especially if it's involving the eyes, nose, and and with a cough. And so we"
+    },
+    {
+        "whisper_chunk": "will test for COVID for sure but it could be something more common like the common cold We just need to make sure that we're comprehensive with the testing That sounds great thank you",
+        "gt_chunk": "D:  for covid for sure. But it could be something more common, like the common cold. We just need to make sure that we're comprehensive in that with the testing.\n\nP: That sounds great, thank you"
     }
 ]

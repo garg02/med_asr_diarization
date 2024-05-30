@@ -1,70 +1,82 @@
 [
     {
-        "whisper_chunk": "can I do for you today Hi yeah so I just brought my son to the ER We've noticed in the last two days he's been just making these grunting noises and it just seems a little bit like just not himself just more quiet not really crying Okay and when did you you said last few days when exactly did you first notice the grunting How long has it been Oh sorry two days Yeah Okay two days ago",
-        "gt_chunk": "D: can I do for you today?\n\nP: Hi, yes, I just brought my son to the ER. We've noticed in the last two days he's been just making these grunting noises and just seems a little bit like just not himself, just more quiet. Not really crying.\n\nD: OK, and when did you, you said last few days, when when exactly did you first notice the grunting? How long?\n\nP: It was two days ago.\n\nD: OK, two days ago"
+        "whisper_chunk": "can I do for you today Hi yeah so I just brought my son to the ER We've noticed in the last two days he's been just making these grunting noises and it just seems a little bit like just not himself just more quiet not really crying Okay and when did you you said last few days when exactly did you first notice the grunting",
+        "gt_chunk": "D: can I do for you today?\n\nP: Hi, yes, I just brought my son to the ER. We've noticed in the last two days he's been just making these grunting noises and just seems a little bit like just not himself, just more quiet. Not really crying.\n\nD: OK, and when did you, you said last few days, when when exactly did you first notice the grunting"
     },
     {
-        "whisper_chunk": "Was it when do you hear this sound when your baby's trying to breathe Yeah today I was trying to pay more attention It seems like that like just really trying to breathe more and also like like the chest I see moving a lot more Okay and so you've been hearing this grunting sound and he's been trying to breathe",
-        "gt_chunk": "D: Was it when, did you hear this sound when your baby is trying to breathe?\n\nP: Yeah, today I was trying to pay more attention. It seems like that like this really trying to breathe more. And also I like he's like the chest I see moving a lot more.\n\nD: OK. And so you've been hearing this grunting sound, and he's been trying to breathe"
+        "whisper_chunk": "How long has it been Oh sorry two days Yeah Okay two days ago Was it when do you hear this sound when your baby's trying to breathe Yeah today I was trying to pay more attention It seems like that like just really trying to breathe more and also like like the chest I see moving a lot more",
+        "gt_chunk": "D: How long?\n\nP: It was two days ago.\n\nD: OK, two days ago. Was it when, did you hear this sound when your baby is trying to breathe?\n\nP: Yeah, today I was trying to pay more attention. It seems like that like this really trying to breathe more. And also I like he's like the chest I see moving a lot more"
     },
     {
-        "whisper_chunk": "and you see that his chest is moving more than usual and he's crying Has he been sleeping well or no Yeah so last night it was really hard to get him to sleep He did sleep I would say like around like four hours last night but it was really difficult And what about feeding Does he take a formula or is he breastfed So he takes formula and today like yesterday he was feeding today it's been really hard to get",
-        "gt_chunk": "D: And you see that his chest is moving more than usual and he's crying. Has he been sleeping well or no?\n\nP: Uh yeah, so last night it was really hard to get him to sleep. He did sleep, I would say like around like 4 hours last night, but it was really difficult.\n\nD: And what about feeding? Does he take a formula or is he breastfed?\n\nP: So he's, uh, he takes formula and today it like yesterday he was feeding. Today it's been really hard to get"
+        "whisper_chunk": "Okay and so you've been hearing this grunting sound and he's been trying to breathe and you see that his chest is moving more than usual and he's crying Has he been sleeping well or no Yeah so last night it was really hard to get him to sleep He did sleep I would say",
+        "gt_chunk": "D: OK. And so you've been hearing this grunting sound, and he's been trying to breathe. And you see that his chest is moving more than usual and he's crying. Has he been sleeping well or no?\n\nP: Uh yeah, so last night it was really hard to get him to sleep. He did sleep, I would say"
     },
     {
-        "whisper_chunk": "him to feed Maybe he fed for like one or two times but not much What happens when you try to feed him Kind of just after a really yeah not really too excited about feeding Okay and what about diapers How many wet diapers has he had over the past or yesterday and today Probably around the same like he usually has",
-        "gt_chunk": "P: him to feed. Maybe he fed for like one or two times, but not much.\n\nD: It happens when you try to feed him?\n\nP: Uhm, Kind of just uh after awhile, just pushes it away, not really, uhm, yeah, uhm not really too excited about feeding.\n\nD: OK, and what about diapers? How many wet diapers has he had over the past, or yesterday and today? \n\nP: Probably around the same like usually has"
+        "whisper_chunk": "like around like four hours last night but it was really difficult And what about feeding Does he take a formula or is he breastfed So he takes formula and today like yesterday he was feeding today it's been really hard to get him to feed Maybe he fed for like one or two times but not much What happens when you try to feed him Kind of just",
+        "gt_chunk": "P: like around like 4 hours last night, but it was really difficult.\n\nD: And what about feeding? Does he take a formula or is he breastfed?\n\nP: So he's, uh, he takes formula and today it like yesterday he was feeding. Today it's been really hard to get him to feed. Maybe he fed for like one or two times, but not much.\n\nD: It happens when you try to feed him?\n\nP: Uhm, Kind of just"
     },
     {
-        "whisper_chunk": "like five to six wet diapers and it's around the same Okay and did you try anything I know that he's six months old did you try feeding him anything new or anything different No it's just been the same",
-        "gt_chunk": "P: like five to six weight diapers and it's around the same.\n\nD: OK. OK. Uhm and did you try anything? I know that he's six months old. Did you try feeding him anything new or anything different?\n\nP: Uh, no, it's just been the"
+        "whisper_chunk": "after a really yeah not really too excited about feeding Okay and what about diapers How many wet diapers has he had over the past or yesterday and today Probably around the same like he usually has like five to six wet diapers and it's around the same Okay",
+        "gt_chunk": "P:  really, uhm, yeah, uhm not really too excited about feeding.\n\nD: OK, and what about diapers? How many wet diapers has he had over the past, or yesterday and today? \n\nP: Probably around the same like usually has like five to six weight diapers and it's around the same.\n\nD: OK"
     },
     {
-        "whisper_chunk": "And in terms of his activities you mentioned that he's not as he's not moving as active as he usually is Yeah not as active and today I also thought I felt that he was a bit warm warmer than usual but I didn't have a thermometer at home Okay have you noticed",
-        "gt_chunk": "D: And uh in terms of his activities, you mentioned that he's not as he's not moving and, as active as he usually is?\n\nP: Yeah, today I also thought I felt that it was a bit warm, warmer than usual, but I didn't have a thermometer at home.\n\nD: OK. Uhm have you noticed"
+        "whisper_chunk": "and did you try anything I know that he's six months old did you try feeding him anything new or anything different No it's just been the same And",
+        "gt_chunk": "D: and did you try anything? I know that he's six months old. Did you try feeding him anything new or anything different?\n\nP: Uh, no, it's just been the"
     },
     {
-        "whisper_chunk": "has he been drooling at all Sorry is he able to sit up on his own Up against like a sofa or a chair",
-        "gt_chunk": "D: has he been drooling at all?\n\nP: Drooling?\n\nD: Mhmm.\n\nP: No, I haven't noticed that.\n\nD: OK. What"
+        "whisper_chunk": "in terms of his activities you mentioned that he's not as he's not moving as active as he usually is Yeah not as active and today I also thought I felt that he was a bit warm warmer than usual but I didn't have a thermometer at home Okay have you noticed has he been drooling",
+        "gt_chunk": "D: in terms of his activities, you mentioned that he's not as he's not moving and, as active as he usually is?\n\nP: Yeah, today I also thought I felt that it was a bit warm, warmer than usual, but I didn't have a thermometer at home.\n\nD: OK. Uhm have you noticed, has he been drooling"
     },
     {
-        "whisper_chunk": "not really on his own Has he been left alone over the past two days at some point Do you feel like he might have taken something in his mouth Like I was there with him like all the time Okay how has his immunizations been so far Has he received them Yeah he's received all his immunizations up to date Was he vaccinated any time recently",
-        "gt_chunk": "P: not really on his own.\n\nD: Have you ever been has been left alone over the past two days at some point? Do you feel like you might have taken something in his mouth accidentally?\n\nP: Uhm no I I tried checking his mouth like I was there with him like all all the time.\n\nD: No, OK nothing like that? OK, how has his immunizations been so far? Has he as he received them?\n\nP: Yeah, he's received all his immunizations, up to date.\n\nD: Uhm, did he have, it has he was vaccinated anytime recently"
+        "whisper_chunk": "at all Sorry is he able to sit up on his own Up against like",
+        "gt_chunk": "D:  have you noticed, has he been drooling at all?\n\nP: Drooling?\n\nD: Mhmm.\n\nP: No, I haven't noticed"
     },
     {
-        "whisper_chunk": "Because it can cause a reaction Yeah no he was vaccinated like I think more than two or three weeks ago Okay All right And you said no diarrhea or anything like that right No Okay Does he have any nausea Or not nausea but is he vomiting Is he bringing anything up No not really Like he was just pushing away the bottle but like didn't bring anything",
-        "gt_chunk": "D:  can cause a reaction.\n\nP: Yeah, no. He was vaccinated like I think more than two or three weeks ago.\n\nD: OK, alright. And you said no diarrhea or anything like that, right?\n\nP: No.\n\nD: OK, any, is he does he have any nausea or not nausea but is he vomiting? Is he bringing anything up?\n\nP: No, not really. Like he was just pushing away the bottle. But like he didn't bring anything"
+        "whisper_chunk": "a sofa or a chair not really on his own Has he been left alone over the past two days at some point Do you feel like he might have taken something in his mouth Like I was there with him like all the time Okay how has his immunizations been so far Has he received them Yeah he's received all his immunizations up to",
+        "gt_chunk": "P: a sofa or chair, but not really on his own.\n\nD: Have you ever been has been left alone over the past two days at some point? Do you feel like you might have taken something in his mouth accidentally?\n\nP: Uhm no I I tried checking his mouth like I was there with him like all all the time.\n\nD: No, OK nothing like that? OK, how has his immunizations been so far? Has he as he received them?\n\nP: Yeah, he's received all his immunizations, up to"
     },
     {
-        "whisper_chunk": "up Okay Has he been limp and lethargic No I don't think so Okay He said that he hasn't had his formula much But what about drinking Like has he had anything to drink Any milk or anything like that Or no No I don't think he's had anything to drink in the past or today He might be a little bit dehydrated Yeah Okay",
-        "gt_chunk": "P: up.\n\nD: OK. Has he been limp and lethargic?\n\nP: Uhm no, I don't think so.\n\nD: OK, has you said that he hasn't had his formula much? But what about drinking? Like has he had anything to drink? Any milk or anything like that, or no?\n\nP: No, I don't think so. \n\nD: No, she hasn't had much to eat and or drink over the past or today?\n\nP: Yeah mostly.\n\nD: So he might be a little bit dehydrated. \n\nP: Yeah. \n\nD: OK"
+        "whisper_chunk": "date Was he vaccinated any time recently Because it can cause a reaction Yeah no he was vaccinated like I think more than two or three weeks ago Okay All right And you said no diarrhea or anything like that right No",
+        "gt_chunk": "D:  vaccinated can cause a reaction.\n\nP: Yeah, no. He was vaccinated like I think more than two or three weeks ago.\n\nD: OK, alright. And you said no diarrhea or anything like that, right?\n\nP: No"
     },
     {
-        "whisper_chunk": "Okay well okay so that's all I wanted to know In terms of his current status I would obviously want to examine him very closely to see what's going on How has he been like just going back how was your pregnancy Pregnancy was okay no complications but he was premature by two weeks So I think he was born",
-        "gt_chunk": "D: OK, so that's all I wanted to do know in terms of his current status, I would obviously want to examine him very carefully and see what's going on. Uhm, how has uh, how is he like just going back, how was your pregnancy?\n\nP: Pregnancy was uh, OK, no complications, but he was premature by two weeks, so I think he was born"
+        "whisper_chunk": "Okay Does he have any nausea Or not nausea but is he vomiting Is he bringing anything up No not really Like he was just pushing away the bottle but like didn't bring anything up Okay Has he been limp and lethargic No I don't think so Okay He said that he hasn't had his formula much But what",
+        "gt_chunk": "D:  does he have any nausea or not nausea but is he vomiting? Is he bringing anything up?\n\nP: No, not really. Like he was just pushing away the bottle. But like he didn't bring anything up.\n\nD: OK. Has he been limp and lethargic?\n\nP: Uhm no, I don't think so.\n\nD: OK, has you said that he hasn't had his formula much? But what"
     },
     {
-        "whisper_chunk": "at 35 and four days Okay And were there any complications at that time including complications related to the lungs something like respiratory distress syndrome Yeah so when he was born there was they needed to do I forgot what it was but they told me that initially he wasn't breathing",
-        "gt_chunk": "P: at 35 and four days.\n\nD: OK, and were there any complications at that time, including complications related to the lung, something like respiratory distress syndrome? \n\nP: Yeah, so when he was born there was they needed to do, I forgot what it was, but they told me that initially he wasn't breathing"
+        "whisper_chunk": "about drinking Like has he had anything to drink Any milk or anything like that Or no No I don't think he's had anything to drink in the past or today He might be a little bit dehydrated Yeah Okay Okay well",
+        "gt_chunk": "D: about drinking? Like has he had anything to drink? Any milk or anything like that, or no?\n\nP: No, I don't think so. \n\nD: No, she hasn't had much to eat and or drink over the past or today?\n\nP: Yeah mostly.\n\nD: So he might be a little bit dehydrated. \n\nP: Yeah. \n\nD: OK. Uhm, OK, well"
     },
     {
-        "whisper_chunk": "But then right hospital in the NICU after being born Yeah just because of that scare they kept him for three more days But like he was growing while there were no more episodes of the breathing issues So they let him go",
-        "gt_chunk": "D:  the hospital in the NICU after being born?\n\nP: Yeah, just because of that scare, they kept him for three more days, but like he was growing while there were no more episodes of the breathing issue, so they let him go"
+        "whisper_chunk": "okay so that's all I wanted to know In terms of his current status I would obviously want to examine him very closely to see what's going on How has he been like just going back how was your pregnancy Pregnancy was okay no complications but he was premature by two weeks So",
+        "gt_chunk": "D: , so that's all I wanted to do know in terms of his current status, I would obviously want to examine him very carefully and see what's going on. Uhm, how has uh, how is he like just going back, how was your pregnancy?\n\nP: Pregnancy was uh, OK, no complications, but he was premature by two weeks, so"
     },
     {
-        "whisper_chunk": "after Okay Has how has he been since then over the past six months Since then he's been fine No we didn't have to go to the hospital or anything And during our routine visits he's been growing well No no issues Any issues because development No he's been pretty like he's been meeting his",
-        "gt_chunk": "P: after. \n\nD: OK. Uhm, has, how has he been since then over the past six months?\n\nP: Since then, he's been fine. No, we didn't have to go to the hospital or anything, and during our routine visits he's been growing well, no normal issues.\n\nD: Any issues because development?\n\nP: No, he's been pretty, like he's been meeting his"
+        "whisper_chunk": "I think he was born at 35 and four days Okay And were there any complications at that time including complications related to the lungs something like respiratory distress syndrome Yeah so when he was born there was they needed to do I forgot what it was but they told me that initially he wasn't breathing",
+        "gt_chunk": "P: I think he was born at 35 and four days.\n\nD: OK, and were there any complications at that time, including complications related to the lung, something like respiratory distress syndrome? \n\nP: Yeah, so when he was born there was they needed to do, I forgot what it was, but they told me that initially he wasn't breathing"
     },
     {
-        "whisper_chunk": "diagnoses right He hasn't been diagnosed with any condition No All right Can you tell me about allergies Is he allergic to anything that you're aware of No not that I know of Okay Is there can you tell me about his family history Anything that you know of Anyone else in the family No him his dad and I are pretty healthy No medical conditions Anything like cystic fibrosis in",
-        "gt_chunk": "D: diagnosis, right? He hasn't been diagnosed with any condition?\n\nP: No.\n\nD: Alright. Can you tell me about allergies? Is he allergic to anything that you're aware of?\n\nP: No, not that I know.\n\nD: OK, is there uh, can you tell me about his family history? Anything that you might have or uhm his dad or anyone else in the family?\n\nP: Uh, no, him, his dad and I are pretty healthy, yeah. No medical conditions.\n\nD: Anything like cystic fibrosis in"
+        "whisper_chunk": "But then right hospital in the NICU after being born Yeah just because of that scare they kept him for three more days But like he was growing while there were no more episodes of the breathing issues So they let him go after Okay Has",
+        "gt_chunk": "D:  the hospital in the NICU after being born?\n\nP: Yeah, just because of that scare, they kept him for three more days, but like he was growing while there were no more episodes of the breathing issue, so they let him go after. \n\nD: OK."
     },
     {
-        "whisper_chunk": "the mouth And that's this sounds serious So we'll keep you we'll keep you updated And we'll let you know what needs to be done He might",
-        "gt_chunk": "D:  mouth and that's this sounds serious, so we'll keep you, we'll keep you updated and we'll let you know what needs to"
+        "whisper_chunk": "how has he been since then over the past six months Since then he's been fine No we didn't have to go to the hospital or anything And during our routine visits he's been growing well No no issues Any issues because development No he's been pretty like he's been meeting",
+        "gt_chunk": "D: how has he been since then over the past six months?\n\nP: Since then, he's been fine. No, we didn't have to go to the hospital or anything, and during our routine visits he's been growing well, no normal issues.\n\nD: Any issues because development?\n\nP: No, he's been pretty, like he's been meeting"
     },
     {
-        "whisper_chunk": "need potentially need antibiotics he might need potentially to be intubated but we'll have all these discussions after the baby's been seen And we'll draw some labs and go from there Okay sounds good Okay Thank you",
-        "gt_chunk": "D: need, potentially need antibiotics. He might need potentially, to be intubated, but we will have all these discussions after the baby's been seen and we'll draw some labs and go from there.\n\nP: OK, sounds good.\n\nD: Alright.\n\nP: Thank you"
+        "whisper_chunk": "his diagnoses right He hasn't been diagnosed with any condition No All right Can you tell me about allergies Is he allergic to anything that you're aware of No not that I know of Okay Is there can you tell me about his family history Anything that you know of Anyone else in the family",
+        "gt_chunk": "D:  diagnosis, right? He hasn't been diagnosed with any condition?\n\nP: No.\n\nD: Alright. Can you tell me about allergies? Is he allergic to anything that you're aware of?\n\nP: No, not that I know.\n\nD: OK, is there uh, can you tell me about his family history? Anything that you might have or uhm his dad or anyone else in the family"
+    },
+    {
+        "whisper_chunk": "No him his dad and I are pretty healthy No medical conditions Anything like cystic fibrosis in the mouth And",
+        "gt_chunk": "P: no, him, his dad and I are pretty healthy, yeah. No medical conditions.\n\nD: Anything like cystic fibrosis in the"
+    },
+    {
+        "whisper_chunk": "that's this sounds serious So we'll keep you we'll keep you updated And we'll let you know what needs to be done He might need potentially need antibiotics he might need potentially to be intubated but we'll have all these discussions after the baby's been seen And we'll draw some labs and go from there",
+        "gt_chunk": "D: that's this sounds serious, so we'll keep you, we'll keep you updated and we'll let you know what needs to be done. He might need, potentially need antibiotics. He might need potentially, to be intubated, but we will have all these discussions after the baby's been seen and we'll draw some labs and go from there"
+    },
+    {
+        "whisper_chunk": "Okay sounds good Okay Thank you",
+        "gt_chunk": "P: OK, sounds good.\n\nD: Alright.\n\nP: Thank you"
     }
 ]
